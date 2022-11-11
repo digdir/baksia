@@ -1,6 +1,6 @@
 title = 'MinID'
 
-#baseURL = 'http://minid.digdir.no/'
+baseURL = '/'
 languageCode = 'no'
 
 theme = 'digdir-hugo-theme'
