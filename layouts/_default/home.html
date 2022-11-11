@@ -1,15 +1,43 @@
 {{ define "main" }}
 
-    <div class="page__home">
+<div class="page__home">
+    <div class="component">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h1>{{ .Title }}</h1>
+            <div class="row gy-3">
+                <div class="col-lg-6">
+                    <div class="navigation-card">
+                        <a class="navigation-card__link" href="#">
+                            <div class="navigation-card__img-container">
+                                <img src="/icons/Publisering.png"/>
+                            </div>
+                            <h2 class="navigation-card__title">
+                                Bli MinID bruker
+                            </h2>
+                            <p class="navigation-card__desc">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui hic, amet, ex eligendi architecto similique obcaecati quas deleniti.
+                            </p>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="navigation-card">
+                        <a class="navigation-card__link" href="#">
+                            <div class="navigation-card__img-container">
+                                <img src="/icons/Telefon.png"/>
+                            </div>
+                            <h2 class="navigation-card__title">
+                                 MinID på mobil
+                            </h2>
+                            <p class="navigation-card__desc">
+                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae, numquam impedit sed optio doloremque omnis reiciendis.
+                            </p>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
-
-
     </div>
+</div>
 
 {{ end }}
