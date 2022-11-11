@@ -2,7 +2,7 @@
 
 ## Running site locally
 
-Requirements: Git, Hugo 
+Requirements: [Hugo](https://gohugo.io/) 
 
 1. Clone repo: `git clone https://github.com/felleslosninger/minid.digdir.no.git`
 2. Navigate to folder and run Hugo:
