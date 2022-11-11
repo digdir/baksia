@@ -19,6 +19,7 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+          
       - run: npm install
         
       - name: Build
