@@ -1,0 +1,15 @@
+title = 'MinID'
+
+baseURL = 'http://minid.digdir.no/'
+languageCode = 'no'
+
+theme = 'digdir-hugo-theme'
+
+[imaging]
+  anchor = 'Smart'
+  hint = 'photo'
+  quality = 80
+  resampleFilter = 'MitchellNetravali'
+
+[params]
+    logo = '/images/logo-minid.svg'

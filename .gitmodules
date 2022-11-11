@@ -1,0 +1,3 @@
+[submodule "themes/digdir-hugo-theme"]
+	path = themes/digdir-hugo-theme
+	url = https://github.com/felleslosninger/digdir-hugo-theme
