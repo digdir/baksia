@@ -1,6 +1,19 @@
 {{ define "main" }}
 
 <div class="page__home">
+    
+    <div class="component component--primary">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg">
+                    <h1>Bli en digital borger</h1>
+                    <p>Opprett din personlige, digitale identitet og ta i bruk digitale tjenester fra det offentlige.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="component">
         <div class="container">
             <div class="row gy-3">
@@ -8,29 +21,28 @@
                     <div class="navigation-card">
                         <a class="navigation-card__link" href="#">
                             <div class="navigation-card__img-container">
-                                <img src="/icons/Publisering.png"/>
+                                <img src="/icons/App.png" />
                             </div>
                             <h2 class="navigation-card__title">
-                                Bli MinID bruker
+                                MinID på mobil
                             </h2>
                             <p class="navigation-card__desc">
-                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui hic, amet, ex eligendi architecto similique obcaecati quas deleniti.
+                                Last ned appen og ta i bruk MinID på mobil.
                             </p>
                         </a>
                     </div>
                 </div>
-
                 <div class="col-lg-6">
                     <div class="navigation-card">
                         <a class="navigation-card__link" href="#">
                             <div class="navigation-card__img-container">
-                                <img src="/icons/Telefon.png"/>
+                                <img src="/icons/Publisering.png" />
                             </div>
                             <h2 class="navigation-card__title">
-                                 MinID på mobil
+                                Registrer deg
                             </h2>
                             <p class="navigation-card__desc">
-                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae, numquam impedit sed optio doloremque omnis reiciendis.
+                                Følg veilederen for å opprette MinID bruker.
                             </p>
                         </a>
                     </div>
@@ -38,6 +50,30 @@
             </div>
         </div>
     </div>
+
+    <div class="component">
+        <div class="container">
+            <div class="row gy-3">
+                <div class="col-lg-6">
+                    <h2>
+                        Hva er en elektronisk identitet?
+                    </h2>
+                    <p>Om du skal få utført tjenester fra stat og kommune digitalt, må du ha en elektronisk ID for å
+                        kunne logge deg inn. Denne bekrefter at du er den du utgir deg for å være. MinID er en personlig
+                        elektronisk ID som gir tilgang til offentlige tjenester.</p>
+                    <div class="mt-5">
+                        <a href="#" class="button button--primary">
+                            Les mer
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    {{ partial "components/image.html" (dict "context" . "image_input" "/illustrations/illustration-01.jpg") }}
+                </div>
+            </div>
+        </div>
+    </div>
+
 </div>
 
 {{ end }}
