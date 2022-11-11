@@ -13,3 +13,5 @@ theme = 'digdir-hugo-theme'
 
 [params]
     logo = '/images/logo-minid.svg'
+
+disableKinds = ["taxonomy","taxonomyTerm"]
