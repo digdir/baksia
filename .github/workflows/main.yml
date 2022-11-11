@@ -19,14 +19,14 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
-          
+
       - run: npm install
         
       - name: Build
         run: hugo -F --minify
         
-      - name: CNAME
-        run: cp CNAME public/
+      #- name: CNAME
+      #  run: cp CNAME public/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
