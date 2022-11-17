@@ -1,0 +1,15 @@
+- id: menu
+  translation: "Menu"
+
+- id: kom-i-gang
+  translation: "Get started"
+- id: les-mer
+  translation: "Read more"
+- id: utdanning
+  translation: "Education"
+- id: elektronisk-signatur
+  translation: "Electronic signature"
+- id: digital-postkasse
+  translation: "Digital mailbox"
+- id: sikkerhet
+  translation: "Security"

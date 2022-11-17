@@ -1,9 +1,12 @@
+disableKinds = ["taxonomy","taxonomyTerm"]
+
 title = 'MinID'
 
 baseURL = '/'
-languageCode = 'no'
-
+languageCode = 'nb'
 theme = 'digdir-hugo-theme'
+
+defaultContentLanguage = 'no'
 
 [imaging]
   anchor = 'Smart'
@@ -11,7 +14,15 @@ theme = 'digdir-hugo-theme'
   quality = 80
   resampleFilter = 'MitchellNetravali'
 
+[languages]
+  [languages.no]
+    languageName = "Norsk"
+    weight = 1
+    other = "Norsk"
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    other = "English"
+
 [params]
     logo = '/images/logo-minid.svg'
-
-disableKinds = ["taxonomy","taxonomyTerm"]
