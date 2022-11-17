@@ -18,34 +18,22 @@
 <div class="component">
     <div class="container">
         <div class="row">
-            <div class="col-lg-4">
-                <div class="navigation-card">
-                    <a class="navigation-card__link navigation-card__link--small" href="#">
-                        <div class="navigation-card__img-container navigation-card__img-container--small">
-                            <img src="/icons/Publisering.png" />
-                        </div>
-                        <h3 class="navigation-card__title navigation-card__title--small">
-                            Registrer deg
-                        </h3>
-                        <p class="navigation-card__desc navigation-card__desc--small">
-                            Følg veilederen for å opprette MinID bruker
-                        </p>
+            <div class="col-lg">
+                {{ $currentPage := . }}
+                {{ $section := .Site.GetPage $currentPage.Section }}
+
+                {{ range .Site.Menus.supervisor.ByWeight }}
+                <li class="nav-item">
+                    <a class="nav-link {{if $section.IsMenuCurrent "main" . }}active{{end}}" aria-current="page"
+                        href="{{ .URL }}">
+                        {{ .Name }}
                     </a>
-                </div>
+                </li>
+                {{end}}
             </div>
-            <div class="col-lg-4">
-                <div class="navigation-card">
-                    <a class="navigation-card__link navigation-card__link--small" href="#">
-                        <div class="navigation-card__img-container navigation-card__img-container--small">
-                            <img src="/icons/App.png" />
-                        </div>
-                        <h3 class="navigation-card__title navigation-card__title--small">
-                            MinID på mobil
-                            </h4>
-                            <p class="navigation-card__desc navigation-card__desc--small">
-                                Last ned appen og ta i bruk MinID på mobil.
-                            </p>
-                    </a>
+            <div class="col-lg-8">
+                <div class="markdown">
+                    {{.Content}}
                 </div>
             </div>
         </div>
