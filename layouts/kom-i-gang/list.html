@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+{{ with .Site.GetPage "/kom-i-gang" }}
+<div class="component component--primary"
+    style="background-image: url('https://education.ec.europa.eu/sites/default/files/styles/eac_ratio_16_9_large/public/2021-12/selfie-banner1.png?h=8dad346e&itok=LqnsdxNN'); background-repeat: no-repeat;background-size: cover;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg">
+                <h1 class="text-white">{{.Title}}</h1>
+                <p class="ingress text-white">{{.Params.ingress}}
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
+
+<div class="component">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="navigation-card">
+                    <a class="navigation-card__link navigation-card__link--small" href="#">
+                        <div class="navigation-card__img-container navigation-card__img-container--small">
+                            <img src="/icons/Publisering.png" />
+                        </div>
+                        <h3 class="navigation-card__title navigation-card__title--small">
+                            Registrer deg
+                        </h3>
+                        <p class="navigation-card__desc navigation-card__desc--small">
+                            Følg veilederen for å opprette MinID bruker
+                        </p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="navigation-card">
+                    <a class="navigation-card__link navigation-card__link--small" href="#">
+                        <div class="navigation-card__img-container navigation-card__img-container--small">
+                            <img src="/icons/App.png" />
+                        </div>
+                        <h3 class="navigation-card__title navigation-card__title--small">
+                            MinID på mobil
+                            </h4>
+                            <p class="navigation-card__desc navigation-card__desc--small">
+                                Last ned appen og ta i bruk MinID på mobil.
+                            </p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}
