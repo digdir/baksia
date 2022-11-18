@@ -1,68 +1,72 @@
 {{ define "main" }}
 
-{{ with .Site.GetPage "/kom-i-gang" }}
+<div class="page__get-started">
+    {{ with .Site.GetPage "/kom-i-gang" }}
 
-<div class="component component--primary"
-    style="background-image: url('https://education.ec.europa.eu/sites/default/files/styles/eac_ratio_16_9_large/public/2021-12/selfie-banner1.png?h=8dad346e&itok=LqnsdxNN'); background-repeat: no-repeat;background-size: cover;">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg">
-                <h1 class="text-white">{{.Title}}</h1>
-                <p class="ingress text-white">{{.Params.ingress}}
-                </p>
+    <div class="component" style="background-color: #f5dda6;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <label style="font-size:1.75rem;font-weight: 500;">{{.Title}}</label>
+                    <p class="ingress mb-0">{{.Params.ingress}}
+                    </p>
+                </div>
+                <div class="col-lg-6">
+
+                </div>
             </div>
         </div>
     </div>
-</div>
-{{ end }}
+    {{ end }}
 
-<div class="component">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg">
-                <aside>
-                    {{ $currentPage := . }}
-                    <ol class="vertical-nav">
-                        {{ range first 1 .Site.Menus.supervisor.ByWeight }}
-                        <li class="nav-item">
-                            <a class="nav-link"
-                                aria-current="page" href="{{ .URL }}">
-                                {{ .Name }}
-                            </a>
-                        </li>
-                        {{end}}
-                        {{ range last 2 .Site.Menus.supervisor.ByWeight }}
-                        <li class="nav-item">
-                            <a class="nav-link {{if or ($currentPage.IsMenuCurrent "supervisor" .) ($currentPage.HasMenuCurrent "supervisor" .) }} active{{end}}"
-                                aria-current="page" href="{{ .URL }}">
-                                {{ .Name }}
-                            </a>
-                        </li>
-                        {{end}}
-                    </ol>
-                </aside>
-            </div>
-            <div class="col-lg-8">
-                <div class="markdown">
-                    {{.Content}}
+    <div class="component">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-lg-5 col-xl-4">
+                    <aside>
+                        <h3 class="mt-0">{{i18n "steg"}}</h3>
+                        {{ $currentPage := . }}
+                        <ul class="vertical-nav">
+                            {{ range first 1 .Site.Menus.supervisor.ByWeight }}
+                            <li class="nav-item">
+                                <a class="nav-link" aria-current="page" href="{{ .URL }}">
+                                    {{ .Name }}
+                                </a>
+                            </li>
+                            {{end}}
+                            {{ range last 2 .Site.Menus.supervisor.ByWeight }}
+                            <li class="nav-item">
+                                <a class="nav-link {{if or ($currentPage.IsMenuCurrent "supervisor" .) ($currentPage.HasMenuCurrent "supervisor" .) }} active{{end}}"
+                                    aria-current="page" href="{{ .URL }}">
+                                    {{ .Name }}
+                                </a>
+                            </li>
+                            {{end}}
+                        </ul>
+                    </aside>
+                </div>
+                <div class="col-sm-12 col-lg-7 col-xl-7">
+                    <div class="markdown">
+                        {{.Content}}
+                    </div>
+
+                    <hr class="mt-5">
+
+                    <div class="d-flex justify-content-between mt-5">
+                        {{ with .Params.steps.previous_step}}
+                        <a class="button button--previous" href="{{.}}">
+                            Forrige steg
+                        </a>
+                        {{ end }}
+                        {{ with .Params.steps.next_step}}
+                        <a class="button button--primary button--next" href="{{.}}">
+                            Neste steg
+                        </a>
+                        {{ end }}
+                    </div>
                 </div>
 
-                <hr class="mt-5">
-
-                <div class="d-flex justify-content-between mt-5">
-                    {{ with .Params.steps.previous_step}}
-                    <a class="button button--previous" href="{{.}}">
-                        Forrige steg
-                    </a>
-                    {{ end }}
-                    {{ with .Params.steps.next_step}}
-                    <a class="button button--next" href="{{.}}">
-                        Neste steg
-                    </a>
-                    {{ end }}
-                </div>
             </div>
-            
         </div>
     </div>
 </div>

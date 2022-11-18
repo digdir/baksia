@@ -1,7 +1,7 @@
 ---
 title: Four reasons to use MinID
 teaser: MinID is your personal, electronic ID that gives access to a number of public services from the state and municipality. Here you will find information on what you can use it for.
-teaser__img: /illustrations/illustration-01.jpg
+teaser__img: /illustrations/illustration-01.png
 ---
 
 **If you are going to have services from the state and municipality carried out digitally, you must have an electronic ID to be able to log in. This confirms that you are who you say you are.**

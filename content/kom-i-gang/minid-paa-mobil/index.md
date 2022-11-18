@@ -1,14 +1,17 @@
 ---
 title: MinID på mobil
+banner__img: /illustrations/illustration-03.png
+
 steps:
     next_step: null
     previous_step: /kom-i-gang/registrer-deg
 menu:
     supervisor:
         weight: 30
+        name: 3. MinID på mobil
 ---
 
-## MinID på mobil
+# MinID på mobil
 
 For å bruke MinID på mobil må du enten være en MinID bruker, eller ha mottatt et aktiveringsbrevet.
 - Last ned og åpne MinID appen fra Google Play eller App Store 

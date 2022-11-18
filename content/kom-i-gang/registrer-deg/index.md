@@ -1,14 +1,17 @@
 ---
 title: Registrer deg
+banner__img: /illustrations/illustration-03.png
+
 steps:
     next_step: /kom-i-gang/minid-paa-mobil
     previous_step: /kom-i-gang
 menu:
     supervisor:
         weight: 2
+        name: 2. Registrer deg
 ---
 
-## Registrering deg
+# Registrering deg
 
 For å opprette MinID går du frem på følgende måte: 
 - Gå til [aktiveringsbrev.minid.digdir.no](https://aktiveringsbrev.minid.digdir.no/order)  

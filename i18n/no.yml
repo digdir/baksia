@@ -1,3 +1,6 @@
+- id: menu
+  translation: "Meny"
+
 - id: kom-i-gang
   translation: "Kom i gang"
 - id: les-mer
@@ -10,3 +13,5 @@
   translation: "Digital postkasse"
 - id: sikkerhet
   translation: "Sikkerhet"
+- id: steg
+  translation: "Steg"

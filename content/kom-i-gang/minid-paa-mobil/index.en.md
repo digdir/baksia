@@ -1,5 +1,7 @@
 ---
 title: MinID app
+banner__img: /illustrations/illustration-03.png
+
 url: /en/get-started/minid-app
 steps:
     next_step: null
@@ -7,9 +9,10 @@ steps:
 menu:
     supervisor:
         weight: 30
+        name: 3. MinID app
 ---
 
-## MinID app
+# MinID app
 
 To use MinID on mobile, you must either be a MinID user, or have received an activation letter.
 - Download and open the MinID app from Google Play or the App Store

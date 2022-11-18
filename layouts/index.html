@@ -3,14 +3,17 @@
 <div class="page__home">
 
     {{ with .Site.GetPage "/" }}
-    <div class="component component--primary"
-        style="background-image: url('https://education.ec.europa.eu/sites/default/files/styles/eac_ratio_16_9_large/public/2021-12/selfie-banner1.png?h=8dad346e&itok=LqnsdxNN'); background-repeat: no-repeat;background-size: cover;">
+
+    <div class="component" style="background-color:#156aac;">
         <div class="container">
             <div class="row">
-                <div class="col-lg">
+                <div class="col-lg-6 my-auto">
                     <h1 class="text-white">{{.Title}}</h1>
                     <p class="ingress text-white">{{.Params.ingress}}
                     </p>
+                </div>
+                <div class="col-lg-6  d-flex justify-content-md-center justify-content-lg-end">
+                    {{ partial "components/image.html" (dict "context" . "image_input" .Params.banner__img) }}
                 </div>
             </div>
         </div>
@@ -95,8 +98,8 @@
     {{ with .Site.GetPage "/hva-er-en-elektronisk-identitet" }}
     <div class="component">
         <div class="container">
-            <div class="row gy-3">
-                <div class="col-lg-6">
+            <div class="row">
+                <div class="col-lg-6 my-auto">
                     <div class="content__container">
                         <h2 class="mt-0">
                             {{.Title}}
@@ -109,7 +112,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 d-flex justify-content-md-center justify-content-lg-end">
                     {{ partial "components/image.html" (dict "context" . "image_input" .Params.teaser__img) }}
                 </div>
             </div>
@@ -179,6 +182,26 @@
     </div>
     {{ end }}
 
+    <div class="component">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 my-auto">
+                    <div class="content__container">
+                        <h2 class="mt-0">Vil du hjelpe oss å forbedre nettstedet?</h2>
+                        <p>Nettstedet vårt ligger åpent på github. Her kan du gå inn og endre på tekst, kode eller bidra med ny funksjonalitet.</p>
+                        <div class="mt-4">
+                            <a href="{{.RelPermalink}}" class="button">
+                                Github
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 d-flex justify-content-md-center justify-content-lg-end">
+                    {{ partial "components/image.html" (dict "context" . "image_input" "/illustrations/illustration-05.png") }}
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 {{ end }}

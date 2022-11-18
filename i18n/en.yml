@@ -13,3 +13,5 @@
   translation: "Digital mailbox"
 - id: sikkerhet
   translation: "Security"
+- id: steg
+  translation: "Steps"
