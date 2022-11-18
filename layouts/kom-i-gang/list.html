@@ -20,20 +20,36 @@
         <div class="row">
             <div class="col-lg">
                 {{ $currentPage := . }}
-                {{ $section := .Site.GetPage $currentPage.Section }}
 
-                {{ range .Site.Menus.supervisor.ByWeight }}
-                <li class="nav-item">
-                    <a class="nav-link {{if $section.IsMenuCurrent "main" . }}active{{end}}" aria-current="page"
-                        href="{{ .URL }}">
-                        {{ .Name }}
-                    </a>
-                </li>
-                {{end}}
+                <ol class="vertical-nav">
+                    {{ range .Site.Menus.supervisor.ByWeight }}
+                    <li class="nav-item">
+                        <a class="nav-link {{if or ($currentPage.IsMenuCurrent "supervisor" .) ($currentPage.HasMenuCurrent "supervisor" .) }} active{{end}}"
+                            aria-current="page" href="{{ .URL }}">
+                            {{ .Name }}
+                        </a>
+                    </li>
+                    {{end}}
+                </ol>
             </div>
             <div class="col-lg-8">
                 <div class="markdown">
                     {{.Content}}
+                </div>
+
+                <hr class="mt-5">
+
+                <div class="d-flex justify-content-end mt-5">
+                    {{ with .Params.steps.previous_step}}
+                    <a class="button button--previous" href="{{.}}">
+                        Forrige steg
+                    </a>
+                    {{ end }}
+                    {{ with .Params.steps.next_step}}
+                    <a class="button button--next" href="{{.}}">
+                        Neste steg
+                    </a>
+                    {{ end }}
                 </div>
             </div>
         </div>

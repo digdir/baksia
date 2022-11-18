@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 {{ with .Site.GetPage "/kom-i-gang" }}
+
 <div class="component component--primary"
     style="background-image: url('https://education.ec.europa.eu/sites/default/files/styles/eac_ratio_16_9_large/public/2021-12/selfie-banner1.png?h=8dad346e&itok=LqnsdxNN'); background-repeat: no-repeat;background-size: cover;">
     <div class="container">
@@ -19,23 +20,49 @@
     <div class="container">
         <div class="row">
             <div class="col-lg">
-                {{ $currentPage := . }}
-                {{ $section := .Site.GetPage $currentPage.Section }}
-
-                {{ range .Site.Menus.supervisor.ByWeight }}
-                <li class="nav-item">
-                    <a class="nav-link {{if $section.IsMenuCurrent "main" . }}active{{end}}" aria-current="page"
-                        href="{{ .URL }}">
-                        {{ .Name }}
-                    </a>
-                </li>
-                {{end}}
+                <aside>
+                    {{ $currentPage := . }}
+                    <ol class="vertical-nav">
+                        {{ range first 1 .Site.Menus.supervisor.ByWeight }}
+                        <li class="nav-item">
+                            <a class="nav-link"
+                                aria-current="page" href="{{ .URL }}">
+                                {{ .Name }}
+                            </a>
+                        </li>
+                        {{end}}
+                        {{ range last 2 .Site.Menus.supervisor.ByWeight }}
+                        <li class="nav-item">
+                            <a class="nav-link {{if or ($currentPage.IsMenuCurrent "supervisor" .) ($currentPage.HasMenuCurrent "supervisor" .) }} active{{end}}"
+                                aria-current="page" href="{{ .URL }}">
+                                {{ .Name }}
+                            </a>
+                        </li>
+                        {{end}}
+                    </ol>
+                </aside>
             </div>
             <div class="col-lg-8">
                 <div class="markdown">
                     {{.Content}}
                 </div>
+
+                <hr class="mt-5">
+
+                <div class="d-flex justify-content-between mt-5">
+                    {{ with .Params.steps.previous_step}}
+                    <a class="button button--previous" href="{{.}}">
+                        Forrige steg
+                    </a>
+                    {{ end }}
+                    {{ with .Params.steps.next_step}}
+                    <a class="button button--next" href="{{.}}">
+                        Neste steg
+                    </a>
+                    {{ end }}
+                </div>
             </div>
+            
         </div>
     </div>
 </div>

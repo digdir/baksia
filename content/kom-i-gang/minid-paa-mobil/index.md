@@ -1,5 +1,8 @@
 ---
 title: MinID på mobil
+steps:
+    next_step: null
+    previous_step: /kom-i-gang/registrer-deg
 menu:
     supervisor:
         weight: 30
@@ -7,12 +10,13 @@ menu:
 
 ## MinID på mobil
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Videamus animi partes, quarum est conspectus illustrior; At certe gravius. Sed fac ista esse non inportuna; Mihi, inquam, qui te id ipsum rogavi? De quibus cupio scire quid sentias. Egone non intellego, quid sit don Graece, Latine voluptas? 
+For å bruke MinID på mobil må du enten være en MinID bruker, eller ha mottatt et aktiveringsbrevet.
+- Last ned og åpne MinID appen fra Google Play eller App Store 
+- Klikk på "Kom i gang" 
+- Tast inn fødselsnummer. Klikk "Neste" 
+- Skann aktiveringskoden (QR) med kamera. NB! Du må tillate at kamera kan bruke appen 
+- Lag et personlig passord 
+- Tast inn mobilnummer. Klikk "Neste" 
+- Tast inn e-postadresse. Klikk "Neste" 
 
-Si enim ad populum me vocas, eum. Negat esse eam, inquit, propter se expetendam. Quid ait Aristoteles reliquique Platonis alumni? Numquam facies. Hos contra singulos dici est melius. Utrum igitur tibi litteram videor an totas paginas commovere? 
-
-Duo Reges: constructio interrete. Quid iudicant sensus? Iam in altera philosophiae parte. Non semper, inquam; 
-
-Quid vero? Quamquam ab iis philosophiam et omnes ingenuas disciplinas habemus; Nam quid possumus facere melius? 
-
-Ad eas enim res ab Epicuro praecepta dantur. Itaque his sapiens semper vacabit. Quo modo autem philosophus loquitur? Sed ad haec, nisi molestum est, habeo quae velim. Huius, Lyco, oratione locuples, rebus ipsis ielunior. Sed ad haec, nisi molestum est, habeo quae velim. 
+Du er nå registrert som MinID app bruker. Neste gang du logger inn kan du bruke telefonen til å godkjenne innlogging.
