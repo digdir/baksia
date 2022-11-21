@@ -4,7 +4,7 @@ Product page for MinID created with Hugo.
 
 [View deployments](https://github.com/felleslosninger/minid.digdir.no/deployments/activity_log?environment=github-pages)
 
-## Running site locally
+## Run site locally:
 
 Requirements: [Hugo](https://gohugo.io/) 
 
