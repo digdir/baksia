@@ -2,9 +2,11 @@
 
 Product page for MinID created with Hugo. 
 
-[View deployments](https://github.com/felleslosninger/minid.digdir.no/deployments/activity_log?environment=github-pages)
+[View deployments](https://github.com/felleslosninger/minid.digdir.no/deployments/activity_log?environment=github-pages)   
 
-## Running site locally
+Framework: [Hugo](https://gohugo.io/) 
+
+## Run site locally:
 
 Requirements: [Hugo](https://gohugo.io/) 
 
@@ -16,3 +18,6 @@ npm install
 hugo serve
 ```
 3. Application available at: `localhost:1313`
+
+## Theme
+- [digdir-hugo-theme](https://github.com/felleslosninger/digdir-hugo-theme)
