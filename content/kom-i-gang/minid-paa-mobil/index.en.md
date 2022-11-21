@@ -2,6 +2,11 @@
 title: MinID app
 banner__img: /illustrations/illustration-03.png
 
+navigation_link:
+    icon: /icons/App.png
+    alt: Icon of app on phone
+    text: Download the app and use MinID on mobile.
+
 url: /en/get-started/minid-app
 steps:
     next_step: null

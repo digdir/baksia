@@ -13,7 +13,7 @@
                     </p>
                 </div>
                 <div class="col-lg-6  d-flex justify-content-md-center justify-content-lg-end">
-                    {{ partial "components/image.html" (dict "context" . "image_input" .Params.banner__img) }}
+                    {{ partial "components/image.html" (dict "context" . "image" .Params.banner.image) }}
                 </div>
             </div>
         </div>
@@ -43,13 +43,13 @@
                     <div class="navigation-card">
                         <a class="navigation-card__link navigation-card__link--small" href="{{.RelPermalink}}">
                             <div class="navigation-card__img-container navigation-card__img-container--small">
-                                <img src="/icons/Publisering.png" />
+                                <img src="{{.Params.navigation_link.icon}}" alt="{{.Params.navigation_link.alt}}" />
                             </div>
                             <h3 class="navigation-card__title navigation-card__title--small">
                                 {{.Title}}
                             </h3>
                             <p class="navigation-card__desc navigation-card__desc--small">
-                                Følg veilederen for å opprette MinID bruker
+                                {{.Params.navigation_link.text}}
                             </p>
                         </a>
                     </div>
@@ -61,13 +61,13 @@
                     <div class="navigation-card">
                         <a class="navigation-card__link navigation-card__link--small" href="{{.RelPermalink}}">
                             <div class="navigation-card__img-container navigation-card__img-container--small">
-                                <img src="/icons/App.png" />
+                                <img src="{{.Params.navigation_link.icon}}" alt="{{.Params.navigation_link.alt}}" />
                             </div>
                             <h3 class="navigation-card__title navigation-card__title--small">
                                 {{.Title}}
                             </h3>
                             <p class="navigation-card__desc navigation-card__desc--small">
-                                Last ned appen og ta i bruk MinID på mobil.
+                                {{.Params.navigation_link.text}}
                             </p>
                         </a>
                     </div>
@@ -79,13 +79,13 @@
                     <div class="navigation-card">
                         <a class="navigation-card__link navigation-card__link--small" href="{{.RelPermalink}}">
                             <div class="navigation-card__img-container navigation-card__img-container--small">
-                                <img src="/icons/Samtale.png" />
+                                <img src="{{.Params.navigation_link.icon}}" alt="{{.Params.navigation_link.alt}}" />
                             </div>
                             <h3 class="navigation-card__title navigation-card__title--small">
                                 {{.Title}}
                             </h3>
                             <p class="navigation-card__desc navigation-card__desc--small">
-                                Se spørsmål og svar eller kontakt oss
+                                {{.Params.navigation_link.text}}
                             </p>
                         </a>
                     </div>
@@ -104,7 +104,7 @@
                         <h2 class="mt-0">
                             {{.Title}}
                         </h2>
-                        <p>{{.Params.teaser}}</p>
+                        <p>{{.Params.teaser.text}}</p>
                         <div class="mt-4">
                             <a href="{{.RelPermalink}}" class="button">
                                 {{ i18n "les-mer" }}
@@ -113,7 +113,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 d-flex justify-content-md-center justify-content-lg-end">
-                    {{ partial "components/image.html" (dict "context" . "image_input" .Params.teaser__img) }}
+                    {{ partial "components/image.html" (dict "context" . "image" .Params.teaser.image) }}
                 </div>
             </div>
         </div>
@@ -168,7 +168,7 @@
                 <div class="col-lg-5 offset-md-1 my-auto">
                     <div class="content__container">
                         <h2 class="mt-0">{{.Title}}</h2>
-                        <p>{{.Params.teaser}}</p>
+                        <p>{{.Params.teaser.text}}</p>
                         <div class="mt-4">
                             <a href="{{.RelPermalink}}" class="button">
                                 {{ i18n "les-mer" }}
@@ -189,7 +189,7 @@
                 <div class="col-lg-6 my-auto">
                     <div class="content__container">
                         <h2 class="mt-0">{{.Title}}</h2>
-                        <p>{{.Params.teaser}}</p>
+                        <p>{{.Params.teaser.text}}</p>
                         <div class="mt-4">
                             <a href="{{.RelPermalink}}" class="button">
                                 {{ i18n "les-mer" }}
@@ -198,7 +198,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 d-flex justify-content-md-center justify-content-lg-end">
-                    {{ partial "components/image.html" (dict "context" . "image_input" "/illustrations/illustration-05.png") }}
+                    {{ partial "components/image.html" (dict "context" . "image" .Params.teaser.image) }}
                 </div>
             </div>
         </div>

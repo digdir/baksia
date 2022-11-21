@@ -2,6 +2,11 @@
 title: Registration
 banner__img: /illustrations/illustration-03.png
 
+navigation_link:
+    icon: /icons/Publisering.png
+    alt: Icon of app on phone
+    text: Follow the guide to create a MinID user
+
 url: /en/get-started/registration
 steps:
     next_step: /en/get-started/minid-app

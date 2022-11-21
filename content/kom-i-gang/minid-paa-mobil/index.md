@@ -2,6 +2,11 @@
 title: MinID på mobil
 banner__img: /illustrations/illustration-03.png
 
+navigation_link:
+    icon: /icons/App.png
+    alt: Ikon av app på telefon 
+    text: Last ned appen og ta i bruk MinID på mobil.
+
 steps:
     next_step: null
     previous_step: /kom-i-gang/registrer-deg
