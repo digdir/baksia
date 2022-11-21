@@ -6,6 +6,10 @@ teaser:
     image:
         src: /illustrations/illustration-01.png
         alt: Illustrasjon av figurer som leser
+
+related_pages:
+    - /fire-grunner-til-a-bruke-minid
+    - /kom-i-gang/registrer-deg
 ---
 
 **Om du skal få utført tjenester fra stat og kommune digitalt, må du ha en elektronisk ID for å kunne logge deg inn. Denne bekrefter at du er den du utgir deg for å være.**

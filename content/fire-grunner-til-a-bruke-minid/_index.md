@@ -4,6 +4,9 @@ title: Fire grunner til å bruke MinID
 teaser: 
     text: MinID er din personlige, elektroniske ID som gir tilgang til en rekke offentlige tjenester fra stat og kommune. Her finner du informasjon om hva du kan bruke den til.
 
+related_pages:
+    - /hva-er-en-elektronisk-identitet
+    - /kom-i-gang/registrer-deg
 
 ---
 

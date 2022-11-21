@@ -4,6 +4,11 @@ ingress: MinID er en personlig elektronisk ID som gir tilgang til offentlige tje
 menu: 
     main:
         weight: 5
+
+related_pages:
+    - /hva-er-en-elektronisk-identitet
+    - /fire-grunner-til-a-bruke-minid
+    - /kom-i-gang/registrer-deg
 ---
 
 

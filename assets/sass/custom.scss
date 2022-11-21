@@ -10,3 +10,41 @@
     }
 }
 
+.related__links {
+    padding:25px;
+
+    h2 {
+        margin-top:unset;
+    }
+
+    ul {
+        margin-bottom: unset;
+    }
+
+    ul li:last-of-type {
+        margin-bottom: unset;
+    }
+
+    li {
+        list-style: none;
+        color: $color-neutral-grey-800;
+        font-size: $font-size-400;
+    
+        &::before {
+            @include font-awsome('\f054');
+            font-size: $font-size-200;
+            position:absolute;
+            margin-left:-20px;
+            margin-top:4px;
+        }
+    
+        &:hover {
+            color: #0252be!important;
+            text-decoration: underline;
+        }
+    }
+
+
+}
+
+

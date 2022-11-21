@@ -19,3 +19,5 @@
   translation: "Next step"
 - id: previous-step
   translation: "Previous step"
+- id: relaterte-lenker
+  translation: "Related links"
