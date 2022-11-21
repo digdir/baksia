@@ -14,7 +14,9 @@ menu:
 
 # Registration
 
-To create a MinID, proceed as follows:
+To create a MinID, proceed as follows:   
+
+Order activation letter:
 - Go to [aktiveringsbrev.minid.digdir.no](https://aktiveringsbrev.minid.digdir.no/order)
 - Enter the birth number (11 digits)
 - Activation letter with code is sent to registered address

@@ -15,3 +15,7 @@
   translation: "Security"
 - id: steg
   translation: "Steps"
+- id: next-step
+  translation: "Next step"
+- id: previous-step
+  translation: "Previous step"

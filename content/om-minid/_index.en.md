@@ -1,13 +1,12 @@
 ---
 title: About MinID
+ingress: MinID is a personal electronic ID that gives access to public services at a significant level of security (level 3).
 menu: 
     main:
         weight: 5
 ---
 
 **If you are going to have services from the state and municipality carried out digitally, you must have an electronic ID to be able to log in. This confirms that you are who you say you are.**
-
-MinID is a personal electronic ID that gives access to public services at a significant level of security (level 3).
 
 MinID is issued by the Directorate of Digitization and can be ordered from the year you turn 13. When you create a MinID, you are also registered in the [contact register](https://eid.difi.no/nb/kontakt-og-reservasjonsregisteret).
 

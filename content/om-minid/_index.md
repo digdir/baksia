@@ -1,5 +1,6 @@
 ---
 title: Om MinID
+ingress: MinID er en personlig elektronisk ID som gir tilgang til offentlige tjenester på et betydelig sikkerhetsnivå (nivå 3).
 menu: 
     main:
         weight: 5

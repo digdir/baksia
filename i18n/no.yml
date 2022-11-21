@@ -15,3 +15,7 @@
   translation: "Sikkerhet"
 - id: steg
   translation: "Steg"
+- id: next-step
+  translation: "Neste steg"
+- id: previous-step
+  translation: "Forrige steg"

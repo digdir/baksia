@@ -182,16 +182,17 @@
     </div>
     {{ end }}
 
+    {{ with .Site.GetPage "/hjelp-oss-a-forbedre-nettstedet" }}
     <div class="component">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 my-auto">
                     <div class="content__container">
-                        <h2 class="mt-0">Vil du hjelpe oss å forbedre nettstedet?</h2>
-                        <p>Nettstedet vårt ligger åpent på github. Her kan du gå inn og endre på tekst, kode eller bidra med ny funksjonalitet.</p>
+                        <h2 class="mt-0">{{.Title}}</h2>
+                        <p>{{.Params.teaser}}</p>
                         <div class="mt-4">
                             <a href="{{.RelPermalink}}" class="button">
-                                Github
+                                {{ i18n "les-mer" }}
                             </a>
                         </div>
                     </div>
@@ -202,6 +203,7 @@
             </div>
         </div>
     </div>
+    {{ end }}
 </div>
 
 {{ end }}
