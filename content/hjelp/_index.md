@@ -8,6 +8,7 @@ navigation_link:
 menu:
     main:
         weight: 20
+
 ---
 
-test
+Du kan finne svar på hjelpesidene til digdir: [eid.difi.no](https://eid.difi.no/nb/minid)

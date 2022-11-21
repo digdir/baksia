@@ -44,6 +44,16 @@
         }
     }
 
+    .li.external {
+        &::before {
+            @include font-awsome('\f08e');
+            font-size: $font-size-200;
+            position:absolute;
+            margin-left:-20px;
+            margin-top:4px;
+        } 
+    }
+
 
 }
 
