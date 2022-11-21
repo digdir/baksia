@@ -1,6 +1,11 @@
 ---
 title: Kom i gang
 ingress: Følg veilederen for å opprette MinID bruker
+
+# SEO
+description: Følg veilederen for å opprette MinID bruker
+keywords: "registrer deg"
+
 banner__img: /illustrations/illustration-03.png
 steps:
     next_step: /kom-i-gang/registrer-deg

@@ -1,6 +1,11 @@
 ---
 title: Get started
 ingress: Follow the guide to create a MinID user
+
+# SEO
+description: Follow the guide to create a MinID user
+keywords: "registrate" 
+
 banner__img: /illustrations/illustration-03.png
 
 url: /en/get-started

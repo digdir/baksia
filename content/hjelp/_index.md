@@ -1,6 +1,10 @@
 ---
 title: Hjelp
 ingress: Her finner du svar på ofte stilte spørsmål
+
+# SEO
+description: Her finner du svar på ofte stilte spørsmål
+
 navigation_link:
     icon: /icons/Samtale.png
     alt: Ikon samtaleboble 
@@ -11,4 +15,4 @@ menu:
 
 ---
 
-Du kan finne svar på hjelpesidene til digdir: [eid.difi.no](https://eid.difi.no/nb/minid)
+Du kan finne svar på hjelpesidene til digdir: [eid.difi.no/minid](https://eid.difi.no/nb/minid)

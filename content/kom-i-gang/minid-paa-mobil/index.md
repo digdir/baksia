@@ -2,6 +2,11 @@
 title: MinID på mobil
 banner__img: /illustrations/illustration-03.png
 
+# SEO
+description: Følg veilederen for å laste ned og ta i bruk minid på mobil
+keywords: "ios android app minid mobil"
+
+
 navigation_link:
     icon: /icons/App.png
     alt: Ikon av app på telefon 

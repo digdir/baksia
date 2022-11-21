@@ -5,6 +5,10 @@ menu:
     main:
         weight: 5
 
+# SEO
+description: MinID is a personal electronic ID that gives access to public services at a significant level of security (level 3).
+
+
 related_pages:
     - /hva-er-en-elektronisk-identitet
     - /fire-grunner-til-a-bruke-minid

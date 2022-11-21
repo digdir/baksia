@@ -2,6 +2,10 @@
 title: MinID app
 banner__img: /illustrations/illustration-03.png
 
+# SEO
+description: Follow the guide to download and use minid on mobile
+keywords: "ios android app minid mobil"
+
 navigation_link:
     icon: /icons/App.png
     alt: Icon of app on phone

@@ -1,6 +1,10 @@
 ---
 title: Help
 ingress: Here you will find answers to frequently asked questions
+
+# SEO
+description: Here you will find answers to frequently asked questions
+
 navigation_link:
     icon: /icons/Samtale.png
     alt: Icon conversation bubble

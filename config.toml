@@ -26,3 +26,4 @@ defaultContentLanguage = 'no'
 
 [params]
     logo = '/images/logo-minid.svg'
+    global_keywords = ['digdir', 'minid', 'elektronsik', 'identitet', 'offentlig', 'digitaliseringsdirektoratet']

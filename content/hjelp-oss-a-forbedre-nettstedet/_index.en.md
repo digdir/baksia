@@ -1,6 +1,10 @@
 ---
 title: Help us improve this site
 ingress: Our website is open on github. Here you can contribute with changes to text, code or new functionality.
+
+# SEO
+description: Our website is open on github. Here you can contribute with changes to text, code or new functionality.
+
 teaser: 
     text: Our website is open on github. Here you can contribute with changes to text, code or new functionality.
     image:
