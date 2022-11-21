@@ -16,3 +16,6 @@ npm install
 hugo serve
 ```
 3. Application available at: `localhost:1313`
+
+## Theme
+- [digdir-hugo-theme](https://github.com/felleslosninger/digdir-hugo-theme)
