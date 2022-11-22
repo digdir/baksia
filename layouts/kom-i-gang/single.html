@@ -50,12 +50,12 @@
 
                     <div class="d-flex justify-content-between mt-5">
                         {{ with .Params.steps.previous_step}}
-                        <a class="button button--previous" href="{{.Site.BaseURL}}{{.}}">
+                        <a class="button button--previous" href="{{$.Site.BaseURL}}{{.}}">
                             {{ i18n "previous-step" }}
                         </a>
                         {{ end }}
                         {{ with .Params.steps.next_step}}
-                        <a class="button button--primary button--next" href="{{.Site.BaseURL}}{{.}}">
+                        <a class="button button--primary button--next" href="{{$.Site.BaseURL}}{{.}}">
                             {{ i18n "next-step" }}
                         </a>
                         {{ end }}
