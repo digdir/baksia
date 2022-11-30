@@ -2,8 +2,6 @@
 
 Product page for MinID created with Hugo. 
 
-Framework: [Hugo](https://gohugo.io/) 
-
 ## Run site locally:
 
 Requirements: [Hugo](https://gohugo.io/) 
