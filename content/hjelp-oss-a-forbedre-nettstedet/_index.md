@@ -14,4 +14,3 @@ teaser:
 ---
 
 - [Kildekode til nettsted](https://github.com/felleslosninger/minid.digdir.no)
-- [Kildekode til Digdir hugo theme](https://github.com/felleslosninger/digdir-hugo-theme)

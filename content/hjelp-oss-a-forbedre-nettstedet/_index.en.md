@@ -13,4 +13,3 @@ teaser:
 ---
 
 - [Website source code](https://github.com/felleslosninger/minid.digdir.no)
-- [Source code for Digdir hugo theme](https://github.com/felleslosninger/digdir-hugo-theme)
