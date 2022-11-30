@@ -1,6 +1,6 @@
 # MinID Product page
 
-Product page for MinID created with Hugo. 
+MinID landing and product page.
 
 ## Run site locally:
 
