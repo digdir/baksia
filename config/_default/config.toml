@@ -6,8 +6,6 @@ baseURL = ''
 languageCode = 'nb'
 theme = 'digdir-hugo-theme'
 
-enableRobotsTXT = true
-
 defaultContentLanguage = 'no'
 
 [imaging]
