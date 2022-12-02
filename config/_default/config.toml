@@ -2,7 +2,7 @@ disableKinds = ["taxonomy","taxonomyTerm"]
 
 title = 'MinID'
 
-baseURL = '/'
+baseURL = ''
 languageCode = 'nb'
 theme = 'digdir-hugo-theme'
 
