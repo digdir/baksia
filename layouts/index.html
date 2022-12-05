@@ -9,11 +9,13 @@
             <div class="row">
                 <div class="col-lg-6 my-auto">
                     <h1 class="">{{.Title}}</h1>
-                    <p class="ingress">{{.Params.ingress}}
+                    <p class="ingress mb-5 mb-lg-0">{{.Params.ingress}}
                     </p>
                 </div>
                 <div class="col-lg-6  d-flex justify-content-md-center justify-content-lg-end">
-                    {{ partial "components/image.html" (dict "context" . "image" .Params.banner.image) }}
+                    <div style="margin-bottom: -64px!important;">
+                        {{ partial "components/image.html" (dict "context" . "image" .Params.banner.image) }}
+                    </div>
                 </div>
             </div>
         </div>
@@ -41,7 +43,8 @@
                     <div class="navigation-card">
                         <a class="navigation-card__link navigation-card__link--small" href="{{.RelPermalink}}">
                             <div class="navigation-card__img-container navigation-card__img-container--small">
-                                <img src="{{.Site.BaseURL}}{{.Params.navigation_link.icon}}" alt="{{.Params.navigation_link.alt}}" />
+                                <img src="{{.Site.BaseURL}}{{.Params.navigation_link.icon}}"
+                                    alt="{{.Params.navigation_link.alt}}" />
                             </div>
                             <h3 class="navigation-card__title navigation-card__title--small">
                                 {{.Title}}
@@ -59,7 +62,8 @@
                     <div class="navigation-card">
                         <a class="navigation-card__link navigation-card__link--small" href="{{.RelPermalink}}">
                             <div class="navigation-card__img-container navigation-card__img-container--small">
-                                <img src="{{.Site.BaseURL}}{{.Params.navigation_link.icon}}" alt="{{.Params.navigation_link.alt}}" />
+                                <img src="{{.Site.BaseURL}}{{.Params.navigation_link.icon}}"
+                                    alt="{{.Params.navigation_link.alt}}" />
                             </div>
                             <h3 class="navigation-card__title navigation-card__title--small">
                                 {{.Title}}
@@ -77,11 +81,12 @@
                     <div class="navigation-card">
                         <a class="navigation-card__link navigation-card__link--small" href="{{.RelPermalink}}">
                             <div class="navigation-card__img-container navigation-card__img-container--small">
-                                <img src="{{.Site.BaseURL}}{{.Params.navigation_link.icon}}" alt="{{.Params.navigation_link.alt}}" />
+                                <img src="{{.Site.BaseURL}}{{.Params.navigation_link.icon}}"
+                                    alt="{{.Params.navigation_link.alt}}" />
                             </div>
                             <h3 class="navigation-card__title navigation-card__title--small">
                                 {{.Title}}
-                            </h3> 
+                            </h3>
                             <p class="navigation-card__desc navigation-card__desc--small">
                                 {{.Params.navigation_link.text}}
                             </p>
@@ -98,7 +103,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 my-auto">
-                    <div class="content__container">
+                    <div class="content__container pt-0">
                         <h2 class="mt-0">
                             {{.Title}}
                         </h2>
@@ -125,19 +130,18 @@
                 <div class="col-lg-6 d-lg-block d-md-none d-sm-none d-none">
                     <div class="row g-3">
                         {{ range .Params.teaser_icons }}
-                            <div class="col-sm-6">
-                                <div class="column text-center">
-                                    <div class="p-4">
-                                        <img alt="{{.alt}}" style="height:45px;margin-bottom:15px;"
-                                            src="{{.img}}" /><br>
-                                        <label>{{.label}}</label>
-                                    </div>
+                        <div class="col-sm-6">
+                            <div class="column text-center">
+                                <div class="p-4">
+                                    <img alt="{{.alt}}" style="height:45px;margin-bottom:15px;" src="{{.img}}" /><br>
+                                    <label>{{.label}}</label>
                                 </div>
                             </div>
+                        </div>
                         {{ end }}
                     </div>
                 </div>
-                <div class="col-lg-5 offset-md-1 my-auto">
+                <div class="col-lg-5 offset-lg-1 my-auto">
                     <div class="content__container">
                         <h2 class="mt-0">{{.Title}}</h2>
                         <p>{{.Params.teaser.text}}</p>
