@@ -34,4 +34,4 @@ Med en elektronisk ID kan du for eksempel
  - Signere avtaler, kontrakter, og andre viktige dokumenter digitalt.
  - Melde flytting eller endre skattekortet på Skatteetaten.no.
 
-Du kan ha flere elektroniske ID-er som du kan bruke for å logge deg inn på offentlige tjenester. Du kan velge mellom fem alternativer. Det kan du lese mer om på [Norge.no](https://www.norge.no/elektronisk-id).
+Du kan ha flere elektroniske ID-er som du kan bruke for å logge deg inn på offentlige tjenester. Du kan velge mellom fem alternativer. Det kan du lese mer om på [Norge.no](https://www.norge.no/elektronisk-id). 
