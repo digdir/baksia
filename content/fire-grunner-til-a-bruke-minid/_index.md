@@ -7,10 +7,23 @@ description: MinID er din personlige, elektroniske ID som gir tilgang til en rek
 teaser: 
     text: MinID er din personlige, elektroniske ID som gir tilgang til en rekke offentlige tjenester fra stat og kommune. Her finner du informasjon om hva du kan bruke den til.
 
+teaser_icons:
+    - label: Utdanning
+      img: /icons/Næringsliv.png
+      alt: Ikon av næringsliv bygning
+    - label: Elektronisk signatur
+      img: /icons/Signatur.png
+      alt: Ikon av digital signatur med fingeravtrykk
+    - label: Digital postkasse
+      img: /icons/Digital_postkasse.png
+      alt: Ikon av digital postkasse
+    - label: Sikkerhet
+      img: /icons/Laas.png
+      alt: Ikon av åpen hengelås
+
 related_pages:
     - /hva-er-en-elektronisk-identitet
     - /kom-i-gang/registrer-deg
-
 ---
 
 Med en elektronisk ID kan du for eksempel

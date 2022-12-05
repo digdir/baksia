@@ -7,6 +7,20 @@ description: MinID is your personal, electronic ID that gives access to a number
 teaser: 
     text: MinID is your personal, electronic ID that gives access to a number of public services from the state and municipality. Here you will find information on what you can use it for.
 
+teaser_icons:
+    - label: Education
+      img: /icons/Næringsliv.png
+      alt: Icon of business building
+    - label: Electronic signature
+      img: /icons/Signatur.png
+      alt: Icon of digital signature with fingerprint
+    - label: Digital postbox
+      img: /icons/Digital_postkasse.png
+      alt: Icon of digital postbox
+    - label: Security
+      img: /icons/Laas.png
+      alt: Open padlock icon
+
 related_pages:
     - /hva-er-en-elektronisk-identitet
     - /kom-i-gang/registrer-deg
