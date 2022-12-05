@@ -122,9 +122,8 @@
     <div class="component">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 d-lg-block d-md-none d-sm-none d-none">
                     <div class="row g-3">
-
                         {{ range .Params.teaser_icons }}
                             <div class="col-sm-6">
                                 <div class="column text-center">
@@ -138,7 +137,6 @@
                         {{ end }}
                     </div>
                 </div>
-
                 <div class="col-lg-5 offset-md-1 my-auto">
                     <div class="content__container">
                         <h2 class="mt-0">{{.Title}}</h2>
@@ -150,7 +148,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
@@ -179,5 +176,4 @@
     </div>
     {{ end }}
 </div>
-
 {{ end }}
