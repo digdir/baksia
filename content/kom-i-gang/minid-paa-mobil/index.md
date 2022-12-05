@@ -9,7 +9,7 @@ keywords: "ios android app minid mobil"
 
 navigation_link:
     icon: /icons/App.png
-    alt: Ikon av app på telefon 
+    alt: Ikon av app på telefon
     text: Last ned appen og ta i bruk MinID på mobil.
 
 steps:
@@ -21,9 +21,13 @@ menu:
         name: 3. MinID på mobil
 ---
 
+<a href='https://play.google.com/store/apps/details?id=no.digdir.minid.authenticator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
+
+
 # MinID på mobil
 
-For å bruke MinID på mobil må du enten være en MinID bruker, eller ha mottatt et aktiveringsbrevet.
+For å bruke MinID på mobil må du enten være en MinID bruker fra før, eller ha mottatt et aktiveringsbrev.
 - Last ned og åpne MinID appen fra Google Play eller App Store 
 - Klikk på "Kom i gang" 
 - Tast inn fødselsnummer. Klikk "Neste" 
