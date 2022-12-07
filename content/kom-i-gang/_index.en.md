@@ -18,6 +18,9 @@ menu:
     supervisor:
         weight: 1
         name: 1. Introduction
+
+sitemap:
+    priority: 0.8
 ---
 
 # Introduction

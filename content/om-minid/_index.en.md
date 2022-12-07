@@ -13,6 +13,10 @@ related_pages:
     - /hva-er-en-elektronisk-identitet
     - /fire-grunner-til-a-bruke-minid
     - /kom-i-gang/registrer-deg
+
+sitemap:
+    priority: 0.8
+    
 ---
 
 **If you are going to have services from the state and municipality carried out digitally, you must have an electronic ID to be able to log in. This confirms that you are who you say you are.**

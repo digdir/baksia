@@ -38,4 +38,4 @@ jobs:
       - name: Ping sitemap.xml
         uses: atymic/sitemap-ping-action@master
         with:
-          sitemap-url: https://minid.no
+          sitemap-url: https://minid.no/sitemap.xml
