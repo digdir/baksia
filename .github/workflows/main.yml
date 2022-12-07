@@ -34,3 +34,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+
+      - name: Ping sitemap.xml
+        uses: atymic/sitemap-ping-action@master
+        with:
+          sitemap-url: https://minid.no
