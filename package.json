@@ -5,12 +5,12 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "cd themes/digdir-hugo-theme && npm install"
+    "install": "cd themes/digdir-hugo-theme && npm install",
+    "build:azure": "hugo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felleslosninger/minid.digdir.no.git",
-    "build:azure": "hugo"
+    "url": "git+https://github.com/felleslosninger/minid.digdir.no.git"
   },
   "keywords": [
     "minid",
