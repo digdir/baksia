@@ -21,7 +21,7 @@
             <div class="col-lg-7">
                 {{ with .Pages }}
                 <ul class="navigation__links">
-                    {{ range .Pages }}
+                    {{ range . }}
                     <li>
                         <label></label>
                         <a class="h5" href="{{.RelPermalink}}">{{.Title}}</a>
