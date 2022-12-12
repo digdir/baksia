@@ -1,5 +1,6 @@
 ---
 title: How to change two-factor authentication?
+draft: true
 ---
 
 {{< alert type="warning">}}

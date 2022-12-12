@@ -19,6 +19,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-7">
+                {{ with .Pages }}
                 <ul class="navigation__links">
                     {{ range .Pages }}
                     <li>
@@ -27,15 +28,8 @@
                     </li>
                     {{ end }}
                 </ul>
-            </div>
-        </div>
-    </div>
-</div>
+                {{ end }}
 
-<div class="component">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-7">
                 {{.Content}}
             </div>
         </div>

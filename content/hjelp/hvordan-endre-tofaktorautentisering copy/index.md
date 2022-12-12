@@ -1,5 +1,6 @@
 ---
 title: Hvordan endre tofaktorautentisering?
+draft: true
 ---
 
 {{< alert type="warning">}}
