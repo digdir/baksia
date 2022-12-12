@@ -9,7 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felleslosninger/minid.digdir.no.git"
+    "url": "git+https://github.com/felleslosninger/minid.digdir.no.git",
+    "build:azure": "hugo"
   },
   "keywords": [
     "minid",
