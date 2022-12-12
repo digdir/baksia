@@ -13,6 +13,10 @@ related_pages:
     - /hva-er-en-elektronisk-identitet
     - /fire-grunner-til-a-bruke-minid
     - /kom-i-gang/registrer-deg
+
+sitemap:
+    priority: 0.8
+    
 ---
 
 

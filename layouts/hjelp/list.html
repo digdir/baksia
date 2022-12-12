@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<div class="component component--bg-primary">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+                <h1 style="font-size:2.25rem;font-weight: 500;" class="mb-0">{{.Title}}</h1>
+
+                {{ with .Params.ingress }}
+                <p class="ingress mb-0" style="margin-top:1.5rem;">{{.}}</p>
+                {{ end }}
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="component">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+                <ul class="navigation__links">
+                    {{ range .Pages }}
+                    <li>
+                        <label></label>
+                        <a class="h5" href="{{.Permalink}}">{{.Title}}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="component">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+                {{.Content}}
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}
