@@ -3,7 +3,7 @@ title: How to change login method?
 ---
 
 {{< alert type="warning">}}
-We are phasing out pin codes. All pin codes will become invalid and can no longer be used for logging in from 01.05.2023.
+We are phasing out pin codes. All pin codes will become invalid and can no longer be used for logging in.
 To continue using MinID, you must change the login method to a one-time code via SMS or the MinID app.
 {{< /alert >}}
 
