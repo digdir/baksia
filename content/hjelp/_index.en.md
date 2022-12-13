@@ -14,4 +14,4 @@ menu:
         weight: 20
 ---
 
-You can find answers on the digdir help pages: [eid.difi.no/minid](https://eid.difi.no/en/minid)
+You can find answers on the [digdir help pages](https://eid.difi.no/en/minid)

@@ -3,7 +3,7 @@ title: Become a digital citizen
 ingress: Create your personal digital identity and use digital services from the public sector.
 
 #SEO
-description: Create your personal digital identity and use digital services from the public sector.
+description: MinID is a personal electronic ID that gives access to public services. Create your personal digital identity and use digital services from the public sector.
 
 banner:
     image:

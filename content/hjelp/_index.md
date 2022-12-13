@@ -15,4 +15,4 @@ menu:
 
 ---
 
-Du kan finne svar på hjelpesidene til digdir: [eid.difi.no/minid](https://eid.difi.no/nb/minid)
+Du kan og finne svar på [hjelpesidene til digdir](https://eid.difi.no/nb/minid).

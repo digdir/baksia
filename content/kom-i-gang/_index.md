@@ -16,6 +16,10 @@ menu:
     supervisor:
         weight: 1
         name: 1. Introduksjon
+
+sitemap:
+    priority: 0.8
+    
 ---
 
 # Introduksjon

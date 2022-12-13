@@ -27,6 +27,9 @@ To use MinID on mobile, you must either be a MinID user, or have received an act
 - Download and open the MinID app from Google Play or the App Store
 - Click on "Get started"
 - Enter your national ID number. Click "Next"
+- Enter your passord.
+
+If you do not have a MinID user:
 - Scan the activation code (QR) with camera. NB! You must allow the camera to use the app
 - Create a personal password
 - Enter mobile number. Click "Next"
