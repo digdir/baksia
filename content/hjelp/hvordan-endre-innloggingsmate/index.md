@@ -3,7 +3,7 @@ title: Hvordan endre inngloggingsmåte?
 ---
 
 {{< alert type="warning">}}
-Vi faser ut pin-koder. Alle pin-koder vil bli ugyldige, og ikke lenger kunne brukes til innlogging fra og med 01.05.2023.
+Vi faser ut pin-koder. Alle pin-koder vil bli ugyldige, og ikke lenger kunne brukes til innlogging.
 For å fortsette å bruke MinID, må du endre innloggingsmåte til engangskode på SMS eller MinID-app.
 {{< /alert >}}
 
