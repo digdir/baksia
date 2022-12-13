@@ -2,6 +2,14 @@
     .component {
         background-color: white;
     }
+
+    img[src="/googleplay.png"],
+    img[src="/appstore.png"]
+    {
+        height: 42px;
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
 }
 
 .page__home {
@@ -53,8 +61,6 @@
             margin-top:4px;
         } 
     }
-
-
 }
 
 
