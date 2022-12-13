@@ -21,12 +21,13 @@ menu:
         name: 3. MinID på mobil
 ---
 
-
-
 # MinID på mobil
 
 For å bruke MinID på mobil må du enten være en MinID bruker fra før, eller ha mottatt et aktiveringsbrev.
-- Last ned og åpne MinID appen fra Google Play eller App Store 
+- Last ned og åpne MinID appen fra Google Play eller App Store.
+
+   [![Last ned på Google Play](/googleplay.png)](https://play.google.com/store/apps/details?id=no.digdir.minid.authenticator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)[![Last ned på App Store](/appstore.png)](https://apps.apple.com/no/app/minid-app/id1555414999)      
+   
 - Klikk på "Kom i gang" 
 - Tast inn fødselsnummer. Klikk "Neste"
 - Skriv inn passord.
@@ -39,6 +40,4 @@ Om du ikke har MinID fra før:
 
 Du er nå registrert som MinID app bruker. Neste gang du logger inn kan du bruke telefonen til å godkjenne innlogging.
 
-[![Last ned på Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=no.digdir.minid.authenticator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
-[![Last ned på App Store](/illustrations/Download_on_the_App_Store_Badge_NO_RGB_blk_100317.svg)](https://apps.apple.com/no/app/minid-app/id1555414999)
