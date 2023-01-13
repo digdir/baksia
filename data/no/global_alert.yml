@@ -7,4 +7,4 @@
 - enabled: true
   name: pin-expires-alert-message-NO
   type: warning
-  text: <b>Vi faser ut pin-koder</b> Alle pin-koder vil bli ugyldige, og ikke lenger kunne brukes til innlogging. For å fortsette å bruke MinID, må du endre innloggingsmåte til engangskode på SMS eller MinID-app. <a href="/hjelp/hvordan-endre-innloggingsmate"> Les mer om hvordan du kan endre innloggingsmåte</a>
+  text: <b>Vi faser ut pin-koder:</b> Alle pin-koder vil bli ugyldige, og ikke lenger kunne brukes til innlogging. For å fortsette å bruke MinID, må du endre innloggingsmåte til engangskode på SMS eller MinID-app. <a href="/hjelp/hvordan-endre-innloggingsmate"> Les mer om hvordan du kan endre innloggingsmåte</a>
