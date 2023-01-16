@@ -2,11 +2,6 @@
 title: Hvordan endre inngloggingsmåte?
 ---
 
-{{< alert type="warning">}}
-Vi faser ut pin-koder. Alle pin-koder vil bli ugyldige, og ikke lenger kunne brukes til innlogging.
-For å fortsette å bruke MinID, må du endre innloggingsmåte til engangskode på SMS eller MinID-app.
-{{< /alert >}}
-
 MinID vil framover ha to ulike innloggingsmetoder som kan brukes:
 - MinID-app
 - Engangskoder på SMS  

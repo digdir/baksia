@@ -1,0 +1,10 @@
+# TYPES:
+# - warning
+# - danger
+# - info
+# - success
+
+- enabled: true
+  name: pin-expires-alert-message-EN
+  type: warning
+  text: <b>We are phasing out pin codes:</b> All pin codes will become invalid and can no longer be used for logging in. To continue using MinID, you must change the login method to a one-time code via SMS or the MinID app. <a href="/en/help/how-to-change-login-method/"> Read more about how you can change the login method</a>

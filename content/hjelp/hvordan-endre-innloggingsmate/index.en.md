@@ -5,11 +5,6 @@ url: /en/help/how-to-change-login-method
 
 ---
 
-{{< alert type="warning">}}
-We are phasing out pin codes. All pin codes will become invalid and can no longer be used for logging in.
-To continue using MinID, you must change the login method to a one-time code via SMS or the MinID app.
-{{< /alert >}}
-
 In future, MinID will have two different login methods that can be used:
 - MinID app
 - One-time codes on SMS
