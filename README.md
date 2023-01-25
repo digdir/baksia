@@ -2,16 +2,16 @@
 
 ## Run site locally
 
-Requirements: [Hugo](https://gohugo.io/) 
+Requirements: [Hugo](https://gohugo.io/installation/) (extended)
 
 1. Clone repo: 
 ```shell
-git clone https://github.com/digdir/baksia.digdir.no --recurse-submodules --remote-submodules
+git clone https://github.com/digdir/baksia --recurse-submodules --remote-submodules
 ```
 
 2. Navigate to folder and run Hugo:
 ```shell
-cd baksia.digdir.no
+cd baksia
 ```
 
 3. Install requirements

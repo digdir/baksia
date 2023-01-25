@@ -1,5 +1,5 @@
 {
-  "name": "baksia.digdir.no",
+  "name": "baksia",
   "version": "1.0.0",
   "description": "How development in digdir works and is organized",
   "main": "index.html",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/digdir/baksia.digdir.no.git"
+    "url": "git+https://github.com/digdir/baksia.git"
   },
   "keywords": [
     "devops",
@@ -19,7 +19,7 @@
   "author": "Digdir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/digdir/baksia.digdir.no/issues"
+    "url": "https://github.com/digdir/baksia/issues"
   },
-  "homepage": "https://github.com/digdir/baksia.digdir.no"
+  "homepage": "https://github.com/digdir/baksia"
 }
