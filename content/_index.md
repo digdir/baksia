@@ -1,12 +1,14 @@
 ---
-title: Bli en digital borger
-ingress: Opprett din personlige, digitale identitet og ta i bruk digitale tjenester fra det offentlige.
+title: Velkommen til BAKSIA!
+ingress: Her finner du beskrivelser av gjeldende organisering og måten vi jobber på når vi utvikler og forvalter digitale løsninger for våre brukere.
 
 # SEO
-description: MinID er en personlig elektronisk ID som gir tilgang til offentlige tjenester. Opprett din personlige, digitale identitet og ta i bruk digitale tjenester fra det offentlige.
+description: 
 
 banner:
     image:
         src: /illustrations/illustration-03.png
         alt: Illustrasjon av sittende figur med telefon i hånden
 ---
+
+For å bli verdensmester...

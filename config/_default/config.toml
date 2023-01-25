@@ -1,6 +1,6 @@
 disableKinds = ["taxonomy","taxonomyTerm"]
 
-title = 'MinID'
+title = 'Baksia'
 
 baseURL = ''
 languageCode = 'nb'
@@ -32,5 +32,5 @@ enableRobotsTXT = true
     other = "English"
 
 [params]
-    logo = '/images/logo-minid.svg'
-    global_keywords = ['digdir', 'minid', 'elektronsik', 'identitet', 'offentlig', 'digitaliseringsdirektoratet']
+    logo = '/images/logo-digdir.svg'
+    global_keywords = ['digdir', 'devops', 'digitaliseringsdirektoratet']

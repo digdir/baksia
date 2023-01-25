@@ -1,9 +1,9 @@
 ---
-title: Become a digital citizen
-ingress: Create your personal digital identity and use digital services from the public sector.
+title: Welcome!
+ingress: Her finner du beskrivelser av gjeldende organisering og måten vi jobber på når vi utvikler og forvalter digitale løsninger for våre brukere.
 
 #SEO
-description: MinID is a personal electronic ID that gives access to public services. Create your personal digital identity and use digital services from the public sector.
+description:
 
 banner:
     image:
