@@ -1,7 +1,7 @@
 {
-  "name": "minid.digdir.no",
+  "name": "baksia.digdir.no",
   "version": "1.0.0",
-  "description": "Main site for MinID (electronic identity)",
+  "description": "How development in digdir works and is organized",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felleslosninger/minid.digdir.no.git"
+    "url": "git+https://github.com/digdir/baksia.digdir.no.git"
   },
   "keywords": [
-    "minid",
+    "devops",
     "digdir"
   ],
   "author": "Digdir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/felleslosninger/minid.digdir.no/issues"
+    "url": "https://github.com/digdir/baksia.digdir.no/issues"
   },
-  "homepage": "https://github.com/felleslosninger/minid.digdir.no#readme"
+  "homepage": "https://github.com/digdir/baksia.digdir.no"
 }

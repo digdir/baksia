@@ -1,29 +1,27 @@
-# MinID Product page
+# Baksia
 
-MinID landing and product page.
-
-## Run site locally:
+## Run site locally
 
 Requirements: [Hugo](https://gohugo.io/) 
 
 1. Clone repo: 
 ```shell
-git clone https://github.com/felleslosninger/minid.digdir.no.git
+git clone https://github.com/digdir/baksia.digdir.no --recurse-submodules --remote-submodules
 ```
 
-3. Navigate to folder and run Hugo:
+2. Navigate to folder and run Hugo:
 ```shell
-cd minid.digdir.no
+cd baksia.digdir.no
 ```
 
 3. Install requirements
 ```shell
-npm instal
+npm install
 ```
 
 4. Run site locally
 ```shell
-hugo serve
+hugo serve --navigateToChanged
 ```
 
 5. Application available locally at: `localhost:1313`
