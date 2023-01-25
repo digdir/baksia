@@ -32,5 +32,5 @@ enableRobotsTXT = true
     other = "English"
 
 [params]
-    logo = '/images/logo-digdir.svg'
+    logo = 'images/logo-digdir.svg'
     global_keywords = ['digdir', 'devops', 'digitaliseringsdirektoratet']
