@@ -1,182 +1,70 @@
 {{ define "main" }}
 
 <div class="page__home">
-
-    {{ with .Site.GetPage "/" }}
-    <div class="component" style="background-color:#a5d6fb;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 my-auto">
-                    <h1 class="">{{.Title}}</h1>
-                    <p class="ingress mb-5 mb-lg-0">{{.Params.ingress}}
-                    </p>
-                </div>
-                <div class="col-lg-6  d-flex justify-content-md-center justify-content-lg-end">
-                    <div style="margin-bottom: -48px!important;">
-                        {{ partial "components/image.html" (dict "context" . "image" .Params.banner.image) }}
-                    </div>
-                </div>
-            </div>
+  {{ with .Site.GetPage "/" }}
+  <div class="component" style="background-color: #fbbfc1">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 my-auto">
+          <h1 class="">{{.Title}}</h1>
+          <p class="ingress mb-5 mb-lg-0">{{.Params.ingress}}</p>
         </div>
-    </div>
-    {{ end }}
-
-    <div class="component">
-        <div class="container">
-
-            {{ with .Site.GetPage "/kom-i-gang" }}
-            <div class="row text-center">
-                <div class="divider">
-                    <div class="divider__title">
-                        <h2>{{.Title}}</h2>
-                        <div class="line"></div>
-                    </div>
-                </div>
-            </div>
-            {{ end }}
-
-            <div class="row gy-3">
-
-                {{ with .Site.GetPage "/kom-i-gang/registrer-deg"}}
-                <div class="col-lg-4">
-                    <div class="navigation-card">
-                        <a class="navigation-card__content navigation-card__content--small" href="{{.RelPermalink}}">
-                            <div class="navigation-card__img-container navigation-card__img-container--small">
-                                <img src="{{.Site.BaseURL}}{{.Params.navigation_link.icon}}"
-                                    alt="{{.Params.navigation_link.alt}}" />
-                            </div>
-                            <h3 class="navigation-card__title navigation-card__title--small">
-                                {{.Title}}
-                            </h3>
-                            <p class="navigation-card__desc navigation-card__desc--small">
-                                {{.Params.navigation_link.text}}
-                            </p>
-                        </a>
-                    </div>
-                </div>
-                {{ end }}
-
-                {{ with .Site.GetPage "/kom-i-gang/minid-paa-mobil" }}
-                <div class="col-lg-4">
-                    <div class="navigation-card">
-                        <a class="navigation-card__content navigation-card__content--small" href="{{.RelPermalink}}">
-                            <div class="navigation-card__img-container navigation-card__img-container--small">
-                                <img src="{{.Site.BaseURL}}{{.Params.navigation_link.icon}}"
-                                    alt="{{.Params.navigation_link.alt}}" />
-                            </div>
-                            <h3 class="navigation-card__title navigation-card__title--small">
-                                {{.Title}}
-                            </h3>
-                            <p class="navigation-card__desc navigation-card__desc--small">
-                                {{.Params.navigation_link.text}}
-                            </p>
-                        </a>
-                    </div>
-                </div>
-                {{ end }}
-
-                {{ with .Site.GetPage "/hjelp" }}
-                <div class="col-lg-4">
-                    <div class="navigation-card">
-                        <a class="navigation-card__content navigation-card__content--small" href="{{.RelPermalink}}">
-                            <div class="navigation-card__img-container navigation-card__img-container--small">
-                                <img src="{{.Site.BaseURL}}{{.Params.navigation_link.icon}}"
-                                    alt="{{.Params.navigation_link.alt}}" />
-                            </div>
-                            <h3 class="navigation-card__title navigation-card__title--small">
-                                {{.Title}}
-                            </h3>
-                            <p class="navigation-card__desc navigation-card__desc--small">
-                                {{.Params.navigation_link.text}}
-                            </p>
-                        </a>
-                    </div>
-                </div>
-                {{ end }}
-            </div>
+        <div
+          class="col-lg-6 d-flex justify-content-sm-center justify-content-lg-end"
+        >
+          <div style="margin-bottom: -48px !important">
+            {{ partial "components/image.html" (dict "context" . "image"
+            .Params.banner.image) }}
+          </div>
         </div>
+      </div>
     </div>
+  </div>
+  {{ end }}
 
-    {{ with .Site.GetPage "/hva-er-en-elektronisk-identitet" }}
-    <div class="component">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 my-auto">
-                    <div class="content__container pt-0">
-                        <h2 class="mt-0">
-                            {{.Title}}
-                        </h2>
-                        <p>{{.Params.teaser.text}}</p>
-                        <div class="mt-4">
-                            <a href="{{.RelPermalink}}" class="button">
-                                {{ i18n "les-mer" }}
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 d-flex justify-content-md-center justify-content-lg-end">
-                    {{ partial "components/image.html" (dict "context" . "image" .Params.teaser.image) }}
-                </div>
-            </div>
+  <div class="component">
+    <div class="container">
+      {{ $departments_with_their_own_pages := (i18n
+      "departments-with-their-own-pages") }} {{ partial
+      "partials/components/component-title.html" (dict "context" . "title"
+      $departments_with_their_own_pages) }}
+      <div class="row gy-3 justify-content-center">
+        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling"}}
+        <div class="col-lg-4">
+          <div class="navigation-card">
+            <a
+              class="navigation-card__content"
+              href="{{.RelPermalink}}"
+              style="background-color: #e9eaec"
+            >
+              <h3 class="navigation-card__title navigation-card__title--small">
+                {{.Title}}
+              </h3>
+              <p class="navigation-card__desc navigation-card__desc--small">
+                {{.Params.navigation_link.text}}
+              </p>
+            </a>
+          </div>
         </div>
-    </div>
-    {{ end }}
-
-    {{ with .Site.GetPage "/fire-grunner-til-a-bruke-minid" }}
-    <div class="component">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 d-lg-block d-md-none d-sm-none d-none">
-                    <div class="row g-3">
-                        {{ range .Params.teaser_icons }}
-                        <div class="col-sm-6">
-                            <div class="column text-center">
-                                <div class="p-4">
-                                    <img alt="{{.alt}}" style="height:45px;margin-bottom:15px;" src="{{.img}}" /><br>
-                                    <label>{{.label}}</label>
-                                </div>
-                            </div>
-                        </div>
-                        {{ end }}
-                    </div>
-                </div>
-                <div class="col-lg-5 offset-lg-1 my-auto">
-                    <div class="content__container">
-                        <h2 class="mt-0">{{.Title}}</h2>
-                        <p>{{.Params.teaser.text}}</p>
-                        <div class="mt-4">
-                            <a href="{{.RelPermalink}}" class="button">
-                                {{ i18n "les-mer" }}
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        {{ end }} {{ with .Site.GetPage "/organisasjonskart" }}
+        <div class="col-lg-4">
+          <div class="navigation-card">
+            <a
+              class="navigation-card__content nav-card-external__content"
+              href="https://www.digdir.no/digdir/oversikt-over-organisasjonen/709"
+            >
+              <h3 class="navigation-card__title navigation-card__title--small">
+                <u>{{.Title}}</u>
+              </h3>
+              <p class="navigation-card__desc navigation-card__desc--small">
+                {{.Params.navigation_link.text}}
+              </p>
+            </a>
+          </div>
         </div>
+        {{ end }}
+      </div>
     </div>
-    {{ end }}
-
-    {{ with .Site.GetPage "/hjelp-oss-a-forbedre-nettstedet" }}
-    <div class="component">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 my-auto">
-                    <div class="content__container">
-                        <h2 class="mt-0">{{.Title}}</h2>
-                        <p>{{.Params.teaser.text}}</p>
-                        <div class="mt-4">
-                            <a href="{{.RelPermalink}}" class="button">
-                                {{ i18n "les-mer" }}
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 d-flex justify-content-md-center justify-content-lg-end">
-                    {{ partial "components/image.html" (dict "context" . "image" .Params.teaser.image) }}
-                </div>
-            </div>
-        </div>
-    </div>
-    {{ end }}
+  </div>
 </div>
 {{ end }}

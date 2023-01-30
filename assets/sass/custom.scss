@@ -1,66 +1,8 @@
-.page__get-started {
-    .component {
-        background-color: white;
+.nav-card-external {
+  &__content {
+    background-color: $color-neutral-white;
+    &::after {
+      content: url("icons/nav_external_link.svg");
     }
-
-    img[src="/googleplay.png"],
-    img[src="/appstore.png"]
-    {
-        height: 42px;
-        margin-right: 15px;
-        margin-bottom: 15px;
-    }
+  }
 }
-
-.page__home {
-    h2 {
-        font-size: 32px!important;
-    }
-}
-
-.related__links {
-    padding:25px;
-
-    h2 {
-        margin-top:unset;
-    }
-
-    ul {
-        margin-bottom: unset;
-    }
-
-    ul li:last-of-type {
-        margin-bottom: unset;
-    }
-
-    li {
-        list-style: none;
-        color: $color-neutral-grey-800;
-        font-size: $font-size-400;
-    
-        &::before {
-            @include font-awsome('\f054');
-            font-size: $font-size-200;
-            position:absolute;
-            margin-left:-20px;
-            margin-top:4px;
-        }
-    
-        &:hover {
-            color: #0252be!important;
-            text-decoration: underline;
-        }
-    }
-
-    .li.external {
-        &::before {
-            @include font-awsome('\f08e');
-            font-size: $font-size-200;
-            position:absolute;
-            margin-left:-20px;
-            margin-top:4px;
-        } 
-    }
-}
-
-
