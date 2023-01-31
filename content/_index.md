@@ -8,7 +8,7 @@ description:
 banner:
   image:
     src: /illustrations/illustration-04.png
-    alt: Illustrasjon av sittende figur med bok i hånden
+    alt: Illustrasjon av to personer som håndhilser
 ---
 
 For å bli verdensmester...

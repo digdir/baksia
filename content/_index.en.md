@@ -8,5 +8,5 @@ description:
 banner:
   image:
     src: /illustrations/illustration-04.png
-    alt: Illustration of a seated character with a book in his hand
+    alt: Illustration of two people shaking hands
 ---

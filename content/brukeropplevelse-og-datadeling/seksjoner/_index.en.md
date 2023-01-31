@@ -1,5 +1,5 @@
 ---
-title: User experience and data sharing
+title: Sections
 ingress:
 
 # SEO
@@ -9,12 +9,12 @@ keywords:
 banner:
   image:
     src: /illustrations/illustration-05.png
-    alt: Illustration of a person holding a mobile screen on his knee
+    alt: Illustrasjon av sittende figur med bok i hånden
 
 url: /en/user-experience-and-data-sharing
 
 navigation_link:
-  text: See what kind of data is available and how you can use it properly
+  text: User experience and data sharing (BOD) consists of five sections
 
 menu:
   main:

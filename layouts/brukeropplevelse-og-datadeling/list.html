@@ -1,0 +1,144 @@
+{{ define "main" }}
+
+<div>
+  {{ with .Site.GetPage "/brukeropplevelse-og-datadeling" }}
+  <div class="component" style="background-color: #a5d6fb">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 my-auto">
+          <h1 class="">{{.Title}}</h1>
+          <p class="ingress mb-5 mb-lg-0">{{.Params.ingress}}</p>
+        </div>
+        <div
+          class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+        >
+          <div style="margin-bottom: -48px !important">
+            {{ partial "components/image.html" (dict "context" . "image"
+            .Params.banner.image) }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+
+  <div class="component">
+    <div class="container">
+      {{ $organisation_work_style_and_processes := (i18n
+      "organisation-work-style-and-processes") }} {{ partial
+      "partials/components/component-title.html" (dict "context" . "title"
+      $organisation_work_style_and_processes) }}
+      <div class="row gy-3 justify-content-left">
+        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/seksjoner"}}
+        <div class="col-lg-4">
+          <div class="navigation-card">
+            <a
+              class="navigation-card__content"
+              href="{{.RelPermalink}}"
+              style="background-color: #d2eafd"
+            >
+              <h3 class="navigation-card__title navigation-card__title--small">
+                {{.Title}}
+              </h3>
+              <p class="navigation-card__desc navigation-card__desc--small">
+                {{.Params.navigation_link.text}}
+              </p>
+            </a>
+          </div>
+        </div>
+        {{ end }} {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/team"}}
+        <div class="col-lg-4">
+          <div class="navigation-card">
+            <a
+              class="navigation-card__content"
+              href="{{.RelPermalink}}"
+              style="background-color: #d2eafd"
+            >
+              <h3 class="navigation-card__title navigation-card__title--small">
+                {{.Title}}
+              </h3>
+              <p class="navigation-card__desc navigation-card__desc--small">
+                {{.Params.navigation_link.text}}
+              </p>
+            </a>
+          </div>
+        </div>
+        {{ end }} {{ with .Site.GetPage
+        "/brukeropplevelse-og-datadeling/produkter"}}
+        <div class="col-lg-4">
+          <div class="navigation-card">
+            <a
+              class="navigation-card__content"
+              href="{{.RelPermalink}}"
+              style="background-color: #d2eafd"
+            >
+              <h3 class="navigation-card__title navigation-card__title--small">
+                {{.Title}}
+              </h3>
+              <p class="navigation-card__desc navigation-card__desc--small">
+                {{.Params.navigation_link.text}}
+              </p>
+            </a>
+          </div>
+        </div>
+        {{ end }} {{ with .Site.GetPage
+        "/brukeropplevelse-og-datadeling/rapportering"}}
+        <div class="col-lg-4">
+          <div class="navigation-card">
+            <a
+              class="navigation-card__content"
+              href="{{.RelPermalink}}"
+              style="background-color: #d2eafd"
+            >
+              <h3 class="navigation-card__title navigation-card__title--small">
+                {{.Title}}
+              </h3>
+              <p class="navigation-card__desc navigation-card__desc--small">
+                {{.Params.navigation_link.text}}
+              </p>
+            </a>
+          </div>
+        </div>
+        {{ end }} {{ with .Site.GetPage
+        "/brukeropplevelse-og-datadeling/prosesser"}}
+        <div class="col-lg-4">
+          <div class="navigation-card">
+            <a
+              class="navigation-card__content"
+              href="{{.RelPermalink}}"
+              style="background-color: #d2eafd"
+            >
+              <h3 class="navigation-card__title navigation-card__title--small">
+                {{.Title}}
+              </h3>
+              <p class="navigation-card__desc navigation-card__desc--small">
+                {{.Params.navigation_link.text}}
+              </p>
+            </a>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  {{ $asset := resources.Get "/images/andreas-gjertin-rafaelsen.png" }} {{ $img
+  := $asset.Fit "418x295" }}
+  <div class="component" style="background-color: #ffffff">
+    <div class="container">
+      <div class="row">
+        <div
+          class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end align-items-center"
+        >
+          <figure class="image is-3by2">
+            <img
+              alt="Andreas Gjertin Rafaelsen"
+              src="{{ $img.RelPermalink }}"
+            />
+          </figure>
+        </div>
+        <div class="col-lg-7 ms-5">{{ .Content }}</div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
