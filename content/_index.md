@@ -7,7 +7,7 @@ description:
 
 banner:
   image:
-    src: /illustrations/illustration-03.png
+    src: /illustrations/illustration-04.png
     alt: Illustrasjon av sittende figur med bok i hånden
 ---
 

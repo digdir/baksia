@@ -7,6 +7,6 @@ description:
 
 banner:
   image:
-    src: /illustrations/illustration-03.png
+    src: /illustrations/illustration-04.png
     alt: Illustration of a seated character with a book in his hand
 ---

@@ -24,3 +24,14 @@
     margin-left: $spacing-base-1;
   }
 }
+
+.logo-text {
+  font-family: Inter;
+  font-size: $font-size-900;
+  font-weight: $font-weight-medium;
+  line-height: $font-line-height-40;
+  letter-spacing: 0px;
+  text-align: left;
+  color: $color-neutral-grey-800;
+  margin-left: $spacing-base-4;
+}
