@@ -6,3 +6,21 @@
     }
   }
 }
+
+.external-link {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: $font-weight-regular;
+  font-size: $font-size-400;
+  line-height: $font-line-height-30;
+  color: $color-neutral-grey-800;
+}
+
+.end-icon {
+  &::after {
+    @include font-awsome("\f061");
+    font-size: $font-size-300;
+    bottom: 32px;
+    margin-left: $spacing-base-1;
+  }
+}

@@ -8,7 +8,7 @@ keywords:
 
 banner__img: /illustrations/illustration-03.png
 
-url: /en/organization-map
+external_url: https://www.digdir.no/digdir/oversikt-over-organisasjonen/709
 
 navigation_link:
   text: Overview of the organization

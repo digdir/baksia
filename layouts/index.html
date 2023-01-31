@@ -51,7 +51,7 @@
           <div class="navigation-card">
             <a
               class="navigation-card__content nav-card-external__content"
-              href="https://www.digdir.no/digdir/oversikt-over-organisasjonen/709"
+              href="{{ .Params.external_url }}"
             >
               <h3 class="navigation-card__title navigation-card__title--small">
                 <u>{{.Title}}</u>
@@ -66,5 +66,31 @@
       </div>
     </div>
   </div>
+  {{ with .Site.GetPage "/vaar-strategi" }}
+  <div class="component" style="background-color: #d2eafd">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 my-auto">
+          <h2 class="">{{.Title}}</h2>
+          <p class="mb-5 mb-lg-0">{{.Params.ingress}}</p>
+        </div>
+        <div
+          class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+        >
+          <div class="my-auto">
+            {{ partial "components/image.html" (dict "context" . "image"
+            .Params.banner.image) }}
+          </div>
+        </div>
+        <span style="margin-top: 1.5rem">
+          <a class="external-link" href="{{ .Params.external_url }}"
+            >Digitaliseringsdirektoratets strategi</a
+          >
+          <span class="end-icon"></span>
+        </span>
+      </div>
+    </div>
+  </div>
+  {{ end }}
 </div>
 {{ end }}
