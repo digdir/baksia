@@ -35,3 +35,23 @@
   color: $color-neutral-grey-800;
   margin-left: $spacing-base-4;
 }
+
+.section-content {
+  h2 {
+    margin-top: 0;
+  }
+
+  p {
+    a {
+      font-family: "Inter";
+      font-style: normal;
+      font-weight: $font-weight-regular;
+      font-size: $font-size-400;
+      line-height: $font-line-height-30;
+      color: $color-neutral-grey-800;
+    }
+  }
+  p:nth-of-type(n + 2) {
+    margin-bottom: 0;
+  }
+}

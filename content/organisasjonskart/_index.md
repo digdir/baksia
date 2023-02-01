@@ -6,8 +6,6 @@ ingress:
 description:
 keywords:
 
-banner__img:
-
 navigation_link:
   text: Oversikt over organisasjonen
 
