@@ -27,7 +27,7 @@
     <div class="container">
       {{ $organisation_work_style_and_processes := (i18n
       "organisation-work-style-and-processes") }} {{ partial
-      "partials/components/component-title.html" (dict "context" . "title"
+      "components/component-title.html" (dict "context" . "title"
       $organisation_work_style_and_processes) }}
       <div class="row gy-3 justify-content-left">
         {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/seksjoner"}}

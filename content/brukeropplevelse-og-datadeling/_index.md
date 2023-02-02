@@ -15,10 +15,6 @@ banner:
 
 navigation_link:
   text: Se hva slags data som er tilgjengelig, og hvordan du kan bruke dem riktig
-
-menu:
-  main:
-    weight: 30
 ---
 
 ## For å bli verdensmester i digitalisering, må vi være verdensmester i samarbeid
