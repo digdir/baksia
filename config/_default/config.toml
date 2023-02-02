@@ -34,3 +34,6 @@ enableRobotsTXT = true
 [params]
     logo = 'images/logo-digdir.svg'
     global_keywords = ['digdir', 'devops', 'digitaliseringsdirektoratet']
+
+[blackfriday]
+  extensions = ["hardLineBreak"]

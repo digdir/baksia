@@ -3,6 +3,7 @@
 <div>
   {{ with .Site.GetPage "/brukeropplevelse-og-datadeling" }}
   <div class="component" style="background-color: #a5d6fb">
+    {{ partial "components/breadcrumbs.html" . }}
     <div class="container">
       <div class="row">
         <div class="col-lg-8 my-auto">

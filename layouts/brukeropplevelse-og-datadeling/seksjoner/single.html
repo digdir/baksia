@@ -1,6 +1,7 @@
 {{ define "main" }} {{ with .Site.GetPage
 "/brukeropplevelse-og-datadeling/seksjoner" }}
 <div class="component" style="background-color: #faeec2">
+  {{ partial "components/breadcrumbs.html" . }}
   <div class="container">
     <div class="row">
       <div class="col-lg-6 my-auto">

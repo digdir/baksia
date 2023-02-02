@@ -1,7 +1,7 @@
 ---
 title: Seksjoner
 ingress: |
-  Brukeropplevelse og datadeling (BOD) består av fem seksjoner
+  Brukeropplevelse og datadeling (BOD) består av fem seksjoner:
   Brukeropplevelse (BBO)
   Brukerstøtte og service (BBS)
   Plattform og styring (BPS)
