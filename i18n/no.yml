@@ -1,6 +1,5 @@
 - id: menu
   translation: 'Meny'
-
 - id: kom-i-gang
   translation: 'Kom i gang'
 - id: les-mer
@@ -27,3 +26,5 @@
   translation: 'Organisering, arbeidsform og prosesser'
 - id: product-and-devops-team
   translation: 'Produkt og Devops team'
+- id: other-teams-functions
+  translation: 'Andre team / funksjoner'

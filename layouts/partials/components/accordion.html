@@ -1,30 +1,24 @@
-<!-- Fill the accordion body using the below div and pass it as a partial to this component-->
-{{/* <div class="row accordion-body d-flex justify-content-between">
-
-  </div>
-*/}}
-
-
-<div class="accordion" id="accordionExample">
+<!-- For usage example check out: layouts/brukeropplevelse-og-datadeling/team/list.html -->
+<div class="accordion" id="accordion-{{ $.id }}">
   <div class="accordion-item">
-    <h2 class="accordion-header" id="headingOne" style="margin: 0">
+    <h2 class="accordion-header" id="heading-{{ $.id }}" style="margin: 0">
       <button
-        class="accordion-button"
+        class="accordion-button collapsed"
         type="button"
         data-bs-toggle="collapse"
-        data-bs-target="#collapseOne"
+        data-bs-target="#collapse-{{ $.id }}"
         aria-expanded="true"
-        aria-controls="collapseOne"
+        aria-controls="collapse-{{ $.id }}"
         style="color: #1E2B3C; background-color: #FAEEC2"
       >
         {{ $.title }}
       </button>
     </h2>
     <div
-      id="collapseOne"
-      class="accordion-collapse collapse show"
-      aria-labelledby="headingOne"
-      data-bs-parent="#accordionExample"
+      id="collapse-{{ $.id }}"
+      class="accordion-collapse collapse"
+      aria-labelledby="heading-{{ $.id }}"
+      data-bs-parent="#accordion-{{ $.id }}"
     >
       <div
         class="row accordion-body d-flex justify-content-between"
@@ -33,7 +27,10 @@
         {{ $len := len $.contents }}
         {{ $col_width := div 12 $len }}
         {{ range $val := $.contents }}
-          <div class="col-{{ $col_width }}">
+          <div
+            class="col-12 col-xl-{{ $col_width }}"
+            style="word-wrap: break-word"
+          >
             {{ $val.Content }}
           </div>
         {{ end }}

@@ -27,3 +27,5 @@
   translation: 'Organisation, work style and processes'
 - id: product-and-devops-team
   translation: 'Product and Devops team'
+- id: other-teams-functions
+  translation: 'Other teams / functions'
