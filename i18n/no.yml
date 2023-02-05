@@ -1,27 +1,29 @@
 - id: menu
-  translation: "Meny"
+  translation: 'Meny'
 
 - id: kom-i-gang
-  translation: "Kom i gang"
+  translation: 'Kom i gang'
 - id: les-mer
-  translation: "Les mer"
+  translation: 'Les mer'
 - id: utdanning
-  translation: "Utdanning"
+  translation: 'Utdanning'
 - id: elektronisk-signatur
-  translation: "Elektronisk signatur"
+  translation: 'Elektronisk signatur'
 - id: digital-postkasse
-  translation: "Digital postkasse"
+  translation: 'Digital postkasse'
 - id: sikkerhet
-  translation: "Sikkerhet"
+  translation: 'Sikkerhet'
 - id: steg
-  translation: "Steg"
+  translation: 'Steg'
 - id: next-step
-  translation: "Neste steg"
+  translation: 'Neste steg'
 - id: previous-step
-  translation: "Forrige steg"
+  translation: 'Forrige steg'
 - id: relaterte-lenker
-  translation: "Relaterte lenker"
+  translation: 'Relaterte lenker'
 - id: departments-with-their-own-pages
-  translation: "Avdelinger med egne sider"
+  translation: 'Avdelinger med egne sider'
 - id: organisation-work-style-and-processes
-  translation: "Organisering, arbeidsform og prosesser"
+  translation: 'Organisering, arbeidsform og prosesser'
+- id: product-and-devops-team
+  translation: 'Produkt og Devops team'

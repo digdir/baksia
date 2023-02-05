@@ -94,3 +94,17 @@
     border: none;
   }
 }
+
+.accordion-item {
+  border: none;
+}
+
+.accordion-button {
+  font-size: $font-size-500;
+}
+
+.divider__title {
+  h2 {
+    font-size: $font-size-900 !important;
+  }
+}

@@ -1,0 +1,43 @@
+<!-- Fill the accordion body using the below div and pass it as a partial to this component-->
+{{/* <div class="row accordion-body d-flex justify-content-between">
+
+  </div>
+*/}}
+
+
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne" style="margin: 0">
+      <button
+        class="accordion-button"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#collapseOne"
+        aria-expanded="true"
+        aria-controls="collapseOne"
+        style="color: #1E2B3C; background-color: #FAEEC2"
+      >
+        {{ $.title }}
+      </button>
+    </h2>
+    <div
+      id="collapseOne"
+      class="accordion-collapse collapse show"
+      aria-labelledby="headingOne"
+      data-bs-parent="#accordionExample"
+    >
+      <div
+        class="row accordion-body d-flex justify-content-between"
+        style="box-sizing: border-box"
+      >
+        {{ $len := len $.contents }}
+        {{ $col_width := div 12 $len }}
+        {{ range $val := $.contents }}
+          <div class="col-{{ $col_width }}">
+            {{ $val.Content }}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>

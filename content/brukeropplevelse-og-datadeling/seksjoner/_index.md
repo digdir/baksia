@@ -13,7 +13,7 @@ ingress: |
 description:
 keywords:
 
-layout: "seksjoner/single"
+layout: 'seksjoner/single'
 
 banner:
   image:
