@@ -24,13 +24,8 @@ enableRobotsTXT = true
 [languages]
   [languages.no]
     languageName = "Norsk"
-    weight = 1
     other = "Norsk"
-  [languages.en]
-    languageName = "English"
-    weight = 2
-    other = "English"
 
 [params]
     logo = 'images/logo-digdir.svg'
-    global_keywords = ['digdir', 'devops', 'digitaliseringsdirektoratet']
+    global_keywords = ['digdir', 'devops', 'digitaliseringsdirektoratet', 'baksia']

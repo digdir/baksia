@@ -1,0 +1,108 @@
+{{ define "main" }}
+  {{ with .Site.GetPage
+    "/brukeropplevelse-og-datadeling/seksjoner"
+  }}
+    <div class="component" style="background-color: #faeec2">
+      {{ partial "components/breadcrumbs.html" . }}
+      <div class="container">
+        <div class="row d-flex justify-content-between">
+          <div class="col-lg-7 my-auto">
+            <h1 class="">{{ .Title }}</h1>
+            {{ $ingress := .Params.ingress | safeHTML }}
+            <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+          </div>
+          <div
+            class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+          >
+            <div class="d-flex align-items-center">
+              {{ partial "components/image.html" (dict "context" . "image"
+                .Params.banner.image)
+              }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+  <div style="margin: 4rem 0">
+    {{ with .Resources.GetMatch "brukeropplevelse.md" }}
+      <div class="component" style="background-color: #d2eafd">
+        <div class="container">
+          <div class="row d-flex justify-content-between">
+            <div class="col-lg-8 my-auto section-content">{{ .Content }}</div>
+            <div class="col-lg-4 d-flex justify-content-sm-end">
+              <div class="d-flex align-items-center">
+                {{ partial "components/content-image.html" (dict "context" . "image"
+                  .Params.banner.image)
+                }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+    {{ with .Resources.GetMatch "brukerstoette-og-service.md" }}
+      <div class="component" style="background-color: #ffffff">
+        <div class="container">
+          <div class="row d-flex justify-content-between">
+            <div class="col-lg-4 d-flex justify-content-sm-center">
+              <div class="d-flex align-items-center">
+                {{ partial "components/content-image.html" (dict "context" . "image"
+                  .Params.banner.image)
+                }}
+              </div>
+            </div>
+            <div class="col-lg-8 my-auto section-content">{{ .Content }}</div>
+          </div>
+        </div>
+      </div>
+    {{ end }}{{ with .Resources.GetMatch "plattform-og-styring.md" }}
+      <div class="component" style="background-color: #d2eafd">
+        <div class="container">
+          <div class="row d-flex justify-content-between">
+            <div class="col-lg-8 my-auto section-content">{{ .Content }}</div>
+            <div class="col-lg-4 d-flex justify-content-sm-end">
+              <div class="d-flex align-items-center">
+                {{ partial "components/content-image.html" (dict "context" . "image"
+                  .Params.banner.image)
+                }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+    {{ with .Resources.GetMatch "strategi-og-forretningsutvikling.md" }}
+      <div class="component" style="background-color: #ffffff">
+        <div class="container">
+          <div class="row d-flex justify-content-between">
+            <div class="col-lg-4 d-flex justify-content-sm-center">
+              <div class="d-flex align-items-center">
+                {{ partial "components/content-image.html" (dict "context" . "image"
+                  .Params.banner.image)
+                }}
+              </div>
+            </div>
+            <div class="col-lg-8 my-auto section-content">{{ .Content }}</div>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+    {{ with .Resources.GetMatch "utvikling.md" }}
+      <div class="component" style="background-color: #d2eafd">
+        <div class="container">
+          <div class="row d-flex justify-content-between">
+            <div class="col-lg-8 my-auto section-content">{{ .Content }}</div>
+            <div class="col-lg-4 d-flex justify-content-sm-end">
+              <div class="d-flex align-items-center">
+                {{ partial "components/content-image.html" (dict "context" . "image"
+                  .Params.banner.image)
+                }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

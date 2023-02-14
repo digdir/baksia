@@ -1,48 +1,47 @@
 {{ define "main" }}
-
-<div class="component component--bg-primary">
+  <div class="component component--bg-primary">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-7">
-                <h1 style="font-size:2.25rem;font-weight: 500;" class="mb-0">{{.Title}}</h1>
+      <div class="row">
+        <div class="col-lg-7">
+          <h1 style="font-size:2.25rem;font-weight: 500;" class="mb-0">
+            {{ .Title }}
+          </h1>
 
-                {{ with .Params.ingress }}
-                <p class="ingress mb-0" style="margin-top:1.5rem;">{{.}}</p>
+          {{ with .Params.ingress }}
+            <p class="ingress mb-0" style="margin-top:1.5rem;">{{ . }}</p>
+          {{ end }}
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="component">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-7">
+          {{ .Content }}
+        </div>
+
+        {{ with .Params.related_pages }}
+          <div class="col-lg offset-lg-1 mt-lg-0 mt-5">
+            <div class="column related__links">
+              <h2>{{ i18n "relaterte-lenker" }}:</h2>
+              <ul>
+                {{ range . }}
+                  {{ $url := . }}
+                  {{ with $.Site.GetPage $url }}
+                    <li>
+                      <a href="{{ .RelPermalink }}">
+                        {{ .Title }}
+                      </a>
+                    </li>
+                  {{ end }}
                 {{ end }}
-
+              </ul>
             </div>
-        </div>
+          </div>
+        {{ end }}
+      </div>
     </div>
-</div>
-<div class="component">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-7">
-                {{.Content}}
-            </div>
-
-            {{ with .Params.related_pages }}
-            <div class="col-lg offset-lg-1 mt-lg-0 mt-5">
-                <div class="column related__links">
-                    <h2>{{ i18n "relaterte-lenker"}}:</h2>
-                    <ul>
-                        {{ range . }}
-                        {{ $url := . }}
-                        {{ with $.Site.GetPage $url }}
-                        <li>
-                            <a href="{{.RelPermalink}}">
-                                {{.Title}}
-                            </a>
-                        </li>
-
-                        {{ end }}
-                        {{ end }}
-                    </ul>
-                </div>
-            </div>
-            {{ end }}
-        </div>
-    </div>
-</div>
-
+  </div>
 {{ end }}

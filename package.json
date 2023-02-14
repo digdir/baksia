@@ -4,9 +4,10 @@
   "description": "How development in digdir works and is organized",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "install": "cd themes/digdir-hugo-theme && npm install",
-    "build:azure": "hugo"
+    "build:azure": "hugo",
+    "prettier:check": "prettier --check .",
+    "prettier:format": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/digdir/baksia/issues"
   },
-  "homepage": "https://github.com/digdir/baksia"
+  "homepage": "https://github.com/digdir/baksia",
+  "devDependencies": {
+    "prettier": "^2.8.3",
+    "prettier-plugin-go-template": "^0.0.13"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
 }

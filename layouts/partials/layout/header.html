@@ -1,0 +1,22 @@
+{{ $alert := index .Site.Data .Site.Language.Lang }}
+{{ partial
+  "components/alert.html" (dict "context" . "alert" $alert)
+}}
+
+
+<header class="header">
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light p-0">
+      {{ with .Site.GetPage "/" }}
+        <a href="{{ .RelPermalink }}" style="text-decoration: none">
+          <img
+            class="my-auto header__logo"
+            src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}"
+            alt="logo"
+          />
+          <span class="logo-text">{{ .Site.Title }}</span>
+        </a>
+      {{ end }}
+    </nav>
+  </div>
+</header>

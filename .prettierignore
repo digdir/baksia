@@ -1,0 +1,5 @@
+# node modules and config files are ignored
+# ignore hugo generated files
+/public/**
+/resources/**
+/themes/**
