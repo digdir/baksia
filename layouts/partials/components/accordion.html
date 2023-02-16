@@ -20,19 +20,24 @@
       aria-labelledby="heading-{{ $.id }}"
       data-bs-parent="#accordion-{{ $.id }}"
     >
+      {{ $len := len $.contents }}
       <div
         class="row accordion-body d-flex justify-content-between"
-        style="box-sizing: border-box"
+        style="box-sizing: border-box; word-wrap: break-word"
       >
         {{ $len := len $.contents }}
         {{ $col_width := div 12 $len }}
         {{ range $val := $.contents }}
-          <div
-            class="col-12 col-xl-{{ $col_width }}"
-            style="word-wrap: break-word"
-          >
-            {{ $val.Content }}
-          </div>
+          {{ if eq $len 1 }}
+            {{ $val }}
+          {{ else }}
+            <div
+              class="col-12 col-xl-{{ $col_width }}"
+              style="word-wrap: break-word"
+            >
+              {{ $val.Content }}
+            </div>
+          {{ end }}
         {{ end }}
       </div>
     </div>

@@ -28,3 +28,7 @@
   translation: 'Produkt og Devops team'
 - id: other-teams-functions
   translation: 'Andre team / funksjoner'
+- id: core-processes
+  translation: 'Kjerneprosesser'
+- id: support-processes
+  translation: 'Støtteprosesser'
