@@ -9,6 +9,8 @@ keywords:
 
 layout: 'prosesser/list'
 
+weight: 5
+
 banner:
   image:
     src: /illustrations/illustration-03.png

@@ -24,6 +24,8 @@ banner:
 
 layout: 'rapportering/single'
 
+weight: 4
+
 navigation_link:
   text: |
     Avdeling Brukeropplevelse og Datadeling (BOD) er en av to avdelinger

@@ -17,6 +17,8 @@ keywords:
 
 layout: 'team/list'
 
+weight: 2
+
 banner:
   image:
     src: /illustrations/illustration-03.png

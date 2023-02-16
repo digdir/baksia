@@ -15,6 +15,8 @@ keywords:
 
 layout: 'seksjoner/single'
 
+weight: 1
+
 banner:
   image:
     src: /illustrations/illustration-06.png
