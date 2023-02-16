@@ -1,0 +1,27 @@
+@import "themes/digdir-hugo-theme/node_modules/@digdir/ds-tokens/build/tokens.scss";
+@import "themes/digdir-hugo-theme/assets/sass/mixin/_font-awesome.scss";
+
+.rep-li {
+  margin: 5% 0;
+
+  a {
+    font-family: $font-family;
+    font-size: $font-size-400;
+    line-height: $font-line-height-30;
+    color: $color-interface-interaction;
+    text-decoration: none;
+    border-bottom: $border-width-thin solid;
+    padding-bottom: 0.1rem;
+    margin-bottom: $spacing-base-6;
+    display: inline-block;
+  }
+}
+
+.rep-li-start-icon {
+  &::after {
+    @include font-awsome("\f054");
+    font-size: $font-size-100;
+    margin-right: $spacing-base-2;
+    color: $color-neutral-grey-800;
+  }
+}
