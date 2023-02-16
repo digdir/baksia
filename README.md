@@ -1,7 +1,7 @@
 # Baksia
 
 - [Test site](https://blue-sand-086e7ab03.2.azurestaticapps.net/)
-- [Figma prototype](https://www.figma.com/proto/oT5ZgqREUJGgYwXIgp3HWL/Baksia?page-id=707%3A4957&node-id=707%3A5045&viewport=-59%2C-4262%2C0.32&scaling=scale-down-width&starting-point-node-id=707%3A5045&hide-ui=1)
+- [Figma file](https://www.figma.com/file/oT5ZgqREUJGgYwXIgp3HWL/Baksia?node-id=3836%3A46985)
 
 ## Run site locally
 
