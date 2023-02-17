@@ -12,7 +12,7 @@ banner:
     src: /illustrations/illustration-10.png
     alt:
 
-layout: 'onboarding/single'
+layout: ''
 
 weight: 2
 
