@@ -1,0 +1,44 @@
+{{ define "main" }}
+  <div>
+    {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/metodikk/scrum" }}
+      <div class="component" style="background-color: #D1F4E1">
+        {{ partial "components/breadcrumbs.html" . }}
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 my-auto">
+              <h1 class="">{{ .Title }}</h1>
+              {{ $ingress := .Params.ingress | safeHTML }}
+              <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+            </div>
+            <div
+              class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+            >
+              <div>
+                {{ partial "components/image.html" (dict "context" . "image"
+                  .Params.banner.image)
+                }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+
+  {{ range .Resources }}
+      <div class="component" style="background-color: {{ .Params.backgroundColor }}">
+        <div class="container">
+          <div class="row d-flex justify-content-center">
+            <div class="col-10 col-lg-2 d-flex justify-content-center mt-5">
+              <div class="d-flex align-items-center justify-content-md-center mb-md-5">
+                {{ partial "components/content-image.html" (dict "context" . "image"
+                  .Params.banner.image)
+                }}
+              </div>
+            </div>
+            <div class="col-lg-8 my-auto section-content ms-lg-5">{{ .Content }}</div>
+          </div>
+        </div>
+      </div>
+  {{ end }}
+{{ end }}

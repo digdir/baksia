@@ -1,0 +1,80 @@
+{{ define "main" }}
+  <div>
+    {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser" }}
+      <div class="component" style="background-color: #FAEEC2">
+        {{ partial "components/breadcrumbs.html" . }}
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 my-auto">
+              <h1 class="">{{ .Title }}</h1>
+              <p class="ingress mb-5 mb-lg-0">{{ .Params.ingress }}</p>
+            </div>
+            <div
+              class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+            >
+              <div>
+                {{ partial "components/image.html" (dict "context" . "image"
+                  .Params.banner.image)
+                }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+
+  <div class="component" style="background-color: #F4F5F6">
+    <div class="container">
+      {{ $core_processes := (i18n "core-processes") }}
+      {{ partial
+        "components/component-title.html" (dict "context" . "title"
+        $core_processes)
+      }}
+      <div class="row gy-3 justify-content-left">
+        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/kjerneprosesser" }}
+          {{ range .Resources }}
+            <div class="col-lg-4">
+              <div class="navigation-card">
+                <a
+                  class="navigation-card__content"
+                  href="{{ .RelPermalink }}"
+                  style="background-color: #d2eafd"
+                >
+                  <h3
+                    class="navigation-card__title navigation-card__title--small"
+                  >
+                    {{ .Title }}
+                  </h3>
+                  <p class="navigation-card__desc navigation-card__desc--small">
+                    {{ .Params.navigation_link.text }}
+                  </p>
+                </a>
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  <div class="component" style="background-color: #FFFFFF">
+    <div class="container-fluid px-5 divider-title">
+      {{ $support_processes := (i18n "support-processes") }}
+      {{ partial
+        "components/component-title.html" (dict "context" . "title"
+        $support_processes)
+      }}
+      {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/stoetteprosesser" }}
+        {{ range .Resources }}
+          {{ $accordion_id := .File.UniqueID }}
+          <div class="row d-flex justify-content-center mb-5">
+            <div class="col-10 col-lg-8">
+              {{ partial "components/accordion.html" (dict "context" . "title" .Title "id" $accordion_id "contents" (dict "col_1" .Content )) }}
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

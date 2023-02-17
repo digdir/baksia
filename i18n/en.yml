@@ -29,3 +29,9 @@
   translation: 'Product and Devops team'
 - id: other-teams-functions
   translation: 'Other teams / functions'
+- id: core-processes
+  translation: 'Core processes'
+- id: support-processes
+  translation: 'Support processes'
+- id: 'which-methodology'
+  translation: 'Which methodology would you like to read about?'

@@ -36,3 +36,17 @@ hugo serve --navigateToChanged
 ## Theme
 
 - [digdir-hugo-theme](https://github.com/felleslosninger/digdir-hugo-theme)
+
+## Shortcodes
+
+For content editors:  
+You may encounter something like this
+
+```go
+{{< icon class="prod-li-start-icon" >}}
+```
+
+which is a called a shortcode in Hugo. These are used to render
+a specific type of a content, which content editors should ignore.
+
+In the example above, the shortcode renders an icon.

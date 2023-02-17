@@ -43,7 +43,7 @@
 
   p {
     a {
-      font-family: "Inter";
+      font-family: $font-family;
       font-style: normal;
       font-weight: $font-weight-regular;
       font-size: $font-size-400;
@@ -60,7 +60,7 @@
   padding: 0 $spacing-base-2;
 
   a {
-    font-family: "Inter";
+    font-family: $font-family;
     font-style: normal;
     font-weight: $font-weight-regular;
     font-size: $font-size-400;
@@ -106,5 +106,46 @@
 .divider__title {
   h2 {
     font-size: $font-size-900 !important;
+  }
+}
+
+.product-li {
+  h2 {
+    font-family: $font-family;
+    font-weight: $font-weight-medium;
+    font-size: $font-size-800;
+    margin-bottom: $spacing-base-4;
+  }
+
+  p {
+    margin-left: $spacing-base-2;
+    a {
+      font-family: $font-family;
+      font-size: $font-size-400;
+      line-height: $font-line-height-30;
+      color: $color-interface-interaction;
+      text-decoration: none;
+      border-bottom: $border-width-thin solid;
+      padding-bottom: 0.1rem;
+    }
+  }
+}
+
+.prod-li-start-icon {
+  &::after {
+    @include font-awsome("\f054");
+    font-size: $font-size-100;
+    margin-right: $spacing-base-2;
+    color: $color-neutral-grey-800;
+  }
+}
+
+.devops-content {
+  p:first-child {
+    margin-bottom: $spacing-base-8;
+  }
+
+  p:nth-child(2) {
+    margin-bottom: $spacing-base-15;
   }
 }

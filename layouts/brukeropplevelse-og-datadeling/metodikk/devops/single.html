@@ -1,0 +1,45 @@
+{{ define "main" }}
+  <div>
+    {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/metodikk/devops" }}
+      <div class="component" style="background-color: #D1F4E1">
+        {{ partial "components/breadcrumbs.html" . }}
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 my-auto">
+              <h1 class="">{{ .Title }}</h1>
+              {{ $ingress := .Params.ingress | safeHTML }}
+              <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+            </div>
+            <div
+              class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+            >
+              <div>
+                {{ partial "components/image.html" (dict "context" . "image"
+                  .Params.banner.image)
+                }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+
+  {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/metodikk/devops" }}
+    <div class="component" style="background-color: #FFFFFF">
+      <div class="container">
+        <div class="row my-5 justify-content-between">
+          <div class="col-lg-5 d-flex justify-content-sm-center justify-content-lg-start align-items-center" >
+            <div class="my-5 mt-md-0">
+              {{ partial "components/image.html" ( dict "context" . "image"
+              .Params.banner.contentImage ) }}
+            </div>
+          </div>
+          <div class="col-lg-7 my-auto devops-content">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+{{ end }}
