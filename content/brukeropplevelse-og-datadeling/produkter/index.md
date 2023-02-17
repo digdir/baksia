@@ -20,6 +20,10 @@ layout: 'produkter/single'
 
 weight: 3
 
+# determines if this content should be rendered in the
+# first section of the page as a blue box
+isFirstSection: true
+
 navigation_link:
   text: |
     Avdeling Brukeropplevelse og Datadeling (BOD) er en av to avdelinger

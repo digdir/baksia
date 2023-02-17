@@ -33,3 +33,5 @@
   translation: 'Core processes'
 - id: support-processes
   translation: 'Support processes'
+- id: 'which-methodology'
+  translation: 'Which methodology would you like to read about?'

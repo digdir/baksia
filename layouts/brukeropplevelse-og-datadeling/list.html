@@ -23,7 +23,7 @@
       </div>
     {{ end }}
   </div>
-  <div class="component">
+  <div class="component" style="background-color: #F4F5F6">
     <div class="container">
       {{ $organisation_work_style_and_processes := (i18n
         "organisation-work-style-and-processes")
@@ -35,24 +35,28 @@
       <div class="row gy-3 justify-content-left">
         {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/" }}
           {{ range .Pages }}
-            <div class="col-lg-4">
-              <div class="navigation-card">
-                <a
-                  class="navigation-card__content"
-                  href="{{ .RelPermalink }}"
-                  style="background-color: #d2eafd"
-                >
-                  <h3
-                    class="navigation-card__title navigation-card__title--small"
+            {{ if eq .Params.isFirstSection true }}
+              <div class="col-lg-4">
+                <div class="navigation-card">
+                  <a
+                    class="navigation-card__content"
+                    href="{{ .RelPermalink }}"
+                    style="background-color: #d2eafd"
                   >
-                    {{ .Title }}
-                  </h3>
-                  <p class="navigation-card__desc navigation-card__desc--small">
-                    {{ .Params.navigation_link.text }}
-                  </p>
-                </a>
+                    <h3
+                      class="navigation-card__title navigation-card__title--small"
+                    >
+                      {{ .Title }}
+                    </h3>
+                    <p
+                      class="navigation-card__desc navigation-card__desc--small"
+                    >
+                      {{ .Params.navigation_link.text }}
+                    </p>
+                  </a>
+                </div>
               </div>
-            </div>
+            {{ end }}
           {{ end }}
         {{ end }}
       </div>
@@ -63,6 +67,35 @@
   {{ $img := $asset.Fit "418x295" }}
   <div class="component" style="background-color: #ffffff">
     <div class="container">
+      <div class="row gy-3 justify-content-left mb-5">
+        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/" }}
+          {{ range .Pages }}
+            {{ if eq .Params.isSecSection true }}
+              <div class="col-lg-4">
+                <div class="navigation-card">
+                  <a
+                    class="navigation-card__content"
+                    href="{{ .RelPermalink }}"
+                    style="background-color: #FAEEC2"
+                  >
+                    <h3
+                      class="navigation-card__title navigation-card__title--small"
+                    >
+                      {{ .Title }}
+                    </h3>
+                    <p
+                      class="navigation-card__desc navigation-card__desc--small"
+                    >
+                      {{ .Params.navigation_link.text }}
+                    </p>
+                  </a>
+                </div>
+              </div>
+            {{ end }}
+
+          {{ end }}
+        {{ end }}
+      </div>
       <div class="row">
         <div
           class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end align-items-center"

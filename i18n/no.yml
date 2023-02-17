@@ -32,3 +32,5 @@
   translation: 'Kjerneprosesser'
 - id: support-processes
   translation: 'Støtteprosesser'
+- id: 'which-methodology'
+  translation: 'Hvilken metodikk vil du lese om?'
