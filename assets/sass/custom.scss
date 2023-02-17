@@ -139,3 +139,13 @@
     color: $color-neutral-grey-800;
   }
 }
+
+.devops-content {
+  p:first-child {
+    margin-bottom: $spacing-base-8;
+  }
+
+  p:nth-child(2) {
+    margin-bottom: $spacing-base-15;
+  }
+}

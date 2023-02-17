@@ -24,4 +24,22 @@
       </div>
     {{ end }}
   </div>
+
+  {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/metodikk/devops" }}
+    <div class="component" style="background-color: #FFFFFF">
+      <div class="container">
+        <div class="row my-5 justify-content-between">
+          <div class="col-lg-5 d-flex justify-content-sm-center justify-content-lg-start align-items-center" >
+            <div class="my-5 mt-md-0">
+              {{ partial "components/image.html" ( dict "context" . "image"
+              .Params.banner.contentImage ) }}
+            </div>
+          </div>
+          <div class="col-lg-7 my-auto devops-content">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
 {{ end }}
