@@ -32,26 +32,28 @@
         $core_processes)
       }}
       <div class="row gy-3 justify-content-left">
-        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/kjerneprosesser" }}
-          {{ range .Resources }}
-            <div class="col-lg-4">
-              <div class="navigation-card">
-                <a
-                  class="navigation-card__content"
-                  href="{{ .RelPermalink }}"
-                  style="background-color: #d2eafd"
-                >
-                  <h3
-                    class="navigation-card__title navigation-card__title--small"
+        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/" }}
+          {{ range .Pages }}
+            {{ if ne .Params.isResourceBundle true }}
+              <div class="col-lg-4">
+                <div class="navigation-card">
+                  <a
+                    class="navigation-card__content"
+                    href="{{ .RelPermalink }}"
+                    style="background-color: #d2eafd"
                   >
-                    {{ .Title }}
-                  </h3>
-                  <p class="navigation-card__desc navigation-card__desc--small">
-                    {{ .Params.navigation_link.text }}
-                  </p>
-                </a>
+                    <h3
+                      class="navigation-card__title navigation-card__title--small"
+                    >
+                      {{ .Title }}
+                    </h3>
+                    <p class="navigation-card__desc navigation-card__desc--small">
+                      {{ .Params.navigation_link.text }}
+                    </p>
+                  </a>
+                </div>
               </div>
-            </div>
+            {{ end }}
           {{ end }}
         {{ end }}
       </div>
@@ -69,7 +71,7 @@
         {{ range .Resources }}
           {{ $accordion_id := .File.UniqueID }}
           <div class="row d-flex justify-content-center mb-5">
-            <div class="col-10 col-lg-8">
+            <div class="col-10 col-lg-6">
               {{ partial "components/accordion.html" (dict "context" . "title" .Title "id" $accordion_id "contents" (dict "col_1" .Content )) }}
             </div>
           </div>
