@@ -10,7 +10,8 @@
       {{ with .Site.GetPage "/" }}
         <a href="{{ .RelPermalink }}" style="text-decoration: none">
           <img
-            class="my-auto header__logo"
+            class="my-auto pe-2"
+            style="width: 3rem"
             src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}"
             alt="logo"
           />

@@ -7,7 +7,7 @@
     "install": "cd themes/digdir-hugo-theme && npm install",
     "build:azure": "hugo",
     "prettier:check": "prettier --check .",
-    "prettier:format": "prettier --write ."
+    "prettier:write": "prettier --write ."
   },
   "repository": {
     "type": "git",

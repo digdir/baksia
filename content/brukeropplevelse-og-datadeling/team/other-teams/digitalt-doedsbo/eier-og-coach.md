@@ -5,5 +5,5 @@ title: Produkteier og Agile Coach
 **Tjenesteeier**  
 Bredo Swanberg
 
-**Agile Coach**
+**Scrum Master**
 Aina Engen

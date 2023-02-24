@@ -2,7 +2,6 @@
 title: Metodikk
 ingress: |
 
-
 # SEO
 description:
 keywords:

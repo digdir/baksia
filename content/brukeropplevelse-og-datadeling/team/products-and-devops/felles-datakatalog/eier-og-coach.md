@@ -3,7 +3,7 @@ title: Produkteier og Agile Coach
 ---
 
 **Produkteier**  
-Joachim Mørch-Eidem
+Kjersti Steien
 
-**Agile Coach**  
-Hanne Lauritsen
+**Scrum Master**  
+Aina Engen

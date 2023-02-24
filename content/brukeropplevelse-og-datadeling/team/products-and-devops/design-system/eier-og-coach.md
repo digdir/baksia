@@ -3,7 +3,7 @@ title: Produkteier og Agile Coach
 ---
 
 **Produkteier**  
-Siv Aglen
+Marianne Røsvik
 
-**Agile Coach**  
-Anne Risbakk
+**Scrum Master**  
+Marianne Røsvik

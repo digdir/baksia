@@ -28,18 +28,25 @@
   {{ $asset := resources.Get "/illustrations/illustration-19.png" }}
   {{ $img_md := $asset.Fit "850x250" }}
   {{ $img_sm := $asset.Fit "485x125" }}
-  <div class="component" style="background-color: {{ .Params.backgroundColor }}">
+  <div
+    class="component"
+    style="background-color: {{ .Params.backgroundColor }}"
+  >
     <div class="container">
       <div class="row d-flex justify-content-center mt-5">
-        <div class="col-lg-10 d-lg-flex d-none justify-content-sm-center align-items-center">
-            <figure class="image is-3by2">
-              <img
-                alt="Design process dimonds"
-                src="{{ $img_md.RelPermalink }}"
-              />
-            </figure>
-          </div>
-        <div class="col-lg-10 d-flex d-lg-none justify-content-sm-center justify-content-lg-end align-items-center">
+        <div
+          class="col-lg-10 d-lg-flex d-none justify-content-sm-center align-items-center"
+        >
+          <figure class="image is-3by2">
+            <img
+              alt="Design process dimonds"
+              src="{{ $img_md.RelPermalink }}"
+            />
+          </figure>
+        </div>
+        <div
+          class="col-lg-10 d-flex d-lg-none justify-content-sm-center justify-content-lg-end align-items-center"
+        >
           <figure class="image is-3by2">
             <img
               alt="Design process dimonds"
@@ -52,21 +59,27 @@
   </div>
 
   {{ range .Resources }}
-      <div class="component" style="background-color: {{ .Params.backgroundColor }}">
-        <div class="container">
-          <div class="row d-flex justify-content-center">
-            <div class="col-10 col-lg-2 d-flex justify-content-center mt-5">
-              <div class="d-flex align-items-center justify-content-md-center mb-5">
-                {{ partial "components/content-image.html" (dict "context" . "image"
-                  .Params.banner.image)
-                }}
-              </div>
+    <div
+      class="component"
+      style="background-color: {{ .Params.backgroundColor }}"
+    >
+      <div class="container">
+        <div class="row d-flex justify-content-center">
+          <div class="col-10 col-lg-2 d-flex justify-content-center mt-5">
+            <div
+              class="d-flex align-items-center justify-content-md-center mb-5"
+            >
+              {{ partial "components/content-image.html" (dict "context" . "image"
+                .Params.banner.image)
+              }}
             </div>
-            <div class="col-lg-8 my-auto section-content ms-lg-5">{{ .Content }}</div>
+          </div>
+          <div class="col-lg-8 my-auto section-content ms-lg-5">
+            {{ .Content }}
           </div>
         </div>
       </div>
+    </div>
   {{ end }}
-
 
 {{ end }}

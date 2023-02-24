@@ -5,5 +5,5 @@ title: Produkteier og Agile Coach
 **Produkteier**  
 Erlend Oksvoll
 
-**Agile Coach**  
+**Scrum Master**  
 Hanne Brun

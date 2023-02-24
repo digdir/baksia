@@ -8,4 +8,6 @@ resources:
     src: produkter.md
   - name: roller
     src: roller.md
+
+weight: 1
 ---

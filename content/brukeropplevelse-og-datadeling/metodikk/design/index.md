@@ -23,5 +23,4 @@ weight: 3
 
 navigation_link:
   text: |
-    
 ---

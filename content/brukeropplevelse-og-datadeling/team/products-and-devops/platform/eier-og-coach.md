@@ -3,7 +3,7 @@ title: Produkteier og Agile Coach
 ---
 
 **Produkteier**  
-Odd Arne Sætervik
+Torkel Buarøy
 
-**Agile Coach**  
+**Scrum Master**  
 Anne Risbakk

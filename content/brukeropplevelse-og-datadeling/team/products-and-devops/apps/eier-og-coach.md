@@ -3,7 +3,7 @@ title: Produkteier og Agile Coach
 ---
 
 **Produkteier**  
-Elin Walstrand
+Finnur Olafsson
 
-**Agile Coach**  
-Aina Engen
+**Scrum Master**  
+Hanne Lauritsen
