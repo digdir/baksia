@@ -2,6 +2,6 @@
 weight: 2
 ---
 
-**Mottaker:**  
-- Produksjonssetting
+**Mottaker:**
 
+- Produksjonssetting

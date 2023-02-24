@@ -26,19 +26,26 @@
   </div>
 
   {{ range .Resources }}
-      <div class="component" style="background-color: {{ .Params.backgroundColor }}">
-        <div class="container">
-          <div class="row d-flex justify-content-center">
-            <div class="col-10 col-lg-2 d-flex justify-content-center mt-5">
-              <div class="d-flex align-items-center justify-content-md-center mb-md-5">
-                {{ partial "components/content-image.html" (dict "context" . "image"
-                  .Params.banner.image)
-                }}
-              </div>
+    <div
+      class="component"
+      style="background-color: {{ .Params.backgroundColor }}"
+    >
+      <div class="container">
+        <div class="row d-flex justify-content-center">
+          <div class="col-10 col-lg-2 d-flex justify-content-center mt-5">
+            <div
+              class="d-flex align-items-center justify-content-md-center mb-md-5"
+            >
+              {{ partial "components/content-image.html" (dict "context" . "image"
+                .Params.banner.image)
+              }}
             </div>
-            <div class="col-lg-8 my-auto section-content ms-lg-5">{{ .Content }}</div>
+          </div>
+          <div class="col-lg-8 my-auto section-content ms-lg-5">
+            {{ .Content }}
           </div>
         </div>
       </div>
+    </div>
   {{ end }}
 {{ end }}

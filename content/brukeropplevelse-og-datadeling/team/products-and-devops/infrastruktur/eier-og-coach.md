@@ -3,7 +3,7 @@ title: Produkteier og Agile Coach
 ---
 
 **Produkteier**  
-Torkel Buarøy
+Børre Sundberg
 
-**Agile Coach**  
-Tony Grimstad
+**Scrum Master**  
+Børre Sundberg

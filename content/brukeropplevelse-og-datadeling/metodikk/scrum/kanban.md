@@ -15,6 +15,7 @@ weight: 1
 backgroundColor: '#FFFBE6'
 ---
 
-## Kanban-tavle  
-Oppgaver for arbeidsperioden plasseres på en kanban-tavle i TSF/Github. 
+## Kanban-tavle
+
+Oppgaver for arbeidsperioden plasseres på en kanban-tavle i TSF/Github.
 Tavlen angir de oppgaver som er under arbeid i teamet (work in progress)

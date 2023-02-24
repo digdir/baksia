@@ -31,38 +31,35 @@
   {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/utvikling" }}
     <div class="component" style="background-color: #FFFFFF">
       <div class="container-fluid px-5">
-        
-        
-        
         {{ range .Pages }}
           {{ $accordion_id := .File.UniqueID }}
 
           {{ if eq .Params.columns 3 }}
-          {{ $col_1 := .Resources.GetMatch "kolonne-1.md" }}
-          {{ $col_2 := .Resources.GetMatch "kolonne-2.md" }}
-          {{ $col_3 := .Resources.GetMatch "kolonne-3.md" }}
-          <div class="row d-flex justify-content-center mb-5">
-            <div class="col-10 col-lg-6">
-              {{ partial "components/accordion.html" (dict "context" . "title" .Title "id" $accordion_id "contents" (dict "col_1" $col_1 "col_2" $col_2 "col_3" $col_3))}}
+            {{ $col_1 := .Resources.GetMatch "kolonne-1.md" }}
+            {{ $col_2 := .Resources.GetMatch "kolonne-2.md" }}
+            {{ $col_3 := .Resources.GetMatch "kolonne-3.md" }}
+            <div class="row d-flex justify-content-center mb-5">
+              <div class="col-10 col-lg-6">
+                {{ partial "components/accordion.html" (dict "context" . "title" .Title "id" $accordion_id "contents" (dict "col_1" $col_1 "col_2" $col_2 "col_3" $col_3)) }}
+              </div>
             </div>
-          </div>
           {{ else if eq .Params.columns 2 }}
             {{ $col_1 := .Resources.GetMatch "kolonne-1.md" }}
             {{ $col_2 := .Resources.GetMatch "kolonne-2.md" }}
             <div class="row d-flex justify-content-center mb-5">
               <div class="col-10 col-lg-6">
-                {{ partial "components/accordion.html" (dict "context" . "title" .Title "id" $accordion_id "contents" (dict "col_1" $col_1 "col_2" $col_2))}}
+                {{ partial "components/accordion.html" (dict "context" . "title" .Title "id" $accordion_id "contents" (dict "col_1" $col_1 "col_2" $col_2)) }}
               </div>
             </div>
-          {{ else  }}
+          {{ else }}
             <div class="row d-flex justify-content-center mb-5">
               <div class="col-10 col-lg-6 dev-ul">
-                {{ partial "components/accordion.html" (dict "context" . "title" .Title "id" $accordion_id "contents" (dict "col_1" .Content ))}}
+                {{ partial "components/accordion.html" (dict "context" . "title" .Title "id" $accordion_id "contents" (dict "col_1" .Content )) }}
               </div>
             </div>
           {{ end }}
         {{ end }}
-        
+
       </div>
     </div>
   {{ end }}

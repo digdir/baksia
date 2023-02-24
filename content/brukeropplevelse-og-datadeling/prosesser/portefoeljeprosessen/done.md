@@ -8,6 +8,6 @@ banner:
     pos: left
 ---
 
-## Done  
-Tiltaket er dokumentert og lukket
+## Done
 
+Tiltaket er dokumentert og lukket
