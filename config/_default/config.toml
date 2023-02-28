@@ -27,5 +27,5 @@ enableRobotsTXT = true
     other = "Norsk"
 
 [params]
-    logo = 'images/logo-digdir.svg'
+    logo = 'images/logo-baksia.svg'
     global_keywords = ['digdir', 'devops', 'digitaliseringsdirektoratet', 'baksia']
