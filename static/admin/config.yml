@@ -1,6 +1,17 @@
 backend:
-  name: git-gateway
+  name: github
   branch: main # Branch to update (optional; defaults to master)
+  repo: olavflar/baksia-cms-test
+
+
+
+  local_backend: true
+
+  i18n:
+  structure: multiple_files
+  locales: [nb,en,nn]
+  default_locale: nb
+  
 media_folder: static/img
 public_folder: /img
 collections:
