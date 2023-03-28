@@ -4,6 +4,7 @@ title: Roller i Teamet
 
 **Koordinator mellom Digdir og Kunde**  
 Andreas Fjeldal
+![image](https://user-images.githubusercontent.com/50205992/228367858-05352d76-385b-477f-9a1a-b5eecbadbe93.png)
 
 **Tech Lead**  
 Morten Foshaug 
