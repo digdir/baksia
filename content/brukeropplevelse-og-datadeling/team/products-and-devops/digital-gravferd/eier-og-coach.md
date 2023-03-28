@@ -1,6 +1,16 @@
 ---
-title: Produkteier og Agile Coach
+title: Roller i Teamet
 ---
 
-**Produkteier**  
+**Koordinator mellom Digdir og Kunde**  
 Andreas Fjeldal
+
+**Tech Lead**
+Morten Foshaug
+**Designer**
+Astrid Mogstad
+**Backend utvikler**
+Morten Foshaug
+xx
+**Frontend utvikler**
+xxx
