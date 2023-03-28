@@ -3,7 +3,7 @@ title: Produkteier og Agile Coach
 ---
 
 **Produkteier**  
-Finnur Olafsson
+Ronny Birkeli
 
 **Scrum Master**  
 Hanne Lauritsen
