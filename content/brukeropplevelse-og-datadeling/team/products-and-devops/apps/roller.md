@@ -3,15 +3,16 @@ title: Roller i teamet
 ---
 
 **Roller i teamet**  
-Produktgruppeansvarlig  
-Produkteier  
+Produktgruppeansvarlig   
+Produkteier    
+Team Arkitekt  
+DevOps Utvikler  
+Sequrity Champion  
+Designere  
+Scrum Master  
+
+**Støtte Roller til Team**  
 Sjefsarkitekt  
-Legal coach  
-Serviceleder  
-Forretningsutvikler  
-Interaksjonsdesigner  
-Utvikler  
-Arkitekt  
-Tester / Testleder  
+Legal Coach  
 Servicedesk  
-UX designer
+KAM  
