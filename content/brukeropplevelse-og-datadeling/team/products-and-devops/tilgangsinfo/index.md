@@ -1,5 +1,9 @@
 ---
-title: Tilgangsinfo
+title: Team tilgangsinfo
 
-weight: 9
+navigation_link:
+  title: Produkteier
+  subtitle: Espen Kørra
+
+weight: 7
 ---

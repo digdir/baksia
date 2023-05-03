@@ -1,9 +1,9 @@
 ---
-title: Felles datakatalog
+title: Metode og kompetanse
 
 navigation_link:
   title: Produkteier
-  subtitle: Kjersti Steien
+  subtitle: Snorre Aakerø
 
 weight: 4
 ---

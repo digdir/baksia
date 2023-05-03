@@ -1,5 +1,9 @@
 ---
-title: Design System
+title: Team - Design System
 
-weight: 11
+navigation_link:
+  title: Produkteier
+  subtitle: Marianne Røsvik
+
+weight: 9
 ---

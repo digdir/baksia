@@ -1,5 +1,9 @@
 ---
-title: Tilgangsstyring & Kontroll
+title: Team tilgangsstyring og kontroll
 
-weight: 7
+navigation_link:
+  title: Produkteier
+  subtitle: Siv Aglen
+
+weight: 6
 ---
