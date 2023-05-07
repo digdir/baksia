@@ -1,0 +1,30 @@
+@import "themes/digdir-hugo-theme/node_modules/@digdir/ds-tokens/build/tokens.scss";
+@import "themes/digdir-hugo-theme/assets/sass/mixin/_font-awesome.scss";
+
+.media-link {
+  width: fit-content;
+  font-family: $font-family;
+  font-style: normal;
+  font-weight: $font-weight-regular;
+  font-size: $font-size-500;
+  line-height: $font-line-height-30;
+  color: $color-neutral-grey-800;
+  text-decoration: none;
+  padding-bottom: 5px;
+  border-bottom: 0.5px solid $color-neutral-grey-800;
+}
+
+.media-link:hover {
+  
+  border-bottom: none;
+}
+
+.section-title {
+  width: fit-content;
+  font-family: $font-family;
+  font-style: normal;
+  font-weight: $font-weight-medium;
+  font-size: $font-size-800 !important;
+  line-height: $font-line-height-30;
+}
+

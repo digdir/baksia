@@ -1,0 +1,32 @@
+{{ $title := .Get "title" }}
+{{ $slack_url := .Get "slack_url" }}
+{{ $slack_url_text := .Get "slack_url_text" }}
+
+{{ $content := .Inner }}
+{{ $contentList := split $content " \n\n" }}
+
+<!-- calculating how many rows should be displayed -->
+{{ $el_per_row := 4 }}
+{{ $list_len := len $contentList}}
+{{ $nr_of_rows := div $list_len $el_per_row }}
+{{ $remainder := mod $list_len $el_per_row }}
+
+<section class="row d-flex">
+  <div class="row">
+    <h2 class="col-6 section-title">{{ $title }}</h2> 
+    <span class="col-6">{{ readFile "static/images/group.svg" | safeHTML}}</span>
+  </div>
+  <div>
+    <div class="row d-flex w-100" style="height:fit-content">
+      {{ range $contentList }}
+        <div class="col-12 col-sm-6 col-lg-3 my-3">
+          {{ . | safeHTML}}
+        </div>
+      {{ end }}
+    </div>
+    <div>
+      <a class="col-6 media-link me-3" href="{{ $slack_url }}">{{ $slack_url_text }}</a>
+      <span class="col-6">{{ readFile "static/images/slack.svg" | safeHTML}}</span>
+    </div>
+  </div>
+</section>
