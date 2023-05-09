@@ -2,16 +2,10 @@
 {{ $slack_url := .Get "slack_url" }}
 {{ $slack_url_text := .Get "slack_url_text" }}
 
-{{ $content := .Inner }}
-{{ $contentList := split $content "  \n\n " }}
 
 <section class="row d-flex mt-5" style="margin-bottom: 5rem;">
-  <h2 class="col-6 section-title mb-0 mb-lg-3">{{ $title }}</h2> 
+  <h2 class="col-6 section-title mb-0 mb-lg-3">{{ $title }}</h2>
   <div class="row d-flex w-100" style="height:fit-content">
-    {{ range $contentList }}
-      <div class="col-12 col-sm-6 col-lg-3 mt-4 mt-lg-0">
-        {{ . | safeHTML}}
-      </div>
-    {{ end }}
+    {{ .Inner | safeHTML }}
   </div>
 </section>

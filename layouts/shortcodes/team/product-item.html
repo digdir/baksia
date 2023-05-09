@@ -4,13 +4,15 @@
 {{ $url_text := .Get "url_text" }}
 
 
-<div class="row d-flex">
-  <div style="font-size: 20px;">{{ $title }}</div>
-  <div style="font-size: 16px; color: #4B5563">{{ $subtitle }}</div>
-  <div class="mt-3">
-    <span class="col-6">{{ readFile "static/images/github.svg" | safeHTML}}</span>
-    <a class="col-6 media-link me-3" href="{{ $url }}">{{ $url_text }}</a>
+<div class="col-12 col-sm-6 col-lg-3 mt-4 mt-lg-0">
+  <div class="row d-flex">
+    <div style="font-size: 20px;">{{ $title }}</div>
+    <div style="font-size: 16px; color: #4B5563">{{ $subtitle }}</div>
+    <div class="mt-3">
+      <span class="col-6">
+        {{ readFile "static/images/github.svg" | safeHTML }}
+      </span>
+      <a class="col-6 media-link me-3" href="{{ $url }}">{{ $url_text }}</a>
+    </div>
   </div>
 </div>
-
-
