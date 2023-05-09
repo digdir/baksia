@@ -3,7 +3,7 @@ title: Team - Apps
 
 navigation_link:
   title: Produkteier
-  subtitle: Elin Walstrand
+  subtitle: Ronny Birkeli
 
 layout: 'team/single'
 
