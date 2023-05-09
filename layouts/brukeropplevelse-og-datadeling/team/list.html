@@ -22,8 +22,8 @@
       </div>
     </div>
   {{ end }}
-  <div class="component" style="background-color: #FFFFFF;">
-    <div class="container-fluid px-5 divider-title">
+  <div class="component" style="background-color: #FFFFFF">
+    <div class="container">
       {{ $product_and_devops_team := (i18n
         "product-and-devops-team")
       }}
@@ -31,39 +31,67 @@
         "components/component-title.html" (dict "context" . "title"
         $product_and_devops_team)
       }}
-      <div class="row d-flex justify-content-evenly">
+      <div class="row gy-3 justify-content-left">
         {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/team/products-and-devops" }}
           {{ range .Pages }}
-            <div class="col-10 col-md-5" style="margin-bottom: 1.5rem">
-              {{ $accordion_id := .File.UniqueID }}
-              {{ $owner_and_coach := .Resources.GetMatch "eier-og-coach.md" }}
-              {{ $products := .Resources.GetMatch "produkter.md" }}
-              {{ $roles := .Resources.GetMatch "roller.md" }}
-              {{ partial "components/accordion.html" (dict "context" . "title" .Title "id" $accordion_id "contents" (dict "col_1" $owner_and_coach "col_2" $products "col_3" $roles)) }}
+            <div class="col-lg-4">
+              <div class="navigation-card">
+                <a
+                  class="navigation-card__content"
+                  href="{{ .RelPermalink }}"
+                  style="background-color: #d2eafd"
+                >
+                  <h3
+                    class="navigation-card__title navigation-card__title--small"
+                  >
+                    {{ .Title }}
+                  </h3>
+                  <h4 class="navigation_link_title">
+                    {{ .Params.navigation_link.title }}
+                  </h4>
+                  <p class="navigation_link_subtitle">
+                    {{ .Params.navigation_link.subtitle }}
+                  </p>
+                </a>
+              </div>
             </div>
           {{ end }}
         {{ end }}
       </div>
     </div>
   </div>
-  <div class="component pt-0" style="background-color: #FFFFFF;">
-    <div class="container-fluid px-5 divider-title">
-      {{ $other_teams_functions := (i18n
-        "other-teams-functions")
+  <div class="component" style="background-color: #FFFFFF">
+    <div class="container">
+      {{ $support_teams := (i18n
+        "support-teams")
       }}
       {{ partial
         "components/component-title.html" (dict "context" . "title"
-        $other_teams_functions)
+        $support_teams)
       }}
-      <div class="row d-flex justify-content-evenly">
-        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/team/other-teams/" }}
+      <div class="row gy-3 justify-content-left">
+        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/team/support-teams/" }}
           {{ range .Pages }}
-            <div class="col-10 col-md-5" style="margin-bottom: 1.5rem">
-              {{ $accordion_id := .File.UniqueID }}
-              {{ $owner_and_coach := .Resources.GetMatch "eier-og-coach.md" }}
-              {{ $products := .Resources.GetMatch "produkter.md" }}
-              {{ $roles := .Resources.GetMatch "roller.md" }}
-              {{ partial "components/accordion.html" (dict "context" . "title" .Title "id" $accordion_id "contents" (dict "col_1" $owner_and_coach "col_2" $products "col_3" $roles)) }}
+            <div class="col-lg-4">
+              <div class="navigation-card">
+                <a
+                  class="navigation-card__content"
+                  href="{{ .RelPermalink }}"
+                  style="background-color: #FAEEC2"
+                >
+                  <h3
+                    class="navigation-card__title navigation-card__title--small"
+                  >
+                    {{ .Title }}
+                  </h3>
+                  <h4 class="navigation_link_title">
+                    {{ .Params.navigation_link.title }}
+                  </h4>
+                  <p class="navigation_link_subtitle">
+                    {{ .Params.navigation_link.subtitle }}
+                  </p>
+                </a>
+              </div>
             </div>
           {{ end }}
         {{ end }}

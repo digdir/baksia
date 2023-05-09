@@ -26,8 +26,8 @@
   translation: 'Organisering, arbeidsform og prosesser'
 - id: product-and-devops-team
   translation: 'Produkt og Devops team'
-- id: other-teams-functions
-  translation: 'Andre team / funksjoner'
+- id: support-teams
+  translation: 'Støtteteam'
 - id: core-processes
   translation: 'Kjerneprosesser'
 - id: support-processes

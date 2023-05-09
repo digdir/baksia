@@ -1,5 +1,9 @@
 ---
-title: Studio
+title: Team - Studio
 
-weight: 2
+navigation_link:
+  title: Produkteier
+  subtitle: Finnur Olafsson
+
+weight: 1
 ---

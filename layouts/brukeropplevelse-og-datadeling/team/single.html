@@ -1,0 +1,35 @@
+{{ define "main" }}
+  {{ $sass := resources.Get "sass/team.scss" }}
+  {{ $style := $sass | resources.ToCSS }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+  
+  {{ with .Site.GetPage
+    "/brukeropplevelse-og-datadeling/team/products-and-devops/apps"
+  }}
+    <div class="component" style="background-color: #faeec2">
+      {{ partial "components/breadcrumbs.html" . }}
+      <div class="container">
+        <div class="row d-flex justify-content-between">
+          <div class="col-lg-8 my-auto pe-5">
+            <h1 class="">{{ .Title }}</h1>
+            {{ $ingress := .Params.ingress | safeHTML }}
+            <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+          </div>
+          <div class="col-lg-4 d-flex justify-content-sm-center">
+            <div class="d-flex align-items-center">
+              {{ partial "components/image.html" (dict "context" . "image"
+                .Params.banner.image)
+              }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+
+  <div class="component" style="background-color: #FFFFFF">
+    <div class="container">
+      {{ .Content }}
+    </div>
+  </div>
+{{ end }}

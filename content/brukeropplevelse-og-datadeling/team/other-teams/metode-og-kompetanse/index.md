@@ -1,3 +1,0 @@
----
-title: Metode og kompetanse
----

@@ -1,5 +1,9 @@
 ---
 title: Data.altinn.no
 
-weight: 6
+navigation_link:
+  title: Produkteier
+  subtitle: Erlen Oksvoll
+
+weight: 8
 ---

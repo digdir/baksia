@@ -1,3 +1,0 @@
----
-title: Dødsfall og Arv
----
