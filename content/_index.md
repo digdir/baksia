@@ -1,6 +1,6 @@
 ---
-title: Velkommen til BAKSIA!
-ingress: Her finner du beskrivelser av gjeldende organisering og måten vi jobber på når vi utvikler og forvalter digitale løsninger for våre brukere.
+title: Velkommen til Baksia!
+ingress: Her finner du informasjon om hvordan vi er organisert dvs. hvordan ansvarsfordeling, arbeidsform og styring skjer i forvaltning og videreutvikling av våre produkter.
 
 # SEO
 description:
