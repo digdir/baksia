@@ -2,11 +2,11 @@
 title: Seksjoner
 ingress: |
   Brukeropplevelse og datadeling (BOD) består av fem seksjoner: <br>
-  Brukeropplevelse (BBO) <br>
-  Brukerstøtte og service (BBS) <br>
-  Plattform og styring (BPS) <br>
   Strategi og forretningsutvikling (BSF) <br>
+  Brukeropplevelse (BBO) <br>
   Utvikling (BUT) <br>
+  Plattform og styring (BPS) <br>
+  Brukerstøtte og service (BBS) <br>
   Seksjonslederne har blant annet ansvaret for å bygge opp og organisere fagavdelingene, lede personalet og generelt styre arbeidet i seksjonen.
 
 # SEO
