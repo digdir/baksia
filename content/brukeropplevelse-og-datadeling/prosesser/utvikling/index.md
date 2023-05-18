@@ -1,13 +1,9 @@
 ---
-title: Utvikling
+title: Utvikling og driftsprosesser (devops)
 ingress: |
   Prosessen er ansvarlig for å skape eller endre en IT-tjeneste eller aplikasjon. <br>
   Prosesseier: Hanne Lauritsen <br>
   Prosessleder: Snorre Aakerø
-
-# SEO
-description:
-keywords:
 
 weight: 2
 
@@ -19,7 +15,16 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 
 navigation_link:
-  text: Prosessen er ansvarlig for å skape eller endre en IT-tjeneste eller aplikasjon.
+  text: |
+    <p>Release</p>
+    <p>Endringsstyring</p>
+    <p>Behov<p>
+    <p>Utvikling</p>
+    <p>Produksjonssetting</p>
+    <p>Forespørsler</p>
+    <p>Hendelser</p>
+    <p>Problem</p>
+    <p>Tilgangsstyring</p>
 ---
 
 ## Development Managment

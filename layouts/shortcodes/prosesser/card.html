@@ -1,0 +1,35 @@
+{{ $title := .Get "title" }}
+{{ $owner := .Get "owner" }}
+{{ $leader := .Get "leader" }}
+{{ $purpose := .Get "purpose" }}
+{{ $input := .Get "input" }}
+{{ $output := .Get "output" }}
+
+
+<section class="process-card">
+  <div>
+    <h3 class="process-card-item">{{ $title }}</h3>
+    <div class="process-card-item">
+      <div><strong>{{ i18n "owner" }}:</strong></div>
+      <div>{{ $owner }}</div>
+    </div>
+    <div>
+      <div><strong>{{ i18n "leader" }}:</strong></div>
+      <div>{{ $leader }}</div>
+    </div>
+  </div>
+  <div>
+    <div class="process-card-item">
+      <div><strong>{{ i18n "purpose" }}:</strong></div>
+      <div>{{ $purpose }}</div>
+    </div>
+    <div class="process-card-item">
+      <div><strong>{{ i18n "input" }}:</strong></div>
+      <div>{{ $input }}</div>
+    </div>
+    <div>
+      <div><strong>{{ i18n "output" }}:</strong></div>
+      <div>{{ $output }}</div>
+    </div>
+  </div>
+</section>
