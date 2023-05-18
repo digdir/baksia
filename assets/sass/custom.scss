@@ -167,3 +167,18 @@
   font-family: $font-family;
   font-size: $font-size-100 !important;
 }
+
+.card {
+  background-color: #faeec2;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(2, minmax(10rem, 1fr));
+
+  :nth-child(-n + 3) {
+    color: yellow;
+  }
+
+  :nth-child(n + 4) {
+    color: red;
+  }
+}

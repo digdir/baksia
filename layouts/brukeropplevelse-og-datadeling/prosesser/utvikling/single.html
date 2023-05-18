@@ -1,0 +1,30 @@
+{{ define "main" }}
+  {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/utvikling" }}
+    <div class="component" style="background-color: #FAEEC2">
+      {{ partial "components/breadcrumbs.html" . }}
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 my-auto">
+            <h1 class="">{{ .Title }}</h1>
+            {{ $ingress := .Params.ingress | safeHTML }}
+            <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+          </div>
+          <div
+            class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+          >
+            <div>
+              {{ partial "components/image.html" (dict "context" . "image"
+                .Params.banner.image)
+              }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="component">
+      <div class="container">
+        {{ .Content }}
+      </div>
+    </div>
+  {{ end }}
+{{ end }}

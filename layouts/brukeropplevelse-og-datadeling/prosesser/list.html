@@ -1,4 +1,8 @@
 {{ define "main" }}
+  {{ $sass := resources.Get "sass/process.scss" }}
+  {{ $style := $sass | resources.ToCSS }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+
   <div>
     {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser" }}
       <div class="component" style="background-color: #FAEEC2">
@@ -31,11 +35,11 @@
         "components/component-title.html" (dict "context" . "title"
         $core_processes)
       }}
-      <div class="row gy-3 justify-content-left">
+      <div class="row gy-3 justify-content-center">
         {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/" }}
           {{ range .Pages }}
             {{ if ne .Params.isResourceBundle true }}
-              <div class="col-lg-4">
+              <div class="col-lg-5">
                 <div class="navigation-card">
                   <a
                     class="navigation-card__content"
@@ -43,15 +47,13 @@
                     style="background-color: #d2eafd"
                   >
                     <h3
-                      class="navigation-card__title navigation-card__title--small"
+                      class="navigation-card__title navigation-card__title--small nav-card-title"
                     >
                       {{ .Title }}
                     </h3>
-                    <p
-                      class="navigation-card__desc navigation-card__desc--small"
-                    >
-                      {{ .Params.navigation_link.text }}
-                    </p>
+                    <div class="nav-card-desc">
+                      {{ .Params.navigation_link.text | safeHTML }}
+                    </div>
                   </a>
                 </div>
               </div>
@@ -69,16 +71,77 @@
         "components/component-title.html" (dict "context" . "title"
         $support_processes)
       }}
+    </div>
+    <div class="container">
       {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/stoetteprosesser" }}
-        {{ range .Resources }}
-          {{ $accordion_id := .File.UniqueID }}
-          <div class="row d-flex justify-content-center mb-5">
-            <div class="col-10 col-lg-6">
-              {{ partial "components/accordion.html" (dict "context" . "title" .Title "id" $accordion_id "contents" (dict "col_1" .Content )) }}
+        <div class="process-card-container">
+          {{ .Content }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="component" style="background-color: #FFFFFF">
+    <div class="container-fluid px-5 divider-title">
+      {{ $responsible_method_and_expertise := (i18n "responsible-method-and-expertise") }}
+      {{ partial
+        "components/component-title.html" (dict "context" . "title"
+        $responsible_method_and_expertise)
+      }}
+    </div>
+    <div class="container">
+      {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/team/support-teams/metode-og-kompetanse" }}
+        <div class="row gy-3 justify-content-center">
+          <div class="col-lg-5">
+            <div class="navigation-card">
+              <a
+                class="navigation-card__content"
+                href="{{ .RelPermalink }}"
+                style="background-color: #FAEEC2"
+              >
+                <h3
+                  class="navigation-card__title navigation-card__title--small nav-card-title"
+                >
+                  {{ .Title }}
+                </h3>
+                <h4 class="navigation_link_title">
+                  {{ .Params.navigation_link.title }}
+                </h4>
+                <p class="navigation_link_subtitle">
+                  {{ .Params.navigation_link.subtitle }}
+                </p>
+              </a>
             </div>
           </div>
-        {{ end }}
+        </div>
       {{ end }}
+    </div>
+
+    {{ $img := (.Site.GetPage "/brukeropplevelse-og-datadeling/prosesser").Params.images.devops_loop }}
+    {{ $img_src := resources.Get $img.src }}
+    {{ $img_src := $img_src.Fit "418x295" }}
+    <div class="container">
+      <div class="row d-flex justify-content-center">
+        <div
+          class="d-flex justify-contents-start flex-column align-items-start"
+          style="width: fit-content; margin: 5rem 0"
+        >
+          <div class="row" style="width:fit-content">
+            <figure class="image is-3by2" style="width: fit-content ">
+              <img alt="{{ $img.alt }}" src="{{ $img_src.RelPermalink }}" />
+            </figure>
+          </div>
+          <div class="row" style="width:fit-content; padding-left:2rem;">
+            <a
+              class="external-link"
+              style="width:fit-content"
+              href="{{ $img.href }}"
+              target="_blank"
+              >{{ $img.text }}
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 {{ end }}
