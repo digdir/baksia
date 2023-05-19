@@ -27,7 +27,8 @@
 }
 
 .process-card {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
   gap: 0 3rem;
   background-color: $color-brand-second-200;
   border: 1px solid #d2d5d8;
@@ -42,6 +43,9 @@
 @media (max-width: 992px) {
   .process-card-container {
     grid-template-columns: repeat(1, 1fr);
+  }
+  .process-card {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 

@@ -1,5 +1,9 @@
 {{ define "main" }}
-  {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/utvikling" }}
+  {{ $sass := resources.Get "sass/process.scss" }}
+  {{ $style := $sass | resources.ToCSS }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+
+  {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/utvikling-drift" }}
     <div class="component" style="background-color: #FAEEC2">
       {{ partial "components/breadcrumbs.html" . }}
       <div class="container">
@@ -21,9 +25,12 @@
         </div>
       </div>
     </div>
+
     <div class="component">
-      <div class="container">
-        {{ .Content }}
+      <div class="container px-lg-5">
+        <div class="px-lg-5 px-lg-5">
+          {{ .Content }}
+        </div>
       </div>
     </div>
   {{ end }}
