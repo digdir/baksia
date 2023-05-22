@@ -22,6 +22,21 @@
           </div>
         </div>
       </div>
+
+      <div class="component" style="background-color: #F4F5F6">
+        <div class="container">
+          <div class="container-fluid px-5 divider-title line-yellow">
+            {{ $get_started_as_a_new_employee := (i18n "get-started-as-a-new-employee") }}
+            {{ partial
+              "components/component-title.html" (dict "context" . "title"
+              $get_started_as_a_new_employee)
+            }}
+          </div>
+          <div class="row">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
     {{ end }}
   </div>
 {{ end }}

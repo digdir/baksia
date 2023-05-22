@@ -1,33 +1,9 @@
 ---
 title: Onboarding
 ingress: |
-  Onboarding av nyansatte i Brukeropplevelse og datadeling (BOD) består av fem seksjoner: består av ulike deler: <br> <br>
+  Som nytilsatt i BOD inngår du i et generelt on-boardings-opplegg i regi av Digdir/HR. Du vil også få mer tilspisset fagopplæring, som er rettet til den rollen og oppgavene du skal løse for BOD. <br> <br>
 
-  1.	 Fagopplæring <br>
-  Det utarbeides en opplæringsplan for fagopplæring som er tilpasset den enkeltes rolle og oppgaver. 
-  Seksjonssjef er ansvarlig for at det utarbeides et opplegg og at aktiviteter gjennomføres. <br>
-  Fadder og mentor sørger for at den nyansatte kommer inn i faglig og sosialt miljø. <br> <br>
-
-  2.	Felles onboardingsaktiviteter <br>
-  Introduksjon til BODs fagområder, organisering, arbeidsmetodikk, verktøy, kultur med mer og er i regi av 
-  kompetanse-og opplæringsansvarlig. Aktivitetene bookes i Outlook og samles i en tidsplan som sendes til deltakerne.
-  Ansatte som har kontorsted Brønnøysund, men tilhører andre avdelinger får tilbud om å delta på opplegget. 
-  Gi beskjed dersom du blir forhindret i å delta på planlagt opplegg. Opplegget er under kontinuerlig utvikling 
-  takket være tilbakemeldinger fra deltakere.  <br> <br>
-
-  3. Obligatoriske Digdir -tema 
-  Opplæring innen informasjonssikkerhet, HR og arkiv gjennomføres regelmessig for alle nye ansatte i Digdir. 
-  Innkalling i Outlook. <br> <br>
-    
-  4. Selvstudium 
-  Som nyansatt i staten skal du i løpet av de første seks månedene skal du ha gjennomført e-læringskursene God start <br> <br>
-
-  5. Halvdagssamling for alle nyansatte 
-  Gjennomføres regelmessig av HR. Har du sjekket ut  Velkomst-appen?
-
-# SEO
-description:
-keywords:
+  Her finner du link til relevante sider i on-boardings-sammenheng.
 
 banner:
   image:
@@ -46,3 +22,57 @@ navigation_link:
   text: |
     Kom i gang som nyansatt i Brukeropplevelse og datadeling
 ---
+
+{{< onboarding/ext-nav-card
+  title="Velkomst-appen"
+
+  description="I denne appen finner du nyttig informasjon slik at du kan få en god start på din karriere hos oss."
+
+  external_url="https://apps.powerapps.com/play/e/default-008e560f-08af-4cec-a056-b35447503991/a/65562a2f-aa73-42ed-b09f-ff590abfb236?tenantId=008e560f-08af-4cec-a056-b35447503991&source=email&hint=681578c1-8684-45fa-a71e-2c7faba4c6e7&skipAppMetadata=true"
+>}}
+
+
+{{< onboarding/ext-nav-card
+  title="Å starte i staten"
+
+  description="Gir en rask innføring i grunnleggende forvaltningskompetanse"
+
+  external_url="https://laeringsplattformen.dfo.no/kursoversikt/starte-i-staten-eit-introduksjonsprogram-nytilsette"
+>}}
+
+
+{{< onboarding/ext-nav-card
+  title="IT-sikkerhet"
+
+  description="Informasjonssikkerhet i Digitaliseringsdirektoratet"
+
+  external_url="https://digdir.sharepoint.com/sites/Notita/Delte%20dokumenter/Forms/AllItems.aspx?id=%2Fsites%2FNotita%2FDelte%20dokumenter%2FGeneral%2FInformasjonssikkerhet%20i%20DigDir%2Epdf&parent=%2Fsites%2FNotita%2FDelte%20dokumenter%2FGeneral"
+>}}
+
+
+{{< onboarding/ext-nav-card
+  title="Ansatt- og lederportal"
+
+  description="I denne portalen finner du en samlet oversikt over regler, rutiner og retningslinjer som er relevante i arbeidsforholdet."
+
+  external_url="https://login.simployer.com/login?state=hKFo2SBVMFEyTFV0WnpuT2xfMzcweElUVlJnWC1TdGNMZEhJVKFupWxvZ2luo3RpZNkgRkdEUGs5OTV1Mlk2dG1LeFExNHpRNTJNdndiWlhQbzKjY2lk2SBNaFlHOTUyQWxaTjZEWGtvSHpvWnRVMFp1QlBtNkhwNA&client=MhYG952AlZN6DXkoHzoZtU0ZuBPm6Hp4&protocol=oauth2&redirect_uri=https%3A%2F%2Fhandbooks.simployer.com%2Fsignin-auth0&response_type=code&scope=openid%20profile%20email%20context%20auth0_migration&code_challenge=ZmI_6unLrh2hvbhSwbvMK5ixAaJBTZgTVtFfDEBCXdE&code_challenge_method=S256&response_mode=form_post&nonce=638203789767153062.ZmU0ZWJmODUtZmQzOC00Mjk3LTg0NTEtMWRkMmZkNzRhMWU1ZDI5MTNhYTItYjA2My00YTYyLThlNDEtMjYzMjNkNTk3ODNj&audience=simployer-default&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=5.6.0.0"
+>}}
+
+
+{{< onboarding/ext-nav-card
+  title="It-hjelp"
+
+  description="I denne teams-kanalen kan man få hjelp"
+
+  external_url="https://teams.microsoft.com/_?tenantId=008e560f-08af-4cec-a056-b35447503991#/conversations/IT-hjelp?groupId=69a578ee-b915-43ed-96dc-f1e9c1f05cdd&threadId=19:c8aea9a880604431a0a566bffea59ee3@thread.tacv2&ctx=channel"
+>}}
+
+
+{{< onboarding/ext-nav-card
+  title="BOD fagopplæring"
+
+  description="Rollebeskriveskrivelsene på teams"
+
+  external_url=""
+>}}
+
