@@ -35,13 +35,3 @@ navigation_link:
     Avdeling Brukeropplevelse og Datadeling (BOD) er en av to avdelinger
     i Digdir som er ansvarlige for å levere fellesløsninger.
 ---
-
-## erer
-
-asdASDASdASDAdASD
-
-# sdfsd
-
-agrdfgasdgfasdfasdfasdf
-
-fawedfadfasdfasdf

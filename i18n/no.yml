@@ -46,3 +46,5 @@
   translation: 'output'
 - id: 'responsible-method-and-expertise'
   translation: 'Ansvarlig: team metode og kompentase, mer info her:'
+- id: 'responsible-management'
+  translation: 'Ansvarlig: Styringsteamet, mer info her:'
