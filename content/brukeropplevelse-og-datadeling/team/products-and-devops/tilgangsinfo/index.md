@@ -1,5 +1,5 @@
 ---
-title: Team tilgangsinfo
+title: Team - tilgangsinfo
 
 navigation_link:
   title: Produkteier
@@ -16,12 +16,12 @@ weight: 7
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Producteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/5788415?v=4" name="Espen Kørra" role="Producteier" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Team arkitekt, infrastruktur, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum Master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/94476391?v=4" name="Torgeir Holen" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/34273718?v=4" name="Dhanalakshmi Gopalswamy" role="Backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/75827794?v=4" name="Sondre Bråthen" role="Backend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
