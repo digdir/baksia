@@ -16,7 +16,7 @@ weight: 11
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/29474941?v=4" name="Elin Walstrand" role="Producteier" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/29474941?v=4" name="Elin Walstrand" role="Producteier," >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/75472603?v=4" name="Andreas Didriksen" role="Skjemautvikler" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/65394379?v=4" name="Tony Grimstad" role="Skjemautvikler" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47383888?v=4" name="Roger Kjærnsrød" role="Skjemautvikler">}}
