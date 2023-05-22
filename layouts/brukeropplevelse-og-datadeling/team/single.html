@@ -2,10 +2,7 @@
   {{ $sass := resources.Get "sass/team.scss" }}
   {{ $style := $sass | resources.ToCSS }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
-  
-  {{ with .Site.GetPage
-    "/brukeropplevelse-og-datadeling/team/products-and-devops/apps"
-  }}
+  {{ with .Page }}
     <div class="component" style="background-color: #faeec2">
       {{ partial "components/breadcrumbs.html" . }}
       <div class="container">
@@ -26,6 +23,7 @@
       </div>
     </div>
   {{ end }}
+
 
   <div class="component" style="background-color: #FFFFFF">
     <div class="container">
