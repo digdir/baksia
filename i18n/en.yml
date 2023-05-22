@@ -47,3 +47,5 @@
   translation: 'Output'
 - id: 'responsible-method-and-expertise'
   translation: 'Responsible: team method and expertise, more info here:'
+- id: 'responsible-management'
+  translation: 'Responsible: The management team, more info here:'

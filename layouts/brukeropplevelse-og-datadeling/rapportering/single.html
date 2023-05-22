@@ -27,7 +27,8 @@
       </div>
     {{ end }}
   </div>
-  <div class="component">
+
+  <div class="component" style="background-color: #FFFFFF">
     <div class="container">
       <div class="row d-flex justify-content-between">
         {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/rapportering" }}
@@ -38,6 +39,43 @@
           {{ end }}
         {{ end }}
       </div>
+    </div>
+  </div>
+
+  <div class="component" style="background-color: #FFFFFF">
+    <div class="container-fluid px-5 divider-title">
+      {{ $responsible_management := (i18n "responsible-management") }}
+      {{ partial
+        "components/component-title.html" (dict "context" . "title"
+        $responsible_management)
+      }}
+    </div>
+    <div class="container">
+      {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/team/support-teams/styringsteamet" }}
+        <div class="row gy-3 justify-content-center">
+          <div class="col-lg-4">
+            <div class="navigation-card">
+              <a
+                class="navigation-card__content"
+                href="{{ .RelPermalink }}"
+                style="background-color: #FAEEC2"
+              >
+                <h3
+                  class="navigation-card__title navigation-card__title--small"
+                >
+                  {{ .Title }}
+                </h3>
+                <h4 class="navigation_link_title">
+                  {{ .Params.navigation_link.title }}
+                </h4>
+                <p class="navigation_link_subtitle">
+                  {{ .Params.navigation_link.subtitle }}
+                </p>
+              </a>
+            </div>
+          </div>
+        </div>
+      {{ end }}
     </div>
   </div>
 {{ end }}
