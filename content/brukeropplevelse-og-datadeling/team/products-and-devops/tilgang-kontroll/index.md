@@ -1,5 +1,5 @@
 ---
-title: Team tilgangsstyring og kontroll
+title: Team - tilgangsstyring og kontroll
 
 navigation_link:
   title: Produkteier
