@@ -14,5 +14,3 @@ menu:
   main:
     weight: 30
 ---
-
-For å bli verdensmester...

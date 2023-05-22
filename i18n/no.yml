@@ -48,3 +48,5 @@
   translation: 'Ansvarlig: team metode og kompentase, mer info her:'
 - id: 'responsible-management'
   translation: 'Ansvarlig: Styringsteamet, mer info her:'
+- id: 'get-started-as-a-new-employee'
+  translation: 'Kom i gang som nyansatt'
