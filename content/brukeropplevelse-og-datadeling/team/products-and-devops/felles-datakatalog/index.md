@@ -16,18 +16,19 @@ weight: 4
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Producteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/110605570?v=4" name="Kjersti Steien" role="Producteier, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="Team arkitekt" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum Master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/50879748?v=4" name="Pooria Mehregan" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/108797958?v=4" name="Terje Sylvarnes" role="Frontend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/430997?v=4" name="Jeff Reiffers" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/50194012?v=4" name="Nils Ove Tendenes" role="Backend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Hege Aalvik" role="Fullstack">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/8625716?v=4" name="Hans Olav Sund" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Mateus Furuløkken" role="Interaksjonsdesigner">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Espen Slotvik" role="Behovsdriver">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Roger Stenbakk Olsen" role="Behovsdriver">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Terje Bertelsen" role="Behovsdriver">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
