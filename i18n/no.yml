@@ -50,3 +50,5 @@
   translation: 'Ansvarlig: Styringsteamet, mer info her:'
 - id: 'get-started-as-a-new-employee'
   translation: 'Kom i gang som nyansatt'
+- id: 'product-groups'
+  translation: 'Produktgrupper i Digdir'
