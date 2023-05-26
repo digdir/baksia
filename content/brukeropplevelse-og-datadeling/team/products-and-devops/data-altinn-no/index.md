@@ -34,6 +34,5 @@ weight: 8
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-Drift, forvaltning og videreutvikling av Data.altinn.no
-Utvikling av MVP for Digitalt dødsbo (Q1 2024)
-
+- Drift, forvaltning og videreutvikling av Data.altinn.no
+-	Utvikling av MVP for Digitalt dødsbo (Q1 2024)
