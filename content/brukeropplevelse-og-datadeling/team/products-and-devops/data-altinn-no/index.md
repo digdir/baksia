@@ -36,4 +36,3 @@ weight: 8
 
 - Drift, forvaltning og videreutvikling av Data.altinn.no
 -	Utvikling av MVP for Digitalt dødsbo (Q1 2024)
-
