@@ -15,7 +15,7 @@ keywords:
 
 layout: 'seksjoner/single'
 
-weight: 1
+weight: 4
 
 # determines if this content should be rendered in the
 # first section of the page as a blue box
