@@ -52,3 +52,5 @@
   translation: 'Kom i gang som nyansatt'
 - id: 'product-groups'
   translation: 'Produktgrupper i Digdir'
+- id: 'overview-of-information'
+  translation: 'Oversikt over informasjonskilder og verktøy '
