@@ -18,7 +18,7 @@ banner:
 
 layout: 'produkter/single'
 
-weight: 3
+weight: 1
 
 # determines if this content should be rendered in the
 # first section of the page as a blue box
