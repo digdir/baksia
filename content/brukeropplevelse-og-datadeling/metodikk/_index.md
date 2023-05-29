@@ -2,10 +2,6 @@
 title: Metodikk
 ingress: |
 
-# SEO
-description:
-keywords:
-
 banner:
   image:
     src: /illustrations/illustration-11.png

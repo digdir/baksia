@@ -10,7 +10,7 @@ banner:
     src: /illustrations/illustration-10.png
     alt:
 
-layout: 'onboarding/single'
+layout: 'onboarding/list'
 
 weight: 6
 
@@ -65,14 +65,5 @@ navigation_link:
   description="I denne teams-kanalen kan man få hjelp"
 
   external_url="https://teams.microsoft.com/_?tenantId=008e560f-08af-4cec-a056-b35447503991#/conversations/IT-hjelp?groupId=69a578ee-b915-43ed-96dc-f1e9c1f05cdd&threadId=19:c8aea9a880604431a0a566bffea59ee3@thread.tacv2&ctx=channel"
->}}
-
-
-{{< onboarding/ext-nav-card
-  title="BOD fagopplæring"
-
-  description="Rollebeskriveskrivelsene på teams"
-
-  external_url=""
 >}}
 
