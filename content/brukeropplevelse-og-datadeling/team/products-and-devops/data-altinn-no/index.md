@@ -1,6 +1,6 @@
 ---
 title: Data.altinn.no
-Data.altinn.no er laget for å kunne forenkle deling av data mellom virksomheter, med formål om å gjenbruke informasjon direkte fra kilden – i sanntid.
+  Data.altinn.no er laget for å kunne forenkle deling av data mellom virksomheter, med formål om å gjenbruke informasjon direkte fra kilden – i sanntid.
 
 navigation_link:
   title: Produkteier
@@ -35,4 +35,4 @@ weight: 8
 {{< team/responsibilities title="Ansvarsområder" >}}
 
 - Drift, forvaltning og videreutvikling av Data.altinn.no
--	Utvikling av MVP for Digitalt dødsbo (Q1 2024)
+- Utvikling av MVP for Digitalt dødsbo (Q1 2024)

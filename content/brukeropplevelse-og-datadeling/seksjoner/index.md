@@ -1,7 +1,7 @@
 ---
 title: Seksjoner
 ingress: |
-  Brukeropplevelse og datadeling (BOD) består av fem seksjoner: <br>
+  Brukeropplevelse og datadeling (BOD) består av fem seksjoner: <br> <br>
   Strategi og forretningsutvikling (BSF) <br>
   Brukeropplevelse (BBO) <br>
   Utvikling (BUT) <br>
