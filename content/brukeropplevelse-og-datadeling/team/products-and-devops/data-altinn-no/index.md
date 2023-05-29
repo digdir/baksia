@@ -1,6 +1,9 @@
 ---
 title: Data.altinn.no
-  Data.altinn.no er laget for å kunne forenkle deling av data mellom virksomheter, med formål om å gjenbruke informasjon direkte fra kilden – i sanntid.
+
+ingress:
+  Data.altinn.no er laget for å kunne forenkle deling av data mellom virksomheter,
+  med formål om å gjenbruke informasjon direkte fra kilden – i sanntid.
 
 navigation_link:
   title: Produkteier
