@@ -3,6 +3,9 @@ banner:
   image:
     src: /illustrations/illustration-09.png
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    position: left
+
+weight: 1
 ---
 
 ## Strategi og forretningsutvikling
