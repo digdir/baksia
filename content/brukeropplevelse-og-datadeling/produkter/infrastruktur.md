@@ -1,7 +1,9 @@
 ---
 title: Infrastruktur
 
-weight: 7
+isNotCard: true
+
+weight: 8
 ---
 
 ## Infrastruktur

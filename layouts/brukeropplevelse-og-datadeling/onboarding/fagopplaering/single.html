@@ -1,0 +1,83 @@
+{{ define "main" }}
+  {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/onboarding/fagopplaering" }}
+    <div class="component" style="background-color: #faeec2">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 my-auto">
+            <h1 class="">{{ .Title }}</h1>
+            <p class="ingress mb-5 mb-lg-0">{{ .Params.ingress }}</p>
+          </div>
+          <div
+            class="col-lg-6 d-flex justify-content-sm-center justify-content-lg-end "
+          >
+            <div>
+              {{ partial "components/image.html" (dict "context" . "image"
+                .Params.banner.image)
+              }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{ range .Resources }}
+      <div class="component" style="background-color: #d2eafd">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8">
+              {{ .Content }}
+            </div>
+            <div
+              class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+            >
+              <div class="my-auto">
+                {{ partial "components/content-image.html" (dict "context" . "image"
+                  .Params.banner.image)
+                }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+
+
+    <div class="component mb-5">
+      <div class="container line-yellow">
+        {{ $responsible_method_and_expertise := (i18n
+          "responsible-method-and-expertise")
+        }}
+        {{ partial
+          "components/component-title.html" (dict "context" . "title"
+          $responsible_method_and_expertise)
+        }}
+
+        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/team/support-teams/metode-og-kompetanse" }}
+          <div class="d-flex justify-content-center">
+            <div class="col-lg-4">
+              <div class="navigation-card">
+                <a
+                  class="navigation-card__content"
+                  href="{{ .RelPermalink }}"
+                  style="background-color: #FAEEC2"
+                >
+                  <h3
+                    class="navigation-card__title navigation-card__title--small"
+                  >
+                    {{ .Title }}
+                  </h3>
+                  <h4 class="navigation_link_title">
+                    {{ .Params.navigation_link.title }}
+                  </h4>
+                  <p class="navigation_link_subtitle">
+                    {{ .Params.navigation_link.subtitle }}
+                  </p>
+                </a>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+{{ end }}

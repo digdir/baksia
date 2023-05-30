@@ -3,6 +3,9 @@ banner:
   image:
     src: /illustrations/illustration-04.png
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    position: left
+
+weight: 3
 ---
 
 ## Utvikling
