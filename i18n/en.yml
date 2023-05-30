@@ -53,3 +53,5 @@
   translation: 'Get started as a new employee'
 - id: 'product-groups'
   translation: 'Product groups in Digdir'
+- id: 'overview-of-information'
+  translation: 'Overview of information sources and tools '
