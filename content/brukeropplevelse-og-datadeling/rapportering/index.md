@@ -10,8 +10,9 @@ ingress: |
   Det er oftest opp til linjeledelsen å planlegge tiltak og gjennomføre prioriteringer. 
   Ved at alle i virksomheten er med på å rapportere, så har vi mulighet til 
   å etablere statistikk, dokumentasjon og konstatere fakta. På den måten kan det 
-  prioriteringsarbeidet styres i ønsket retning, og etter målsetting. Styrings-teamet støtter
+  prioriteringsarbeidet styres i ønsket retning, og etter målsetting. Styringsteamet støtter
   avdelingen i å implementere målinger og rapporteringer.
+  
 
 # SEO
 description:
