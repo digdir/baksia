@@ -1,0 +1,6 @@
+{{ $title := .Get "title" }}
+
+
+<div class="col-10 col-md-4" style="margin-bottom: 1.5rem">
+  {{ partial "components/accordion.html" (dict "context" . "title" $title "content" .Inner ) }}
+</div>

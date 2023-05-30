@@ -1,5 +1,5 @@
 ---
-title: Rapportering
+title: Styringsstruktur for produkter (rapportering)
 ingress: |
   Et rapporteringssystem vil bidra til å avdekke områder som har forbedringspotensial
   og lette prioriteringer for tiltak. Ved å implementere et effektivt rapporteringssystem
@@ -12,6 +12,7 @@ ingress: |
   å etablere statistikk, dokumentasjon og konstatere fakta. På den måten kan det 
   prioriteringsarbeidet styres i ønsket retning, og etter målsetting. Styringsteamet støtter
   avdelingen i å implementere målinger og rapporteringer.
+  
 
 # SEO
 description:

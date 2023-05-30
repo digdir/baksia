@@ -1,7 +1,9 @@
 ---
 title: Produkter i felles datakatalog
 
-weight: 6
+isNotCard: true
+
+weight: 7
 ---
 
 ## Produkter i felles datakatalog
