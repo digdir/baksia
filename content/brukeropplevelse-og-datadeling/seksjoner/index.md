@@ -1,7 +1,7 @@
 ---
 title: Seksjoner
 ingress: |
-  Brukeropplevelse og datadeling (BOD) består av fem seksjoner: <br>
+  Brukeropplevelse og datadeling (BOD) består av fem seksjoner: <br> <br>
   Strategi og forretningsutvikling (BSF) <br>
   Brukeropplevelse (BBO) <br>
   Utvikling (BUT) <br>
@@ -15,7 +15,7 @@ keywords:
 
 layout: 'seksjoner/single'
 
-weight: 1
+weight: 4
 
 # determines if this content should be rendered in the
 # first section of the page as a blue box

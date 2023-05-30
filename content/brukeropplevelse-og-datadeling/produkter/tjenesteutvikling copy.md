@@ -1,13 +1,13 @@
 ---
-title: Tjenesteutvikling
+title: Oppslag og innsyn
 
-weight: 3
+weight: 5
 ---
 
-## Tjenesteutvikling
+## Oppslag og innsyn
 
 Produktgruppeansvarlig:  
-Eirik Mikkelsen
+Jon Håkon Odd
 
 {{< icon class="prod-li-start-icon" >}} [Tjenester 2.0](https://altinn.github.io/docs/)  
 {{< icon class="prod-li-start-icon" >}} [Tjenester 3.0](https://docs.altinn.studio/nb/)  

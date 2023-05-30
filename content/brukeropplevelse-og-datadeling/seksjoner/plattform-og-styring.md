@@ -3,6 +3,9 @@ banner:
   image:
     src: /illustrations/illustration-08.png
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    position: right
+
+weight: 4
 ---
 
 ## Plattform og styring

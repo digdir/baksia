@@ -1,39 +1,62 @@
 {{ define "main" }}
-  <div>
-    {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/produkter" }}
-      <div class="component" style="background-color: #a5d6fb">
-        {{ partial "components/breadcrumbs.html" . }}
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-8 my-auto">
-              <h1 class="">{{ .Title }}</h1>
-              <p class="ingress mb-5 mb-lg-0">{{ .Params.ingress }}</p>
-            </div>
-            <div
-              class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
-            >
-              <div>
-                {{ partial "components/image.html" (dict "context" . "image"
-                  .Params.banner.image)
-                }}
-              </div>
+  {{ $sass := resources.Get "sass/produkter.scss" }}
+  {{ $style := $sass | resources.ToCSS }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+
+  {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/produkter" }}
+    <div class="component" style="background-color: #a5d6fb">
+      {{ partial "components/breadcrumbs.html" . }}
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 my-auto">
+            <h1 class="">{{ .Title }}</h1>
+            <p class="ingress mb-5 mb-lg-0">{{ .Params.ingress }}</p>
+          </div>
+          <div
+            class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+          >
+            <div>
+              {{ partial "components/image.html" (dict "context" . "image"
+                .Params.banner.image)
+              }}
             </div>
           </div>
         </div>
       </div>
-    {{ end }}
-  </div>
-  <div class="component">
-    <div class="container">
-      <div class="row d-flex justify-content-between" style="padding: 0 10%">
-        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/produkter" }}
+    </div>
+
+    <div class="component w-100">
+      <div class="container">
+        <div class="line-yellow">
+          {{ $product_groups := (i18n "product-groups") }}
+          {{ partial
+            "components/component-title.html" (dict "context" . "title"
+            $product_groups)
+          }}
+        </div>
+
+        <div class="row d-flex justify-content-center gx-5">
           {{ range .Resources }}
-            <div class="col-10 col-md-4 product-li">
-              {{ .Content }}
-            </div>
+            {{ if ne .Params.isNotCard true }}
+              <div class="col-md-5 col-lg-3 product-card m-3">
+                {{ .Content }}
+              </div>
+            {{ end }}
           {{ end }}
-        {{ end }}
+        </div>
+
+        <div class="d-sm-flex justify-content-center">
+          {{ range .Resources }}
+            {{ if eq .Params.isNotCard true }}
+              <div
+                class="col-12 col-sm-6 col-md-5  col-lg-4 p-md-5 p-lg-0 m-lg-2"
+              >
+                {{ .Content }}
+              </div>
+            {{ end }}
+          {{ end }}
+        </div>
       </div>
     </div>
-  </div>
+  {{ end }}
 {{ end }}

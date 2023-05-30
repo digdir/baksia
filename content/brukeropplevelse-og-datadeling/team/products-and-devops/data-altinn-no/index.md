@@ -1,6 +1,10 @@
 ---
 title: Data.altinn.no
 
+ingress:
+  Data.altinn.no er laget for å kunne forenkle deling av data mellom virksomheter,
+  med formål om å gjenbruke informasjon direkte fra kilden – i sanntid.
+
 navigation_link:
   title: Produkteier
   subtitle: Erlend Oksvoll
@@ -33,9 +37,5 @@ weight: 8
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
-- Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- Drift, forvaltning og videreutvikling av Data.altinn.no
+- Utvikling av MVP for Digitalt dødsbo (Q1 2024)
