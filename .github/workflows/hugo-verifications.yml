@@ -21,8 +21,10 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build docs
-        run: hugo
+      - run: npm install
+
+      - name: Build
+        run: hugo --environment production
 
       - name: Verify links
         uses: untitaker/hyperlink@0.1.27
