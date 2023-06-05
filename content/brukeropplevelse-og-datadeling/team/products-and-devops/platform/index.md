@@ -1,5 +1,6 @@
 ---
 title: Team - Platform (Altinn 3)
+ingress: Hovedansvar for å utvikle og forvalte felleskomponenter på Altinn 3 løsningen samt drift og forvaltning av infrastruktur
 
 ingress:
   Platform Altinn 3 har som hovedansvar å utvikle/forvalte felleskomponenter på løsningen og forvalte/drifte infrastruktur for Altinn 3.
@@ -41,5 +42,6 @@ weight: 3
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Utvikle felleskomponenter for Altinn 3 (Eks: Backup, overvåking, varsling mm)
-- Forvalte og drifte Altinn 3 infrastruktur
+- Utvikling av felleskomponenter på Altinn 3 (Eks backup, overvåkingsløsninger)
+- Drift og forvaltning av Altinn 3 infrastruktur
+- Sikre god dokumentasjon og veiledning til våre brukere av felleskomponenter
