@@ -1,6 +1,6 @@
 ---
 title: Team - Platform (Altinn 3)
-Hovedansvar for å utvikle og forvalte felleskomponenter på Altinn 3 løsningen samt drift og forvaltning av infrastruktur
+ingress: Hovedansvar for å utvikle og forvalte felleskomponenter på Altinn 3 løsningen samt drift og forvaltning av infrastruktur
 
 navigation_link:
   title: Produkteier
