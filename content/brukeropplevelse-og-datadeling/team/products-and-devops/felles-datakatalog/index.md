@@ -1,9 +1,11 @@
 ---
 title: Felles datakatalog
+ingress: Felles datakatalog er en oversikt over hvilke data de ulike offentlige virksomhetene har, hvordan de henger sammen og hva de betyr.
 
 navigation_link:
   title: Produkteier
   subtitle: Kjersti Steien
+  
 
 layout: 'team/single'
 
