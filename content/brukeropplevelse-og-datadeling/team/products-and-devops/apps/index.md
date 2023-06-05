@@ -1,8 +1,6 @@
 ---
 title: Team - Apps
-
-Ingress:
-Team Apps har ansvar for den delen av Altinn 3 som møter sluttbrukerne når de fyller inn et skjema - fra de oppretter skjema til det er levert til tjenesteeier.
+ingress: Team Apps har ansvar for den delen av Altinn 3 som møter sluttbrukerne når de fyller inn et skjema - fra de oppretter skjema til det er levert til tjenesteeier.
 
 navigation_link:
   title: Produkteier
