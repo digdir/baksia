@@ -15,7 +15,7 @@ banner:
 weight: 4
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="fdk-project.slack.com" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://fdk-project.slack.com" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/110605570?v=4" name="Kjersti Steien" role="Producteier" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="Team arkitekt" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum Master" >}}
