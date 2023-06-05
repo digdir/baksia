@@ -2,6 +2,9 @@
 title: Team - Platform (Altinn 3)
 ingress: Hovedansvar for å utvikle og forvalte felleskomponenter på Altinn 3 løsningen samt drift og forvaltning av infrastruktur
 
+ingress:
+  Platform Altinn 3 har som hovedansvar å utvikle/forvalte felleskomponenter på løsningen og forvalte/drifte infrastruktur for Altinn 3.
+
 navigation_link:
   title: Produkteier
   subtitle: Torkel Buarøy
@@ -16,7 +19,7 @@ banner:
 weight: 3
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C0378DYQ7B9" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89571254?v=4" name="Torkel Buarøy" role="Producteier" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum Master" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/2217340?v=4" name="Terje Holene" role="Team arkitekt, infrastruktur, backend" >}}
@@ -42,4 +45,3 @@ weight: 3
 - Utvikling av felleskomponenter på Altinn 3 (Eks backup, overvåkingsløsninger)
 - Drift og forvaltning av Altinn 3 infrastruktur
 - Sikre god dokumentasjon og veiledning til våre brukere av felleskomponenter
-
