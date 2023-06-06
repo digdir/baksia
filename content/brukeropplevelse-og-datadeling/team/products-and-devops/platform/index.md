@@ -2,9 +2,6 @@
 title: Team - Platform (Altinn 3)
 ingress: Team Platform har hovedansvar for å utvikle felleskomponenter som skal understøtte ulike produkter i Altinn 3 samt drift/forvaltning av infrastruktur
 
-ingress:
-  Platform Altinn 3 har som hovedansvar å utvikle/forvalte felleskomponenter på løsningen og forvalte/drifte infrastruktur for Altinn 3.
-
 navigation_link:
   title: Produkteier
   subtitle: Torkel Buarøy
