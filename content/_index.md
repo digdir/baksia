@@ -1,6 +1,6 @@
 ---
 title: Velkommen til Baksia!
-ingress: Her finner du informasjon om hvordan Digdir er organisert, for eksempel... ansvarsfordeling, arbeidsform og styring skjer i forvaltning og videreutvikling av våre produkter.
+ingress: Her finner du informasjon om hvordan vi i Digdir forvalter og og videreutvikler produktene våre, for eksmempler hvordan vi styrer, jobber og fordeler ansvaret for arbeidet.
 
 # SEO
 description:
