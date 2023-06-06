@@ -40,18 +40,18 @@ weight: 6
 
 - Support og vedlikehold av autorisasjons-funksjonalitet i Altinn 2
 - Access Management (PAP)
-    Tilgangsgrupper
+    - Tilgangsgrupper
         Fase ut Altinn 2 roller
-    Autorative kilder
+    - Autorative kilder
         Knytning mot ER roller og andre Autoriative kilder
         Nye autoriative kilder som grunnlag for autorisasjon
         Ansvar og kontakt mot Enhetsregisteret
-    API og GUI for tilgangsstyring
-    Forespørsel om rettighet/rolle osv
-    Registere delegering (policy)
+   -  API og GUI for tilgangsstyring
+   -  Forespørsel om rettighet/rolle osv
+   -  Registere delegering (policy)
         Gi rolle/rettighet/tilgangsgruppe til noen
 - Access Control
-    Policy Enforcement Point  (PEP)
-    Policy Desicion point (PDP)
-    Avgiverliste
-    API for tjenesteeiere vedr tilgangskontroll
+   - Policy Enforcement Point  (PEP)
+   - Policy Desicion point (PDP)
+   - Avgiverliste
+   - API for tjenesteeiere vedr tilgangskontroll
