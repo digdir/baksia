@@ -1,5 +1,6 @@
 ---
 title: Team - Studio
+Ingress: Team Studuo har ansvar for den delen av Altinn 3 som møter tjenesteutviklere og tjenesteeiere når de skal utvikle en tjeneste – alt fra å opprette tjenesten til konfigurasjon, skjemautvikling, test og deploy.
 
 navigation_link:
   title: Produkteier
