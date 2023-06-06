@@ -1,6 +1,6 @@
 ---
 title: Team - Studio
-Ingress: Team Studuo har ansvar for den delen av Altinn 3 som møter tjenesteutviklere og tjenesteeiere når de skal utvikle en tjeneste – alt fra å opprette tjenesten til konfigurasjon, skjemautvikling, test og deploy.
+Ingress: Team Studio har ansvar for den delen av Altinn 3 som møter tjenesteutviklere og tjenesteeiere når de skal utvikle en tjeneste – alt fra å opprette tjenesten til konfigurasjon, skjemautvikling, test og deploy.
 
 navigation_link:
   title: Produkteier
@@ -29,13 +29,19 @@ weight: 1
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/Altinn/projects/10/views/1" url_text="Github">}}
+{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/Altinn/projects/36/views/22" url_text="Github">}}
 {{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/Altinn/projects/36/views/3" url_text="Github" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="Github" >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/36/views/1" url_text="Github" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Studio xxx
-- Studio xxx
+- Altinn Studio Designer (En del av tjenesteutviklingsverktøyet i Altinn Studio produktet)
+-	Altinn Studio Repositories (Gitea) (En del av tjenesteutviklingsverktøyet i Altinn Studio produktet)
+-	LocalTest (Mock av Altinn Plattform til bruk for lokal test av app’er under utvikling)
+-	Dokumentasjon
+-	Bidra til felles desingsystem
+-	DevOps Team med totalansvar fra ide til produksjon
+
+
 
