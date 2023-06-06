@@ -1,5 +1,6 @@
 ---
 title: Team - tilgangsstyring og kontroll
+Ingress: Team Tilgangsstyring og kontroll er et av to team knyttet til Altinn autorisasjon som har hovedansvar alt rundt tilgangsstyring i Altinn 2 og Altinn 3
 
 navigation_link:
   title: Produkteier
@@ -15,8 +16,8 @@ banner:
 weight: 6
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/25847572?v=4" name="Siv Aglen" role="Producteier" >}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/CE5E06MC7" slack_url_text="Slackkanal for teamet">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/25847572?v=4" name="Siv Aglen" role="Produkteier" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/40996230?v=4" name="Jon-Kjetil Øye" role="Team arkitekt, backend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36295493?v=4" name="Ragnhild Tafjord" role="Scrum Master" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/31471142?v=4" name="Albert Larsen" role="Frontend">}}
@@ -37,9 +38,20 @@ weight: 6
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
-- Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- Support og vedlikehold av autorisasjons-funksjonalitet i Altinn 2
+- Access Management (PAP)
+    Tilgangsgrupper
+        Fase ut Altinn 2 roller
+    Autorative kilder
+        Knytning mot ER roller og andre Autoriative kilder
+        Nye autoriative kilder som grunnlag for autorisasjon
+        Ansvar og kontakt mot Enhetsregisteret
+    API og GUI for tilgangsstyring
+    Forespørsel om rettighet/rolle osv
+    Registere delegering (policy)
+        Gi rolle/rettighet/tilgangsgruppe til noen
+- Access Control
+    Policy Enforcement Point  (PEP)
+    Policy Desicion point (PDP)
+    Avgiverliste
+    API for tjenesteeiere vedr tilgangskontroll
