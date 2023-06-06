@@ -1,6 +1,6 @@
 ---
 title: Velkommen til Baksia!
-ingress: Her finner du informasjon om hvordan vi er organisert dvs. hvordan ansvarsfordeling, arbeidsform og styring skjer i forvaltning og videreutvikling av våre produkter.
+ingress: Her finner du informasjon om hvordan vi er organisert, ansvarsfordeling, arbeidsform og styring skjer i forvaltning og videreutvikling av våre produkter.
 
 # SEO
 description:
