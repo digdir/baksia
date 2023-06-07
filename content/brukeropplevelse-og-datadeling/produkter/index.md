@@ -1,7 +1,7 @@
 ---
 title: Produkter
 ingress: |
-  Avdeling Brukeropplevelse og datadeling (BOD) og Avdeling for fellesløsninger (FEL)leverer begge fellesløsninger som er til gode for samfunnet. Fellesløsningene Digdir leverer er inndelt
+  Avdeling Brukeropplevelse og datadeling (BOD) og Avdeling for fellesløsninger (FEL) leverer begge fellesløsninger som er til gode for samfunnet. Fellesløsningene til Digdir er inndelt
   i produktgrupper, og BOD er ansvarlig for produktgruppene Datadeling, Tjenesteutvikling
   og portaler og Brukeropplevelse. FEL er ansvarlig for
   produktgruppene Tillitstjenester, Meldingsutveksling og Oppslag og innsyn.
