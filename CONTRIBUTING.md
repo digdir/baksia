@@ -8,7 +8,7 @@ We use YAML as front matter.
 
 1. Download and install [Git](https://git-scm.com/downloads) and clone the [baksia repository](https://github.com/digdir/baksia) to a local folder:
 ```bash
-git clone https://github.com/digdir/baksia
+git clone https://github.com/digdir/baksia --recurse-submodules --remote-submodules
 ```
 2. We recommend downloading and using [visual studio code](https://code.visualstudio.com) with
    - [this markdown extension](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) for editing markdown and
