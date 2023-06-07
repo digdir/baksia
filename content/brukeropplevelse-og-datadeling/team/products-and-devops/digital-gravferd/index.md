@@ -16,11 +16,11 @@ weight: 12
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C04PR2LBRDG" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Morten Foshaug" role="Tech Lead" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Andreas Fjeldal" role="Team arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Astrid Mogstad" role="Interaksjonsdesigner" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Mikael Solstad" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Christer Rustand" role="Backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/938091?v=4" name="Morten Foshaug" role="Tech Lead" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Andreas Fjeldal" role="Team arkitekt, infrastruktur, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/127962546?v=4" name="Astrid Mogstad" role="Interaksjonsdesigner" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Mikael Solstad" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Christer Rustand" role="Backend" >}}
 
 {{< /team/members >}}
 
@@ -32,9 +32,6 @@ weight: 12
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
-- Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- xx
+- xx
+
