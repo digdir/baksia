@@ -10,20 +10,28 @@ We use YAML as front matter.
 ```bash
 git clone https://github.com/digdir/baksia
 ```
-2. We recommend downloading and using [visual studio code](https://code.visualstudio.com) with [this extension](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) for editing markdown.
-3. [Download the latest Hugo](https://github.com/gohugoio/hugo/releases) (extended) for your platform, and place the executable in the baksia-folder.
+2. We recommend downloading and using [visual studio code](https://code.visualstudio.com) with
+   - [this markdown extension](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) for editing markdown and
+   - [the github extension](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) for helping with pull requests
+4. [Download the latest Hugo](https://github.com/gohugoio/hugo/releases) (extended) for your platform, and place the executable in the baksia-folder.
 
-## Build / Edit / Test
+## Build / Edit / Test locally
 
 1. Open the baksia repo-folder in visual studio code
 2. Run `hugo server --navigateToChanged`. Now baksia is running locally at http://loalhost:1313/
-3. Edit and save a file in the `content`-folder to automatically get a new local build of the site refreshed in your browser.
+3. Edit and save files in the `content`-folder to automatically get a new local build of the site refreshed in your browser, so you can test your changes locally.
+
+## Push your changes to GitHub
+We recommend that you create a pull request when you want to share your changes with the rest of the world.
+
+1. [Create a branch](https://code.visualstudio.com/docs/sourcecontrol/overview#_branches-and-tags) for your changes
+2. [Create a pull request](https://youtu.be/LdSwWxVzUpo)
 
 ## Deploy
-Whenever changes are merged into the baksia main branch, an automatic deploy is updating https://baksia.digdir.no
+Whenever changes from your pull request are merged into the baksia main-branch, an automatic deploy is updating https://baksia.digdir.no
 
-If you don't have direct write access to the repo, you need to [create a fork](https://help.github.com/articles/fork-a-repo/)
-and submit a [pull request](https://help.github.com/articles/about-pull-requests/).
+PS: If you don't have direct write access to the repo, you need to [create a fork](https://help.github.com/articles/fork-a-repo/)
+and submit a [pull request](https://help.github.com/articles/about-pull-requests/) from your fork.
 
 ## Links
 
