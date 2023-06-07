@@ -1,5 +1,6 @@
 ---
 title: Team - Altinn 2
+Ingress: Team Altinn 2 Drifter og forvalter Altinn 3. 
 
 navigation_link:
   title: Produkteier
@@ -15,19 +16,14 @@ banner:
 weight: 5
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Producteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/CMBF27681" slack_url_text="Slackkanal for teamet">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Børre Sundberg" role="Produkteier, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/12184124?v=4" name="Børge Thomessen" role="Infrastruktur" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Espen Herskedal" role="Infrastruktur" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/45939254?v=4" name="Tommy Almendingen" role="Infrastruktur">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/90837166?v=4" name="Georg Bjørkliås Østtveit" role="Infrastruktur" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/122606632?v=4" name="Rune Marhaug" role="Frontend">}}
+
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
@@ -38,9 +34,6 @@ weight: 5
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
-- Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- Sikre Sikker og Stabil drift på løsningen frem til Altinn 3 tar over som kjerneløsning
+- Sikre at systemet patches og vedlikeholdes på software i løsningen og omkringliggende infrastruktur
+
