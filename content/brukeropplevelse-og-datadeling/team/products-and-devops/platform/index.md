@@ -1,6 +1,6 @@
 ---
-title: Team - Platform (Altinn 3)
-ingress: Team Platform har hovedansvar for å utvikle felleskomponenter som skal understøtte ulike produkter i Altinn 3 samt drift/forvaltning av infrastruktur.
+title: Team - Altinn Core (Altinn 3)
+ingress: Team Altinn Core har hovedansvar for å utvikle felleskomponenter som skal understøtte ulike produkter i Altinn 3 samt drift/forvaltning av infrastruktur.
 
 navigation_link:
   title: Produkteier
