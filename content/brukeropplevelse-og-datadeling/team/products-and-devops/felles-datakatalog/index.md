@@ -1,6 +1,6 @@
 ---
 title: Felles datakatalog
-ingress: Felles datakatalog er en oversikt over hvilke data de ulike offentlige virksomhetene har, hvordan de henger sammen og hva de betyr.
+ingress: Felles datakatalog gir en oversikt over hvilke data virksomheter har som de kan dele med andre. I felles datakatalog kan man finne beskrivelser av datasett, begrep, api’er, informasjonsmodeller og tjenester og hendelser.
 
 navigation_link:
   title: Produkteier
@@ -41,9 +41,12 @@ weight: 4
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
-- Dokumentasjon
+- Drift, forvaltning og videreutvikling av
+  - [data.norge.no](https://data.norge.no/) (portal for datadeling med datakataloger - datasett, api, begrep, informasjonsmodeller og tjeneste- og hendelser)
+  - https://data.norge.no/publishing (registreringsløsning og høsteløsning for å populere datakatalogene)
+  - [datafabrikken.norge.no](https://datafabrikken.norge.no/) (portal for datadeling med fokus på privat sektor)
+  - [datalandsbyen.norge.no](https://datalandsbyen.norge.no/) (nettforum til data.norge.no)
+- Transportportalen.no
+- Behandlingsoversikt (del av registreringsløsning. Løsning for å få oversikt over behandlingsaktiviteter i en virksomhet)
 - Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- DevOps team med totalansvar fra idé til produksjon.
