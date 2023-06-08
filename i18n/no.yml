@@ -25,9 +25,9 @@
 - id: organisation-work-style-and-processes
   translation: 'Organisering, arbeidsform og prosesser'
 - id: product-and-devops-team
-  translation: 'Produkt og Devops team'
+  translation: 'Produktteamene våre'
 - id: support-teams
-  translation: 'Støtteteam'
+  translation: 'Støtteteamene våre'
 - id: core-processes
   translation: 'Kjerneprosesser'
 - id: support-processes
@@ -45,7 +45,7 @@
 - id: 'output'
   translation: 'output'
 - id: 'responsible-method-and-expertise'
-  translation: 'Ansvarlig: team metode og kompentase, mer info her:'
+  translation: 'Ansvarlig: team metode og kompetanse, mer info her:'
 - id: 'responsible-management'
   translation: 'Ansvarlig: Styringsteamet, mer info her:'
 - id: 'get-started-as-a-new-employee'
