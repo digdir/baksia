@@ -17,7 +17,7 @@ weight: 5
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/CMBF27681" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Børre Sundberg" role="Produkteier, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/122605962?v=4" name="Børre Sundberg" role="Produkteier, backend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/12184124?v=4" name="Børge Thomessen" role="Infrastruktur" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/62640845?v=4" name="Espen Herskedal" role="Infrastruktur" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45939254?v=4" name="Tommy Almendingen" role="Infrastruktur">}}
