@@ -1,5 +1,6 @@
 ---
 title: Team - App - Migration
+Ingress: Teamet har som hovedansvar å følge opp tjenesteeiere og støtte dem ifb med migrering til Altinn 3. 
 
 navigation_link:
   title: Produkteier
@@ -30,9 +31,7 @@ weight: 11
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
-- Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- Følge opp tjensteeiere ifb med migrering fra Altinn 2 til Altinn 3
+- Kartlegge behovene tjenesteierene har ifb med funksjonalitet på Altinn 3
+- Bistå dem ifb med skjemautvikling (Support og utvikling av skjemaer)
+
