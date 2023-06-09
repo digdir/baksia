@@ -1,6 +1,6 @@
 ---
 title: Team - tilgangsinfo
-Ingress: Team tilgangsinfo ......
+Ingress: Team tilgangsinfo er et av to team knyttet til Altinn autorisasjon som har hovedansvar alt rundt autentisering og samtykkeløsningen. 
 
 navigation_link:
   title: Produkteier
@@ -35,5 +35,8 @@ weight: 7
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- xx
-- xx
+- Team tilgangsinfo er ansvarlig for autentisering, informasjon som brukes til autorisering og sporbarhet i autorisasjonsprosessen. 
+- Teamet er ansvarlig for samtykkeløsningen samt autentisering mot events og dialogporten.
+- Dokumentasjon
+- Bidra til felles designsystem
+- DevOps team med totalansvar fra idé til produksjon
