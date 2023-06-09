@@ -55,3 +55,6 @@ weight: 6
    - Policy Desicion point (PDP)
    - Avgiverliste
    - API for tjenesteeiere vedr tilgangskontroll
+- Dokumentasjon
+- Bidra til felles designsystem
+- DevOps team med totalansvar fra idé til produksjon
