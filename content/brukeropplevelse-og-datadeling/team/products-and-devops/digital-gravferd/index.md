@@ -20,8 +20,8 @@ weight: 12
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Andreas Fjeldal" role="Koordinator" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/938091?v=4" name="Morten Foshaug" role="Tech Lead, Backend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/127962546?v=4" name="Astrid Mogstad" role="Interaksjonsdesigner" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Mikael Solstad" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Christer Rustand" role="Backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/26043795?v=4" name="Mikael Solstad" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/4062582?v=4" name="Christer Rustand" role="Backend" >}}
 
 {{< /team/members >}}
 
