@@ -1,5 +1,6 @@
 ---
 title: Team - Formidling
+Ingress:xxx
 
 navigation_link:
   title: Produkteier
@@ -16,18 +17,12 @@ weight: 13
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Producteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/42409357?v=4" name="Leo Gasnier" role="Producteier" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/785457?v=4" name="Steinar Henriksen" role=" Team Arkitekt" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/13086439?v=4" name="Erik Hagen" role="Arkitekt" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/60652478?v=4" name="Tom-Sverre Hageland" role="Backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/99019701?v=4" name="Ragnar Fatland" role="Backend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Camilla Wold" role="Behovstiller" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
