@@ -1,6 +1,6 @@
 ---
-title: Team - Studio
-Ingress: Team Studio har ansvar for den delen av Altinn 3 som møter tjenesteutviklere og tjenesteeiere når de skal utvikle en tjeneste – alt fra å opprette tjenesten til konfigurasjon, skjemautvikling, test og deploy.
+title: Studio
+Ingress: Team Studio har ansvar for den delen av Altinn 3 som møter tjenesteutviklerne og tjenesteeierne når de utvikler en tjeneste – fra de oppretter tjenesten til de skal konfigurere, utvikle skjemaet, teste og produksjonssette.
 
 navigation_link:
   title: Produkteier
@@ -18,13 +18,13 @@ weight: 1
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1636323?v=4" name="Nina Kylstad" role="Produkteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/49391418?v=4" name="Radha Rajagopalan" role="Scrum Master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/49391418?v=4" name="Radha Rajagopalan" role="Scrum master" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23359247?v=4" name="Mirko Sekulic" role="Backend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/24462611?v=4" name="Michael Queyrichon" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/29770305?v=4" name="Tomas Engebretsen" role="Frontend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/90609090?v=4" name="Jamal Alabdullah" role="Frontend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/71079896?v=4" name="Andrea Standeren" role="Frontend, Backend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/71079896?v=4" name="Andrea Standeren" role="Frontend og backend">}}
 
 {{< /team/members >}}
 
@@ -36,12 +36,12 @@ weight: 1
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn Studio Designer (En del av tjenesteutviklingsverktøyet i Altinn Studio produktet)
--	Altinn Studio Repositories (Gitea) (En del av tjenesteutviklingsverktøyet i Altinn Studio produktet)
--	LocalTest (Mock av Altinn Plattform til bruk for lokal test av app’er under utvikling)
+- Altinn Studio Designer – en del av tjenesteutviklingsverktøyet i Altinn Studio-produktet
+-	Altinn Studio Repositories (Gitea) – en del av tjenesteutviklingsverktøyet i Altinn Studio-produktet
+-	LocalTest – en kopi av Altinn-plattformen som brukes til å teste apper under utvikling lokalt
 -	Dokumentasjon
--	Bidra til felles desingsystem
--	DevOps Team med totalansvar fra ide til produksjon
+-	Bidra til Digdirs felles designsystem
+-	DevOps-team med totalansvar fra idé til produksjon
 
 
 
