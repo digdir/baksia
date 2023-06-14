@@ -1,6 +1,6 @@
 ---
 title: Team - Formidling
-Ingress:xxx
+ingress: xxx
 
 navigation_link:
   title: Produkteier
