@@ -42,10 +42,7 @@ weight: 6
 - Access management (PAP)
     - Tilgangsgrupper
         Fase ut Altinn 2-roller
-    - Autorative kilder
-        Knytning mot ER-roller og andre autoriative kilder
-        Nye autoriative kilder som grunnlag for autorisasjon
-        Ansvar og kontakt mot Enhetsregisteret
+    - Autorative kilder, for eksempel knytning mot ER-roller og andre autoriative kilder, nye autorative kilder som grunnlag for autorisasjon og ansvar og kontakt mot Enhetsregisteret
    -  API og GUI for tilgangsstyring
    -  Forespørsler om rettigheter og roller
    -  Registrere delegering (policy)
