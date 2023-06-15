@@ -1,6 +1,6 @@
 ---
 title: Core – Altinn 3
-ingress: Team Core utvikler felleskomponenter som skal støtte ulike produkter i Altinn 3, og drifter og forvalter infrastrukturen.
+ingress: Team Core utvikler felleskomponenter som skal støtte ulike produkter i Altinn3, og drifter og forvalter infrastrukturen.
 
 navigation_link:
   title: Produkteier
