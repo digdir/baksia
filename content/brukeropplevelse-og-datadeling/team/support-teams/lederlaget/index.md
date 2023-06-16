@@ -22,7 +22,7 @@ weight: 1
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/95215761?v=4" name="Hege Nielsen" role="Seksjonsleder">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/86382095?v=4" name="Dan Remi Mørk " role="Seksjonsleder" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/7873274?v=4" name="Roberto Carrera" role="Seksjonsleder">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Hanne Lauritsen" role="DevOps Leader">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="DevOps Leader">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
