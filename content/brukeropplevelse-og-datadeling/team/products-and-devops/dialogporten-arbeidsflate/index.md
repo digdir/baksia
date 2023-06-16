@@ -4,7 +4,7 @@ ingress: Team Apps har ansvar for den delen av Altinn 3 som møter sluttbrukerne
 
 navigation_link:
   title: Produkteier
-  subtitle: Ronny Birkeli
+  subtitle: Dirk Lammering - Dialogporten
 
 layout: 'team/single'
 
