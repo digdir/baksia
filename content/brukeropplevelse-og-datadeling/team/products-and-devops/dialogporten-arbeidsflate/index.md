@@ -1,6 +1,8 @@
 ---
 title: Team - Dialogporten/Arbeidsflate
-ingress: Team Apps har ansvar for den delen av Altinn 3 som møter sluttbrukerne når de fyller inn et skjema - fra de oppretter skjema til det er levert til tjenesteeier.
+ingress: Dialogporten er et nytt produkt der kapabilitetene knyttet til bruk av melding, dialoger, historisk arkiv, autorisasjon, varsling og hendelser kan benyttes som enkeltstående tjenester (per API-kall) uten at det fordrer bruk av Altinn Studio i tjenesteutviklingen. I Altinn 3 vil Dialogporten fungere som API mellom sluttbrukersystemer og tjenesteproduktene i Altinn 3. 
+Arbeidsflate erstatter brukergrensesnittet til innboksen i Altinn II portalen. Dette produktet vil basere seg på et felles designsystem og bygges på en slik måte at det kan integreres direkte i andre portaler enn altinn.no, f.eks. i portal til tjenesteeier. Data hentes fra de tekniske grensesnittene (APIer) til Dialogporten. 
+
 
 navigation_link:
   title: Produkteier
