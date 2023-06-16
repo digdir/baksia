@@ -16,18 +16,13 @@ weight: 1
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Producteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/63843143?v=4" name="Andreas Rafaelsen" role="Avdelingsleder Brukeropplevelse og Datadeling" >}}
+{{< team/github-profile url="" name="Tor Arild Sunnevåg " role="Seksjonsleder xx" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/80898170?v=4" name="Reidun Milde" role="Seksjonsleder " >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/95215761?v=4" name="Hege Nielsen" role="Seksjonsleder">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/86382095?v=4" name="Dan Remi Mørk " role="Seksjonsleder" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/7873274?v=4" name="Roberto Carrera" role="Seksjonsleder">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Hanne Lauritsen" role="DevOps Leader">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
