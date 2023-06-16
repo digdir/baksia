@@ -1,5 +1,6 @@
 ---
 title: Lederlaget
+Ingress: xxxx
 
 navigation_link:
   title: Avdelingsdirektør
@@ -33,9 +34,5 @@ weight: 1
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
-- Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- xx
+- xx
