@@ -17,14 +17,15 @@ weight: 15
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Produkteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne" role="Scrum Master" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/112697173?v=4" name="Roy Breivik" role="Lærling">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="Produkteier - dialogporten" >}}
+{{< team/github-profile url="" name="Vilde Aga Stixrud" role="Scrum Master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team arkitekt, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Sørli Olsen " role="Legal Coach">}}
+{{< team/github-profile url="" name="NN" role="Frontend" >}}
+{{< team/github-profile url="" name="NN" role="Backend">}}
+{{< team/github-profile url="" name="NN" role="UI" >}}
+{{< team/github-profile url="" name="NN" role="Tjenestedesigner ">}}
+{{< team/github-profile url="" name="NN" role="UX designer">}}
 
 {{< /team/members >}}
 
@@ -36,9 +37,11 @@ weight: 15
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
+- Arkitektur & Løsningsbeskrivelse
+- PoC
+- Ekstern testing
+- Etablere forvaltning
 - Dokumentasjon
 - Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- DevOps team med totalansvar fra ide til produksjon
+
