@@ -21,9 +21,11 @@ weight: 15
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="Produkteier - dialogporten" >}}
-{{< team/github-profile url="" name="Vilde Aga Stixrud" role="Scrum Master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum Master" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team arkitekt, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Design Lead" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Sørli Olsen " role="Legal Coach">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend">}}
 {{< team/github-profile url="" name="NN" role="Frontend" >}}
 {{< team/github-profile url="" name="NN" role="Backend">}}
 {{< team/github-profile url="" name="NN" role="UI" >}}
