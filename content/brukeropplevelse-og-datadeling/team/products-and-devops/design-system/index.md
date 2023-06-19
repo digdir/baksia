@@ -27,7 +27,6 @@ weight: 9
 {{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/digdir/designsystem/issues/468" url_text="Github">}}
 {{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/digdir/projects/3" url_text="Github" >}}
 {{< team/product-item title="Repo" subtitle="Hold deg oppdatert her" url="https://github.com/digdir/designsystem" url_text="Github" >}}
-{{< team/product-item title="Designsystemet" subtitle="Hold deg oppdatert her" url="designsystemet.no" url_text="Github" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}

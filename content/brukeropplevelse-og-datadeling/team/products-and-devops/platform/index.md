@@ -17,9 +17,9 @@ weight: 3
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C0378DYQ7B9" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/89571254?v=4" name="Torkel Buarøy" role="Producteier" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum Master" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/2217340?v=4" name="Terje Holene" role="Team arkitekt, infrastruktur, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/89571254?v=4" name="Torkel Buarøy" role="Produkteier" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/2217340?v=4" name="Terje Holene" role="Team-arkitekt, infrastruktur, backend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47737608?v=4" name="Stephanie Buadu" role="Backend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/70642698?v=4" name="Thomas Bakken" role="Backend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32734566?v=4" name="Bengt Fredh" role="Infrastrukur" >}}
@@ -39,6 +39,6 @@ weight: 3
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Utvikling av felleskomponenter på Altinn 3 (Eks backup, overvåkingsløsninger)
-- Drift og forvaltning av Altinn 3 infrastruktur
-- Sikre god dokumentasjon og veiledning til våre brukere av felleskomponenter
+- Utvikle felleskomponenter på Altinn 3, for eksempel backup og overvåkingsløsninger
+- Drifte og forvalte infrastrukturen til Altinn 3
+- Sikre at de som bruker felleskomponentene våre får god veiledning og dokumentasjon

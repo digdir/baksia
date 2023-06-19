@@ -1,6 +1,6 @@
 ---
-title: Team - Apps
-ingress: Team Apps har ansvar for den delen av Altinn 3 som møter sluttbrukerne når de fyller inn et skjema - fra de oppretter skjema til det er levert til tjenesteeier.
+title: Apps
+ingress: Team Apps har ansvaret for den delen av Altinn 3 som møter sluttbrukerne når de fyller ut et skjema - fra de starter å fylle det ut til de har sendt det inn til tjenesteeieren.
 
 navigation_link:
   title: Produkteier
@@ -18,8 +18,8 @@ weight: 2
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Produkteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne" role="Scrum Master" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team arkitekt, infrastruktur, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team-arkitekt, infrastruktur, backend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars" role="Frontend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend" >}}
@@ -36,9 +36,9 @@ weight: 2
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
+- Altinn 3-applikasjon, som er en del av Altinn Studio-produktet
+- App frontend – felles for alle applikasjoner/tjenester
+- App backend – unik for hver applikasjon, men med felles bibliotek
 - Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- Bidra til Digdirs felles designsystem
+- DevOps-team med totalansvar fra idé til produksjon

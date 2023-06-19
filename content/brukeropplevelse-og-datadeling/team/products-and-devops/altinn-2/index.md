@@ -1,6 +1,6 @@
 ---
-title: Team - Altinn 2
-Ingress: Teamet har som hovedansvar å ivareta driften av Altinn 2 og koordinere aktiviteter opp mot Leverandørene Accenture og Orange. 
+title: Altinn 2
+Ingress: Teamets hovedoppgave er å drifte Altinn 2 og koordinere aktiviteter mot leverandørene Accenture og Orange. 
 
 navigation_link:
   title: Produkteier
@@ -17,7 +17,7 @@ weight: 5
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/CMBF27681" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Børre Sundberg" role="Produkteier, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/122605962?v=4" name="Børre Sundberg" role="Produkteier, backend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/12184124?v=4" name="Børge Thomessen" role="Infrastruktur" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/62640845?v=4" name="Espen Herskedal" role="Infrastruktur" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45939254?v=4" name="Tommy Almendingen" role="Infrastruktur">}}
@@ -34,7 +34,6 @@ weight: 5
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Sikre Sikker og Stabil drift på løsningen frem til Altinn 3 tar over som kjerneløsning
-- Sikre at systemet patches og vedlikeholdes på software i løsningen og omkringliggende infrastruktur
-- Følge opp Leverandører
-
+- Sikker og stabil drift av Altinn 2 frem til Altinn 3 tar over
+- Patche og vedlikeholde programvaren til systemet og infrastrukturen rundt
+- Følge opp leverandørene
