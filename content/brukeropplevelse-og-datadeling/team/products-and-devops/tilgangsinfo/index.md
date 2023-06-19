@@ -18,7 +18,7 @@ weight: 7
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5788415?v=4" name="Espen Kørra" role="Produkteier" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Team arkitekt, infrastruktur, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Team-arkitekt, infrastruktur, backend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94476391?v=4" name="Torgeir Holen" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/133344438?v=4" name="William Thorenfeldt" role="Frontend">}}
@@ -35,7 +35,7 @@ weight: 7
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Autentisering, informasjon som brukes til autorisering og å passe på at autorisasjonsprosessen er sporbar
+- Autentisering, informasjon som brukes til autorisering og passe på at autorisasjonsprosessen er sporbar
 - Samtykkeløsningen og autentisering mot hendelser og dialogporten
 - Dokumentasjon
 - Bidra til Digdirs felles designsystem
