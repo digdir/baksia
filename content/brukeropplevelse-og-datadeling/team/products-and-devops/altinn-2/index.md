@@ -1,6 +1,6 @@
 ---
 title: Altinn 2
-Ingress: Teamets hovdansvar er å drifte Altinn 2 og koordinere aktivitetene mot leverandørene Accenture og Orange. 
+Ingress: Teamets hovedoppgave er å drifte Altinn 2 og koordinere aktiviteter mot leverandørene Accenture og Orange. 
 
 navigation_link:
   title: Produkteier
@@ -34,7 +34,6 @@ weight: 5
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Sørge for sikker og stabil drift av Altinn 2 frem til Altinn 3 tar over som kjerneløsning
-- Patche og vedlikeholde programvaren til løsningen og infrastrukturen rundt
-- Følge opp leverandørene våre
-
+- Sikker og stabil drift av Altinn 2 frem til Altinn 3 tar over
+- Patche og vedlikeholde programvaren til systemet og infrastrukturen rundt
+- Følge opp leverandørene
