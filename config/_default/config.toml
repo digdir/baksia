@@ -29,3 +29,4 @@ enableRobotsTXT = true
 [params]
     logo = 'images/logo-baksia.svg'
     global_keywords = ['digdir', 'devops', 'digitaliseringsdirektoratet', 'baksia']
+    editURL = "https://github.com/digdir/baksia/blob/main/content/"
