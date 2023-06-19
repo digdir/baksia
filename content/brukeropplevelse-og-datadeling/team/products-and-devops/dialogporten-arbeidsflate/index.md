@@ -1,12 +1,14 @@
 ---
 title: Team - Dialogporten/Arbeidsflate
-ingress: Dialogporten er et nytt produkt der kapabilitetene knyttet til bruk av melding, dialoger, historisk arkiv, autorisasjon, varsling og hendelser kan benyttes som enkeltstående tjenester (per API-kall) uten at det fordrer bruk av Altinn Studio i tjenesteutviklingen. I Altinn 3 vil Dialogporten fungere som API mellom sluttbrukersystemer og tjenesteproduktene i Altinn 3. 
-Arbeidsflate erstatter brukergrensesnittet til innboksen i Altinn II portalen. Dette produktet vil basere seg på et felles designsystem og bygges på en slik måte at det kan integreres direkte i andre portaler enn altinn.no, f.eks. i portal til tjenesteeier. Data hentes fra de tekniske grensesnittene (APIer) til Dialogporten. 
+HanneLauritsen1967-patch-4
+ingress: Dialogporten er et nytt produkt der du kan bruke melding, dialoger, historisk arkiv, autorisasjon, varsling og hendelser som enkeltstående tjenester (via API-kall), uten at du trenger å bruke Altinn Studio i tjenesteutviklingen. I Altinn 3 vil Dialogporten fungere som API mellom sluttbrukersystemer og tjenesteproduktene i Altinn 3. 
+Arbeidsflate erstatter brukergrensesnittet til innboksen i Altinn II-portalen. Flaten tar utganspunkt i Digdirs felles designsystem og blir bygget slik at den kan integreres direkte i andre portaler enn altinn.no, for eksempel i portaler hos tjenesteeiere. Data hentes fra de tekniske grensesnittene (API-er) til Dialogporten. 
+
 
 
 navigation_link:
   title: Produkteier
-  subtitle: Ronny Birkeli
+  subtitle: Dirk Lammering - Dialogporten
 
 layout: 'team/single'
 
@@ -19,28 +21,33 @@ weight: 15
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Produkteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne" role="Scrum Master" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/112697173?v=4" name="Roy Breivik" role="Lærling">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="Produkteier - dialogporten" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Teamarkitekt, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Design lead" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Sørli Olsen " role="Juridisk rådgiver">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend">}}
+{{< team/github-profile url="" name="NN" role="Frontend" >}}
+{{< team/github-profile url="" name="NN" role="Backend">}}
+{{< team/github-profile url="" name="NN" role="UI" >}}
+{{< team/github-profile url="" name="NN" role="Tjenestedesigner ">}}
+{{< team/github-profile url="" name="NN" role="UX-designer">}}
 
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/Altinn/projects/10/views/1" url_text="Github">}}
+{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/8/views/25" url_text="Github">}}
 {{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/Altinn/projects/39/views/2" url_text="Github" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/39/views/1" url_text="Github" >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/digdir/projects/7" url_text="Github" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
+- Arkitektur og løsningsbeskrivelse
+- Proof of concept (Poc)
+- Ekstern testing
+- Etablere forvaltning
 - Dokumentasjon
 - Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- DevOps-team med totalansvar fra idé til produksjon
+

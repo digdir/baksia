@@ -1,5 +1,6 @@
 ---
 title: Styringsteamet
+ingress: Styringsteam xxxx
 
 navigation_link:
   title: Produkteier
@@ -16,18 +17,15 @@ weight: 5
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Producteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/102595118?v=4" name="Marit Sandholm" role="Produkteier" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role="Scrum Master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="faggruppe juss" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/94651380?v=4" name="Lars Göran Andersson " role="faggruppe leverandørstyring">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/53612265?v=4" name="Hans O Waaler " role="Faggruppe sikkerhet" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/97237741?v=4" name="Arild Hansten " role="Fagruppe Risiko">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/132452427?v=4" name="Maria Sommervik" role="Faggruppe økonomi">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/72547415?v=4" name="Snorre Aakerø " role="Faggruppe metode og kompetanse">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/95905006?v=4" name="Mona Ebbesen  " role="Faggruppe Krise og beredskap">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
@@ -38,9 +36,6 @@ weight: 5
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
-- Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- xx
+- xx
+
