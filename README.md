@@ -4,6 +4,8 @@ https://baksia.digdir.no
 
 ## Run site locally
 
+For a full description of how to do changes to Baksia, please read [CONTRIBUTING.md](https://github.com/digdir/baksia/blob/main/CONTRIBUTING.md).
+
 Requirements: [Hugo](https://gohugo.io/installation/) (extended)
 
 1. Clone repo:

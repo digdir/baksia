@@ -1,14 +1,11 @@
 ---
-title: Team
+title: Teamene våre
 
 ingress: |
-  Vi jobber i selvstendige og tverrfaglige team på tvers av seksjonene vi tilhører. <br>
-  Teamene jobber smidig. Hvert smidig team har ansvar for ett eller flere produkter. <br> <br>
-  Produkteier og scrumleder har ansvar for å lede arbeidet i produktteamene. 
-  Produkteier har ansvaret for hvor stort omfang arbeidet skal ha og prioriterer 
-  den retningen og de oppgavene som gir størst verdi. <br> Scrumleder er ansvarlig 
-  for å tilrettelegge og fasilitere arbeidet i teamet. Det betyr at hen skal sørge 
-  for at teamet jobber etter smidig utviklingsmetodikk i tillegg til å fjerne
+  Vi jobber i selvstendige og tverrfaglige team på tvers av seksjonene vi tilhører. Teamene jobber smidig og hvert smidig-team har ansvar for ett eller flere produkter. <br> <br>
+  Produkteierne og scrum-lederne styrer arbeidet i produktteamene sammen. 
+  Produkteierne bestemmer hvor stort omfang arbeidet skal ha, prioriterer 
+  retningen arbeidet skal gå i og avgjør hvilke oppgaver som gir størst verdi. Scrum-lederne tilrettelegger arbeidet i teamet. Det betyr at de passer på at teamene jobber etter smidig utviklingsmetodikk og fjerner
   hindringer og forstyrrelser utenfra.
 
 # SEO
@@ -29,5 +26,5 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 
 navigation_link:
-  text: Se hva slags data som er tilgjengelig, og hvordan du kan bruke dem riktig
+  text: Les mer om produkt- og utviklingsteamene våre og hvilke støtteteam vi har
 ---
