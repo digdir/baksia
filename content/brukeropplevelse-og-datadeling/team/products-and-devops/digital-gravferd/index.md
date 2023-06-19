@@ -1,5 +1,6 @@
 ---
 title: Digital Gravferd
+Ingress: Teamet er etablert på vegne av oppdragsgiver som er Statsforvalteren i Vestfold/Telemark, hvor målet fremover er å få digitalisert og forenklet skjemaer/prosesser ifb med livshendelsen gravferd/dødsbo
 
 navigation_link:
   title: Produkteier
@@ -15,19 +16,13 @@ banner:
 weight: 12
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Producteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C04PR2LBRDG" slack_url_text="Slackkanal for teamet">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Andreas Fjeldal" role="Koordinator" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/938091?v=4" name="Morten Foshaug" role="Tech Lead, Backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/127962546?v=4" name="Astrid Mogstad" role="Interaksjonsdesigner" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/26043795?v=4" name="Mikael Solstad" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/4062582?v=4" name="Christer Rustand" role="Backend" >}}
+
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
@@ -38,9 +33,8 @@ weight: 12
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
-- Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- Teamet skal bidra med å designe, utvikle og levere skjema løsninger for Statsforvalteren i Vestfold/Telemark
+- Utviklingen skal skje ved å benytte Altinn 3
+- Teamet skal også være med å bidra med kode på Altinn 3 løsningen ifb med funksjonalitet som dette prosjektet er avhengig av. 
+- Teamet skal/vil koordinere seg med andre relevante DevOps team i BOD
+

@@ -1,5 +1,6 @@
 ---
-title: Team - tilgangsstyring og kontroll
+title: Tilgangsstyring og kontroll
+Ingress: Tilgangsstyring og kontroll er ett av to team knyttet til Altinn autorisasjon, som har hovedansvar for alt rundt tilgangsstyring i Altinn 2 og Altinn 3.
 
 navigation_link:
   title: Produkteier
@@ -15,10 +16,10 @@ banner:
 weight: 6
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/25847572?v=4" name="Siv Aglen" role="Producteier" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/40996230?v=4" name="Jon-Kjetil Øye" role="Team arkitekt, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/36295493?v=4" name="Ragnhild Tafjord" role="Scrum Master" >}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/CE5E06MC7" slack_url_text="Slackkanal for teamet">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/25847572?v=4" name="Siv Aglen" role="Produkteier" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/40996230?v=4" name="Jon-Kjetil Øye" role="Team-arkitekt, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/36295493?v=4" name="Ragnhild Tafjord" role="Scrum master" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/31471142?v=4" name="Albert Larsen" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22012997?v=4" name="Alexandra Vedeler" role="Frontend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/59682632?v=4" name="Ivar Tryti" role="Backend">}}
@@ -37,9 +38,20 @@ weight: 6
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
+- Støtte og vedlikeholde funksjonaliteten for autorisasjon i Altinn 2
+- Access management (PAP)
+    - Tilgangsgrupper
+        Fase ut Altinn 2-roller
+    - Autorative kilder, for eksempel knytning mot ER-roller og andre autoriative kilder, nye autorative kilder som grunnlag for autorisasjon og ansvar og kontakt mot Enhetsregisteret
+   -  API og GUI for tilgangsstyring
+   -  Forespørsler om rettigheter og roller
+   -  Registrere delegering (policy)
+        Gi brukere roller/rettigheter/tilgangsgrupper
+- Access control
+   - Policy Enforcement Point (PEP)
+   - Policy Decision point (PDP)
+   - Avgiverliste
+   - API for tjenesteeiere, når det gjelder tilgangskontroll
 - Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- Bidra til Digdirs felles designsystem
+- DevOps-team med totalansvar fra idé til produksjon

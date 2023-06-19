@@ -1,5 +1,6 @@
 ---
-title: Team - App - Migration
+title: App Migration
+Ingress: Teamets hovedansvar er å følge opp tjenesteeierne og støtte dem under migreringen til Altinn 3. 
 
 navigation_link:
   title: Produkteier
@@ -16,7 +17,7 @@ weight: 11
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/29474941?v=4" name="Elin Walstrand" role="Producteier," >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/29474941?v=4" name="Elin Walstrand" role="Produkteier," >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/75472603?v=4" name="Andreas Didriksen" role="Skjemautvikler" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/65394379?v=4" name="Tony Grimstad" role="Skjemautvikler" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47383888?v=4" name="Roger Kjærnsrød" role="Skjemautvikler">}}
@@ -30,9 +31,7 @@ weight: 11
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
-- Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+- Følge opp tjenesteeierne under migreringen fra Altinn 2 til Altinn 3
+- Kartlegge hva slags funksjonalitet tjenesteeierne trenger på Altinn 3
+- Hjelpe til med å utvikle skjemaer og gi kundestøtte
+
