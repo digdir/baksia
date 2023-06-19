@@ -1,6 +1,6 @@
 ---
-title: Team - tilgangsinfo
-Ingress: Team tilgangsinfo ......
+title: Tilgangsinfo
+Ingress: Team Tilgangsinfo er ett av to team knyttet til Altinn autorisasjon som har hovedansvar for alt som har med autentiseringen og samtykkeløsningen å gjøre. 
 
 navigation_link:
   title: Produkteier
@@ -18,8 +18,8 @@ weight: 7
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5788415?v=4" name="Espen Kørra" role="Produkteier" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Team arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum Master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Team-arkitekt, infrastruktur, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94476391?v=4" name="Torgeir Holen" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/133344438?v=4" name="William Thorenfeldt" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/34273718?v=4" name="Dhanalakshmi Gopalswamy" role="Backend" >}}
@@ -35,5 +35,8 @@ weight: 7
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- xx
-- xx
+- Autentisering, informasjon som brukes til autorisering og passe på at autorisasjonsprosessen er sporbar
+- Samtykkeløsningen og autentisering mot hendelser og dialogporten
+- Dokumentasjon
+- Bidra til Digdirs felles designsystem
+- DevOps-team med totalansvar fra idé til produksjon

@@ -1,6 +1,6 @@
 ---
 title: Felles datakatalog
-ingress: Felles datakatalog gir en oversikt over hvilke data virksomheter har som de kan dele med andre. I felles datakatalog kan man finne beskrivelser av datasett, begrep, api’er, informasjonsmodeller og tjenester og hendelser.
+ingress: Felles datakatalog gir oversikt over hvilke data virksomheter har, som de kan dele med andre. I felles datakatalog finner du beskrivelser av datasett, begreper, API-er, informasjonsmodeller og tjenester og hendelser.
 
 navigation_link:
   title: Produkteier
@@ -18,9 +18,9 @@ weight: 4
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://fdk-project.slack.com" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/110605570?v=4" name="Kjersti Steien" role="Producteier" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="Team arkitekt" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum Master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/110605570?v=4" name="Kjersti Steien" role="Produkteier" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="Team-arkitekt" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum master" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50879748?v=4" name="Pooria Mehregan" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/108797958?v=4" name="Terje Sylvarnes" role="Frontend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/430997?v=4" name="Jeff Reiffers" role="Fullstack">}}
@@ -41,12 +41,12 @@ weight: 4
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Drift, forvaltning og videreutvikling av
-  - [data.norge.no](https://data.norge.no/) (portal for datadeling med datakataloger - datasett, api, begrep, informasjonsmodeller og tjeneste- og hendelser)
-  - https://data.norge.no/publishing (registreringsløsning og høsteløsning for å populere datakatalogene)
-  - [datafabrikken.norge.no](https://datafabrikken.norge.no/) (portal for datadeling med fokus på privat sektor)
-  - [datalandsbyen.norge.no](https://datalandsbyen.norge.no/) (nettforum til data.norge.no)
+- Drifte, forvalte og videreutvikle
+  - [data.norge.no](https://data.norge.no/) – en portal for å dele data med datakataloger, for eksempel datasett, API-er, begreper, informasjonsmodeller og tjenester og hendelser
+  - https://data.norge.no/publishing – en registreringsløsning og høsteløsning for å fylle datakatalogene
+  - [datafabrikken.norge.no](https://datafabrikken.norge.no/) – en portal for å dele data, spesielt med privat sektor
+  - [datalandsbyen.norge.no](https://datalandsbyen.norge.no/) – nettforumet til data.norge.no
 - Transportportalen.no
-- Behandlingsoversikt (del av registreringsløsning. Løsning for å få oversikt over behandlingsaktiviteter i en virksomhet)
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon.
+- Behandlingsoversikt – en del av registreringsløsningen som gir oversikt over behandlingsaktiviteter i en virksomhet
+- Bidra til Digdirs felles designsystem
+- DevOps-team med totalansvar fra idé til produksjon
