@@ -1,0 +1,89 @@
+<footer class="footer component">
+    {{ partial "components/figures" . }}
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <h2 class="footer__heading">
+                    Digitaliseringsdirektoratet
+                </h2>
+                <div class="footer__content">
+                    <ul class="footer__links">
+                        {{ $data := index .Site.Data .Site.Language.Lang }}
+                        {{ range $data.footer.digdir }}
+                        <li>
+                            <a href="{{ .url }}">
+                                {{ .title }}
+                            </a>
+                        </li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <h2 class="footer__heading">
+                    {{ i18n "contact" }}
+                </h2>
+                <div class="footer__content">
+                    <ul class="footer__links">
+                        <li>Digitaliseringsdirektoratet</li>
+                        <li>Org.nr. 991 825 827</li>
+                    </ul>
+                    <ul class="footer__links">
+                        <li>
+                            <a href="https://www.digdir.no/digdir/kontakt-oss/943">
+                                {{ i18n "contact-us"}}
+                            </a>
+                        </li>
+                        <li>{{ i18n "phone" }}: 22 45 10 00</li>
+                    </ul>
+                    <div class="footer__icons mb-4">
+                        <a href="https://www.facebook.com/Digitaliseringsdirektoratet/">
+                            <i class="fa-facebook-f fab icon footer-icon--facebook" aria-hidden="true" tabindex="-1"
+                                title="Facebook"></i>
+                        </a>
+                        <a href="https://twitter.com/digdir_no">
+                            <i class="fa-twitter fab icon footer-icon--twitter" aria-hidden="true" tabindex="-1"
+                                title="Twitter"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/company/digitaliseringsdirektoratet">
+                            <i class="fa-linkedin fab icon footer-icon--linkedin" aria-hidden="true" tabindex="-1"
+                                title="LinkedIn"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <h2 class="footer__heading">
+                    {{ i18n "about-the-website" }}
+                </h2>
+                <div class="footer__content">
+                    <ul class="footer__links">
+                        {{- if and .Site.Params.editURL (or .IsPage .IsSection) -}}
+                            {{- $File := .File -}}
+                            {{- $Site := .Site -}}
+                            {{- with $File.Path -}}
+                            <li>
+                                <a href="{{ $Site.Params.editURL }}{{ replace $File.Dir "\\" "/" }}{{ $File.LogicalName }}" target="blank">
+                                    <!--i class="fa fa-code-fork"></i-->
+                                    Endre denne siden på GitHub 
+                                </a>
+                            </li>
+                            {{- end -}}
+                        {{- end -}}
+
+                        {{ $data := index .Site.Data .Site.Language.Lang }}
+                        {{ range $data.footer.about }}
+                        <li>
+                            <a href="{{ .url }}">
+                                {{ .title }}
+                            </a>
+                        </li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
