@@ -31,8 +31,7 @@ weight: 9
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-Målet til deisgnsystemteamet er å skape helhetlige og konsekvente brukeropplevelser ved å bruke gjenkjennbare og godt testede komponenter.
-Vi skal forenkle og effektivisere arbeidsflyten for designere, utviklere, produkteiere og andre.
+Målet til designsystemteamet er å skape helhetlige og konsekvente brukeropplevelser, ved å bruke godt testede komponenter som er lette å kjenne igjen. Vi skal forenkle og effektivisere arbeidsflyten for designere, utviklere, produkteiere og andre.
 
 - Hovedansvar: Etablere et felles designsystem for Digdir
 - Koordinere og tilrettelegge for samarbeid mellom DevOps-team som bruker og bidrar til å utvikle designsystemet
