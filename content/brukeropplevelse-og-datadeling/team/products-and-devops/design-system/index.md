@@ -1,6 +1,6 @@
 ---
-title: Team - Design System
-Ingress: Team Felles Designsystem har ansvaret for å etablere et felles designsystem i Digdir med komponenter som utvikles i fellesskap og brukes på tvers av produktteam. Teamet består av ressurser fra flere avdelinger i Digdir. Andre offentlige aktørerer er også involvert.
+title: Felles designsystem
+Ingress: Team Felles designsystem etablerer et felles designsystem i Digdir med komponenter som vi utvikler sammen og bruker på tvers av produktteam. Teamet har med folk fra flere avdelinger i Digdir. Andre offentlige aktørerer er også involvert.
 
 navigation_link:
   title: Produkteier
@@ -17,10 +17,10 @@ weight: 9
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C03L53RFPRU" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1464915?v=4" name="Marianne Røsvik" role="Design System Lead" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1070981?v=4" name="Michael Marszalek" role="Tech Lead, Frontend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1464915?v=4" name="Marianne Røsvik" role="Design system ead" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1070981?v=4" name="Michael Marszalek" role="Tech lead, frontend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13560642?v=4" name="Øyvind Thune" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/33222679?v=4" name="Lasse Karlsen" role="UX-Designer">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/33222679?v=4" name="Lasse Karlsen" role="UX-designer">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
@@ -31,14 +31,11 @@ weight: 9
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Ansvarsområder:
-Etablere felles designsystem for Digdir er den prioriterte oppgaven.
-Koordinere og tilrettelegge for samarbeid mellom DevOps team som bruker og bidrar til å utvikle designsystemet.
-Dokumentasjon, retningslinjer og god praksis for bruk av komponenter og mønstre.
-Involvere andre offentlige aktører i samarbeidet.
-DevOps team med totalansvar fra idé til produksjon.
+Målet til deisgnsystemteamet er å skape helhetlige og konsekvente brukeropplevelser ved å bruke gjenkjennbare og godt testede komponenter.
+Vi skal forenkle og effektivisere arbeidsflyten for designere, utviklere, produkteiere og andre.
 
-- Mål:
-Helhetlige og konsistente brukeropplevelser ved å bruke gjenkjennbare og godt testede komponenter.
-Forenkle og kostnadseffektivisere arbeidsflyten for designere, utviklere, produkteiere og andre.
-Et samarbeid rundt felles designsystem i det offentlige.
+- Hovedansvar: Etablere et felles designsystem for Digdir
+- Koordinere og tilrettelegge for samarbeid mellom DevOps-team som bruker og bidrar til å utvikle designsystemet
+- Lage dokumentasjon, retningslinjer og god praksis for å bruke komponenter og mønstre
+- Involvere andre offentlige aktører i samarbeidet – skape samarbeid rundt felles designsystem i det offentlige
+- DevOps-team med totalansvar fra idé til produksjon
