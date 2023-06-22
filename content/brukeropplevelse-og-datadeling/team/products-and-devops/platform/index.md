@@ -1,6 +1,6 @@
 ---
-title: Team - Altinn Core (Altinn 3)
-ingress: Team Altinn Core har hovedansvar for å utvikle felleskomponenter som skal understøtte ulike produkter i Altinn 3 samt drift/forvaltning av infrastruktur.
+title: Altinn core (Altinn 3)
+ingress: Team Altinn core har hovedansvaret for å utvikle felleskomponenter som støtter ulike produkter i Altinn 3, og drifter/forvalter infrastrukturen.
 
 navigation_link:
   title: Produkteier
