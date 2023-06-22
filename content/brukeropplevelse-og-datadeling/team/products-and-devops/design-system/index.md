@@ -17,7 +17,7 @@ weight: 9
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C03L53RFPRU" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1464915?v=4" name="Marianne Røsvik" role="Design system ead" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1464915?v=4" name="Marianne Røsvik" role="Design system lead" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1070981?v=4" name="Michael Marszalek" role="Tech lead, frontend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13560642?v=4" name="Øyvind Thune" role="Frontend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/33222679?v=4" name="Lasse Karlsen" role="UX-designer">}}
