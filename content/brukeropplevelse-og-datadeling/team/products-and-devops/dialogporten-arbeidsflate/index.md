@@ -1,8 +1,8 @@
 ---
-title: Team - Dialogporten/Arbeidsflate
-ingress: "Dialogporten er et nytt produkt der kapabilitetene knyttet til bruk av melding, dialoger, historisk arkiv, autorisasjon, varsling og hendelser kan benyttes som enkeltstående tjenester (per API-kall) uten at det fordrer bruk av Altinn Studio i tjenesteutviklingen. I Altinn 3 vil Dialogporten fungere som API mellom sluttbrukersystemer og tjenesteproduktene i Altinn 3.
+title: Dialogporten og Arbeidsflate
+ingress: "Dialogporten er et nytt produkt der vi gjør enkelttjenester tilgjengelig via API-er, uten at du må bruke Altinn Studio når du utvikler tjenesten. Dette kan være tjenester som meldinger, dialoger, historisk arkiv, autorisasjon, varsling og hendelser. I Altinn 3 vil Dialogporten fungere som et API mellom sluttbrukersystemer og tjenesteproduktene i Altinn 3.
 <br /><br />
-Arbeidsflate erstatter brukergrensesnittet til innboksen i Altinn II portalen. Dette produktet vil basere seg på et felles designsystem og bygges på en slik måte at det kan integreres direkte i andre portaler enn altinn.no, f.eks. i portal til tjenesteeier. Data hentes fra de tekniske grensesnittene (APIer) til Dialogporten."
+Arbeidsflate skal erstatte brukergrensesnittet til innboksen i Altinn 2. Dette produktet bruker Digdirs felles designsystem som grunnlag og blir bygget slik at det blir lett å integrere direkte i andre portaler, for eksempel tjenesteeiernes egne portaler. Vi henter data fra de tekniske grensesnittene via API-er til Dialogporten."
 
 
 navigation_link:
@@ -20,17 +20,12 @@ weight: 15
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="Produkteier - dialogporten" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum Master" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team arkitekt, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Design Lead" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Sørli Olsen " role="Legal Coach">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="Produkteier - Dialogporten" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Design lead" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Sørli Olsen " role="Juridisk rådgiver">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend">}}
-{{< team/github-profile url="" name="NN" role="Frontend" >}}
-{{< team/github-profile url="" name="NN" role="Backend">}}
-{{< team/github-profile url="" name="NN" role="UI" >}}
-{{< team/github-profile url="" name="NN" role="Tjenestedesigner ">}}
-{{< team/github-profile url="" name="NN" role="UX designer">}}
 
 {{< /team/members >}}
 
@@ -42,11 +37,11 @@ weight: 15
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Arkitektur & Løsningsbeskrivelse
-- PoC
+- Arkitektur og løsningsbeskrivelse
+- Konseptbevis (Proof of Concept, PoC)
 - Ekstern testing
 - Etablere forvaltning
 - Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra ide til produksjon
+- Bidra til Digdirs felles designsystem
+- DevOps-team med totalansvar fra idé til produksjon
 
