@@ -35,6 +35,6 @@ weight: 12
 
 - Designe, utvikle og levere skjemaløsninger for Statsforvalteren i Vestfold/Telemark
 - Utvikle løsningene i Altinn 3
-- Bidra med kode på Altinn 3-løsningen til funksjonalitet som dette prosjektet er avhengig av. 
+- Bidra med kode på Altinn 3-løsningen til funksjonalitet som dette prosjektet er avhengig av 
 - Koordinere med andre relevante DevOps-team i BOD
 
