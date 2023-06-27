@@ -3,7 +3,7 @@ title: Portaler
 
 navigation_link:
   title: Produkteier
-  subtitle: Elin Walstrand
+  subtitle: Jørgen Ferkingstad
 
 layout: 'team/single'
 
