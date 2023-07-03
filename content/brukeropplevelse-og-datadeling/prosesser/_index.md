@@ -1,7 +1,8 @@
 ---
-title: Prosesser
-ingress: |
-  For å sikre kvalitet i våre leveranser så jobber teamene i henhold til definerte arbeidsprosesser og metodikk. Hver prosess er definert gjennom beskrivelser av et eierskap, en hensikt/et formål, og en leveranse. Teamene jobber systematisk, selvstendig og kontinuerlig med ulik hyppighet på leveransene. Likevel sikrer vi forutsigbarhet og konsistent-het i teamene når vi forholder oss til noen felles rammer for måten vi jobber på. Team metode og kompetanse støtter avdelingen i å implementere metodikk og arbeidsprosesser.
+title: Våre prosesser og metoder
+ingress: For å sikre at arbeidet vårt og leveransene våre har god kvalitet, jobber teamene etter definerte arbeidsprosesser og metodikk. Hver prosess er definert ved å beskrive eierskap, en hensikt eller et formål og en leveranse.  
+
+Teamene jobber systematisk og selvstendig, og leverer med ulik hyppighet. Likevel sikrer vi forutsigbarhet og at vi er konsekvente når vi forholder oss til noen felles rammer for måten vi jobber på. Team metode og kompetanse støtter avdelingen ved å implementere metodikk og arbeidsprosesser..
 
 layout: 'prosesser/list'
 
@@ -24,5 +25,5 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 
 navigation_link:
-  text: Oversikt over våre prosesser som vi bruker i porteføljestyring og utvikling
+  text: Oversikt over våre prosesser vi bruker i porteføljestyring og utvikling
 ---
