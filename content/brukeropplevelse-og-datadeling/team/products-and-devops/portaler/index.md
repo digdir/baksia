@@ -4,6 +4,7 @@ title: Portaler
 navigation_link:
   title: Produkteier
   subtitle: Jørgen Ferkingstad
+  ingress: Team Portaler har blant annet ansvar for å vedlikeholde norge.no og altinn.no. Her kommer det mer tekst fra teamet. Kontakt Jørgen Ferikingstad eller Lis Lonning hvis du lurer på noe før det.
 
 layout: 'team/single'
 
@@ -16,12 +17,14 @@ weight: 10
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Produkteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team-arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Jørgen Ferkingstad" role="Produkteier og redaktør for altinn.no" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Lis Lonning" role="Produktgruppeeier" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Gørild Døhl" role="Innholdsdesigner" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ellen Marie Kurås Langen" role="Produkteier og redaktør for norge.no">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Alise Kjelling" role="UX-designer" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Dorte Drange" role="Innholdsdesigner" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Hanne Fredheim" role="Behovsdriver, helhetlig informasjon" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="India Anderson" role="UX researcher" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
@@ -32,9 +35,6 @@ weight: 10
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3-applikasjon (en del av Altinn Studio)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik for hver applikasjon, men med felles bibliotek)
-- Dokumentasjon
-- Bidra til Digdirs felles designsystem
-- DevOps-team med totalansvar fra idé til produksjon
+- Oppdatere og vedlikehold norge.no
+- Oppdatere og vedlikeholde altinn.no
+- Flere ansvarsområder kommer
