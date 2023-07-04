@@ -1,6 +1,6 @@
 ---
 title: Formidling
-ingress: Team Formidling har ansvar for å... Her kommer det mer tekst fra teamet. Kontakt Leo Gasnier hvis du lurer på noe før det.
+ingress: Team Altinn melding og formidling har ansvaret for alle meldingstjenestene og formidlingstjenestene i Altinn
 
 navigation_link:
   title: Produkteier
@@ -23,6 +23,7 @@ weight: 13
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/60652478?v=4" name="Tom-Sverre Hageland" role="Backend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/99019701?v=4" name="Ragnar Fatland" role="Backend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Camilla Wold" role="Behovsstiller" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/34267083?v=4" name="Tore Måsøy" role="Scrum master" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
