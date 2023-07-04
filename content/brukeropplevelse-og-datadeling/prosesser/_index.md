@@ -24,5 +24,5 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 
 navigation_link:
-  text: Oversikt over våre prosesser som vi bruker i porteføljestyring og utvikling
+  text: Oversikt over prosesser vi bruker i porteføljestyring og utvikling
 ---
