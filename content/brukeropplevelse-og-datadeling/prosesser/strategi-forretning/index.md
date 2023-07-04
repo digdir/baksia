@@ -34,12 +34,12 @@ navigation_link:
 {{< prosesser/strategy-card 
   title="Strategi/designtenkning" 
   owner="Tor Arild Sunnevåg/Reidun Milde" 
-  leader="Fagansvarlig for design (design Lead) er Lis Lonning" 
+  leader="Fagansvarlig for design (design lead) Lis Lonning" 
   purpose="Sikre at vi forvalter og videreutvikler våre produkter etter de overordnede strategiene vi har, og med god brukeropplevelse." 
 >}}
 
 {{< prosesser/strategy-card 
-  title="Marked/Salg" 
+  title="Marked/salg" 
   owner="Tor Arild Sunnevåg/Marianne Strypet" 
   leader="Markedssjef Mari Jøndahl" 
   purpose="Sikre at vi markedsfører produktene våre på en profesjonell og lik måte, uavhengig av hvor vi holder til." 
