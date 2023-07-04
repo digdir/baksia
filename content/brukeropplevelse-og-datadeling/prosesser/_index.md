@@ -1,7 +1,7 @@
 ---
-title: Prosesser
+title: Våre prosesser og metoder
 ingress: |
-  For å sikre kvalitet i våre leveranser så jobber teamene i henhold til definerte arbeidsprosesser og metodikk. Hver prosess er definert gjennom beskrivelser av et eierskap, en hensikt/et formål, og en leveranse. Teamene jobber systematisk, selvstendig og kontinuerlig med ulik hyppighet på leveransene. Likevel sikrer vi forutsigbarhet og konsistent-het i teamene når vi forholder oss til noen felles rammer for måten vi jobber på. Team metode og kompetanse støtter avdelingen i å implementere metodikk og arbeidsprosesser.
+  For å sikre at arbeidet vårt og leveransene våre har god kvalitet, jobber teamene etter definerte arbeidsprosesser og metodikk. Hver prosess beskriver eierskap, hensikt eller formål og leveranse. Teamene jobber systematisk og selvstendig, og leverer med ulik hyppighet. Vi sikrer at vi er forutsigbare og konsekvente ved å ha noen felles rammer for måten vi jobber på. Team metode og kompetanse støtter avdelingen ved å implementere metodikk og arbeidsprosesser.
 
 layout: 'prosesser/list'
 
