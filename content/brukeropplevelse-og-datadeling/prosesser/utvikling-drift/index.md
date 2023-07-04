@@ -1,5 +1,5 @@
 ---
-title: Utvikling og driftsprosesser (devops)
+title: Utviklings- og driftsprosesser (DevOps)
 ingress: 
 
 weight: 2
@@ -29,7 +29,7 @@ navigation_link:
   owner="Hanne Lauritsen" 
   leader="Torkel Buarøy" 
   purpose="Planlegge, tidsette og kontrollere bygging, testing og utrulling av en produksjonsenhet."
-  input="Behov fra portefølje- behov - og utviklingsprosess."
+  input="Behov fra portefølje-, behovs- og utviklingsprosessene."
   output="Ny funksjonalitet til forretning uten at det går på bekostning av eksisterende tjenester"
 >}}
 
@@ -37,16 +37,16 @@ navigation_link:
   title="Endringsstyring" 
   owner="Hanne Lauritsen" 
   leader="Tony Grimstad" 
-  purpose="Kontroll på at det ikke oppstår uplanlagte alvorlige hendelser når det innføres/gjennomføres arbeid/vedlikehold på IT plattformen, for at kunder og brukere skal ha best mulig tillitt til tjenestene"
-  input="Produksjonsendringer klar for gjennomføring"
-  output="Evaluert Produksjonsendring (med mål om Suksessfulle endringer)"
+  purpose="Holde kontroll på at det ikke oppstår uplanlagte alvorlige hendelser når vi innfører eller gjennomfører arbeid/vedlikehold på IT-plattformen. Slik sikrer vi at kunder og brukere får størst mulig tillit til tjenestene"
+  input="Produksjonsendringer klare til gjennomføring"
+  output="Evaluert produksjonsendring (med mål om vellykkede endringer)"
 >}}
 
 {{< prosesser/strategy-card 
   title="Behov" 
   owner="Hanne Lauritsen" 
   leader="Tony Grimstad" 
-  purpose="Sørge for en god etterspørselshåndtering gjennom raffinering dvs. kategorisering og prioritering av behov." 
+  purpose="Sørge for at vi håndterer etterspørsler på en god måte ved å raffinere. Det vil si at vi kategoriserer og prioriterer behovene." 
   input="Behov fra porteføljeprosess"
   output="Prioriterte behov"
 >}}
@@ -55,8 +55,8 @@ navigation_link:
   title="Utvikling" 
   owner="Roberto Andres Carrera" 
   leader="Snorre Aakerø" 
-  purpose="Prosessen ansvarlig for å skape eller endre en IT-tjeneste eller applikasjon." 
-  input="Prioriterte behov fra behovsprosess"
+  purpose="Ansvarlig for å skape eller endre en IT-tjeneste eller applikasjon." 
+  input="Prioriterte behov fra behovsprosessen"
   output="Klargjorte endringer til produksjonssetting"
 >}}
 
@@ -64,9 +64,9 @@ navigation_link:
   title="Produksjonssetting" 
   owner="Dan Remi Mørk" 
   leader="Torkel Buarøy" 
-  purpose="Aktivitet ansvarlig for å rulle ut ny eller endret maskinvare, programvare, dokumentasjon, prosess etc. til produksjonsmiljøet. Produksjonssetting er en del av styring av produksjonssettingsprosessen." 
+  purpose="Ansvarlig for å rulle ut blant annet ny eller endret maskinvare, programvare, dokumentasjon og prosess til produksjonsmiljøet. Produksjonssetting er en del av styring av produksjonssettingsprosessen." 
   input="Klargjorte endringer til produksjon"
-  output="Sikre at endringer produksjonssettes til rett tid med riktig kvalitet"
+  output="Sikre at endringer blir produksjonssatt til rett tid med riktig kvalitet"
 >}}
 
 {{< prosesser/strategy-card 
@@ -100,5 +100,5 @@ navigation_link:
   title="Tilgangsstyring" 
   owner="Hege Nilsen" 
   leader="Tilgangsstyring/Espen Herskedal"
-  purpose="Hensikten med denne prosessen/-ene er å sikre at vi har god kontroll og effektuering av tillgangs-styring til verktøy og løsninger."
+  purpose="Sikre at vi har god kontroll på tilgangsstyringen til verktøy og løsninger, og hvordan vi utfører tilgangsstyringen."
 >}}
