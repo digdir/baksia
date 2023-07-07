@@ -26,6 +26,8 @@ weight: 6
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56019927?v=4" name="Remi Løvoll" role="Backend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/103100644?v=4" name="Hanne Saltnes" role="Interaksjonsdesigner">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94835837?v=4" name="Randi Mansæterbak" role="Interaksjonsdesigner">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Sørli Olsen" role="Legal Coach">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberge" role="Legal Coach">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22615518?v=4" name="Ernst Jonny Lyngøy" role="Test">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/117180726?v=4" name="Anisha Ann Stephen" role="Test">}}
 {{< /team/members >}}
