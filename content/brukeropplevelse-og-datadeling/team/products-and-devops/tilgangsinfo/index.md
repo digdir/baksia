@@ -24,8 +24,8 @@ weight: 7
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/133344438?v=4" name="William Thorenfeldt" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/34273718?v=4" name="Dhanalakshmi Gopalswamy" role="Backend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/75827794?v=4" name="Sondre Bråthen" role="Backend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Sørli Olsen" role="Legal Coach">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberge" role="Legal Coach">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach">}}
 
 {{< /team/members >}}
 
