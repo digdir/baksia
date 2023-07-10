@@ -28,6 +28,8 @@ weight: 4
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/48259307?v=4" name="Hege Aalvik" role="Fullstack">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/8625716?v=4" name="Hans Olav Sund" role="DevOps-ingeniør">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/121860376?v=4" name="Mateus Furuløkken" role="Interaksjonsdesigner">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aaseberg" role="Legal Coach">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/48056195?v=4" name="Espen Slotvik" role="Behovsdriver">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32771488?v=4" name="Roger Stenbakk Olsen" role="Behovsdriver">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/48251060?v=4" name="Terje Bertelsen" role="Behovsdriver">}}
