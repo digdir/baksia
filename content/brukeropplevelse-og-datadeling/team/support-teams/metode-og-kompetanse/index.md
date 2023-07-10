@@ -23,6 +23,7 @@ weight: 4
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/63044671?v=4" name="Hilde Måsøy" role="Support">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/130640200?v=4" name="Cathrine Bastesen" role="Support" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="Support" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Kristin Bjarke Pettersen" role="Legal" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
