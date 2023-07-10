@@ -29,6 +29,7 @@ weight: 15
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend">}}
 {{< team/github-profile url="" name="Ole-Jørgen Skogstad" role="Backend">}}
 {{< team/github-profile url="" name="Hamy Nguyen" role="UX Konseptutvikler arbeidsflate">}}
+{{< team/github-profile url="" name="Audun Karlsrud Larsen" role="Tjenestedesigner arbeidsflate">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
