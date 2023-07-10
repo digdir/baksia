@@ -25,6 +25,7 @@ weight: 8
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3437949?v=4" name="Daniel Rustad Johansen" role="Frontend, backend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23278708?v=4" name="Nikolai Maasø Lunde" role="Frontend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/113984758?v=4" name="Benjamin Brodie" role="Backend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach">}}
 
 {{< /team/members >}}
 
