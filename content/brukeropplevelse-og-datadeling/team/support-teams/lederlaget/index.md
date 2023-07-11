@@ -1,6 +1,6 @@
 ---
 title: Lederlaget
-Ingress: xxxx
+Ingress: Lederteamet skal sørge for god virksomhetsstyring i henhold til de rammebetingelser og strategier som er gjeldende for vårt samfunnsoppdrag til enhver tid. I dette ligger også et ansvar for å bidra til at organisasjonen identifiserer nødvendige endringer, omstillinger og justeringer, som må til for at organisasjonen skal fungere best mulig og overleve fremover. I tillegg bidrar lederteamet til at disse endringene faktisk iverksettes og følger opp at de virker etter hensikten.
 
 navigation_link:
   title: Avdelingsdirektør
