@@ -1,5 +1,6 @@
 ---
 title: Marked
+Ingress: Markedsteamet skal sørge for økt utbredelse(omsetning) av våre produktportefølje(fellesløsninger). Dette i henhold til en markedsplan som er gjeldende til enhver tid. Alt som kan tilbys et marked enten for oppmerksomhet, eie, bruk eller forbruk, og som kan tilfredsstille et ønske eller et behov, er innenfor teamets interesse. Målet er at omsetningen av våre produkter skal opp, og at vi får flere kunder til vår produktportefølje(fellesløsninger).
 
 navigation_link:
   title:
