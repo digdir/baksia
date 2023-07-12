@@ -22,6 +22,7 @@ weight: 10
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Gørild Døhl" role="Innholdsdesigner" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Ellen Marie Kurås Langen" role="Produkteier og redaktør for norge.no">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Alise Kjelling" role="UX-designer" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/12525344?v=4" name="Thord V. Foss" role="UX-designer konseptutvikler" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Dorte Drange" role="Innholdsdesigner" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Hanne Fredheim" role="Behovsdriver, helhetlig informasjon" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="India Anderson" role="UX researcher" >}}
