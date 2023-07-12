@@ -31,6 +31,7 @@ weight: 15
 {{< team/github-profile url="" name="Aleksander Midteide" role="Frontend">}}
 {{< team/github-profile url="" name="Hamy Nguyen" role="UX Konseptutvikler arbeidsflate">}}
 {{< team/github-profile url="" name="Audun Karlsrud Larsen" role="Tjenestedesigner arbeidsflate">}}
+{{< team/github-profile url="" name="Inge Fossland" role="UI Designer">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
