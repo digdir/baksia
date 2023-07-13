@@ -35,7 +35,7 @@ weight: 3
 {{< /team/members >}}
 
 {{< team/products title="Strategi og Planer" >}}
-{{< team/product-item title="Tverrgående markedspaln" subtitle="Plavnerk" url="https://digdir.sharepoint.com/:p:/r/_layouts/15/Doc.aspx?sourcedoc=%7B8E0891C6-314A-4575-8CFA-63292C1C20EB%7D&file=Tverrga%CC%8Aende-Markedsplan-DigDir_2023.pptx&action=edit&mobileredirect=true" url_text="Github">}}
+{{< team/product-item title="Tverrgående markedspaln" subtitle="Plavnerk" url="https://digdir.sharepoint.com/:p:/r/_layouts/15/Doc.aspx?sourcedoc=%7B8E0891C6-314A-4575-8CFA-63292C1C20EB%7D&file=Tverrga%CC%8Aende-Markedsplan-DigDir_2023.pptx&action=edit&mobileredirect=true" url_text="[Github](https://digdir.sharepoint.com/:p:/r/_layouts/15/Doc.aspx?sourcedoc=%7B8E0891C6-314A-4575-8CFA-63292C1C20EB%7D&file=Tverrga%CC%8Aende-Markedsplan-DigDir_2023.pptx&action=edit&mobileredirect=true)">}}
 {{< team/product-item title="Markedsplan fellesløsninger" subtitle="Backlog for hva som pågår" url="https://digdir.sharepoint.com/:p:/r/_layouts/15/Doc.aspx?sourcedoc=%7B98D86143-E1B9-4019-9DDC-72B1F5DD530E%7D&file=Markedsplan-2023-Fellel%C3%B8sninger.pptx&action=edit&mobileredirect=true" url_text="Github" >}}
 {{< /team/products >}}
 
