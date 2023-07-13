@@ -22,7 +22,7 @@ weight: 3
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/92986603?v=4" name="Bredo Swanberg" role="Fagdirektør BOD" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45386992?v=4" name="Viktor Olsen" role="KAM/BOD" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Andreas M. Fjelldal" role="KAM/BOD" >}}
-{{< team/github-profile url="" name="Erling Laugenhttps://avatars.githubusercontent.com/u/116086465?v=4" role="KAM/BOD" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/116086465?v=4" name="Erling Laugen" role="KAM/BOD" >}}
 {{< team/github-profile url="" name="Olav Skarsbø" role="KAM/FEL/STL" >}}
 {{< team/github-profile url="" name="Aud Inger Sviggum" role="KAM/FEL" >}}
 {{< team/github-profile url="" name="Ole Petter Heggestad" role="KAM/FEL" >}}
