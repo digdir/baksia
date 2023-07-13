@@ -28,7 +28,7 @@ weight: 15
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend">}}
-{{< team/github-profile url="" name="Ole-Jørgen Skogstad" role="Backend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/5313373?v=4" name="Ole-Jørgen Skogstad" role="Backend">}}
 {{< team/github-profile url="" name="Aleksander Midteide" role="Frontend">}}
 {{< team/github-profile url="" name="Hamy Nguyen" role="UX Konseptutvikler arbeidsflate">}}
 {{< team/github-profile url="" name="Audun Karlsrud Larsen" role="Tjenestedesigner arbeidsflate">}}
