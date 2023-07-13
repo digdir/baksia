@@ -17,8 +17,19 @@ weight: 3
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="xxi" role="xxd" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="xx" role="xx" >}}
+{{< team/github-profile url="" name="Mari Jøndahl Forberg" role="Markedssjef, KAM/FEL" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/116548729?v=4" name="Roy Horn" role="KAM/BOD" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/92986603?v=4" name="Bredo Swanberg" role="Fagdirektør BOD" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/45386992?v=4" name="Viktor Olsen" role="KAM/BOD" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Andreas M. Fjelldal" role="KAM/BOD" >}}
+{{< team/github-profile url="" name="Erling Laugenhttps://avatars.githubusercontent.com/u/116086465?v=4" role="KAM/BOD" >}}
+{{< team/github-profile url="" name="Olav Skarsbø" role="KAM/FEL/STL" >}}
+{{< team/github-profile url="" name="Aud Inger Sviggum" role="KAM/FEL" >}}
+{{< team/github-profile url="" name="Ole Petter Heggestad" role="KAM/FEL" >}}
+{{< team/github-profile url="" name="Bodhild Therese Cirotzki" role="FEL" >}}
+{{< team/github-profile url="" name="Linda Johansen" role="FEL" >}}
+{{< team/github-profile url="" name="Elianne Eggum" role="DSS" >}}
+{{< team/github-profile url="" name="Are Kvistad" role="KOM" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Bendicte Olsen Sørli" role="Legal-coach" >}}
 
 {{< /team/members >}}
