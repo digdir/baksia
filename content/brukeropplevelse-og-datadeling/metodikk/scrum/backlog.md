@@ -1,5 +1,5 @@
 ---
-title: Refinement av backlog
+title: Raffinere backloggen
 
 # SEO
 description:
@@ -15,9 +15,8 @@ weight: 3
 backgroundColor: '#FFFBE6'
 ---
 
-## Refinement av backlog
+## Raffinere backloggen
 
-Refinement av backlog vil si detaljering, estimering og prioritering av oppgaver som
-ligger i teamets backlog. Dette er en kontinuerlig prosess hvor product owner, agile coach
-og teamet samarbeider om spesifisering av oppgavene i backloggen. Teamet kan invitere
-eksterne til refinement for å få bedre forståelse av oppgaven.
+Når vi snakker om å raffinere backloggen, betyr det at vi detaljerer, estimerer og prioriterer oppgavene som
+ligger i teamets backlog. Dette er en kontinuerlig prosess, og det er produkteiere, smidigveiledere
+og teamet sammen som spesifiserer oppgavene. Teamet kan invitere eksterne til å hjelpe til med å raffinere, for eksempel når de trenger å få bedre forståelse for en oppgave.
