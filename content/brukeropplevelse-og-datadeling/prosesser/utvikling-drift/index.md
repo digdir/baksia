@@ -13,15 +13,15 @@ banner:
 
 navigation_link:
   text: |
-    <p>Release</p>
-    <p>Endringsstyring</p>
-    <p>Behov<p>
-    <p>Utvikling</p>
-    <p>Produksjonssetting</p>
-    <p>Forespørsler</p>
-    <p>Hendelser</p>
-    <p>Problem</p>
-    <p>Tilgangsstyring</p>
+    <p> - Release</p>
+    <p> - Endringsstyring</p>
+    <p> - Behov<p>
+    <p> - Utvikling</p>
+    <p> - Produksjonssetting</p>
+    <p> - Forespørsler</p>
+    <p> - Hendelser</p>
+    <p> - Problemer</p>
+    <p> - Tilgangsstyring</p>
 ---
 
 {{< prosesser/strategy-card 
@@ -88,7 +88,7 @@ navigation_link:
 >}}
 
 {{< prosesser/strategy-card 
-  title="Problem" 
+  title="Problemer" 
   owner="" 
   leader=""
   purpose=""
