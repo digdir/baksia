@@ -1,5 +1,5 @@
 ---
-title: Daily/scrum-møte
+title: Daily scrum-møtet
 
 # SEO
 description:
@@ -15,8 +15,8 @@ weight: 2
 backgroundColor: '#FFFFFF'
 ---
 
-## Daily/scrum-møte
+## Daily scrum-møtet
 
-Daily/scrum-møte er et kort møte 1-5 dager i uka for å kartlegge status i arbeidet med oppgavene.
-En agile coach fasiliterer daily og gjennomgang av kanban. Agile coach arrangerer egne møter
-utenom daily når det er behov for mer detaljerte diskusjoner mellom team medlemmer.
+Det daglige scrum-møtet er et kort møte som foregår 1–5 dager i uka. Målet med møtet er å kartlegge status i arbeidet med oppgavene.
+I det daglige møtet sier hvert team-medlem hva de har gjort siden sist og hva de tenker å gjøre som neste oppgave. De sier også fra hvis de har hindringer som gjør at de ikke kan fullføre en oppgave. Smidigveilederne holder den daglige gjennomgangen av Kanban-tavla. Hvis det er behov for det, arrangerer de også egne møter
+utenom daily, for eksempel hvis teammedlemmer trenger å diskutere en oppgave mer i detalj.
