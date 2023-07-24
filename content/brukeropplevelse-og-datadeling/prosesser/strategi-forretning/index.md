@@ -17,11 +17,11 @@ banner:
 
 navigation_link:
   text: |
-    <p>Portefølje</p>
-    <p>Strategi/Designtekning</p>
-    <p>Marked/salg</p>
-    <p>Leveranse/bruk (on-boarding)</p>
-    <p>Kundeoppfølging</p>
+    <p> - Portefølje</p>
+    <p> - Strategi/designtenkning</p>
+    <p> - Marked/salg</p>
+    <p> - Leveranse/bruk (on-boarding)</p>
+    <p> - Kundeoppfølging</p>
 ---
 
 {{< prosesser/strategy-card 
