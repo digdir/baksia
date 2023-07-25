@@ -1,5 +1,5 @@
 ---
-title: DevOps
+title: DevOps (Development and Operations)
 ingress: |
 
 # SEO
@@ -22,9 +22,9 @@ navigation_link:
   text: |
 ---
 
-DevOps (Development and Operations) er en helhetlig tilnærming til effektiv arbeidsmetode som handler om å effektivisere arbeidsflyten på tvers av utvikling og driftsavdelinger i virksomheten. Dette fører med seg mange forretningsmessige fordeler og kan bidra til store konkurransefortrinn. Computas har flere erfarne eksperter innen DevOps-området som kan bistå din virksomhet med å optimalisere interne prosesser.
+DevOps er en effektiv arbeidsmetode med helhetlig tilnærming. Metoden handler om å effektivisere arbeidsflyten på tvers av utviklings- og driftsavdelingen og gir mange mange fordeler for virksomheten. For kommersielle virksomheter kan det også gi konkurransefortrinn. 
 
-DevOps legger til rette for et smidig og integrert samarbeid mellom utviklere (dev) og driftsteam (ops), slik at de kan jobbe mer effektivt og hensiktsmessig. Automatiserte prosesser og verktøy sikrer kvaliteten på arbeidet, og organisasjonskultur spiller derfor en viktig rolle. DevOps åpner for informasjonsdeling og forståelse på tvers av utviklings- og driftsavdeling og deres arbeidsoppgaver. DevOps fremmer en læringskultur hvor det er rom for prøving og feiling, og de ansatte har en sentral plass i dette. Raskere og kontinuerlig deling av informasjon mellom team fører til kvalitetssikring, og bedre kommunikasjon og relasjoner internt.
+DevOps legger til rette for at utviklerne (Dev-delen) og driftsteamet (Ops-delen) kan samarbeide godt og smidig. De har automatiserte prosesser og verktøy, slik at de kan sikre kvaliteten på arbeidet. Organisasjonskultur spiller også en viktig rolle. DevOps åpner for å dele informasjon og forståelse om arbeidsoppgavene på tvers av utviklings- og driftsavdelingen. DevOps legger vekt på å lære, og derfor er det alltid rom for å prøve og feile. Når teamene deler informasjon raskt og kontinuerlig, blir det lettere å kvalitetssikre, kommunisere og skape gode relasjoner i virksomheten.
 
 {{< external-link name="Les mer om DevOps" href="https://docs.altinn.studio/community/devops/" >}}
 {{< icon class="end-icon" >}}
