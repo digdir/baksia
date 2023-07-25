@@ -1,10 +1,10 @@
 ---
-title: Design
+title: Designtenkning
 ingress: |
-  Designtilnærminger, som tjenestedesign og systemisk design, er menneskeorienterte og tar utgangspunkt i behov. Design representerer en ny tilnærming til problemløsning, innovasjon og endring. <br>
-  Designtilnærmingen kan bidra til å svare på både menneske- og samfunnsbehov. Behov er i førersetet for problem- og mulighetsforståelsen. Sånn sett kan tankesettet design bringer inn oppsummeres med setningen: Hva og for hvem, før hvordan.
+  Designmetodikker, som tjenestedesign og systemisk design, tatr utgangspunkt i behov. Designmetodikk gir nye måter å tilnærme seg et problem på, enten vi skal skape noe nytt eller endre noe. <br>
+  Ved å bruke designmetodikk kan vi få svar på behovene enkeltmennesker har, men også behovene til samfunnet. Behovene forteller oss hvordan vi skal forstå problemer og muligheter for de brukergruppene vi skal lage noe for. Når vi tar utgangspunkt i designtenkning kan vi få svar på spørsmålene _Hva_ og _for hvem_, før vi svarer på _hvordan_.
 
-pageTitle: Designmetode
+pageTitle: Designtenkning
 
 # SEO
 description:
