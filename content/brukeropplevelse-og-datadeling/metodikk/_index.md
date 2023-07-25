@@ -1,5 +1,5 @@
 ---
-title: Metodikk
+title: Metodikker vi arbeider etter
 ingress: |
 
 banner:
