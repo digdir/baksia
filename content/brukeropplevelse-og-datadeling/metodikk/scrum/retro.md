@@ -1,5 +1,5 @@
 ---
-title: Retrospektive
+title: Tilbakeblikksmøtet
 
 # SEO
 description:
@@ -15,9 +15,9 @@ weight: 5
 backgroundColor: '#FFFBE6'
 ---
 
-## Retrospektive
+## Tilbakeblikksmøtet (retrospektiv)
 
-En retrospektiv har som hensikt å øke kvalitet og effektivitet på teamets arbeid. Teamet møtes for å diskutere:  
-1.Hva gikk bra?  
-2.Hvilke problemer møtte vi/ hva kan gjøres bedre?  
-3.Hvilke endringer/forbedringer bør vi gjøre?
+Målet med tilbakeblikksmøtet er å evaluere arbeidet til teamet, slik at det kan øke kvaliteten og jobbe mer effektivt. I møtet diskuterer teamet:  
+- Hva gikk bra?
+- Hvilke problemer møtte vi/hva kan vi gjøre bedre?
+- Hvilke endringer/forbedringer bør vi gjøre?
