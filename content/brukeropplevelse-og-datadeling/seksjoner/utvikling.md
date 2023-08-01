@@ -8,7 +8,7 @@ banner:
 weight: 3
 ---
 
-## Utvikling (Test)
+## Utvikling
 
 Seksjonen arbeider etter metodikken DevOps og har takhøyde for å prøve og feile. Vi leverer kontinuerlig og bruker åpen kildekode. Vi prøver hele tiden å forbedre og effektivisere driften, teknologien vi bruker og arbeidsmetodene våre.  
 I tillegg skal vi være med på å arbeide for at offentlig sektor samskaper og deler åpen kildekode.
