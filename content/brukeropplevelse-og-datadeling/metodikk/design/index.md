@@ -18,6 +18,7 @@ ingress: |
   - Diamant 1: Stille diagnose
   - Diamant 2: Utforske og definere
   - Diamant 3: Utvikle og levere<br>
+  
   Innenfor hver diamant kan det være flere steg der vi bruker ulike verktøy. Eksempler på steg er å lage brukerreiser, skape ideer, og lage og brukerteste en prototype.
 
 pageTitle: Start med brukeren, ikke løsningen
