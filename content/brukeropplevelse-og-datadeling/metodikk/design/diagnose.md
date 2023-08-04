@@ -1,5 +1,5 @@
 ---
-title: Diagnose
+title: Stille diagnose
 
 # SEO
 description:
@@ -15,11 +15,17 @@ weight: 1
 backgroundColor: '#FFFFFF'
 ---
 
-## Diagnose
+## Stille diagnose
 
-Den første fasen, diagnosefasen, har som formål å skape en felles problemforståelse
-slik at løsningen blir basert på faktiske behov. Mot slutten av diagnosefasen blir
-det utarbeidet et endringsbilag som fastsetter retning for resten av prosjektet.  
-Diagnosefasen skal resultere i en felles forankret problemforståelse for det videre arbeidet.
-Prioriteringer og retningsvalg blir beskrevet i et endringsbilag, som bidrar til at både
-oppdragsgiver og leverandør er trygge på hva sluttleveransen skal inneholde.
+Det vi her kaller Stille diagnose, kalles også innsiktsfasen eller empatifasen. Her jobber vi med å finne ut mer om dem vi skal lage noe for og hva problemet er. 
+Det handler om å forstå sluttbrukeren. Vi setter oss inn i brukernes situasjoner, utfordringer og følelser. Det er derfor dette er det første steget i designprosessen. 
+Hvem skal vi løse problemer eller utvikle løsninger for? Hvis vi for eksempel skal endre en tjeneste som finnes fra før, snakker vi med folk som bruker den i dag.<br>  
+
+Vi blir kjent med brukergruppene så vi kan få informasjon direkte fra dem. Derfor må vi oppsøke brukerne der de er og forstå deres situasjon.<br>  
+
+Vanlige spørsmål vi kan stille i denne fasen er: 
+
+- Hva er brukerne våre opptatt av?
+- Hva kjennetegner, engasjerer og frustrerer brukerne våre?<br>
+
+Her kan vi blant annet bruke intervjuer som verktøy.
