@@ -17,10 +17,18 @@ backgroundColor: '#FFFFFF'
 
 ## Utvikle og levere
 
-I den siste diamanten videreutvikler, prototyper, simulerer eller organiserer prosjektet løsningen
-som er valgt. Gjennom arbeidet i diamant en og to løfter prosjektene komplekse problemstillinger
-opp av siloer, utforsker dem på tvers og finner løsninger.  
-For prosjekter som krever videre samarbeid på tvers, vil den tredje diamanten ofte resultere i
-en avtale som definerer felles mål og plan for videre samarbeid.  
-Hvis prosjektet er mindre komplekst, kan deltakerne gjøre løsningen klar for implementering, og
-virksomhetene kan innlede arbeidet med å høste gevinstene av den.
+I denne fasen lager vi konkrete forslag til løsninger. 
+I første steg av denne fasen bruker vi gjerne skisser til løsning som verktøy. Skissene hjelper oss med å se det store bildet og oppdage sammenhenger. 
+Vi kan studere detaljer i skissene, og de gir alle i teamet en felles referanse. Det er ofte lurt med mange ideer og forhåpentligvis mange skisser, som vi så kan kombinere. 
+Når vi har flere mulige løsninger, må vi velge en eller flere løsninger som vi vil teste. <br>
+
+I steg to tester vi løsningen på brukergruppen for å finne ut hvordan vi kan utvikle tjenesten videre. 
+Da lager vi en prototype, som er en delvis klikkbar versjon av tjenesten vi ønsker å lage. 
+Med prototypen klar, tester vi ulike løsninger, får tilbakemeldinger og lærer. <br> 
+
+Designtenkning er en iterativ prosess. Å iterere betyr å gjenta/gjennomføre noe flere ganger. Iterasjon i designtenkning og idéutvikling betyr at vi må tilpasse ideen etter hvert som vi utvikler den. 
+I starten tester vi konsepter, med en ganske overordnet prototype. Etter hvert som vi lærer, blir den mer detaljert. Med prottypetesting kan vi for eksempel finne ut om brukerne ser en knapp vi har laget, eller forstår en forklarende tekst i en prosedyre de skal utføre. <br>
+
+[Les mer om hvordan vi brukertester her.]([https://www.altinn.no/](https://docs.altinn.studio/nb/app/guides/design/usertest/#gode-r%C3%A5d-for-brukertesting/) <br>
+
+*Ved å kombinere metoder og tester og utvikle tjenesten steg for steg, har vi gode sjanser for å lage noe som både løser brukernes problem og oppfyller virksomhetens krav.* 
