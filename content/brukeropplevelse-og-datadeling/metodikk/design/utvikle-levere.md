@@ -24,10 +24,10 @@ Når vi har flere mulige løsninger, må vi velge en eller flere løsninger som 
 
 I steg to tester vi løsningen på brukergruppen for å finne ut hvordan vi kan utvikle tjenesten videre. 
 Da lager vi en prototype, som er en delvis klikkbar versjon av tjenesten vi ønsker å lage. 
-Med prototypen klar, tester vi ulike løsninger, får tilbakemeldinger og lærer. <br> 
+Med prototypen klar, tester vi ulike løsninger, får tilbakemeldinger og lærer. <br>
 
 Designtenkning er en iterativ prosess. Å iterere betyr å gjenta/gjennomføre noe flere ganger. Iterasjon i designtenkning og idéutvikling betyr at vi må tilpasse ideen etter hvert som vi utvikler den. 
 I starten tester vi konsepter, med en ganske overordnet prototype. Etter hvert som vi lærer, blir den mer detaljert. Med prottypetesting kan vi for eksempel finne ut om brukerne ser en knapp vi har laget, eller forstår en forklarende tekst i en prosedyre de skal utføre. <br>
 [Les mer om hvordan vi brukertester her.](https://docs.altinn.studio/nb/app/guides/design/usertest/#gode-r%C3%A5d-for-brukertesting/) <br>
 
-*Ved å kombinere metoder og tester og utvikle tjenesten steg for steg, har vi gode sjanser for å lage noe som både løser brukernes problem og oppfyller virksomhetens krav.* 
+Ved å kombinere metoder og tester og utvikle tjenesten steg for steg, har vi gode sjanser for å lage noe som både løser brukernes problem og oppfyller virksomhetens krav. 
