@@ -1,6 +1,26 @@
 ---
 title: Styringsteamet
-ingress: Styringsteam xxxx
+ingress: 
+Styringsteamet  gir retningslinjer, føringer og direkte krav som gjelder for alle  teamene. Dette skal sørge for at vi opprettholder høy tillit til de tjenestene BOD leverer. Det gjelder blant annet hvilke dokumenter og prosesser vi må etablere og oppdatere for å sikre at vi
+
+- etterlever lover og regler
+- har retningslinjer for å ta teknologivalg
+- klarer å kontrollere kostnadene
+
+Til sammen legger det grunnlaget for at vi kan drifte løsningene våre på en sikker og stabil måte.
+
+Mål for styringsteamet:
+- Lage felles rammer og prosesser for teamene.
+- Skape like høy eller enda høyere tillit til de tjenestene BOD leverer.
+- Ha kontroll på kostnadene.
+- Passe på at BOD står stødig hvis vi blir revidert på sikkerhet og etterlevelse av regulatoriske krav.
+- Sørge for at vi ikke har noen brudd på konfidensialitet, integritet og oppnådd, avtalt tilgjengelighet.
+- Skape trygghet hos de som skal selge og markedsføre tjenestene til BOD.
+- Passe på at  teamene har forutsigbarhet i arbeidet sitt. 
+
+
+![image](https://github.com/digdir/baksia/assets/111488506/63460cea-79c2-4532-8ca2-d22823fa3a96)
+
 
 navigation_link:
   title: Produkteier
@@ -36,6 +56,14 @@ weight: 5
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- xx
-- xx
+## Ansvarsområder
+
+Vi rapporterer om dette  til Lederlaget en gang i måneden
+
+- oppetid 
+- sikkerhetsbrudd 
+- risikobildet 
+- kostnadsbildet for bruk av skytjenester 
+- kostnadsbildet for leverandører 
+- status på livssyklusforvaltningen, som vi henter fra teamenes ansvarsområder
 
