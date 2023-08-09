@@ -28,7 +28,7 @@ Vi må se for oss hele brukerreisen og stille spørsmål som:
 
 Basert på brukerreisen kan vi definere hva som er hovedproblemet, og hva vi ønsker å finne en løsning på. Vi kan bruke denne setningen til å oppsummere hva vi vil hjelpe brukeren med: <br> 
 
-*Vi vil hjelpe brukeren med å _____ slik at ______ fordi _____.* 
+*Vi vil hjelpe brukeren med å _____ slik at ______ fordi _____.* <br>
 
 Vi kan også bruke andre verktøy i denne fasen, for eksempel lage personas.
 [Les mer om hvordan designerne i Digdir jobber her.](https://www.designsystemet.no/grunnleggende/introduksjon/designprinsipper)
