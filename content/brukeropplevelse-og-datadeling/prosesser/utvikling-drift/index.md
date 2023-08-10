@@ -1,6 +1,6 @@
 ---
 title: Utviklings- og driftsprosesser (DevOps)
-ingress: 
+ingress: Strategi: En synergisk reise for å lede kulturen som gir resultater, fremme produktutvikling og optimalisere prosesser ved å bruke DevOps-metodikk. Vi ønsker å fremme tett samarbeid og åpen kommunikasjon mellom utviklere og DigDirs virksomheter. Ved å designe og bruke en selvstendig produktorganisasjon, strukturerer vi teamene med autonomi og samtidig fremmer samarbeid. Vi ønsker å gi veiledning om hvordan team bør samhandle og hvilke kommunikasjonsmønstre som skal følges, slik at produktorganisasjonen kan være skalerbar og håndtere vekst i fremtiden.
 
 weight: 2
 
