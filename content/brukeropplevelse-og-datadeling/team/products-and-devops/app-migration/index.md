@@ -31,7 +31,7 @@ weight: 11
 {{< team/github-profile url="" name="Øystein Leikanger Løken" role="Graduates, Utvikler, Skjemautvikler">}}
 {{< team/github-profile url="" name="Filippa Walden" role="Graduates, Utvikler, Skjemautvikler">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
