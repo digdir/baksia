@@ -29,7 +29,7 @@ weight: 3
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89203237?v=4" name="Simon Ellefsen" role="Infrastruktur">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/28589510?v=4" name="Henning Normann " role="Ytelse">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
