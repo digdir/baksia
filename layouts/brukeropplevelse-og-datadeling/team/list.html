@@ -8,7 +8,7 @@
         <div class="row d-flex justify-content-between">
           <div class="col-lg-8 my-auto pe-5">
             <h1 class="">{{ .Title }}</h1>
-            {{ $ingress := .Params.ingress | safeHTML }}
+            {{ $ingress := .Params.ingress | markdownify }}
             <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
           </div>
           <div class="col-lg-4 d-flex justify-content-sm-center">

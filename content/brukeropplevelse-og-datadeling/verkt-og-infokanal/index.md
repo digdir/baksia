@@ -1,19 +1,19 @@
 ---
 title: Informasjonskilder og verktøy
 ingress: |
-  En oversikt over hvilke verktøy og når de skal brukes samt hvordan man skal bestille nye verktøy? <br> <br>
+  En oversikt over hvilke verktøy og når de skal brukes samt hvordan man skal bestille nye verktøy?
 
   1. Anskaffelser av verktøy er et ledelsesansvar fordi det medfører kostnader for etaten og 
   det må inngås formelle avtaler med leverandør om bruk av verktøy. Det skal vurderes behov, 
   økonomi, avtalemessig, omdømme, sikkerhet, om det passer inn i vår plattform/potefølje 
-  teknisk og personalmessig bruk av verktøyet. <br>
+  teknisk og personalmessig bruk av verktøyet.
 
   2. Innkjøp av verktøy: behov for innkjøp av verktøy til bruk i teamet meldes til teamleder. 
-  Teamleder tar saken videre til seksjonsleder. Saken legges frem for ledergruppa for beslutning om innkjøp. <br>
+  Teamleder tar saken videre til seksjonsleder. Saken legges frem for ledergruppa for beslutning om innkjøp.
 
   3. Sanering av verktøy: behov for sanering av verktøy som ikke brukes lengre, ta kontakt med teamleder. 
   Teamleder tar saken videre til seksjonsleder, og er det verktøy med flere brukere utover teamet, 
-  må saken legges frem for ledergruppa for beslutning om sanering. <br>
+  må saken legges frem for ledergruppa for beslutning om sanering.
 
   4. Bestilling av tilganger for brukeren bør gjøres fra et sted, og det er en leder som bestiller. 
   Tilgangen til verktøyet opprettes og henvendelser fra bruker gjøres til samme sted. 

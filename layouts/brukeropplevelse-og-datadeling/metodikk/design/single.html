@@ -7,7 +7,7 @@
           <div class="row">
             <div class="col-lg-8 my-auto">
               <h1 class="">{{ .Params.pageTitle }}</h1>
-              {{ $ingress := .Params.ingress | safeHTML | markdownify }}
+              {{ $ingress := .Params.ingress | markdownify }}
               <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
             </div>
             <div
