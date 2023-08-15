@@ -6,7 +6,7 @@ ingress: |
   kan hele prosessen rundt forbedringsarbeidet gjøres mer effektiv, i tillegg 
   til å imøtekomme myndighetskrav angående dokumentasjon. En annen veldig viktig effekt 
   er at et godt rapporteringsregime fremmer god en sikkerhetskultur og reell arbeidstakermedvirkning. 
-  <br> <br>
+  
   Det er oftest opp til linjeledelsen å planlegge tiltak og gjennomføre prioriteringer. 
   Ved at alle i virksomheten er med på å rapportere, så har vi mulighet til 
   å etablere statistikk, dokumentasjon og konstatere fakta. På den måten kan det 
