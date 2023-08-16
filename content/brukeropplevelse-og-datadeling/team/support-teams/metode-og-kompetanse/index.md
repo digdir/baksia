@@ -24,7 +24,7 @@ weight: 4
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/105773373?v=4" name="Elaine M Svartis" role="Kompetanse og opplæring">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/130640200?v=4" name="Cathrine Bastesen" role="Introduksjonsprogrammet (onboarding)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="Dokumentstyring" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Kristin Bjarke Pettersen" role="Juridisk rådgiver" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Juridisk rådgiver" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}

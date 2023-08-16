@@ -27,7 +27,7 @@ weight: 1
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/133344438?v=4" name="William Thorenfeldt" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71079896?v=4" name="Andrea Standeren" role="Frontend og backend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach">}}
 
 {{< /team/members >}}
 
