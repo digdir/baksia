@@ -16,12 +16,8 @@ ingress: |
   - Ha kontroll på kostnadene.
   - Passe på at BOD står stødig hvis vi blir revidert på sikkerhet og etterlevelse av  regulatoriske krav.
   - Sørge for at vi ikke har noen brudd på konfidensialitet, integritet og oppnådd, avtalt tilgjengelighet.
-  - Skape trygghet hos de som skal selge og markedsføre tjenestene til BOD. 
-
-  Passe på at  teamene har forutsigbarhet i arbeidet sitt.
-
-  
-  ![image](https://github.com/digdir/baksia/assets/111488506/9367aaf0-e38e-4ee0-a22e-1a6fcf2b9dba)
+  - Skape trygghet hos de som skal selge og markedsføre tjenestene til BOD.
+  - Passe på at  teamene har forutsigbarhet i arbeidet sitt.
 
 
 navigation_link:
