@@ -1,6 +1,6 @@
 ---
 title: Utviklings- og driftsprosesser (DevOps)
-ingress: En synergisk reise for å lede kulturen som gir resultater, fremme produktutvikling og optimalisere prosesser ved å bruke DevOps-metodikk. Vi ønsker å fremme tett samarbeid og åpen kommunikasjon mellom utviklere og DigDirs virksomheter. Ved å designe og bruke en selvstendig produktorganisasjon, strukturerer vi teamene med autonomi og samtidig fremmer samarbeid. Vi ønsker å gi veiledning om hvordan team bør samhandle og hvilke kommunikasjonsmønstre som skal følges, slik at produktorganisasjonen kan være skalerbar og håndtere vekst i fremtiden.
+ingress: En synergisk reise for å lede kulturen som gir resultater, fremme produktutvikling og optimalisere prosesser ved å bruke DevOps-metodikk. Vi ønsker å fremme tett samarbeid og åpen kommunikasjon mellom utviklere, brukeropplevelse, styring og forretning. Ved å designe og bruke en produktorganisasjon, strukturerer vi teamene med autonomi og samtidig fremmer samarbeid. Vi ønsker å gi veiledning om hvordan team bør samhandle og hvilke kommunikasjonsmønstre som skal følges, slik at produktorganisasjonen kan være skalerbar og håndtere vekst i fremtiden.![image](https://github.com/digdir/baksia/assets/7873274/492919ae-988f-4e1f-9c9e-c07c21d8ed44)
 
 weight: 2
 
