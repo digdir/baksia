@@ -23,13 +23,13 @@ weight: 11
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/75472603?v=4" name="Andreas Didriksen" role="Skjemautvikler" Lokasjon="Br.sund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/65394379?v=4" name="Tony Grimstad" role="Skjemautvikler" Lokasjon="Br.sund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47383888?v=4" name="Roger Kjærnsrød" role="Skjemautvikler" Lokasjon="Oslo">}}
-{{< team/github-profile url="" name="Ahmed Ghanam" role="Fullstack, Skjemautvikler" Lokasjon="Oslo">}}
-{{< team/github-profile url="" name="Nathalie Froissart" role="Junior Utvikler backend, Skjemautvikler" Lokasjon="Oslo">}}
-{{< team/github-profile url="" name="Ådne H. Matre" role="Junior Utvikler backend, Skjemautvikler" Lokasjon="Oslo">}}
-{{< team/github-profile url="" name="Celine Uyen Tram Tran" role="Graduates, Utvikler, Skjemautvikler" Lokasjon="Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/114151129?v=4" name="Ahmed Ghanam" role="Fullstack, Skjemautvikler" Lokasjon="Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Junior Utvikler backend, Skjemautvikler" Lokasjon="Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/77102805?v=4" name="Ådne H. Matre" role="Junior Utvikler backend, Skjemautvikler" Lokasjon="Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/61122289?v=4" name="Celine Uyen Tram Tran" role="Graduates, Utvikler, Skjemautvikler" Lokasjon="Oslo">}}
 {{< team/github-profile url="" name="Nora Sofie Thesen Laeskogen" role="Graduates, Utvikler, Skjemautvikler" Lokasjon="Oslo">}}
-{{< team/github-profile url="" name="Per Bergsjø Andresen" role="Graduates, Utvikler, Skjemautvikler" Lokasjon="Oslo">}}
-{{< team/github-profile url="" name="Filippa Walden" role="Graduates, Utvikler, Skjemautvikler" Lokasjon="Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/56260049?v=4" name="Per Bergsjø Andresen" role="Graduates, Utvikler, Skjemautvikler" Lokasjon="Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/143729834?v=4" name="Filippa Walden" role="Graduates, Utvikler, Skjemautvikler" Lokasjon="Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach" Lokasjon="Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach" Lokasjon="Oslo">}}
 {{< /team/members >}}
