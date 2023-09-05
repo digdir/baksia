@@ -17,9 +17,9 @@ weight: 6
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/CE5E06MC7" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/25847572?v=4" name="Siv Aglen" role="Produkteier" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/25847572?v=4" name="Ragnhild Tafjord" role="Produkteier" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/40996230?v=4" name="Jon-Kjetil Øye" role="Team-arkitekt, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/36295493?v=4" name="Ragnhild Tafjord" role="Scrum master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/36295493?v=4" name="Siri-Anna Zahl Kristiansen" role="Scrum master" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/31471142?v=4" name="Albert Larsen" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22012997?v=4" name="Alexandra Vedeler" role="Frontend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/59682632?v=4" name="Ivar Tryti" role="Backend">}}
