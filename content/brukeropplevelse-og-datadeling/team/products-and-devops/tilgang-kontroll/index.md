@@ -4,7 +4,7 @@ Ingress: Tilgangsstyring og kontroll er ett av to team knyttet til Altinn autori
 
 navigation_link:
   title: Produkteier
-  subtitle: Siv Aglen
+  subtitle: Ragnhild Tafjord
 
 layout: 'team/single'
 
