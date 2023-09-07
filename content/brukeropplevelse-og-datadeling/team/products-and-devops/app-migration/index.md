@@ -17,9 +17,10 @@ weight: 11
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/29474941?v=4" name="Elin Walstrand" role="Produkteier" Lokasjon="Br.sund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/49391418?v=4" name="Radha Rajagopalan" role="Scrum master" Lokasjon="Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/22012997?v=4" name="Alexandra Vedeler" role="Veileder for Graduates" Lokasjon="Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/29474941?v=4" name="Elin Walstrand" role="Produkteier, Br.sund" >}}
+name="Vemund Gaukstad" role="Team-arkitekt, infrastruktur, backend" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/49391418?v=4" name="Radha Rajagopalan" role="Scrum master, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/22012997?v=4" name="Alexandra Vedeler" role="Veileder for Graduates, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/75472603?v=4" name="Andreas Didriksen" role="Skjemautvikler" Lokasjon="Br.sund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/65394379?v=4" name="Tony Grimstad" role="Skjemautvikler" Lokasjon="Br.sund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47383888?v=4" name="Roger Kjærnsrød" role="Skjemautvikler" Lokasjon="Oslo">}}
