@@ -20,19 +20,19 @@ weight: 15
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="Produkteier - Dialogporten" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Design lead" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/19344884?v=4" name="India Anderson" role="UX researcher" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5313373?v=4" name="Ole-Jørgen Skogstad" role="Backend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/54906720?v=4" name="Aleksander Midteide" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/17751873?v=4" name="Hamy Nguyen" role="UX Konseptutvikler arbeidsflate">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/15613654?v=4" name="Audun Karlsrud Larsen" role="Tjenestedesigner arbeidsflate">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1138656?v=4" name="Inge Fossland" role="UI Designer">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="Produkteier - Dialogporten, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, backend, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Design lead, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/19344884?v=4" name="India Anderson" role="UX researcher, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend, Hamar">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/5313373?v=4" name="Ole-Jørgen Skogstad" role="Backend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/54906720?v=4" name="Alexsander Midteide" role="Frontend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/17751873?v=4" name="Hamy Nguyen" role="UX Konseptutvikler arbeidsflate, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/15613654?v=4" name="Audun Karlsrud Larsen" role="Tjenestedesigner arbeidsflate, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1138656?v=4" name="Inge Fossland" role="UI Designer, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
