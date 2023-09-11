@@ -24,7 +24,7 @@ weight: 8
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/82439090?v=4" name="Hanne Brun" role="Scrum master, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3437949?v=4" name="Daniel Rustad Johansen" role="Frontend, backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23278708?v=4" name="Nikolai Maasø Lunde" role="Frontend, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund">}}
 
 {{< /team/members >}}
 
