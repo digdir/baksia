@@ -25,6 +25,7 @@ weight: 1
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/86382095?v=4" name="Dan Remi Mørk " role="Seksjonsleder for Platform og styring (BPS)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/95215761?v=4" name="Hege Nielsen" role="Seksjonsleder for Brukerstøtte (BBS)">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="DevOps-leder">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role="Scrum Master">}}
 
 {{< /team/members >}}
 
