@@ -30,8 +30,9 @@ weight: 11
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144219994?v=4" name="Nora Sofie Thesen Laeskogen" role="Graduates, Utvikler, Skjemautvikler, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56260049?v=4" name="Per Bergsjø Andresen" role="Graduates, Utvikler, Skjemautvikler, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/143729834?v=4" name="Filippa Walden" role="Graduates, Utvikler, Skjemautvikler, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/89974012?v=4" name="Espen Elstad Halsen" Lærling, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/53123830?v=4" name="Andreas Chummuenwai Bjørnå" Lærling, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/53123830?v=4" name="Andreas Bjørnå" role="Lærling, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/89974012?v=4" name="Espen Halsen" role="Lærling, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/8640329?v=4" name="Thomas Rene Hansen" role="Arbeidstrening, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Oslo">}}
 {{< /team/members >}}
