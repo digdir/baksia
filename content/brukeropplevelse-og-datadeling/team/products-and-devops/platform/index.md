@@ -21,7 +21,7 @@ weight: 3
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/2217340?v=4" name="Terje Holene" role="Team-arkitekt, infrastruktur, backend, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47737608?v=4" name="Stephanie Buadu" role="Backend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/70642698?v=4" name="Thomas Bakken" role="Backend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/70642698?v=4" name="Thomas Bakken" role="Backend, Brønnøysund">}}
 {{< team/github-profile url="" name="Khan Mohammad R." role="Backend, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32734566?v=4" name="Bengt Fredh" role="Infrastrukur, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/16504606?v=4" name="Sebastian Duran" role="Infrastrukur, Oslo" >}}
