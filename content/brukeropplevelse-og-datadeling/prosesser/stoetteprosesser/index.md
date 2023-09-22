@@ -3,7 +3,7 @@ isResourceBundle: true
 ---
 
 {{< prosesser/card
-  title="Virksomhetstyring"
+  title="Styringsteamet"
   owner="Dan Remi Mørk"
   leader="Marit Sandholm"
   purpose="Styre det regulatoriske feltet, og risiko, sikkerhet og økonomi."
