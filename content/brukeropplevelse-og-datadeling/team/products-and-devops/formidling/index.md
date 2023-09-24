@@ -1,6 +1,6 @@
 ---
 title: Formidling
-ingress: Team Formidling har ansvar for å... Her kommer det mer tekst fra teamet. Kontakt Leo Gasnier hvis du lurer på noe før det.
+ingress: Team Melding & Formidling har ansvar for å... Her kommer det mer tekst fra teamet. Kontakt Leo Gasnier hvis du lurer på noe før det.
 
 navigation_link:
   title: Produkteier
