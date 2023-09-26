@@ -23,13 +23,13 @@ weight: 6
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/31471142?v=4" name="Albert Larsen" role="Frontend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22012997?v=4" name="Alexandra Vedeler" role="Frontend, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/59682632?v=4" name="Ivar Tryti" role="Backend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/56019927?v=4" name="Remi Løvoll" role="Backend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/56019927?v=4" name="Remi Løvoll" role="Backend, 85%, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/103100644?v=4" name="Hanne Saltnes" role="Interaksjonsdesigner, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94835837?v=4" name="Randi Mansæterbak" role="Interaksjonsdesigner, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22615518?v=4" name="Ernst Jonny Lyngøy" role="Test, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/117180726?v=4" name="Anisha Ann Stephen" role="Test, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/117180726?v=4" name="Anisha Ann Stephen" role="Test, 85%, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
