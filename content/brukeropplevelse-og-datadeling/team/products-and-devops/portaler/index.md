@@ -20,7 +20,7 @@ weight: 10
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Produkteier og redaktør for altinn.no, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/126155457?v=4" name="Lis Lonning" role="Produktgruppeeier, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/111488506?v=4" name="Gørild Døhl" role="Innholdsdesigner, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Ellen Marie Kurås Langen" role="Produkteier og redaktør for norge.no, Leikanger">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/128821325?v=4" name="Ellen Marie Kurås Langen" role="Produkteier og redaktør for norge.no, Leikanger">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/31504150?v=4" name="Alise Kjelling" role="UX-designer, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/12525344?v=4" name="Thord V. Foss" role="UX-designer konseptutvikler, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/110961868?v=4" name="Dorte Drange" role="Innholdsdesigner, Oslo" >}}
