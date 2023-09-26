@@ -27,7 +27,7 @@ weight: 4
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50194012?v=4" name="Nils Ove Tendenes" role="Backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/48259307?v=4" name="Hege Aalvik" role="Fullstack, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/8625716?v=4" name="Hans Olav Sund" role="DevOps-ingeniør, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/121860376?v=4" name="Mateus Furuløkken" role="Interaksjonsdesigner, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/121860376?v=4" name="Mateus Furuløkken" role="Interaksjonsdesigner, 50%, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aaseberg" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/48056195?v=4" name="Espen Slotvik" role="Behovsdriver, Brønnøysund">}}
