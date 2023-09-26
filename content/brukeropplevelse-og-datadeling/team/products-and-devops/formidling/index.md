@@ -21,8 +21,8 @@ weight: 13
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/34267083?v=4" name="Tore Måsøy" role="Scrum-Master, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/785457?v=4" name="Steinar Henriksen" role=" Team-arkitekt, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13086439?v=4" name="Erik Hagen" role="Arkitekt, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/60652478?v=4" name="Tom-Sverre Hageland" role="Backend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/99019701?v=4" name="Ragnar Fatland" role="Backend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/60652478?v=4" name="Tom-Sverre Hageland" role="Backend, 50%, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/99019701?v=4" name="Ragnar Fatland" role="Backend, 50%,  Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36594318?v=4" name="Roar Mjelde" role="Backend, Fullstack, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/123467801?v=4" name="Camilla Wold" role="Behovsstiller, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Brønnøysund">}}
