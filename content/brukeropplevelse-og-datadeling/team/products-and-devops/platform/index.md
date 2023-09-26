@@ -27,9 +27,9 @@ weight: 3
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/16504606?v=4" name="Sebastian Duran" role="Infrastrukur, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/62640845?v=4" name="Espen Herskedal" role="Infrastrukur, 50%, Hamar">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/12184124?v=4" name="Børge Thommesen" role="Infrastrukur, 50%, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/49302758?v=4" name="Øystein Otneim" role="Infrastrukur, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/49302758?v=4" name="Øystein Otneim" role="Infrastrukur, 80%,  Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89203237?v=4" name="Simon Ellefsen" role="Infrastruktur, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/28589510?v=4" name="Henning Normann " role="Ytelse, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/28589510?v=4" name="Henning Normann " role="Ytelse, 50%,  Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Oslo">}}
 {{< /team/members >}}
