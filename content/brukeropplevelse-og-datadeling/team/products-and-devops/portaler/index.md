@@ -16,7 +16,7 @@ banner:
 weight: 10
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://join.slack.com/share/enQtNTk1NDM2MjY2NDMwOS0zMzc5ZjUyMmUzMDQ5OTFmMjA3MzZjOTI0YmVlYWI3ZjY2ODA3ODFjZmI2OGI3NzUwNjg1ZGFjOGYzZDk4ZjA0" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C05MRKCKZ6Z" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Produkteier og redaktør for altinn.no, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Produkteier og redaktør for altinn.no, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master, 50%, Brønnøysund " >}}
