@@ -16,7 +16,7 @@ banner:
 weight: 10
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://app.slack.com/client/T0TAC6NF3/C05MRKCKZ6Z" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Produkteier og redaktør for altinn.no, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/126155457?v=4" name="Lis Lonning" role="Produktgruppeeier, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/111488506?v=4" name="Gørild Døhl" role="Innholdsdesigner, Oslo" >}}
