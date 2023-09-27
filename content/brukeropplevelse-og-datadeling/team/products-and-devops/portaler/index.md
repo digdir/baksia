@@ -24,7 +24,7 @@ weight: 10
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/31504150?v=4" name="Alise Kjelling" role="UX-designer, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/12525344?v=4" name="Thord V. Foss" role="UX-designer konseptutvikler, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/110961868?v=4" name="Dorte Drange" role="Innholdsdesigner, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Hanne Fredheim" role="Behovsdriver, helhetlig informasjon, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/49523545?v=4" name="Hanne Fredheim" role="Behovsdriver, helhetlig informasjon, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/19344884?v=4" name="India Anderson" role="UX researcher, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach, Oslo" >}}
