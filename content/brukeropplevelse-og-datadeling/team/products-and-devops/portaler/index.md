@@ -1,7 +1,6 @@
 ---
 title: Portaler
-ingress: Team Portal er under produktgruppen Portaler og brukeropplevelse. Teamet har fag og metodeansvar for brukeropplevelse og brukerorientering i Digdir.
-Teamet skal forvalte, videreutvikle og vedlikeholde sluttbrukerportalene altinn.no – infoportalen og norge.no.
+ingress: Team Portal er under produktgruppen Portaler og brukeropplevelse. Teamet har fag og metodeansvar for brukeropplevelse og brukerorientering i Digdir. Teamet skal forvalte, videreutvikle og vedlikeholde sluttbrukerportalene altinn.no – infoportalen og norge.no.
 
 navigation_link:
   title: Produkteier
