@@ -3,10 +3,9 @@ title: Portaler
 ingress: Team Portal er under produktgruppen Portaler og brukeropplevelse. Teamet har fag og metodeansvar for brukeropplevelse og brukerorientering i Digdir. Teamet skal forvalte, videreutvikle og vedlikeholde sluttbrukerportalene altinn.no – infoportalen og norge.no.
 
 navigation_link:
-  title: Produkteier altinn.no infoportal
-  subtitle: Jørgen Ferkingstad
-  title: Produkteier norge.no
-  subtitle: Frank Fardal 
+  title: Produkteiere
+  subtitle: Jørgen Ferkingstad og Frank Fardal
+ 
 
 layout: 'team/single'
 
@@ -20,6 +19,7 @@ weight: 10
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C05MRKCKZ6Z" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Produkteier og redaktør for altinn.no, Brønnøysund" >}}
+{{< team/github-profile url="" name="Frank Fardal" role="Produkteier og redaktør for Norge.no, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master, 50%, Brønnøysund " >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/126155457?v=4" name="Lis Lonning" role="Produktgruppeeier, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/31504150?v=4" name="Alise Kjelling" role="Design lead og UX-designer, Oslo" >}}
