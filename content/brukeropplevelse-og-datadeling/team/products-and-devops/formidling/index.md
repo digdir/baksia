@@ -1,6 +1,6 @@
 ---
 title: Melding & Formidling
-ingress: Team Melding & Formidling har ansvar for å... Her kommer det mer tekst fra teamet. Kontakt Leo Gasnier hvis du lurer på noe før det.
+ingress: Team Melding & Formidling har ansvar for de to produktene Melding og Formidling både i Altinn 2 og Altinn 3.
 
 navigation_link:
   title: Produkteier
@@ -19,7 +19,6 @@ weight: 13
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/42409357?v=4" name="Leo Gasnier" role="Produkteier, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/34267083?v=4" name="Tore Måsøy" role="Scrum-Master, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/785457?v=4" name="Steinar Henriksen" role=" Team-arkitekt, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13086439?v=4" name="Erik Hagen" role="Arkitekt, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/60652478?v=4" name="Tom-Sverre Hageland" role="Backend, 50%, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/99019701?v=4" name="Ragnar Fatland" role="Backend, 50%,  Oslo">}}
@@ -37,9 +36,8 @@ weight: 13
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3-applikasjon – en del av Altinn Studio
-- App frontend – felles for alle applikasjoner/tjenester
-- App backend – unik per applikasjon men med felles bibliotek
-- Dokumentasjon
-- Bidra til Digdirs felles designsystem
-- DevOps-team med totalansvar fra idé til produksjon
+- Drift av produktene i Altinn 2. Dette inkluderer feilrettinger og videreutvikling av både backend, frontend og dokumentasjon
+- Nyutvikling av produktene i Altinn 3 (backend, dokumentasjon)
+- Samarbeid med (kravhåndtering og informasjon) nåværende og fremtidige brukere
+- Drift av produktene i Altinn 3 når de er klare
+- Selvgående DevOps-team med stort fokus på kvalitet i alle ledd
