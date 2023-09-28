@@ -3,8 +3,10 @@ title: Portaler
 ingress: Team Portal er under produktgruppen Portaler og brukeropplevelse. Teamet har fag og metodeansvar for brukeropplevelse og brukerorientering i Digdir. Teamet skal forvalte, videreutvikle og vedlikeholde sluttbrukerportalene altinn.no – infoportalen og norge.no.
 
 navigation_link:
-  title: Produkteier
+  title: Produkteier, Altinn.no/infoportal 
   subtitle: Jørgen Ferkingstad
+  title: Produkteier, Norge.no
+  Subtitle: Frank Fardal
 
 layout: 'team/single'
 
