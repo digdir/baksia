@@ -1,5 +1,5 @@
 ---
-title: Styringsstruktur for produkter (rapportering)
+title: Styring av produktorganisasjonen (rapportering)
 ingress: |
   Et rapporteringssystem vil bidra til å avdekke områder som har forbedringspotensial
   og lette prioriteringer for tiltak. Ved å implementere et effektivt rapporteringssystem
