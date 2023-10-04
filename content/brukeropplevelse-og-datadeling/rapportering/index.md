@@ -1,5 +1,5 @@
 ---
-title: Styring av produktorganisasjonen (rapportering)
+title: Intern rapportering
 ingress: |
   Et rapporteringssystem vil bidra til å avdekke områder som har forbedringspotensial
   og lette prioriteringer for tiltak. Ved å implementere et effektivt rapporteringssystem
@@ -33,6 +33,5 @@ isFirstSection: true
 
 navigation_link:
   text: |
-    Avdeling Brukeropplevelse og Datadeling (BOD) er en av to avdelinger
-    i Digdir som er ansvarlige for å levere fellesløsninger.
+    Her finner du lenker til rapporteringer fra de ulike teamene og funksjonene i avdelingen.
 ---
