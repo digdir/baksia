@@ -1,5 +1,5 @@
 ---
-title: Teamene våre
+title: Produktene våre
 
 ingress: |
   Vi jobber i selvstendige og tverrfaglige team på tvers av seksjonene vi tilhører. Teamene jobber smidig og hvert smidig-team har ansvar for ett eller flere produkter.
