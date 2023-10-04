@@ -10,7 +10,7 @@ weight: 3
 
 ## Utvikling
 
-Seksjonen arbeider etter DevOps-metodikken med et sterkt fokus på å forbedre Developer Experience (DX). Vi verdsetter takhøyde for prøving og feiling, og vi fremmer aktivt samskaping innen offentlig sektor. Vi deler også vår erfaring og kunnskap gjennom åpen kildekode. Vi er konstant engasjert i å lete etter måter å forbedre og effektivisere driften, teknologien vi bruker, og arbeidsmetodene våre.
+Seksjonen arbeider med å forsterke DevOps-metodikken og har et sterkt fokus på å forbedre Developer Experience (DX). Vi verdsetter takhøyde for prøving og feiling, og vi fremmer aktivt samskaping innen offentlig sektor. Vi legger til rette for deling av vår erfaring og kunnskap gjennom åpen kildekode. Vi er konstant engasjert i å lete etter måter å forbedre og effektivisere driften, teknologien vi bruker, og arbeidsmetodene våre.
 Vi mener at dette bidrar til å fremme innovasjon, øke tillit, og resultere i bedre tjenester for alle.
 
 Seksjonsleder: Roberto Carrera
