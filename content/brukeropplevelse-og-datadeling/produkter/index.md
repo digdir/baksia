@@ -1,5 +1,5 @@
 ---
-title: Produktgruppene
+title: Produktgruppene våre
 ingress: |
   Avdeling Brukeropplevelse og datadeling (BOD) og Avdeling for fellesløsninger (FEL) leverer begge fellesløsninger som er til gode for samfunnet. Fellesløsningene til Digdir er inndelt
   i produktgrupper, og BOD er ansvarlig for produktgruppene Datadeling, Tjenesteutvikling
@@ -25,5 +25,5 @@ isFirstSection: true
 
 navigation_link:
   text: |
-    Les mer om produktene og produktgruppene våre
+    Les mer om produktgruppene våre
 ---
