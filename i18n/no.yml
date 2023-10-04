@@ -44,6 +44,8 @@
   translation: 'input'
 - id: 'effect'
   translation: 'Effekt'
+- id: 'output'
+  translation: 'Output'
 - id: 'responsible-method-and-expertise'
   translation: 'Ansvarlig: team metode og kompetanse, mer info her:'
 - id: 'responsible-management'
