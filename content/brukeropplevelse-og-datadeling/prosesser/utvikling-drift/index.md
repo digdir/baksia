@@ -1,7 +1,7 @@
 ---
 title: Utviklings- og driftsprosesser 
 ingress: |
- Følgende bokser viser sentrale prosesser i drift og utvikling som alle porduktteamene må ha gode arbeidsrutiner for når de utfører sine oppgaver.
+ Følgende bokser viser sentrale prosesser i drift og utvikling som alle produktteamene må ha gode arbeidsrutiner for når de utfører sine oppgaver.
 weight: 2
 
 layout: prosesser/utvikling-drift/single
