@@ -1,5 +1,5 @@
 ---
-title: Utviklings- og driftsprosesser (DevOps)
+title: Utviklings- og driftsprosesser 
 ingress:
 weight: 2
 
