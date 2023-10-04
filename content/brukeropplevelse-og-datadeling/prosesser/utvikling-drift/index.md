@@ -15,61 +15,40 @@ navigation_link:
   text: |
     <p> - Release</p>
     <p> - Endringsstyring</p>
-    <p> - Behov<p>
-    <p> - Utvikling</p>
-    <p> - Produksjonssetting</p>
-    <p> - Forespørsler</p>
     <p> - Hendelser</p>
-    <p> - Problemer</p>
     <p> - Tilgangsstyring</p>
 ---
 
 {{< prosesser/strategy-card 
   title="Release" 
   purpose="Planlegge, tidsette og kontrollere bygging, testing og utrulling av en produksjonsenhet."
-  effekt="Ny funksjonalitet til forretning uten at det går på bekostning av eksisterende tjenester"
+  output="Ny funksjonalitet til forretning uten at det går på bekostning av eksisterende tjenester"
 >}}
 
 {{< prosesser/strategy-card 
   title="Endringsstyring" 
   purpose="Holde kontroll på at det ikke oppstår uplanlagte alvorlige hendelser når vi innfører eller gjennomfører arbeid/vedlikehold på IT-plattformen. Slik sikrer vi at kunder og brukere får størst mulig tillit til tjenestene"
-  effekt="Evaluert produksjonsendring (med mål om vellykkede endringer)"
+  output="Evaluert produksjonsendring (med mål om vellykkede endringer)"
 >}}
 
-
-{{< prosesser/strategy-card 
-  title="Utvikling" 
-  purpose="Ansvarlig for å skape eller endre en IT-tjeneste eller applikasjon." 
-  effekt="Klargjorte endringer til produksjonssetting"
->}}
-
-{{< prosesser/strategy-card 
-  title="Produksjonssetting" 
-   purpose="Ansvarlig for å rulle ut blant annet ny eller endret maskinvare, programvare, dokumentasjon og prosess til produksjonsmiljøet. Produksjonssetting er en del av styring av produksjonssettingsprosessen." 
-  input="Klargjorte endringer til produksjon"
-  effekt="Sikre at endringer blir produksjonssatt til rett tid med riktig kvalitet"
->}}
-
-{{< prosesser/strategy-card 
-  title="Forespørsler" 
-  purpose=""
-  effekt="" 
->}}
 
 {{< prosesser/strategy-card 
   title="Hendelser" 
    purpose=""
-   effekt="" 
+   output="" 
 >}}
 
-{{< prosesser/strategy-card 
-  title="Problemer" 
-  purpose=""
-  effekt="" 
->}}
 
 {{< prosesser/strategy-card 
   title="Tilgangsstyring" 
   purpose="Sikre at vi har god kontroll på tilgangsstyringen til verktøy og løsninger, og hvordan vi utfører tilgangsstyringen."
-  effekt="" 
+  output="" 
 >}}
+
+DevOps er en effektiv arbeidsmetode med helhetlig tilnærming. Metoden handler om å effektivisere arbeidsflyten på tvers av utviklings- og driftsavdelingen og gir mange mange fordeler for virksomheten. For kommersielle virksomheter kan det også gi konkurransefortrinn.
+
+Våre produktteam benytter devopsmetodikker når det forvalter, drifter og videreutvikler våre produkter.
+
+{{< external-link name="Les mer om hvordan vi gjør Devops her" href="https://baksia.digdir.no/brukeropplevelse-og-datadeling/metodikk/devops/" >}} {{< icon class="end-icon" >}}
+
+
