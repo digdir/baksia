@@ -10,7 +10,7 @@ Produktgruppeansvarlig:
 Tor Arild Sunnevåg
 
 {{< icon class="prod-li-start-icon" >}} [data-altinn.no](https://data.altinn.no/)  
-{{< icon class="prod-li-start-icon" >}} [Felles datakatalog](https://data.norge.no/)
+{{< icon class="prod-li-start-icon" >}} [Felles datakatalog](https://samarbeid.digdir.no/felles-datakatalog/felles-datakatalog/1617)
 {{< icon class="prod-li-start-icon" >}} [Datalandsbyen]()
 {{< icon class="prod-li-start-icon" >}} [Datafabrikken]()
 {{< icon class="prod-li-start-icon" >}} [Datajegeren]()
