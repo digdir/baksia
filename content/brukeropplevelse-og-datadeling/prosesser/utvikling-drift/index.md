@@ -1,6 +1,7 @@
 ---
 title: Utviklings- og driftsprosesser 
-ingress:
+ingress: |
+ Følgende bokser viser sentrale prosesser i drift og utvikling som alle porduktteamene må ha gode arbeidsrutiner for når de utfører sine oppgaver.
 weight: 2
 
 layout: prosesser/utvikling-drift/single
@@ -25,37 +26,20 @@ navigation_link:
 
 {{< prosesser/strategy-card 
   title="Release" 
-  owner="Hanne Lauritsen" 
-  leader="Torkel Buarøy" 
   purpose="Planlegge, tidsette og kontrollere bygging, testing og utrulling av en produksjonsenhet."
-  input="Behov fra portefølje-, behovs- og utviklingsprosessene."
   output="Ny funksjonalitet til forretning uten at det går på bekostning av eksisterende tjenester"
 >}}
 
 {{< prosesser/strategy-card 
   title="Endringsstyring" 
-  owner="Hanne Lauritsen" 
-  leader="Tony Grimstad" 
   purpose="Holde kontroll på at det ikke oppstår uplanlagte alvorlige hendelser når vi innfører eller gjennomfører arbeid/vedlikehold på IT-plattformen. Slik sikrer vi at kunder og brukere får størst mulig tillit til tjenestene"
-  input="Produksjonsendringer klare til gjennomføring"
   output="Evaluert produksjonsendring (med mål om vellykkede endringer)"
 >}}
 
-{{< prosesser/strategy-card 
-  title="Behov" 
-  owner="Hanne Lauritsen" 
-  leader="Tony Grimstad" 
-  purpose="Sørge for at vi håndterer etterspørsler på en god måte ved å raffinere. Det vil si at vi kategoriserer og prioriterer behovene." 
-  input="Behov fra porteføljeprosess"
-  output="Prioriterte behov"
->}}
 
 {{< prosesser/strategy-card 
   title="Utvikling" 
-  owner="Roberto Andres Carrera" 
-  leader="Snorre Aakerø" 
   purpose="Ansvarlig for å skape eller endre en IT-tjeneste eller applikasjon." 
-  input="Prioriterte behov fra behovsprosessen"
   output="Klargjorte endringer til produksjonssetting"
 >}}
 
