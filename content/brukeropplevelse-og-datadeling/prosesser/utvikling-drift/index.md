@@ -22,27 +22,27 @@ navigation_link:
 {{< prosesser/strategy-card 
   title="Release" 
   purpose="Planlegge, tidsette og kontrollere bygging, testing og utrulling av en produksjonsenhet."
-  output="Ny funksjonalitet til forretning uten at det går på bekostning av eksisterende tjenester"
+  effect="Ny funksjonalitet til forretning uten at det går på bekostning av eksisterende tjenester"
 >}}
 
 {{< prosesser/strategy-card 
   title="Endringsstyring" 
   purpose="Holde kontroll på at det ikke oppstår uplanlagte alvorlige hendelser når vi innfører eller gjennomfører arbeid/vedlikehold på IT-plattformen. Slik sikrer vi at kunder og brukere får størst mulig tillit til tjenestene"
-  output="Evaluert produksjonsendring (med mål om vellykkede endringer)"
+  effect="Evaluert produksjonsendring (med mål om vellykkede endringer)"
 >}}
 
 
 {{< prosesser/strategy-card 
   title="Hendelser" 
    purpose=""
-   output="" 
+   effect="" 
 >}}
 
 
 {{< prosesser/strategy-card 
   title="Tilgangsstyring" 
   purpose="Sikre at vi har god kontroll på tilgangsstyringen til verktøy og løsninger, og hvordan vi utfører tilgangsstyringen."
-  output="" 
+  effect="" 
 >}}
 
 DevOps er en effektiv arbeidsmetode med helhetlig tilnærming. Metoden handler om å effektivisere arbeidsflyten på tvers av utviklings- og driftsavdelingen og gir mange mange fordeler for virksomheten. For kommersielle virksomheter kan det også gi konkurransefortrinn.
