@@ -30,6 +30,9 @@ weight: 10
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144218610?v=4" name="Kenneth Helland" role="Innholdsforvalter for norge.no, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/147068285?v=4" name="Wilhelm Walberg Schive" role="Backend og tech-lead, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/147068285?v=4" name="Monica Wold Olsen" role="Frontend, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/147068285?v=4" name="Jonas Hildershavn" role="Backend, Oslo" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
