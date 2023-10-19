@@ -9,8 +9,9 @@ ingress: |
   - Brukerstøtte og service (BBS) 
 
   <p>
-  Seksjonene i BOD er først og fremst et personal-hjem for medarbeidere fra felles kompetanseområder. Seksjonene avgir ressurser(kompetanse) til leveranse-områder i og utenfor BOD som f.eks. til Digdir sine produktgrupper, prosjekter og andre små og store oppdrag/tiltak. Seksjonslederne har ansvar for å bygge opp, organisere og selvstendig-gjøre fagmiljøene på best mulig måte.
-</p>
+   Seksjonene i BOD er først og fremst et personal-hjem for medarbeidere fra felles kompetanseområder. Seksjonene avgir ressurser(kompetanse) til leveranse-områder i og utenfor BOD som f.eks. til Digdir sine produktgrupper, prosjekter 
+   og andre små og store oppdrag/tiltak. Seksjonslederne har ansvar for å bygge opp, organisere og selvstendig-gjøre fagmiljøene på best mulig måte.
+  </p>
 # SEO
 description:
 keywords:
