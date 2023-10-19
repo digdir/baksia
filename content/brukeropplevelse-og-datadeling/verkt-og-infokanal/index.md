@@ -37,7 +37,7 @@ navigation_link:
     Kontroll på verktøy og informasjonskanaler
 ---
 
-{{< verkt-infokanal/accordion title="Altinn.no" >}}
+{{< verkt-infokanal/accordion title="Digdir.no" >}}
 •Nettsted for digitale dialog mellom virksomheter/private og det offentlige. Inneholder skjema, meldinger og relevant informasjon.
 {{< /verkt-infokanal/accordion >}}
 
