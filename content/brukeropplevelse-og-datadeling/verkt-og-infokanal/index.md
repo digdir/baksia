@@ -38,7 +38,7 @@ navigation_link:
 ---
 
 {{< verkt-infokanal/accordion title="Digdir.no" >}}
-•Nettsted for digitale dialog mellom virksomheter/private og det offentlige. Inneholder skjema, meldinger og relevant informasjon.
+•Direktoratet sin informasjonsportal om hva direktoratet tilbyr av tjenester og produkter, konferanser og webinarer som er tilgjengelig på internett for alle. 
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Altinndigital.no" >}}
