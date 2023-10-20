@@ -41,10 +41,13 @@ navigation_link:
 •Direktoratet sin informasjonsportal om hva direktoratet tilbyr av tjenester og produkter, konferanser og webinarer som er tilgjengelig på internett for alle. 
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="Altinndigital.no" >}}
-•Inngangsport til Altinn sine produkter
-•Overordnet beskrivelse, funksjonell beskrivelse og videre lenking til teknisk beskrivelse
-•Kontaktinformasjon for offentlige myndighetsutøvere som ønsker dialog med Altinn
+{{< verkt-infokanal/accordion title="Intranett" >}}
+Internt nettsted med informasjon om:
+•	Verktøy og tjenester (IT-hjelp, økonomi, melde avvik, tidsregistrering, verneombud m.m)
+•	Aktuelt (artikler om interne og eksterne saker som er av interesse for hele Digdir, samt hyggelige ting som skjer i Digdir)
+•	Sakslister og referater fra ledermøter og samarbeidet
+•	Ansatt og lederportalen
+•	Ditt ansettelsesforhold (ferie, permisjoner, sykefravær, tjenestetelefon,)
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Altinnpedia" >}}
