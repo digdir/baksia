@@ -17,6 +17,7 @@ navigation_link:
     <p> - Endringsstyring</p>
     <p> - Hendelser</p>
     <p> - Tilgangsstyring</p>
+    <p> - DevOps Produktteam</p>
 ---
 
 {{< prosesser/strategy-card 
@@ -41,6 +42,12 @@ navigation_link:
 
 {{< prosesser/strategy-card 
   title="Tilgangsstyring" 
+  purpose="Sikre at vi har god kontroll på tilgangsstyringen til verktøy og løsninger, og hvordan vi utfører tilgangsstyringen."
+  effect="" 
+>}}
+
+{{< prosesser/strategy-card 
+  title="DevOps Produktteam" 
   purpose="Sikre at vi har god kontroll på tilgangsstyringen til verktøy og løsninger, og hvordan vi utfører tilgangsstyringen."
   effect="" 
 >}}
