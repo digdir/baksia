@@ -48,7 +48,7 @@ navigation_link:
 
 {{< prosesser/strategy-card 
   title="Produktteam" 
-  purpose="er den typen team man har flest av i en produktutviklingsorganisasjon. De håndterer hele eller deler av et produkt, et domene, en brukerreise eller lignende. Teamene er mer tverrfaglige og kan levere inkrementer av et produkt med få avhengigheter til andre"
+  purpose="er autonome team som håndterer hele eller deler av et produkt, et domene, en brukerreise eller lignende. Teamene er mer tverrfaglige og kan levere inkrementer av et produkt med få avhengigheter til andre"
   effect="" 
 >}}
 
