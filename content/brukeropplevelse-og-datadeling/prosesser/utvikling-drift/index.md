@@ -47,8 +47,8 @@ navigation_link:
 >}}
 
 {{< prosesser/strategy-card 
-  title="DevOps Produktteam" 
-  purpose="Sikre at vi har god kontroll på tilgangsstyringen til verktøy og løsninger, og hvordan vi utfører tilgangsstyringen."
+  title="Produktteam" 
+  purpose="er den typen team man har flest av i en produktutviklingsorganisasjon. De håndterer hele eller deler av et produkt, et domene, en brukerreise eller lignende. Teamene er mer tverrfaglige og kan levere inkrementer av et produkt med få avhengigheter til andre"
   effect="" 
 >}}
 
