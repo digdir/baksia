@@ -17,7 +17,7 @@ navigation_link:
     <p> - Endringsstyring</p>
     <p> - Hendelser</p>
     <p> - Tilgangsstyring</p>
-    <p> - DevOps Produktteam</p>
+    
 ---
 
 {{< prosesser/strategy-card 
@@ -46,11 +46,7 @@ navigation_link:
   effect="" 
 >}}
 
-{{< prosesser/strategy-card 
-  title="Produktteam" 
-  purpose="er autonome team som håndterer hele eller deler av et produkt, et domene, en brukerreise eller lignende. Teamene er mer tverrfaglige og kan levere inkrementer av et produkt med få avhengigheter til andre"
-  effect="" 
->}}
+
 
 DevOps er en effektiv arbeidsmetode med helhetlig tilnærming. Metoden handler om å effektivisere arbeidsflyten på tvers av utviklings- og driftsavdelingen og gir mange mange fordeler for virksomheten. For kommersielle virksomheter kan det også gi konkurransefortrinn.
 
