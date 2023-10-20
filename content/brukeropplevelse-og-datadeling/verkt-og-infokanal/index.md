@@ -44,7 +44,9 @@ navigation_link:
 {{< verkt-infokanal/accordion title="Intranett" >}}
 Internt nettsted med informasjon om:
 •	Verktøy og tjenester (IT-hjelp, økonomi, melde avvik, tidsregistrering, verneombud m.m)
+
 •	Aktuelt (artikler om interne og eksterne saker som er av interesse for hele Digdir, samt hyggelige ting som skjer i Digdir)
+
 •	Sakslister og referater fra ledermøter og samarbeidet
 •	Ansatt og lederportalen
 •	Ditt ansettelsesforhold (ferie, permisjoner, sykefravær, tjenestetelefon,)
