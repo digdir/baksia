@@ -1,23 +1,12 @@
 ---
 title: Styringsteamet
 ingress: |
-  Styringsteamet gir retningslinjer, føringer og direkte krav som gjelder for alle teamene. Dette skal sørge for at vi opprettholder høy tillit til de tjenestene BOD leverer.
-  Det gjelder blant annet hvilke dokumenter og prosesser vi må etablere og oppdatere for å sikre at vi:
+  Styringsteamet bidrar til å kvalitetssikre og revidere dokumentasjon og prosesser for å sørge for at vi har grunnlag for å drifte løsningene våre på en sikker og stabil måte.
+ Ansvarsområder:
+  - Skal skape forutsigbarhet for teamene ved å lage felles rammer, felles prosesser og sørge for god kostnadskontroll
+  - Skal sørge for sikker utvikling, etterlevelse av regulatoriske krav og sørge for at BOD har retningslinjer for å ta gode teknologivalg
+  - Skal unngå brudd på konfidensialitet, integritet og sørge for leveranse av avtalt tilgjengelighet
   
-  - etterlever lover og regler
-  - har retningslinjer for å ta teknologivalg
-  - klarer å kontrollere kostnadene
- 
-  Til sammen legger det grunnlaget for at vi kan drifte løsningene våre på en sikker og stabil måte.<br>
- 
-  Mål for styringsteamet:
-  - Lage felles rammer og prosesser for teamene.
-  - Skape like høy eller enda høyere tillit til de tjenestene BOD leverer.
-  - Ha kontroll på kostnadene.
-  - Passe på at BOD står stødig hvis vi blir revidert på sikkerhet og etterlevelse av  regulatoriske krav.
-  - Sørge for at vi ikke har noen brudd på konfidensialitet, integritet og oppnådd, avtalt tilgjengelighet.
-  - Skape trygghet hos de som skal selge og markedsføre tjenestene til BOD.
-  - Passe på at  teamene har forutsigbarhet i arbeidet sitt.
 
 
 navigation_link:
