@@ -3,7 +3,7 @@ isResourceBundle: true
 ---
 
 {{< prosesser/card
-  title="Styringsteamet"
+  title="Virksomhetsstyring"
   purpose="Oppdateres"
   output="Oppdateres"
 >}}
@@ -16,6 +16,6 @@ isResourceBundle: true
 
 {{< prosesser/card
   title="Intern service" 
-  purpose="Gi støtte til interne ansatte i Altinn" 
-  output="Svare ansatte/få fornøyde ansatte" 
+  purpose="Oppdateres" 
+  output="Oppdateres" 
 >}}
