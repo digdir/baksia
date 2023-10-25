@@ -28,7 +28,7 @@ navigation_link:
 
   description="I denne appen finner du nyttig informasjon om hvordan du får en god start på karrieren din hos oss."
 
-  external_url="https://apps.powerapps.com/play/e/default-008e560f-08af-4cec-a056-b35447503991/a/65562a2f-aa73-42ed-b09f-ff590abfb236?tenantId=008e560f-08af-4cec-a056-b35447503991&source=email&hint=681578c1-8684-45fa-a71e-2c7faba4c6e7&skipAppMetadata=true"
+  external_url="https://apps.powerapps.com/play/e/default-008e560f-08af-4cec-a056-b35447503991/a/36c658ed-f5c3-4907-9fd8-5a38306a2157?tenantId=008e560f-08af-4cec-a056-b35447503991&hint=7247c09b-6af3-40b0-90ad-00eae64f98bd&source=sharebutton&sourcetime=1698149690389"
 >}}
 
 
@@ -37,7 +37,7 @@ navigation_link:
 
   description="Gir en rask innføring i grunnleggende forvaltningskompetanse"
 
-  external_url="https://laeringsplattformen.dfo.no/kursoversikt/starte-i-staten-eit-introduksjonsprogram-nytilsette"
+  external_url="https://laeringsplattformen.dfo.no/nn/kursoversikt/starte-i-staten-eit-introduksjonsprogram-nytilsette"
 >}}
 
 
