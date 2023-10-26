@@ -10,7 +10,7 @@ isResourceBundle: true
 
 {{< prosesser/card
   title="Kvalitetsstyring"
-  purpose="Styre feltene metode, opplæring og dokumentasjon."
+  purpose="Oppdateres"
   output="Oppdateres"
 >}}
 
