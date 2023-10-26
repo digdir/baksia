@@ -1,6 +1,8 @@
 ---
 title: Metode og kompetanse
-ingress: Team Metode og kompetanse hjelper BOD med å få bedre orden og struktur. Teamet fasiliterer og koordinerer oppgaver for hele avdelingen.
+ingress: Team metode og kompetanse skal bidra til bedre orden og struktur i avdelingen. Det utøves gjennom de tre fagområdene kvalitetsstyring, dokumentstyring og kompetanse/opplæring. Innenfor kvalitetsstyring skal teamet bidra til at prosessene skal være effektive og gi nødvendig fleksibilitet i oppgavegjennomføringen. Når det gjelder dokumentasjonsarbeidet skal teamet bidra til at dokumentasjon er lett å gjenfinne og tilgjengelig. Teamet skal iverksette tiltak for å sikre at medarbeiderne i BOD har og utvikler riktig kompetanse. Dette gjøres i samarbeid med HR. Team metode og kompetanse har ansvaret for onboardingen av nye medarbeidere i avdelingen. Team Metode og kompetanse har som alle andre team en backlog det jobbes ut fra. Backlog prioriteres av seksjon Brukeropplevelse (BBO) og lederlaget. Teamet har begrenset kapasitet og arbeider med prioriterte oppgaver.
+
+
 
 navigation_link:
   title: Produkteier
