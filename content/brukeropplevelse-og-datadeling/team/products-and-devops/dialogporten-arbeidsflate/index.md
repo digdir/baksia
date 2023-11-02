@@ -21,7 +21,7 @@ weight: 15
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="Produkteier - Dialogporten, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Mette Saltnes" role="Produkteier - Arbeidsflate, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/120113086?v=4" name="Mette Saltnes" role="Produkteier - Arbeidsflate, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master, 50%, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, backend, 50%, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Design lead, Oslo" >}}
