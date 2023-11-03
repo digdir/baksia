@@ -19,7 +19,7 @@ weight: 10
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C05MRKCKZ6Z" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Produkteier og redaktør for altinn.no, Brønnøysund" >}}
-{{< team/github-profile url="" name="Frank Fardal" role="Produkteier og redaktør for Norge.no, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Ragnhild Borge Olsen" role="Produkteier for Norge.no, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master, 50%, Brønnøysund " >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/126155457?v=4" name="Lis Lonning" role="Produktgruppeeier, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/31504150?v=4" name="Alise Kjelling" role="Design lead og UX-designer, Oslo" >}}
