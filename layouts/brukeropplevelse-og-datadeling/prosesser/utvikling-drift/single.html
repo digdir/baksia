@@ -26,12 +26,56 @@
       </div>
     </div>
 
-    <div class="component">
-      <div class="container px-lg-5">
-        <div class="px-lg-5 px-lg-5">
-          {{ .Content }}
-        </div>
-      </div>
+    <div class="my-5">
+      {{ range .Resources }}
+        {{ if .Params.banner }}
+          {{ if eq .Params.banner.image.position "left" }}
+            <div class="component" style="background-color: #d2eafd">
+              <div class="container">
+                <div class="row d-flex justify-content-between">
+                  <div class="col-lg-4 d-flex justify-content-sm-center">
+                    <div class="d-flex align-items-center">
+                      {{ partial "components/content-image.html" (dict "context" . "image"
+                        .Params.banner.image)
+                      }}
+                    </div>
+                  </div>
+                  <div class="col-lg-8 my-auto section-content">
+                    {{ .Content }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          {{ else }}
+            <div class="component" style="background-color: #FFFFFF">
+              <div class="container">
+                <div class="row d-flex justify-content-between">
+                  <div class="col-lg-8 my-auto section-content">
+                    {{ .Content }}
+                  </div>
+                  <div class="col-lg-4 d-flex justify-content-sm-end">
+                    <div class="d-flex align-items-center">
+                      {{ partial "components/content-image.html" (dict "context" . "image"
+                        .Params.banner.image)
+                      }}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          {{ end }}
+        {{ else }}
+          <div class="component" style="background-color: #FAEEC2">
+            <div class="container">
+              <div class="row d-flex justify-content-between">
+                <div class="col-lg-8 my-auto section-content">
+                  {{ .Content }}
+                </div>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
     </div>
   {{ end }}
 {{ end }}
