@@ -17,6 +17,9 @@ weight: 7
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
+
+
+
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5788415?v=4" name="Espen Kørra" role="Produkteier, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Team-arkitekt, infrastruktur, backend, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, Brønnøysund" >}}
@@ -28,6 +31,9 @@ weight: 7
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144321622?v=4" name="Mette Grytten" role="Design lead, Leikanger">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/61084786?v=4" name="Simen Rekkedal" role="Backend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/112334?v=4" name="Aleksander Heintz" role="Backend">}}
+
 
 {{< /team/members >}}
 
