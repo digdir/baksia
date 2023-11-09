@@ -24,6 +24,9 @@ weight: 7
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/133344438?v=4" name="William Thorenfeldt" role="Frontend">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/34273718?v=4" name="Dhanalakshmi Gopalswamy" role="Backend" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/75827794?v=4" name="Sondre Bråthen" role="Backend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/61084786?v=4" name="Simen Rekkedal" role="Backend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/112334?v=4" name="Aleksander Heintz" role="Backend">}}
+
 
 {{< /team/members >}}
 
