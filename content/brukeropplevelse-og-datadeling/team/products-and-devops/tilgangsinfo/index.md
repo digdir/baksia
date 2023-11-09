@@ -20,7 +20,6 @@ weight: 7
 
 
 
-=======
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5788415?v=4" name="Espen Kørra" role="Produkteier, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Team-arkitekt, infrastruktur, backend, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, Brønnøysund" >}}
