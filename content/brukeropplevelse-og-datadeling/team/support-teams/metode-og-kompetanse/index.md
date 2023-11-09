@@ -1,5 +1,8 @@
 ---
 title: Metode og kompetanse
+ingress: Team metode og kompetanse skal bidra til bedre orden og struktur i avdelingen. Det utøves gjennom de tre fagområdene kvalitetsstyring, dokumentstyring og kompetanse/opplæring. Innenfor kvalitetsstyring skal teamet bidra til at prosessene skal være effektive og gi nødvendig fleksibilitet i oppgavegjennomføringen. Når det gjelder dokumentasjonsarbeidet skal teamet bidra til at dokumentasjon er lett å gjenfinne og tilgjengelig. Teamet skal iverksette tiltak for å sikre at medarbeiderne i BOD har og utvikler riktig kompetanse. Dette gjøres i samarbeid med HR. Team metode og kompetanse har ansvaret for onboardingen av nye medarbeidere i avdelingen. Team Metode og kompetanse har som alle andre team en backlog det jobbes ut fra. Backlog prioriteres av seksjon Brukeropplevelse (BBO) og lederlaget. Teamet har begrenset kapasitet og arbeider med prioriterte oppgaver.
+
+
 
 navigation_link:
   title: Produkteier
@@ -16,18 +19,14 @@ weight: 4
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Producteier, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team arkitekt, infrastruktur, backend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/72547415?v=4" name="Snorre Aakerø" role="Produkteier, Kvalitetsstyring" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/97237741?v=4" name="Arild Hansteen" role="Scrum master" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/45390623?v=4" name="Børre Hovstøl" role="Kompetanse og opplæring" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/63044671?v=4" name="Hilde Måsøy" role="Kompetanse og opplæring">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/105773373?v=4" name="Elaine M Svartis" role="Kompetanse og opplæring">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/130640200?v=4" name="Cathrine Bastesen" role="Introduksjonsprogrammet (onboarding)" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="Dokumentstyring" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Juridisk rådgiver" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
@@ -38,9 +37,9 @@ weight: 4
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn 3 applikasjon (en del av Altinn Studio produktet)
-- App frontend (felles for alle applikasjoner/tjenester)
-- App backend (unik per applikasjon men med felles bibliotek)
-- Dokumentasjon
-- Bidra til felles designsystem
-- DevOps team med totalansvar fra idé til produksjon
+-	Kvalitetsstyring
+-	Dokumentstyring
+-	Kompetanse og opplæring
+-	Introduksjonsprogrammet (onboarding)
+
+

@@ -1,5 +1,5 @@
 ---
-title: Planning
+title: Planleggingsmøtet
 
 # SEO
 description:
@@ -15,11 +15,11 @@ weight: 4
 backgroundColor: '#FFFFFF'
 ---
 
-## Planning
+## Planleggingsmøtet
 
-I planning møtes teamet for å legge frem oppgaver som skal utføres i neste periode.
-Det vil si velge ut fra backlog oppgaver det skal jobbes på i neste periode.
-Mål for perioden. Hva ønsker vi å oppnå i løpet av perioden? Hva skal være løst?  
-Detaljere oppgaver ytterlige ved behov. Hvordan løses oppgaven ? For hver oppgave
-planlegges det hvordan den skal løses.Teamet kan invitere eksterne til refinement
-for å få bedre forståelse av oppgaven.
+I planleggningsmøtet velger teamet oppgaver fra backloggen, som de skal utføre i neste arbeidsperiode.
+Teamet setter mål for perioden sammen: 
+- Hva ønsker vi å oppnå i løpet av perioden?
+- Hva ønsker vi å ha løst når vi er ferdig med perioden?  
+Hvis det trengs, detaljerer teamet hver oppgave litt mer grundig, for eksempel _hvordan_ oppgaven skal løses.
+Hvis de trenger bedre forståelse for hva oppgaven går ut på, kan teamet invitere eksterne til møtet der de skal raffinere backloggen.

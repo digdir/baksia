@@ -11,7 +11,8 @@
           <div class="row">
             <div class="col-lg-8 my-auto">
               <h1 class="">{{ .Title }}</h1>
-              <p class="ingress mb-5 mb-lg-0">{{ .Params.ingress }}</p>
+              {{ $ingress := .Params.ingress | markdownify }}
+              <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
             </div>
             <div
               class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
@@ -117,31 +118,34 @@
       {{ end }}
     </div>
 
+
     {{ $img := (.Site.GetPage "/brukeropplevelse-og-datadeling/prosesser").Params.images.devops_loop }}
-    {{ $img_src := resources.Get $img.src }}
-    {{ $img_src := $img_src.Fit "418x295" }}
-    <div class="container">
-      <div class="row d-flex justify-content-center">
-        <div
-          class="d-flex justify-contents-start flex-column align-items-start"
-          style="width: fit-content; margin: 5rem 0"
-        >
-          <div class="row" style="width:fit-content">
-            <figure class="image is-3by2" style="width: fit-content ">
-              <img alt="{{ $img.alt }}" src="{{ $img_src.RelPermalink }}" />
-            </figure>
-          </div>
-          <div class="row" style="width:fit-content; padding-left:2rem;">
-            <a
-              class="external-link"
-              style="width:fit-content"
-              href="{{ $img.href }}"
-              target="_blank"
-              >{{ $img.text }}
-            </a>
+      {{ if resources.Get $img }}
+        {{ $img_src := resources.Get $img.src }}
+        {{ $img_src := $img_src.Fit "418x295" }}
+        <div class="container">
+          <div class="row d-flex justify-content-center">
+            <div
+              class="d-flex justify-contents-start flex-column align-items-start"
+              style="width: fit-content; margin: 5rem 0"
+            >
+              <div class="row" style="width:fit-content">
+                <figure class="image is-3by2" style="width: fit-content ">
+                  <img alt="{{ $img.alt }}" src="{{ $img_src.RelPermalink }}" />
+                </figure>
+              </div>
+              <div class="row" style="width:fit-content; padding-left:2rem;">
+                <a
+                  class="external-link"
+                  style="width:fit-content"
+                  href="{{ $img.href }}"
+                  target="_blank"
+                  >{{ $img.text }}
+                </a>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-    </div>
+      {{ end }}
   </div>
 {{ end }}

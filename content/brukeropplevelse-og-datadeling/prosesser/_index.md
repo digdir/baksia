@@ -1,7 +1,7 @@
 ---
-title: Prosesser
+title: Våre prosesser og metoder
 ingress: |
-  For å sikre kvalitet i våre leveranser så jobber teamene i henhold til definerte arbeidsprosesser og metodikk. Hver prosess er definert gjennom beskrivelser av et eierskap, en hensikt/et formål, og en leveranse. Teamene jobber systematisk, selvstendig og kontinuerlig med ulik hyppighet på leveransene. Likevel sikrer vi forutsigbarhet og konsistent-het i teamene når vi forholder oss til noen felles rammer for måten vi jobber på. Team metode og kompetanse støtter avdelingen i å implementere metodikk og arbeidsprosesser.
+  For å sikre at arbeidet vårt og leveransene våre har god kvalitet, jobber teamene etter definerte rammeverk og metodikker.  Teamene jobber systematisk og selvstendig, og leverer med ulik hyppighet. Vi sikrer at vi er forutsigbare og konsekvente ved å ha noen felles rammer for måten vi jobber på. Team metode og kompetanse støtter avdelingen ved å implementere metodikk og bruk av rammeverk.
 
 layout: 'prosesser/list'
 
@@ -11,12 +11,6 @@ weight: 3
 # first section of the page as a blue box
 isFirstSection: true
 
-images:
-  devops_loop:
-    src: /images/devops-loop.png
-    alt: Devops loop
-    href: https://tomgeraghty.co.uk/index.php/the-history-and-evolution-of-devops/
-    text: Kilde til bilde
 
 banner:
   image:
@@ -24,5 +18,5 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 
 navigation_link:
-  text: Oversikt over våre prosesser som vi bruker i porteføljestyring og utvikling
+  text: Oversikt over prosesser vi bruker i porteføljestyring og utvikling
 ---

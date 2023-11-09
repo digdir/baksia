@@ -1,9 +1,9 @@
 ---
-title: Onboarding
+title: Introduksjonsprogrammet i BOD
 ingress: |
-  Som nytilsatt i BOD inngår du i et generelt on-boardings-opplegg i regi av Digdir/HR. Du vil også få mer tilspisset fagopplæring, som er rettet til den rollen og oppgavene du skal løse for BOD. <br> <br>
+  Som nytilsatt i BOD er du med i det generelle introduksjonsprogrammet (ofte kalt onboarding), som HR-avdelingen i Digdir kjører. Du får også mer spisset fagopplæring, som er tilpasset den rollen og de oppgavene du skal løse for BOD.
 
-  Her finner du link til relevante sider i on-boardings-sammenheng.
+  Her finner du lenker til sider med nyttig informasjon i oppstarten.
 
 banner:
   image:
@@ -26,9 +26,9 @@ navigation_link:
 {{< onboarding/ext-nav-card
   title="Velkomst-appen"
 
-  description="I denne appen finner du nyttig informasjon slik at du kan få en god start på din karriere hos oss."
+  description="I denne appen finner du nyttig informasjon om hvordan du får en god start på karrieren din hos oss."
 
-  external_url="https://apps.powerapps.com/play/e/default-008e560f-08af-4cec-a056-b35447503991/a/65562a2f-aa73-42ed-b09f-ff590abfb236?tenantId=008e560f-08af-4cec-a056-b35447503991&source=email&hint=681578c1-8684-45fa-a71e-2c7faba4c6e7&skipAppMetadata=true"
+  external_url="https://apps.powerapps.com/play/e/default-008e560f-08af-4cec-a056-b35447503991/a/36c658ed-f5c3-4907-9fd8-5a38306a2157?tenantId=008e560f-08af-4cec-a056-b35447503991&hint=7247c09b-6af3-40b0-90ad-00eae64f98bd&source=sharebutton&sourcetime=1698149690389"
 >}}
 
 
@@ -37,7 +37,7 @@ navigation_link:
 
   description="Gir en rask innføring i grunnleggende forvaltningskompetanse"
 
-  external_url="https://laeringsplattformen.dfo.no/kursoversikt/starte-i-staten-eit-introduksjonsprogram-nytilsette"
+  external_url="https://laeringsplattformen.dfo.no/nn/kursoversikt/starte-i-staten-eit-introduksjonsprogram-nytilsette"
 >}}
 
 
@@ -53,16 +53,16 @@ navigation_link:
 {{< onboarding/ext-nav-card
   title="Ansatt- og lederportal"
 
-  description="I denne portalen finner du en samlet oversikt over regler, rutiner og retningslinjer som er relevante i arbeidsforholdet."
+  description="I denne portalen får du oversikt over regler, rutiner og retningslinjer som er relevante i arbeidsforholdet ditt."
 
   external_url="https://login.simployer.com/login?state=hKFo2SBVMFEyTFV0WnpuT2xfMzcweElUVlJnWC1TdGNMZEhJVKFupWxvZ2luo3RpZNkgRkdEUGs5OTV1Mlk2dG1LeFExNHpRNTJNdndiWlhQbzKjY2lk2SBNaFlHOTUyQWxaTjZEWGtvSHpvWnRVMFp1QlBtNkhwNA&client=MhYG952AlZN6DXkoHzoZtU0ZuBPm6Hp4&protocol=oauth2&redirect_uri=https%3A%2F%2Fhandbooks.simployer.com%2Fsignin-auth0&response_type=code&scope=openid%20profile%20email%20context%20auth0_migration&code_challenge=ZmI_6unLrh2hvbhSwbvMK5ixAaJBTZgTVtFfDEBCXdE&code_challenge_method=S256&response_mode=form_post&nonce=638203789767153062.ZmU0ZWJmODUtZmQzOC00Mjk3LTg0NTEtMWRkMmZkNzRhMWU1ZDI5MTNhYTItYjA2My00YTYyLThlNDEtMjYzMjNkNTk3ODNj&audience=simployer-default&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=5.6.0.0"
 >}}
 
 
 {{< onboarding/ext-nav-card
-  title="It-hjelp"
+  title="IT-hjelp"
 
-  description="I denne teams-kanalen kan man få hjelp"
+  description="I denne Teams-kanalen kan du få hjelp"
 
   external_url="https://teams.microsoft.com/_?tenantId=008e560f-08af-4cec-a056-b35447503991#/conversations/IT-hjelp?groupId=69a578ee-b915-43ed-96dc-f1e9c1f05cdd&threadId=19:c8aea9a880604431a0a566bffea59ee3@thread.tacv2&ctx=channel"
 >}}

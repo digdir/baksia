@@ -1,5 +1,5 @@
 ---
-title: Kanban-tavle
+title: Oppgavetavla i Kanban
 
 # SEO
 description:
@@ -15,7 +15,7 @@ weight: 1
 backgroundColor: '#FFFBE6'
 ---
 
-## Kanban-tavle
+## Kanban-tavla
 
-Oppgaver for arbeidsperioden plasseres på en kanban-tavle i TSF/Github.
-Tavlen angir de oppgaver som er under arbeid i teamet (work in progress)
+Vi legger oppgaver for en arbeidsperiode (sprint) i Kanban-tavla i TSF/Github.
+Tavla viser hvilke oppgaver teamet har under arbeid (work in progress).

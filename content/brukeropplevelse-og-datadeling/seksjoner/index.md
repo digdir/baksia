@@ -1,14 +1,16 @@
 ---
 title: Seksjoner
 ingress: |
-  Brukeropplevelse og datadeling (BOD) består av fem seksjoner: <br> <br>
-  Strategi og forretningsutvikling (BSF) <br>
-  Brukeropplevelse (BBO) <br>
-  Utvikling (BUT) <br>
-  Plattform og styring (BPS) <br>
-  Brukerstøtte og service (BBS) <br>
-  Seksjonslederne har blant annet ansvaret for å bygge opp og organisere fagavdelingene, lede personalet og generelt styre arbeidet i seksjonen.
+  Brukeropplevelse og datadeling (BOD) har fem seksjoner:
+  - Strategi og forretningsutvikling (BSF) 
+  - Brukeropplevelse (BBO) 
+  - Utvikling (BUT) 
+  - Plattform og styring (BPS) 
+  - Brukerstøtte og service (BBS) 
 
+   Seksjonene i BOD er først og fremst et personal-hjem for medarbeidere fra felles kompetanseområder. Seksjonene avgir ressurser(kompetanse) til leveranse-områder i og utenfor BOD som f.eks. til Digdir sine produktgrupper, prosjekter 
+   og andre små og store oppdrag/tiltak. Seksjonslederne har ansvar for å bygge opp, organisere og selvstendig-gjøre fagmiljøene på best mulig måte.
+  
 # SEO
 description:
 keywords:

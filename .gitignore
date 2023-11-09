@@ -14,6 +14,6 @@ hugo.exe
 
 # OSX
 .DS_Store
-
+hugo
 # Environment variables
 .env

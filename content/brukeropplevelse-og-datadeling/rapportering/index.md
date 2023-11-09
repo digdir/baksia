@@ -1,12 +1,12 @@
 ---
-title: Styringsstruktur for produkter (rapportering)
+title: Intern rapportering
 ingress: |
   Et rapporteringssystem vil bidra til å avdekke områder som har forbedringspotensial
   og lette prioriteringer for tiltak. Ved å implementere et effektivt rapporteringssystem
   kan hele prosessen rundt forbedringsarbeidet gjøres mer effektiv, i tillegg 
   til å imøtekomme myndighetskrav angående dokumentasjon. En annen veldig viktig effekt 
   er at et godt rapporteringsregime fremmer god en sikkerhetskultur og reell arbeidstakermedvirkning. 
-  <br> <br>
+  
   Det er oftest opp til linjeledelsen å planlegge tiltak og gjennomføre prioriteringer. 
   Ved at alle i virksomheten er med på å rapportere, så har vi mulighet til 
   å etablere statistikk, dokumentasjon og konstatere fakta. På den måten kan det 
@@ -33,6 +33,5 @@ isFirstSection: true
 
 navigation_link:
   text: |
-    Avdeling Brukeropplevelse og Datadeling (BOD) er en av to avdelinger
-    i Digdir som er ansvarlige for å levere fellesløsninger.
+    Her finner du lenker til rapporteringer fra de ulike teamene og funksjonene i avdelingen.
 ---
