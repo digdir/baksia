@@ -47,7 +47,7 @@
 - id: 'output'
   translation: 'Output'
 - id: 'responsible-method-and-expertise'
-  translation: 'Ansvarlig: team metode og kompetanse, mer info her:'
+  translation: 'Ansvarlig: Team metode og kompetanse'
 - id: 'responsible-management'
   translation: 'Ansvarlig: Styringsteamet, mer info her:'
 - id: 'get-started-as-a-new-employee'
