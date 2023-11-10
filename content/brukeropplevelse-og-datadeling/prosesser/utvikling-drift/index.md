@@ -1,5 +1,5 @@
 ---
-title: Produktorganisering og Rammevilkår i Altinn-økosystemet
+title: Produktorganisering og rammeverk i Altinn-økosystemet
 ingress: |
   I Brukeropplevelse og Datadeling-avdelingen jobber vi med en dynamisk tilnærming til produktutvikling og -drift. Denne oversikten beskriver de viktigste prosessene våre produktteam arbeider etter i Altinn-økosystemet. Vår metodikk er preget av kontinuerlig eksperimentering og forbedring, noe som gjør dette til et levende dokument. Det er et grunnlag for alle i teamet for å forstå, bidra og vokse i vår evige reise mot optimalisering og innovasjon i tjenesteleveranse.
 
