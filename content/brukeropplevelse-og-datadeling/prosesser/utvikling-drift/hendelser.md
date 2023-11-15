@@ -8,5 +8,6 @@ banner:
 weight: 3
 ---
 
-## Hendelser 
-**Formål**: er en prosess for å ivareta uforutsette hendelser både i Altinn 2 og altinn 3. Denne prosessen fokuserer på å returnere ytelsen til organisasjonens tjenester til normal tilstand så raskt som mulig. Ideelt sett, på en måte som har liten eller ingen negativ innvirkning på kjernevirksomheten din. Dette betyr at saker noen ganger er avhengige av midlertidige løsninger, mens du identifiserer selve problemet for en hendelse etterpå.  
+## DevOps for Altinn-økosystemet 
+
+I Altinn-økosystemet og NyeAltinn-prosjektet samarbeider DevOps-teamene effektivt gjennom Scrum-metodikken. Dette innebærer planlegging ved sprintens start, hvor teamene velger oppgaver fra en prioritert produkt-backlogg. Under sprinten jobber hvert team selvstendig, men koordinerer regelmessig gjennom daglige standup-møter og Scrum of Scrums for å sikre fremdrift og enhetlighet i arbeidet. Sprinten avsluttes med en felles gjennomgang og et retrospektivt møte for å evaluere og forbedre tilnærmingen i kommende sprinter.
