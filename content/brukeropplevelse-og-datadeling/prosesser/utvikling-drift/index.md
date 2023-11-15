@@ -14,9 +14,7 @@ banner:
 
 navigation_link:
   text: |
-    <p> - Release</p>
-    <p> - Endringsstyring</p>
-    <p> - Hendelser</p>
-    <p> - Tilgangsstyring</p>
+    <p>Utforsk vår dynamiske produktutvikling i Altinn-økosystemet. Bli inspirert av vår reise mot innovasjon og optimalisering!</p>
+    
     
 ---
