@@ -7,7 +7,7 @@ ingress: |
 description:
 keywords:
 
-weight:
+weight: 3
 
 layout: 
 

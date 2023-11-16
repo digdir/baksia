@@ -9,7 +9,7 @@ banner:
 
 layout: prosesser/metodikk/list
 
-weight: 3
+weight: 4
 
 # determines if this content should be rendered in the
 # second section of the page as a yellow box
