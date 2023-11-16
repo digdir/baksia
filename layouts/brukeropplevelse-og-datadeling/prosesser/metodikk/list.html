@@ -1,6 +1,6 @@
 {{ define "main" }}
   <div>
-    {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/metodikk" }}
+    {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/metodikk" }}
       <div class="component" style="background-color: #D1F4E1">
         {{ partial "components/breadcrumbs.html" . }}
         <div class="container">
@@ -33,7 +33,7 @@
         $which_methodology)
       }}
       <div class="row gy-3 justify-content-left mb-5">
-        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/metodikk" }}
+        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/metodikk" }}
           {{ range .Pages }}
             <div class="col-lg-4">
               <div class="navigation-card">
