@@ -7,6 +7,7 @@ contact:
   text: |
     Har du spørsmål? Ta kontakt med 
   name: Roberto A Carrera
+  <roberto.andres.carrera@digdir.no>
 
 weight: 2
 
