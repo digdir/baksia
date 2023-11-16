@@ -7,9 +7,9 @@ banner:
     src: /illustrations/illustration-11.png
     alt:
 
-layout: 'metodikk/list'
+layout: prosesser/metodikk/list
 
-weight: 1
+weight: 3
 
 # determines if this content should be rendered in the
 # second section of the page as a yellow box

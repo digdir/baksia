@@ -12,6 +12,10 @@
             <h1 class="">{{ .Title }}</h1>
             {{ $ingress := .Params.ingress | markdownify }}
             <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+            <span class="contactContainer">
+              <p class="ingress mb-5 mb-lg-0">{{ .Params.contact.text | markdownify }}</p>
+              <p class="contactName">{{ .Params.contact.name | markdownify }}</p>
+            </span>
           </div>
           <div
             class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
