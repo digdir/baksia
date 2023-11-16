@@ -1,6 +1,6 @@
 ---
 title: Metodikker vi arbeider etter
-ingress: |
+ingress: DevOps er en effektiv arbeidsmetode med helhetlig tilnærming. Metoden handler om å effektivisere arbeidsflyten på tvers av utviklings- og driftsavdelingen og gir mange mange fordeler for virksomheten. For kommersielle virksomheter kan det også gi konkurransefortrinn. Våre produktteam benytter devopsmetodikker når det forvalter, drifter og videreutvikler våre produkter.
 
 banner:
   image:
