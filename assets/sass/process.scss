@@ -53,3 +53,16 @@
   background-color: $color-brand-third-200;
   margin-bottom: 3rem;
 }
+
+.contactContainer {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: flex-end;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.contactName {
+  font-weight: bold;
+}
