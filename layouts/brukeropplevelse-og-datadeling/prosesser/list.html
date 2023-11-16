@@ -30,7 +30,7 @@
   </div>
 
   <div class="component" style="background-color: #F4F5F6">
-    <div class="container">
+    <div class="container" style="min-width: 80%">
       {{ $core_processes := (i18n "core-processes") }}
       {{ partial
         "components/component-title.html" (dict "context" . "title"
@@ -40,7 +40,7 @@
         {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/" }}
           {{ range .Pages }}
             {{ if ne .Params.isResourceBundle true }}
-              <div class="col-lg-5">
+              <div class="col-lg-4">
                 <div class="navigation-card">
                   <a
                     class="navigation-card__content"
