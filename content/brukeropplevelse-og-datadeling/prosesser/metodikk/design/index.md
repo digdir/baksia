@@ -34,7 +34,7 @@ banner:
   contentImage:
     src: /illustrations/illustration-19.png
 
-layout: 'metodikk/design/single'
+layout: 'prosesser/metodikk/design/single'
 
 weight: 3
 

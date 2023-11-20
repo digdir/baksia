@@ -10,7 +10,7 @@ contact:
 
 weight: 2
 
-layout: prosesser/utvikling-drift/single
+layout: prosesser/produktorg-og-rammeverk/single
 
 banner:
   image:
