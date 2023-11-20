@@ -17,7 +17,7 @@ banner:
     src: /illustrations/illustration-03.png
     alt:
 
-layout: 'metodikk/scrum/single'
+layout: 'prosesser/metodikk/scrum/single'
 
 weight: 1
 

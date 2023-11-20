@@ -14,7 +14,7 @@ banner:
     src: '/illustrations/illustration-17.png'
     alt:
 
-layout: 'metodikk/devops/single'
+layout: 'prosesser/metodikk/devops/single'
 
 weight: 2
 

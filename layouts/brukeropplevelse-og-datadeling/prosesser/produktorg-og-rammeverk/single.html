@@ -3,7 +3,7 @@
   {{ $style := $sass | resources.ToCSS }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 
-  {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/utvikling-drift" }}
+  {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/produktorg-og-rammeverk" }}
     <div class="component" style="background-color: #FAEEC2">
       {{ partial "components/breadcrumbs.html" . }}
       <div class="container">
