@@ -31,8 +31,8 @@ weight: 7
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144321622?v=4" name="Mette Grytten" role="Design lead, Leikanger">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/61084786?v=4" name="Simen Rekkedal" role="Backend">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/112334?v=4" name="Aleksander Heintz" role="Backend">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/61084786?v=4" name="Simen Rekkedal" role="Backend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/112334?v=4" name="Aleksander Heintz" role="Backend, Oslo">}}
 
 
 {{< /team/members >}}
