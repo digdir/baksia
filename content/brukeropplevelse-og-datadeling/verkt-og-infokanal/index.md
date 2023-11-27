@@ -97,6 +97,7 @@ Samarbeidsportalen er den primære informasjons- og varslingskanalen fra Digital
 
 {{< verkt-infokanal/accordion title="GitHub (Altinn)" >}}
 [github.com/Altinn ](https://github.com/Altinn )
+[github.com/Digdir ](https://github.com/digdir )
 
 Nettsted for kode, back log, dokumentasjon, kanban tavle og deling av informasjon.
 {{< /verkt-infokanal/accordion >}}
