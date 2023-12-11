@@ -36,13 +36,11 @@ weight: 10
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="Github">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="" url_text="Github" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="Vi vil legge ut link til vår backlog her når det er klart" >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="https://github.com/orgs/Altinn/projects/57/views/1" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Oppdatere og vedlikehold norge.no
+- Oppdatere og vedlikeholde norge.no
 - Oppdatere og vedlikeholde altinn.no
-- Flere ansvarsområder kommer
+- Ensrette og konsolidere portaler driftet av Digdir
