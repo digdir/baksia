@@ -5,6 +5,8 @@ ingress: |
 
 layout: 'prosesser/list'
 
+draft: true
+
 weight: 3
 
 # determines if this content should be rendered in the
