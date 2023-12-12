@@ -36,7 +36,7 @@ weight: 10
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="https://github.com/orgs/Altinn/projects/57/views/1" >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="https://github.com/orgs/Altinn/projects/57/views/1" url_text="Github">}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
