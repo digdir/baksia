@@ -16,11 +16,11 @@ banner:
 weight: 9
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C03L53RFPRU" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://join.slack.com/t/designsystemet/shared_invite/zt-2438eotl3-a4266Vd2IeqMWO8TBw5PrQ" slack_url_text="Bli med i Slack for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1464915?v=4" name="Marianne Røsvik" role="Design system lead, Stavanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1070981?v=4" name="Michael Marszalek" role="Tech lead, frontend, Stavanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13560642?v=4" name="Øyvind Thune" role="Frontend, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/33222679?v=4" name="Lasse Karlsen" role="UX-designer, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/33222679?v=4" name="Lasse Febakke Straum" role="UX-designer, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
