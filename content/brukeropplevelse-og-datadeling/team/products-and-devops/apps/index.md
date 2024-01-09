@@ -22,7 +22,6 @@ weight: 2
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team-arkitekt, infrastruktur, backend, Korgen" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131616?v=4" name="Ivar Nesje" role="backend, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3596256?v=4" name="Bjørn-Tore Gjerde " role="Backend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars Walderhaug" role="Frontend, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1534950?v=4" name="Adam Haeger" role="Frontend, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend, Stavanger">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend, Trondheim" >}}
