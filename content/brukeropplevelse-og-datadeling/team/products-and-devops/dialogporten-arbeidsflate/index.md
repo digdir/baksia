@@ -30,6 +30,8 @@ weight: 15
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend, Hamar">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5313373?v=4" name="Ole-Jørgen Skogstad" role="Backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/54906720?v=4" name="Alexander Midteide" role="Frontend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1777366?v=4" name="Are Almaas" role="Backend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/154342485?v=4" name="Knut Haug" role="Backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32505735?v=4" name="Hamy Nguyen" role="UX Konseptutvikler arbeidsflate, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/15613654?v=4" name="Audun Karlsrud Larsen" role="Tjenestedesigner arbeidsflate, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1138656?v=4" name="Inge Fossland" role="UI Designer, Oslo">}}
