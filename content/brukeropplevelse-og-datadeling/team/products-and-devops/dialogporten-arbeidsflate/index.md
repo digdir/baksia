@@ -29,6 +29,8 @@ weight: 15
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend, Hamar">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5313373?v=4" name="Ole-Jørgen Skogstad" role="Backend, Oslo">}}
+{{< team/github-profile url=["https://avatars.githubusercontent.com/u/54906720?v=4" name="Seàn Eric Scully" role="Frontend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Frank Lyder Bredland" role="Frontend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/54906720?v=4" name="Alexander Midteide" role="Frontend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1777366?v=4" name="Are Almaas" role="Backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/154342485?v=4" name="Knut Haug" role="Backend, Oslo">}}
