@@ -32,7 +32,6 @@ weight: 15
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/54906720?v=4" name="Alexander Midteide" role="Frontend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/213777?v=4" name="Frank Lyder Bredland" role="Frontend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3768832?v=4" name="Sean Erik Scully" role="Frontend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/54906720?v=4" name="Alexander Midteide" role="Frontend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1777366?v=4" name="Are Almaas" role="Backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/154342485?v=4" name="Knut Haug" role="Backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32505735?v=4" name="Hamy Nguyen" role="UX Konseptutvikler arbeidsflate, Oslo">}}
