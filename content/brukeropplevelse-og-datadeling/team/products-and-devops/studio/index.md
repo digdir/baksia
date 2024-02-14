@@ -24,7 +24,7 @@ weight: 1
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars Walderhaug" role="Frontend, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/90609090?v=4" name="Jamal Alabdullah" role="Frontend, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/133344438?v=4" name="William Thorenfeldt" role="Frontend, Scrummaster, 70%, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/133344438?v=4" name="William Thorenfeldt" role="Frontend, Scrummaster, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71079896?v=4" name="Andrea Standeren" role="Frontend og backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Oslo">}}
