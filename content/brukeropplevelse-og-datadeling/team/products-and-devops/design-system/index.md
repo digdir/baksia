@@ -21,7 +21,7 @@ weight: 9
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1070981?v=4" name="Michael Marszalek" role="Tech lead, frontend, Stavanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/33222679?v=4" name="Lasse Febakke Straum" role="Design Lead, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13560642?v=4" name="Øyvind Thune" role="Design & Frontend, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/14057205?v=4" name="Tobias Barsnes" role="Design & Frontend, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/14057205?v=4" name="Tobias Barsnes" role="Frontend, Leikanger" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
