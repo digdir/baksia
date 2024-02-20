@@ -14,7 +14,7 @@ banner:
     src: /illustrations/illustration-03.png
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 
-weight: 15
+weight: 1
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="" slack_url_text="Slackkanal for teamet (Kommer snart)">}}
@@ -34,7 +34,7 @@ weight: 15
 
 {{< /team/members >}}
 
-{{< team/products title="Produkter (Kommer snart)" >}}
+{{< team/products title="Produkter (Kommer snar)" >}}
 
 {{< /team/products >}}
 
