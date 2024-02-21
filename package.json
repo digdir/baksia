@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/digdir/baksia",
   "devDependencies": {
-    "prettier": "^2.8.3",
-    "prettier-plugin-go-template": "^0.0.13"
+    "prettier": "^3.2.5",
+    "prettier-plugin-go-template": "^0.0.15"
   },
   "dependencies": {
-    "bootstrap": "^5.2.3"
+    "bootstrap": "^5.3.3"
   }
 }
