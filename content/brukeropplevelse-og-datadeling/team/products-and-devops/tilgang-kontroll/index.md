@@ -31,7 +31,7 @@ weight: 6
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22615518?v=4" name="Ernst Jonny Lyngøy" role="Test, Brønnøysund">}}
-{{{< team/github-profile url="https://avatars.githubusercontent.com/u/113685460?v=4" name="Sneha Sirure" role="Test, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/113685460?v=4" name="Sneha Sirure" role="Test, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/122274313?v=4" name="Abir Khan" role="Test, Oslo">}}
 {{< /team/members >}}
 
