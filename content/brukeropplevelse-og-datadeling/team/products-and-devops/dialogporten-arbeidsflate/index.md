@@ -24,7 +24,6 @@ weight: 15
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/120113086?v=4" name="Mette Saltnes" role="Produkteier - Arbeidsflate, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master, 50%, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, backend, 50%, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/19344884?v=4" name="India Anderson" role="UX researcher, design-lead, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend, Hamar">}}
@@ -34,9 +33,9 @@ weight: 15
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3768832?v=4" name="Sean Erik Scully" role="Frontend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1777366?v=4" name="Are Almaas" role="Backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/154342485?v=4" name="Knut Haug" role="Backend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32505735?v=4" name="Hamy Nguyen" role="UX Konseptutvikler arbeidsflate, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/15613654?v=4" name="Audun Karlsrud Larsen" role="Tjenestedesigner arbeidsflate, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/15613654?v=4" name="Audun Karlsrud Larsen" role="Tjenestedesigner og fung. design lead arbeidsflate, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1138656?v=4" name="Inge Fossland" role="UI Designer, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Kim Renè Teige" role="UX Designer, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
