@@ -21,12 +21,9 @@ weight: 10
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Produkteier og redaktør for altinn.no, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Ragnhild Borge Olsen" role="Produkteier for Norge.no, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master, 50%, Brønnøysund " >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/126155457?v=4" name="Lis Lonning" role="Produktgruppeeier, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/31504150?v=4" name="Alise Kjelling" role="Design lead og UX-designer, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/12525344?v=4" name="Thord V. Foss" role="UX-designer konseptutvikler, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/110961868?v=4" name="Dorte Drange" role="Design lead og innholdsdesigner, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/85931131?v=4" name="Hanne Fredheim" role="Behovsdriver for produktgruppen portaler og brukeropplevelse, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/19344884?v=4" name="India Anderson" role="Designresearcher, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144218610?v=4" name="Kenneth Helland" role="Innholdsforvalter for norge.no, Leikanger" >}}
