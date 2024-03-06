@@ -17,7 +17,7 @@ weight: 3
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="" name="Mari Jøndahl Forberg" role="Markedssjef, KAM/FEL" >}}
+{{< team/github-profile url="" name="Bodhild Therese Cirotzki" role="Markedssjef, KAM/FEL" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/116548729?v=4" name="Roy Horn" role="KAM/BOD" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/92986603?v=4" name="Bredo Swanberg" role="Fagdirektør BOD" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45386992?v=4" name="Viktor Olsen" role="KAM/BOD" >}}
