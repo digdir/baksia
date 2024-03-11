@@ -24,9 +24,9 @@ tags:
 
   {{< team/github-profile url="" name="Sindre Ramung Husabø" role="Produkteier,  Leikanger" >}}
 
-  {{< team/github-profile url="9282097?v=4" name="Jan Fretheim" role="Team Lead, Oslo" >}}
+  {{< team/github-profile url="" name="Jan Fretheim" role="Team Lead, Oslo" >}}
 
-  {{< team/github-profile url="144001718?v=4" name="Eirik Dahl" role="Utvikler, Oslo" >}}
+  {{< team/github-profile url="" name="Erik Dahl" role="Utvikler, Oslo" >}}
 
 {{< /team/members >}}
 

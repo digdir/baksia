@@ -38,10 +38,10 @@ tags:
 
 
 
-  {{< team/github-profile url="46349741?v=4" name="Håvard England" role="Utvikler, Leikanger" >}}
+  {{< team/github-profile url="" name="Håvard England" role="Utvikler, Leikanger" >}}
   
 
-  {{< team/github-profile url="117446337?v=4" name="Kim Vidar Bakken" role="Driftsleiar, Leikanger" >}}
+  {{< team/github-profile url="" name="Kim Vidar Bakken" role="Driftsleiar, Leikanger" >}}
 
 {{< /team/members >}}
 
