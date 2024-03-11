@@ -1,7 +1,7 @@
 ---
-title: Fellesløsninger
+title: Fellesløsninger (FEL)
 ingress: |
-  hei og hå
+  FEL er en av to avdelinger i Digdir som leverer fellesløsninger. Vi forvalter (salg, drift og support) og videreutvikler ID-porten, Kontaktregistert samt en håndfull andre produkter. Vi jobber i tverrfaglige og selvgående team. Personalansvaret for fagfolkene våre ligger i seksjonene. Hver fagperson kan være del av ett eller flere team. Under finner du en nærmere oversikt over hvordan vi er organisert.
 
 # SEO
 description:
@@ -13,5 +13,5 @@ banner:
     alt: Illustration of a person holding a mobile screen on his knee
 
 navigation_link:
-  text: Se hva slags data som er tilgjengelig, og hvordan du kan bruke dem riktig
+  text: Her kan du lese mer om hvordan vi i FEL jobber og er organisert
 ---

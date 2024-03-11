@@ -15,6 +15,11 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 
 weight: 10
+
+
+tags:
+- eittteam
+- pg_portaler
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C05MRKCKZ6Z" slack_url_text="Slackkanal for teamet">}}

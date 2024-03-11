@@ -1,0 +1,75 @@
+{{ define "main" }}
+  {{ $sass := resources.Get "sass/team.scss" }}
+  {{ $style := $sass | resources.ToCSS }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+  {{ with .Page }}
+    <div class="component" style="background-color: #faeec2">
+      {{ partial "components/breadcrumbs.html" . }}
+      <div class="container">
+        <div class="row d-flex justify-content-between">
+          <div class="col-lg-8 my-auto pe-5">
+            <h1 class="">{{ .Title }}</h1>
+            {{ $ingress := .Params.ingress | markdownify }}
+            <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+          </div>
+          <div class="col-lg-4 d-flex justify-content-sm-center">
+            <div class="d-flex align-items-center">
+              {{ partial "components/image.html" (dict "context" . "image"
+                .Params.banner.image)
+              }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+
+
+  <div class="component" style="background-color: #FFFFFF">
+    <div class="container">
+      {{ .Content }}
+    </div>
+  </div>
+
+  <div class="component" style="background-color: #FFFFFF">
+    <div class="container">
+      {{ $product_and_devops_team := (i18n
+        "teams-in-group")
+      }}
+      {{ partial
+        "components/component-title.html" (dict "context" . "title"
+        $product_and_devops_team)
+      }}
+      <div class="row gy-3 justify-content-left">
+
+      {{ range where site.Pages "Params.tags" "intersect" (slice .Params.produktgruppe ) }}
+
+            <div class="col-lg-4">
+              <div class="navigation-card">
+                <a
+                  class="navigation-card__content"
+                  href="{{ .RelPermalink }}"
+                  style="background-color: #d2eafd"
+                >
+                  <h3
+                    class="navigation-card__title navigation-card__title--small"
+                  >
+                    {{ .Title }}
+                  </h3>
+                  <h4 class="navigation_link_title">
+                    {{ .Params.navigation_link.title }}
+                  </h4>
+                  <p class="navigation_link_subtitle">
+                    {{ .Params.navigation_link.subtitle }}
+                  </p>
+                </a>
+              </div>
+            </div>
+          {{ end }}
+        
+      </div>
+    </div>
+  </div>
+
+
+{{ end }}

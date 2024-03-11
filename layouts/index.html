@@ -26,6 +26,82 @@
     {{ end }}
 
 
+
+    <div class="component">
+      <div class="container">
+        {{ $product_groups := (i18n
+          "our-products")
+        }}
+        {{ partial
+          "components/component-title.html" (dict "context" . "title"
+          $product_groups) 
+        }}
+        <div class="row gy-3 justify-content-center">
+          {{ with .Site.GetPage "/produktgrupper" }}
+          <div class="col-lg-4">
+            <div class="navigation-card">
+              <a
+                class="navigation-card__content"
+                href="{{ .RelPermalink }}"
+                style="background-color: #e9eaec"
+              >
+                <h3
+                  class="navigation-card__title navigation-card__title--small"
+                >
+                  {{ .Title }}
+                </h3>
+                <p class="navigation-card__desc navigation-card__desc--small">
+                  {{ .Params.navigation_link.text }}
+                </p>
+              </a>
+            </div>
+          </div>
+        {{ end }}
+        {{ with .Site.GetPage "/produkter" }}
+        <div class="col-lg-4">
+          <div class="navigation-card">
+            <a
+              class="navigation-card__content nav-card-external__content"
+              href="{{ .Params.external_url }}"
+              target="_blank"
+            >
+              <h3
+                class="navigation-card__title navigation-card__title--small"
+              >
+                <u>{{ .Title }}</u>
+              </h3>
+              <p class="navigation-card__desc navigation-card__desc--small">
+                {{ .Params.navigation_link.text }}
+              </p>
+            </a>
+          </div>
+        </div>
+      {{ end }}
+      {{ with .Site.GetPage "/produktteam" }}
+      <div class="col-lg-4">
+        <div class="navigation-card">
+          <a
+            class="navigation-card__content"
+            href="{{ .RelPermalink }}"
+            style="background-color: #e9eaec"
+          >
+            <h3
+              class="navigation-card__title navigation-card__title--small"
+            >
+              {{ .Title }}
+            </h3>
+            <p class="navigation-card__desc navigation-card__desc--small">
+              {{ .Params.navigation_link.text }}
+            </p>
+          </a>
+        </div>
+      </div>
+    {{ end }}
+
+        </div>
+      </div>
+    </div>
+
     <div class="component">
       <div class="container">
         {{ $departments_with_their_own_pages := (i18n
@@ -56,26 +132,46 @@
               </div>
             </div>
           {{ end }}
-          {{ with .Site.GetPage "/organisasjonskart" }}
-            <div class="col-lg-4">
-              <div class="navigation-card">
-                <a
-                  class="navigation-card__content nav-card-external__content"
-                  href="{{ .Params.external_url }}"
-                  target="_blank"
+          {{ with .Site.GetPage "/felleslosninger" }}
+          <div class="col-lg-4">
+            <div class="navigation-card">
+              <a
+                class="navigation-card__content"
+                href="{{ .RelPermalink }}"
+                style="background-color: #e9eaec"
+              >
+                <h3
+                  class="navigation-card__title navigation-card__title--small"
                 >
-                  <h3
-                    class="navigation-card__title navigation-card__title--small"
-                  >
-                    <u>{{ .Title }}</u>
-                  </h3>
-                  <p class="navigation-card__desc navigation-card__desc--small">
-                    {{ .Params.navigation_link.text }}
-                  </p>
-                </a>
-              </div>
+                  {{ .Title }}
+                </h3>
+                <p class="navigation-card__desc navigation-card__desc--small">
+                  {{ .Params.navigation_link.text }}
+                </p>
+              </a>
             </div>
-          {{ end }}
+          </div>
+        {{ end }}
+        {{ with .Site.GetPage "/organisasjonskart" }}
+          <div class="col-lg-4">
+            <div class="navigation-card">
+              <a
+                class="navigation-card__content nav-card-external__content"
+                href="{{ .Params.external_url }}"
+                target="_blank"
+              >
+                <h3
+                  class="navigation-card__title navigation-card__title--small"
+                >
+                  <u>{{ .Title }}</u>
+                </h3>
+                <p class="navigation-card__desc navigation-card__desc--small">
+                  {{ .Params.navigation_link.text }}
+                </p>
+              </a>
+            </div>
+          </div>
+        {{ end }}
         </div>
       </div>
     </div>

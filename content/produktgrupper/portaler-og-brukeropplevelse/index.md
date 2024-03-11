@@ -1,7 +1,24 @@
 ---
 title: Portaler og brukeropplevelse
 
+navigation_link:
+  text: |
+
+
+layout: 'single_pg'
+
+banner:
+  image:
+    src: /illustrations/illustration-03.png
+    alt:
+
+# determines if this content should be rendered in the
+# first section of the page as a blue box
+isFirstSection: true
+
 weight: 6
+
+produktgruppe: pg_portaler
 ---
 
 ## Portaler og brukeropplevelse

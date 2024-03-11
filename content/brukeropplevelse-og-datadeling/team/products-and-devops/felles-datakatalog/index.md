@@ -15,6 +15,11 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 
 weight: 4
+
+
+tags:
+- eittteam
+- pg_datadeling
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://fdk-project.slack.com" slack_url_text="Slack-kanal for teamet">}}
