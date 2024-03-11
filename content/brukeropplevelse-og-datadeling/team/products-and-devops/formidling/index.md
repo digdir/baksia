@@ -29,6 +29,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/60652478?v=4" name="Tom-Sverre Hageland" role="Backend, 50%, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/99019701?v=4" name="Ragnar Fatland" role="Backend, 50%,  Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36594318?v=4" name="Roar Mjelde" role="Backend, Fullstack, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/24913160?v=4" name="Andreas Hammerbeck" role="Backend, Fullstack, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/123467801?v=4" name="Camilla Wold" role="Behovsstiller, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund">}}

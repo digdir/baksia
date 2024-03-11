@@ -25,26 +25,27 @@ tags:
 
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C05E00EJ2AY" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="Produkteier - Dialogporten, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/120113086?v=4" name="Mette Saltnes" role="Produkteier - Arbeidsflate, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master, 50%, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, backend, 50%, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Design lead, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/19344884?v=4" name="India Anderson" role="UX researcher, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend, Hamar">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5313373?v=4" name="Ole-Jørgen Skogstad" role="Backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/54906720?v=4" name="Alexander Midteide" role="Frontend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32505735?v=4" name="Hamy Nguyen" role="UX Konseptutvikler arbeidsflate, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/15613654?v=4" name="Audun Karlsrud Larsen" role="Tjenestedesigner arbeidsflate, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/213777?v=4" name="Frank Lyder Bredland" role="Frontend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/3768832?v=4" name="Sean Erik Scully" role="Frontend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1777366?v=4" name="Are Almaas" role="Backend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/154342485?v=4" name="Knut Haug" role="Backend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/15613654?v=4" name="Audun Karlsrud Larsen" role="Tjenestedesigner og fung. design lead arbeidsflate, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1138656?v=4" name="Inge Fossland" role="UI Designer, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Kim Renè Teige" role="UX Designer, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
 {{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/8/views/25" url_text="Github">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/Altinn/projects/39/views/2" url_text="Github" >}}
 {{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/digdir/projects/7" url_text="Github" >}}
 {{< /team/products >}}
 
