@@ -1,0 +1,69 @@
+{{ define "main" }}
+  <div>
+    {{ with .Site.GetPage "/felleslosninger" }}
+      <div class="component" style="background-color: #a5d6fb">
+        {{ partial "components/breadcrumbs.html" . }}
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 my-auto">
+              <h1 class="">{{ .Title }}</h1>
+              {{ $ingress := .Params.ingress | markdownify }}
+              <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+            </div>
+            <div
+              class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+            >
+              <div>
+                {{ partial "components/image.html" (dict "context" . "image"
+                  .Params.banner.image)
+                }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+  
+  <div class="component" style="background-color: #F4F5F6">
+    <div class="container line-yellow">
+      {{ $organisation_work_style_and_processes := (i18n
+        "organisation-work-style-and-processes")
+      }}
+      {{ partial
+        "components/component-title.html" (dict "context" . "title"
+        $organisation_work_style_and_processes)
+      }}
+      <div class="row gy-3 justify-content-left">
+        {{ with .Site.GetPage "/felleslosninger/" }}
+          {{ range .Pages }}
+            {{ if eq .Params.isFirstSection true }}
+              <div class="col-lg-4">
+                <div class="navigation-card">
+                  <a
+                    class="navigation-card__content"
+                    href="{{ .RelPermalink }}"
+                    style="background-color: #d2eafd"
+                  >
+                    <h3
+                      class="navigation-card__title navigation-card__title--small"
+                    >
+                      {{ .Title }}
+                    </h3>
+                    <p
+                      class="navigation-card__desc navigation-card__desc--small"
+                    >
+                      {{ .Params.navigation_link.text }}
+                    </p>
+                  </a>
+                </div>
+              </div>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  
+{{ end }}

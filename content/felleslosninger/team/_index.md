@@ -1,5 +1,5 @@
 ---
-title: Produktteam i BOD
+title: Produktteam i FEL
 
 ingress: |
   Vi jobber i selvstendige og tverrfaglige team på tvers av seksjonene vi tilhører. Teamene jobber smidig og hvert smidig-team har ansvar for ett eller flere produkter.
@@ -12,7 +12,7 @@ ingress: |
 description:
 keywords:
 
-layout: 'team/list'
+layout: 'team-i-fel/list'
 
 weight: 2
 

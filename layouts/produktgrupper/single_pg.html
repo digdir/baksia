@@ -1,7 +1,8 @@
 {{ define "main" }}
-  {{ with .Site.GetPage
-    "/brukeropplevelse-og-datadeling/team"
-  }}
+  {{ $sass := resources.Get "sass/team.scss" }}
+  {{ $style := $sass | resources.ToCSS }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+  {{ with .Page }}
     <div class="component" style="background-color: #faeec2">
       {{ partial "components/breadcrumbs.html" . }}
       <div class="container">
@@ -22,18 +23,27 @@
       </div>
     </div>
   {{ end }}
+
+
+  <div class="component" style="background-color: #FFFFFF">
+    <div class="container">
+      {{ .Content }}
+    </div>
+  </div>
+
   <div class="component" style="background-color: #FFFFFF">
     <div class="container">
       {{ $product_and_devops_team := (i18n
-        "product-and-devops-team")
+        "teams-in-group")
       }}
       {{ partial
         "components/component-title.html" (dict "context" . "title"
         $product_and_devops_team)
       }}
       <div class="row gy-3 justify-content-left">
-        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/team/devops" }}
-          {{ range .Pages }}
+
+      {{ range where site.Pages "Params.tags" "intersect" (slice .Params.produktgruppe ) }}
+
             <div class="col-lg-4">
               <div class="navigation-card">
                 <a
@@ -56,46 +66,10 @@
               </div>
             </div>
           {{ end }}
-        {{ end }}
+        
       </div>
     </div>
   </div>
-  <div class="component" style="background-color: #FFFFFF">
-    <div class="container">
-      {{ $support_teams := (i18n
-        "support-teams")
-      }}
-      {{ partial
-        "components/component-title.html" (dict "context" . "title"
-        $support_teams)
-      }}
-      <div class="row gy-3 justify-content-left">
-        {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/team/enabling/" }}
-          {{ range .Pages }}
-            <div class="col-lg-4">
-              <div class="navigation-card">
-                <a
-                  class="navigation-card__content"
-                  href="{{ .RelPermalink }}"
-                  style="background-color: #FAEEC2"
-                >
-                  <h3
-                    class="navigation-card__title navigation-card__title--small"
-                  >
-                    {{ .Title }}
-                  </h3>
-                  <h4 class="navigation_link_title">
-                    {{ .Params.navigation_link.title }}
-                  </h4>
-                  <p class="navigation_link_subtitle">
-                    {{ .Params.navigation_link.subtitle }}
-                  </p>
-                </a>
-              </div>
-            </div>
-          {{ end }}
-        {{ end }}
-      </div>
-    </div>
-  </div>
+
+
 {{ end }}

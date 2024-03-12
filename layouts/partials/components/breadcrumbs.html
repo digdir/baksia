@@ -1,28 +1,11 @@
 <div class="container breadcrumb">
   <ul id="breadcrumbs">
-    <li><a href="/">{{ .Site.Title }}</a></li>
-    {{- $.Scratch.Set "url" "" -}}
-    {{- range (split .RelPermalink "/") -}}
-      {{- if (gt (len .) 0) -}}
-        {{- $.Scratch.Set "isPage" "false" -}}
-        {{- $.Scratch.Add "url" (print "/" . ) -}}
-        {{- if $.Site.GetPage (print . ".md") -}}
-          {{- with $.Site.GetPage (print . ".md") -}}
-            {{- if .IsPage -}}{{- $.Scratch.Set "isPage" "true" -}}{{- end -}}
-          {{- end -}}
-        {{- end -}}
-        {{- if
-          eq ($.Scratch.Get "isPage") "true"
-        -}}
-          {{- with $.Site.GetPage (print .
-            ".md")
-          -}}
-            <li><a href="{{ $.Scratch.Get `url` }}">{{ .Title }}</a></li>
-          {{- end -}}
-        {{- else -}}
-          <li><a href="{{ $.Scratch.Get `url` }}">{{ humanize . }}</a></li>
-        {{- end -}}
-      {{- end -}}
-    {{- end -}}
+    <li><a href="/">Baksia</a></li>
+    {{- range .Ancestors.Reverse }}
+      {{ if not .IsHome }}
+      <li><a href="{{ .RelPermalink }}">{{ humanize (index (split .RelPermalink "/") (sub (len (split .RelPermalink "/")) 2)) }}</a></li>
+      {{- end }}
+    {{- end }}
+    <li>{{ humanize (index (split .RelPermalink "/") (sub (len (split .RelPermalink "/")) 2)) }}</li>
   </ul>
 </div>

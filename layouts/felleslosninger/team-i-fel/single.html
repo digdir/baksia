@@ -1,7 +1,8 @@
 {{ define "main" }}
-  {{ with .Site.GetPage
-    "/brukeropplevelse-og-datadeling/verktoy-og-infokanal"
-  }}
+  {{ $sass := resources.Get "sass/team.scss" }}
+  {{ $style := $sass | resources.ToCSS }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+  {{ with .Page }}
     <div class="component" style="background-color: #faeec2">
       {{ partial "components/breadcrumbs.html" . }}
       <div class="container">
@@ -22,18 +23,11 @@
       </div>
     </div>
   {{ end }}
-  <div class="component mb-5" style="background-color: #FFFFFF">
-    <div class="container line-yellow">
-      {{ $overview_of_information := (i18n
-        "overview-of-information")
-      }}
-      {{ partial
-        "components/component-title.html" (dict "context" . "title"
-        $overview_of_information)
-      }}
-      <div class="row gy-3 justify-content-even">
-        {{ .Content }}
-      </div>
+
+
+  <div class="component" style="background-color: #FFFFFF">
+    <div class="container">
+      {{ .Content }}
     </div>
   </div>
 {{ end }}
