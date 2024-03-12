@@ -1,7 +1,4 @@
 {{ define "main" }}
-  <head>
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  </head>
   <div class="page__home" style="height: 110rem">
     {{ with .Site.GetPage "/" }}
       <div class="component" style="background-color: #faeec2">
@@ -57,6 +54,26 @@
             </div>
           </div>
         {{ end }}
+        {{ with .Site.GetPage "/produktteam" }}
+        <div class="col-lg-4">
+          <div class="navigation-card">
+            <a
+              class="navigation-card__content"
+              href="{{ .RelPermalink }}"
+              style="background-color: #e9eaec"
+            >
+              <h3
+                class="navigation-card__title navigation-card__title--small"
+              >
+                {{ .Title }}
+              </h3>
+              <p class="navigation-card__desc navigation-card__desc--small">
+                {{ .Params.navigation_link.text }}
+              </p>
+            </a>
+          </div>
+        </div>
+        {{ end }}
         {{ with .Site.GetPage "/produkter" }}
         <div class="col-lg-4">
           <div class="navigation-card">
@@ -76,28 +93,7 @@
             </a>
           </div>
         </div>
-      {{ end }}
-      {{ with .Site.GetPage "/produktteam" }}
-      <div class="col-lg-4">
-        <div class="navigation-card">
-          <a
-            class="navigation-card__content"
-            href="{{ .RelPermalink }}"
-            style="background-color: #e9eaec"
-          >
-            <h3
-              class="navigation-card__title navigation-card__title--small"
-            >
-              {{ .Title }}
-            </h3>
-            <p class="navigation-card__desc navigation-card__desc--small">
-              {{ .Params.navigation_link.text }}
-            </p>
-          </a>
-        </div>
-      </div>
-    {{ end }}
-
+        {{ end }}
         </div>
       </div>
     </div>

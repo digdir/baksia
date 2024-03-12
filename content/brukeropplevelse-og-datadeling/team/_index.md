@@ -1,5 +1,5 @@
 ---
-title: Produktteam
+title: Produktteam i BOD
 
 ingress: |
   Vi jobber i selvstendige og tverrfaglige team på tvers av seksjonene vi tilhører. Teamene jobber smidig og hvert smidig-team har ansvar for ett eller flere produkter.

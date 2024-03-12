@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ with .Site.GetPage
-    "/felleslosninger/team-i-fel"
+    "/felleslosninger/team"
   }}
     <div class="component" style="background-color: #faeec2">
       {{ partial "components/breadcrumbs.html" . }}
@@ -32,7 +32,7 @@
         $product_and_devops_team)
       }}
       <div class="row gy-3 justify-content-left">
-        {{ with .Site.GetPage "/felleslosninger/team-i-fel/devops-team-fel" }}
+        {{ with .Site.GetPage "/felleslosninger/team/devops" }}
           {{ range .Pages }}
             <div class="col-lg-4">
               <div class="navigation-card">
