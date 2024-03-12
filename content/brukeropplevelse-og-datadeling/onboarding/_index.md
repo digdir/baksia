@@ -1,5 +1,5 @@
 ---
-title: Introduksjonsprogrammet i BOD
+title: Onboarding av ansatte i BOD
 ingress: |
   Som nytilsatt i BOD er du med i det generelle introduksjonsprogrammet (ofte kalt onboarding), som HR-avdelingen i Digdir kjører. Du får også mer spisset fagopplæring, som er tilpasset den rollen og de oppgavene du skal løse for BOD.
 
