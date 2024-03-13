@@ -29,10 +29,11 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/5196432?s=96&v=4" name="Lars Bårdgard Åstveit" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/15088232?v=4" name="Håvard England" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/47362824?v=4" name="Joachim Hagheim" role="Utvikler, Leikanger" >}}
-
-  {{< team/github-profile url="" name="Daniel Fylling" role="Driftsleiar, Leikanger" >}}
+  
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/46677409?s=96&v=4" name="Daniel Fylling" role="Driftsleiar, Leikanger" >}}
   {{< team/github-profile url="" name="Ole Jomar Moen" role="Service Manager, Leikanger" >}}
-  {{< team/github-profile url="" name="Justyna Mucha" role="Teknisk forvalter, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/49980641?s=96&v=4" name="Justyna Mucha" role="Teknisk forvalter, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/57747742?s=96&v=4" name="Karsten Bjelde" role="Teknisk forvalter, Leikanger" >}}
 
 {{< /team/members >}}
 
