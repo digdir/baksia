@@ -35,7 +35,7 @@ T {{< team/github-profile url="https://avatars.githubusercontent.com/u/77618118?
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/2151277?v=4" name="Thomas Reppesgård" role="Utvikler, Sandefjord" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/16701985?v=4" name="Linesh Raghawan" role="Testutvikler, Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/33317342?v=4" name="Thor Kristian Sortevik" role="Driftsleiar Maskingporten, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/33317342?v=4" name="Thor Kristian Sortevik" role="Driftsleiar Maskinporten, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/6310801?v=4" name="Eirik Hoem" role="Driftsleiar ID-porten, Leikanger" >}}
   {{< team/github-profile url="" name="Solveig Kvame" role="Service Manager, Leikanger" >}}
 

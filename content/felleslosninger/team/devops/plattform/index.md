@@ -27,15 +27,16 @@ tags:
 
  {{< team/github-profile url="https://avatars.githubusercontent.com/u/7766457?s=64&v=4" name="Kjetil Melheim" role="Team Lead, Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/2690292?s=96&v=4" name="Bjørn-Erik Strand" role="plattformutvikler, Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/66918079?v=4" name="Leif Olav S. Bjordal" role="plattformutvikler, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/2690292?s=96&v=4" name="Bjørn-Erik Strand" role="Plattformutvikler, Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/116799560?v=4" name="Borgar Grande" role="plattformutvikler, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/66918079?v=4" name="Leif Olav S. Bjordal" role="Plattformutvikler, Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/4632491?v=4" name="Jonas Arneberg Saltvik" role="plattformutvikler, Oslo" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/116799560?v=4" name="Borgar Grande" role="Plattformutvikler, Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/1394156?v=4" name="Kent Iversen" role="plattformutvikler, Oslo" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/4632491?v=4" name="Jonas Arneberg Saltvik" role="Plattformutvikler, Oslo" >}}
+
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/1394156?v=4" name="Kent Iversen" role="Plattformutvikler, Oslo" >}}
 
 
 {{< /team/members >}}
