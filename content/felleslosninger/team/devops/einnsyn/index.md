@@ -30,7 +30,7 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1481395?v=4" name="Gisle Nes" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/34447997?v=4" name="Gunnar Sandnes" role="Utvikler, Oslo" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/29775060?v=4" name="Sture Domaas Førre" role="Driftsleiar, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/46677409?v=4" name="Daniel Fylling" role="Driftsleiar, Leikanger" >}}
   {{< team/github-profile url="" name="Ole Jomar Moen" role="Service Manager, Leikanger" >}}
   {{< team/github-profile url="" name="Bodil Dale" role="Brukerstøtte, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/107243499?v=4" name="Stian Øye" role="Teknisk forvalter, Leikanger" >}}
