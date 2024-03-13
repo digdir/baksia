@@ -27,8 +27,8 @@ tags:
 
  {{< team/github-profile url="https://avatars.githubusercontent.com/u/7766457?s=64&v=4" name="Kjetil Melheim" role="Team Lead, Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/2690292?s=96&v=4" name="Bjørn-Erik Strand" role="plattformutvikler, Oslo" >}}
-  
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/2690292?s=96&v=4" name="Bjørn-Erik Strand" role="Plattformutvikler, Leikanger" >}}
+  {{< team/github-profile url="" name="Jonas Arneberg Saltvik" role="Plattformutvikler, Oslo" >}}
 
 
 
