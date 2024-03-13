@@ -20,7 +20,7 @@ tags:
 - pg_tillitstjenester
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C05QXPTF30W" slack_url_text="Slackkanal for teamet">}}
 
   {{< team/github-profile url="" name="Erlend Husabø" role="Produkteier,  Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1483360?v=4" name="Jørgen Binningsbø" role="Arkitekt,  Leikanger" >}}

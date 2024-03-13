@@ -1,6 +1,6 @@
 ---
 title: Statistikk og Event
-Ingress: Teamet lager selvbetjeningsløsningen som holder masterdata for produktene som FEL har ansvar for.
+Ingress: Teamet lager hendelsesystem i Kafka i tillegg til statistikk over hendelser.
 
 navigation_link:
   title: Produkteier
@@ -20,13 +20,13 @@ tags:
 - pg_tillitstjenester
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C02D48TKYFQ" slack_url_text="Slackkanal for teamet">}}
 
-  {{< team/github-profile url="" name="Sindre Ramung Husabø" role="Produkteier,  Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/93767748?s=96&v=4" name="Sindre B. Ramung" role="Produkteier,  Leikanger" >}}
 
-  {{< team/github-profile url="" name="Jan Fretheim" role="Team Lead, Oslo" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/72542508?s=96&v=4" name="Jan Fretheim" role="Team Lead/Utvikler, Oslo" >}}
 
-  {{< team/github-profile url="" name="Erik Dahl" role="Utvikler, Oslo" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/89081489?s=96&v=4" name="Erik Dahl" role="Utvikler, Oslo" >}}
 
 {{< /team/members >}}
 
