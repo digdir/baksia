@@ -26,21 +26,13 @@ tags:
   {{< team/github-profile url=""  name="Steinar Henriksen" role="Produkteigar, Leikanger" >}}
 
   {{< team/github-profile url="" name="Johannes Molland" role="Team Lead / Utvikler, Leikanger" >}}
-  {{< team/github-profile url="" name="Lars Bårdgard Åstveit" role="Utvikler, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/5196432?s=96&v=4" name="Lars Bårdgard Åstveit" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="" name="Håvard England" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="" name="Joachim Hagheim" role="Utvikler, Leikanger" >}}
 
   {{< team/github-profile url="" name="Daniel Fylling" role="Driftsleiar, Leikanger" >}}
   {{< team/github-profile url="" name="Ole Jomar Moen" role="Service Manager, Leikanger" >}}
   {{< team/github-profile url="" name="Justyna Mucha" role="Teknisk forvalter, Leikanger" >}}
-  {{< team/github-profile url="" name="Ole Jomar Moen" role="Service Manager, Leikanger" >}}
-  {{< team/github-profile url="" name="Ole Jomar Moen" role="Service Manager, Leikanger" >}}
-
-
-
-  {{< team/github-profile url="" name="Håvard England" role="Utvikler, Leikanger" >}}
-  
-
   {{< team/github-profile url="" name="Kim Vidar Bakken" role="Driftsleiar, Leikanger" >}}
 
 {{< /team/members >}}
@@ -51,4 +43,6 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Kontakt- og Reservasjonsregisteret 
+- eFormidling
+- ELMA
+  
