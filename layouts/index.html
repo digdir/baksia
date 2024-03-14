@@ -1,6 +1,6 @@
-{{ define "main" }}
-  <div class="page__home" style="height: 110rem">
-    {{ with .Site.GetPage "/" }}
+{{- define "main" -}}
+  <div>
+    {{- with .Site.GetPage "/" -}}
       <div class="component" style="background-color: #faeec2">
         <div class="container">
           <div class="row">
@@ -12,18 +12,15 @@
               class="col-lg-6 d-flex justify-content-sm-center justify-content-lg-end "
             >
               <div>
-                {{ partial "components/image.html" (dict "context" . "image"
+                {{- partial "components/image.html" (dict "context" . "image"
                   .Params.banner.image)
-                }}
+                -}}
               </div>
             </div>
           </div>
         </div>
       </div>
-    {{ end }}
-
-
-
+    {{- end -}}
     <div class="component">
       <div class="container">
         {{ $product_groups := (i18n
