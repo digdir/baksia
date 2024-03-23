@@ -12,7 +12,7 @@
               class="col-lg-6 d-flex justify-content-sm-center justify-content-lg-center "
             >
               <div>
-                {{- partial "components/image.html" (dict "context" . "image"
+                {{- partial "components/header-image.html" (dict "context" . "image"
                   .Params.banner.image)
                 -}}
               </div>
@@ -173,7 +173,7 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-8 my-auto">
-              <h2 class="mt-0">{{ .Title }}</h2>
+              <h2 class="mt-0 heading-large">{{ .Title }}</h2>
               <p class="mb-5 mb-lg-0">{{ .Params.ingress }}</p>
               <div style="margin-top: 1.2rem">
                 <a

@@ -36,6 +36,13 @@
   margin-left: $spacing-base-4;
 }
 
+.component {
+  padding: 4rem 0;
+  &--extra-spacing {
+    padding: 7rem !important;
+  }
+}
+
 .section-content {
   h2 {
     margin-top: 0;
@@ -58,6 +65,7 @@
 
 .breadcrumb {
   padding: 0 $spacing-base-2;
+  margin-top: -2rem;
 
   a {
     font-family: $font-family;
@@ -184,4 +192,56 @@
 
 .line-yellow > div > div > div > div {
   background-color: #e5aa20;
+}
+
+.to-top-btn {
+  height: 60px !important;
+  width: 60px !important;
+
+  span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: inherit !important;
+    &::before {
+      font-size: 1.4rem !important;
+    }
+  }
+}
+
+.footer {
+  &__heading {
+    font-size: $font-size-500 !important;
+    margin-bottom: 0.9rem !important;
+  }
+
+  &__links a {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 0;
+  }
+
+  &__links a:hover {
+    padding-bottom: 0;
+  }
+
+  li {
+    margin-top: 0 !important;
+    padding-bottom: 0;
+    margin-bottom: 0.2rem !important;
+  }
+
+  li a,
+  li {
+    font-size: $font-size-300 !important;
+  }
+
+  a:before {
+    font-size: 1.5rem !important;
+  }
+}
+
+.heading-large {
+  font-size: 1.75rem !important;
 }
