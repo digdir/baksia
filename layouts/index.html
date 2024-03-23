@@ -9,7 +9,7 @@
               <p class="ingress mb-5 mb-lg-0">{{ .Params.ingress }}</p>
             </div>
             <div
-              class="col-lg-6 d-flex justify-content-sm-center justify-content-lg-end "
+              class="col-lg-6 d-flex justify-content-sm-center justify-content-lg-center "
             >
               <div>
                 {{- partial "components/image.html" (dict "context" . "image"
@@ -169,12 +169,21 @@
       </div>
     </div>
     {{ with .Site.GetPage "/strategi" }}
-      <div class="component" style="background-color: #d2eafd">
+      <div class="component component--extra-spacing" style="background-color: #d2eafd">
         <div class="container">
           <div class="row">
             <div class="col-lg-8 my-auto">
-              <h2 class="">{{ .Title }}</h2>
+              <h2 class="mt-0">{{ .Title }}</h2>
               <p class="mb-5 mb-lg-0">{{ .Params.ingress }}</p>
+              <div style="margin-top: 1.2rem">
+                <a
+                  class="external-link"
+                  href="{{ .Params.external_url }}"
+                  target="_blank"
+                  >Digitaliseringsdirektoratets strategi</a
+                >
+                <span class="end-icon"></span>
+              </div>
             </div>
             <div
               class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
@@ -185,15 +194,7 @@
                 }}
               </div>
             </div>
-            <span style="margin-top: 1.5rem">
-              <a
-                class="external-link"
-                href="{{ .Params.external_url }}"
-                target="_blank"
-                >Digitaliseringsdirektoratets strategi</a
-              >
-              <span class="end-icon"></span>
-            </span>
+
           </div>
         </div>
       </div>

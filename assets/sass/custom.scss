@@ -65,10 +65,9 @@
     font-weight: $font-weight-regular;
     font-size: $font-size-400;
     line-height: $font-line-height-30;
-    color: $color-neutral-grey-800;
-    text-decoration: none;
-    border-bottom: 1px solid $color-neutral-grey-800;
-    padding-bottom: $spacing-base-1;
+    color: $color-neutral-grey-800 !important;
+    text-decoration: underline;
+    text-underline-offset: 5px;
   }
 }
 
@@ -105,7 +104,7 @@
 
 .divider__title {
   h2 {
-    font-size: $font-size-900 !important;
+    font-size: $font-size-800 !important;
   }
 }
 
