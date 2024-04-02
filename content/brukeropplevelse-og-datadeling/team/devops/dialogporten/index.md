@@ -1,5 +1,5 @@
 ---
-title: Dialogporten og Arbeidsflate
+title: Dialogporten
 ingress: "Dialogporten er et nytt produkt der vi gjør enkelttjenester tilgjengelig via API-er, uten at du må bruke Altinn Studio når du utvikler tjenesten. Dette kan være tjenester som meldinger, dialoger, historisk arkiv, autorisasjon, varsling og hendelser. I Altinn 3 vil Dialogporten fungere som et API mellom sluttbrukersystemer og tjenesteproduktene i Altinn 3.
 <br /><br />
 Arbeidsflate skal erstatte brukergrensesnittet til innboksen i Altinn 2. Dette produktet bruker Digdirs felles designsystem som grunnlag og blir bygget slik at det blir lett å integrere direkte i andre portaler, for eksempel tjenesteeiernes egne portaler. Vi henter data fra de tekniske grensesnittene via API-er til Dialogporten."
