@@ -7,7 +7,7 @@ Arbeidsflate skal erstatte brukergrensesnittet til innboksen i Altinn 2. Dette p
 
 navigation_link:
   title: Produkteier
-  subtitle: Dirk Lammering - Dialogporten
+  subtitle: Dirk Lammering
 
 layout: 'team/single'
 
