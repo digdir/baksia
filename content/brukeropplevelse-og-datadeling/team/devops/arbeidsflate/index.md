@@ -5,7 +5,7 @@ ingress: "Arbeidsflate skal erstatte brukergrensesnittet til innboksen i Altinn 
 
 navigation_link:
   title: Produkteier
-  subtitle: Mette Saltnes - Arbeidsflate
+  subtitle: Mette Saltnes
 
 layout: 'team/single'
 
