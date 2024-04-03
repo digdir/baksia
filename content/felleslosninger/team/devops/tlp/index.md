@@ -16,7 +16,7 @@ weight: 5
 
 tags:
   - eittteam
-  - pg_portaler
+
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="" slack_url_text="">}}
