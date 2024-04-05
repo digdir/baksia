@@ -25,17 +25,17 @@ tags:
 
 
 
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5788415?v=4" name="Espen Kørra" role="Produkteier, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Team-arkitekt, infrastruktur, backend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1149104?v=4" name="Martin Gunnerud" role="Frontend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/34273718?v=4" name="Dhanalakshmi Gopalswamy" role="Backend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/75827794?v=4" name="Sondre Bråthen" role="Backend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/144321622?v=4" name="Mette Grytten" role="Design lead og interaksjonsdesigner, Leikanger">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/61084786?v=4" name="Simen Rekkedal" role="Backend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/112334?v=4" name="Aleksander Heintz" role="Backend, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/5788415?v=4" name="Espen Kørra" role="Produkteier, fast, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Team-arkitekt, Security Champion, infrastruktur, backend, konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1149104?v=4" name="Martin Gunnerud" role="Frontend, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/34273718?v=4" name="Dhanalakshmi Gopalswamy" role="Backend, konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/75827794?v=4" name="Sondre Bråthen" role="Backend, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/144321622?v=4" name="Mette Grytten" role="Design lead og interaksjonsdesigner, fast, Leikanger">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/61084786?v=4" name="Simen Rekkedal" role="Backend, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/112334?v=4" name="Aleksander Heintz" role="Backend, konsulent, Oslo">}}
 
 
 {{< /team/members >}}
