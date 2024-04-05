@@ -23,12 +23,12 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C9STJH9NZ" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/277605?v=4" name="Erlend Oksvoll" role="Produkteier, backend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, infrastruktur, backend, 50%, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/82439090?v=4" name="Hanne Brun" role="Scrum master, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/3437949?v=4" name="Daniel Rustad Johansen" role="Frontend, backend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/23278708?v=4" name="Nikolai Maasø Lunde" role="Frontend, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/277605?v=4" name="Erlend Oksvoll" role="Produkteier, backend, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, infrastruktur, backend, 50%, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/82439090?v=4" name="Hanne Brun" role="Scrum master, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/3437949?v=4" name="Daniel Rustad Johansen" role="Frontend, backend, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/23278708?v=4" name="Nikolai Maasø Lunde" role="Frontend, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Fast, Brønnøysund">}}
 
 {{< /team/members >}}
 
