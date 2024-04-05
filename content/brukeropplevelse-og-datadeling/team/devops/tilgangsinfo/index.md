@@ -26,7 +26,7 @@ tags:
 
 
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5788415?v=4" name="Espen Kørra" role="Produkteier, fast, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Team-arkitekt, Security Champion, infrastruktur, backend, konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Team-arkitekt, Security Champion, konsulent, infrastruktur, backend, konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1149104?v=4" name="Martin Gunnerud" role="Frontend, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/34273718?v=4" name="Dhanalakshmi Gopalswamy" role="Backend, konsulent, Oslo" >}}
