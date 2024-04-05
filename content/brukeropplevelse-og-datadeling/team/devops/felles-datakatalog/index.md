@@ -23,21 +23,18 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://fdk-project.slack.com" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/110605570?v=4" name="Kjersti Steien" role="Produkteier, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="Team-arkitekt, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum master, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/50879748?v=4" name="Pooria Mehregan" role="Frontend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/108797958?v=4" name="Terje Sylvarnes" role="Frontend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/430997?v=4" name="Jeff Reiffers" role="Fullstack, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/50194012?v=4" name="Nils Ove Tendenes" role="Backend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/48259307?v=4" name="Hege Aalvik" role="Fullstack, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/8625716?v=4" name="Hans Olav Sund" role="DevOps-ingeniør, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/121860376?v=4" name="Mateus Furuløkken" role="Interaksjonsdesigner, 50%, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aaseberg" role="Legal Coach, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/48056195?v=4" name="Espen Slotvik" role="Behovsdriver, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32771488?v=4" name="Roger Stenbakk Olsen" role="Behovsdriver, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/48251060?v=4" name="Terje Bertelsen" role="Behovsdriver, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/110605570?v=4" name="Kjersti Steien" role="Produkteier, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="Team-arkitekt, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum master, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/50879748?v=4" name="Pooria Mehregan" role="Frontend, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/108797958?v=4" name="Terje Sylvarnes" role="Frontend, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/430997?v=4" name="Jeff Reiffers" role="Fullstack, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/50194012?v=4" name="Nils Ove Tendenes" role="Backend, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/48259307?v=4" name="Hege Aalvik" role="Fullstack, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/8625716?v=4" name="Hans Olav Sund" role="DevOps-ingeniør, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/121860376?v=4" name="Mateus Furuløkken" role="Interaksjonsdesigner, 50%, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aaseberg" role="Legal Coach, Fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Fast, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
