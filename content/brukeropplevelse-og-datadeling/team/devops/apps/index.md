@@ -21,21 +21,22 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Produkteier, backend, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team-arkitekt, infrastruktur, backend, Korgen" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/131616?v=4" name="Ivar Nesje" role="backend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/3596256?v=4" name="Bjørn-Tore Gjerde " role="Backend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1534950?v=4" name="Adam Haeger" role="Frontend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend, Stavanger">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend, Trondheim" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5425986?v=4" name="Martin Othamar" role="Backend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/42615991?v=4" name="Johannes Haukland" role="Fullstack, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/70377508?v=4" name="Olav Friisberg Larssen" role="Interaksjonsdesigner, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/2195512?v=4" name="Edvin Avdagic" role="UX Designer, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Produkteier, backend, Fast, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master, Fast,  Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team-arkitekt, infrastruktur, backend, Fast, Korgen" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/131616?v=4" name="Ivar Nesje" role="backend, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/3596256?v=4" name="Bjørn-Tore Gjerde " role="Backend, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1534950?v=4" name="Adam Haeger" role="Frontend,Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend,Konsulent, Stavanger">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend, Konsulent, Trondheim" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/5425986?v=4" name="Martin Othamar" role="Backend, Konsulent ,Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/21328986?v=4" name="Daniel Skovli" role="Backend, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/42615991?v=4" name="Johannes Haukland" role="Fullstack, Konsulent,Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Fast,  Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/70377508?v=4" name="Olav Friisberg Larssen" role="Interaksjonsdesigner, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/2195512?v=4" name="Edvin Avdagic" role="UX Designer, Konsulent, Oslo">}}
 
 {{< /team/members >}}
 
