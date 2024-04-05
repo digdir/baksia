@@ -21,12 +21,12 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C04PR2LBRDG" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Andreas Fjeldal" role="Koordinator, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/938091?v=4" name="Morten Foshaug" role="Tech lead, Backend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/121860376?v=4" name="Mateus Furuløkken" role="Interaksjonsdesigner, 50%, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/26043795?v=4" name="Mikael Solstad" role="Frontend, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/4062582?v=4" name="Christer Rustand" role="Backend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/78016553?v=4" name="Henrik Holstad Hauge" role="Backend, Hospitering, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Andreas Fjeldal" role="Koordinator, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/938091?v=4" name="Morten Foshaug" role="Tech lead, Backend, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/121860376?v=4" name="Mateus Furuløkken" role="Interaksjonsdesigner, 50%, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/26043795?v=4" name="Mikael Solstad" role="Frontend, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/4062582?v=4" name="Christer Rustand" role="Backend, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/78016553?v=4" name="Henrik Holstad Hauge" role="Backend, Hospitering, Konsulent, Oslo" >}}
 
 {{< /team/members >}}
 
