@@ -23,18 +23,18 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C05MRKCKZ6Z" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Produkteier og redaktør for altinn.no, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Ragnhild Borge Olsen" role="Produkteier for Norge.no, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master, 50%, Brønnøysund " >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/31504150?v=4" name="Alise Kjelling" role="Design lead og UX-designer, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/12525344?v=4" name="Thord V. Foss" role="UX-designer konseptutvikler, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/110961868?v=4" name="Dorte Drange" role="Design lead og innholdsdesigner, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/144218610?v=4" name="Kenneth Helland" role="Innholdsforvalter for norge.no, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/147068285?v=4" name="Wilhelm Walberg Schive" role="Backend og tech-lead, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/147140002?v=4" name="Monica Wold Olsen" role="Frontend, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/147135987?v=4" name="Jonas Hildershavn" role="Backend, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Produkteier og redaktør for altinn.no, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Ragnhild Borge Olsen" role="Produkteier for Norge.no, Fast,  Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master, 50%, Fast, Brønnøysund " >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/31504150?v=4" name="Alise Kjelling" role="Design lead og UX-designer, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/12525344?v=4" name="Thord V. Foss" role="UX-designer konseptutvikler, Konsulent,  Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/110961868?v=4" name="Dorte Drange" role="Design lead og innholdsdesigner, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Fast,  Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/144218610?v=4" name="Kenneth Helland" role="Innholdsforvalter for norge.no, Fast, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/147068285?v=4" name="Wilhelm Walberg Schive" role="Backend og tech-lead, Konsulent,  Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/147140002?v=4" name="Monica Wold Olsen" role="Frontend, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/147135987?v=4" name="Jonas Hildershavn" role="Backend, Konsulent, Oslo" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
