@@ -28,8 +28,8 @@ weight: 4
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Design Lead, OR Ambassadør, Fast, Oslo">}}
 {{< /team/members >}}
 
-{{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="Github">}}
+{{< team/products title="Veiledning" >}}
+{{< team/product-item title="OKR på en lapp" subtitle="Roadmap" url="https://digdir.sharepoint.com/:b:/r/sites/Prosjekt_Tjenester3.0-OKRAmbassadr-kurs-/Delte%20dokumenter/OKR%20Ambassad%C3%B8r-kurs-/OKR%20pa%CC%8A%20en%20lapp.pdf?csf=1&web=1&e=V7LliP" url_text="Github">}}
 {{< team/product-item title="Hva inngår i sprinten/Kanban" subtitle="Backlog for hva som pågår" url="" url_text="Github" >}}
 {{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="Github" >}}
 {{< /team/products >}}
