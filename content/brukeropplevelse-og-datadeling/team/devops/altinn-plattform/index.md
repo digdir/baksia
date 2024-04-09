@@ -18,10 +18,10 @@ weight: 17
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C0378DYQ7B9" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/62640845?v=4" name="Espen Herskedal" role="Platformsjef, 50%, Fast, Hamar">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/62640845?v=4" name="Espen Herskedal" role="Platformsjef, Security Champion, Fast, Hamar">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32734566?v=4" name="Bengt Fredh" role="Infrastruktur,  Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/8321743?v=4" name="Sebastian Duran" role="Infrastruktur, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/12184124?v=4" name="Børge Thommesen" role="Infrastruktur, 50%, Fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/8321743?v=4" name="Sebastian Duran" role="Infrastruktur, AI Champion, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/12184124?v=4" name="Børge Thommesen" role="Infrastruktur, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49302758?v=4" name="Øystein Otneim" role="Infrastruktur, 80%, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89203237?v=4" name="Simon Ellefsen" role="Infrastruktur, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, Fast, Brønnøysund" >}}
