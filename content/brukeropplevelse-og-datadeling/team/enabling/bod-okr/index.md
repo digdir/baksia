@@ -1,6 +1,6 @@
 ---
 title: BOD OKR
-ingress: kommer snart
+ingress: OKR står for «Objectives and Key Results». «Objectives» handler om hva det er man ønsker å oppnå, mens «Key Results» handler om hvordan man skal få det til.​
 
 navigation_link:
   title: OKR Ambassadører
