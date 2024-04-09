@@ -30,8 +30,9 @@ weight: 4
 
 {{< team/products title="Veiledning" >}}
 {{< team/product-item title="OKR på en lapp" subtitle="Roadmap" url="https://digdir.sharepoint.com/:b:/r/sites/Prosjekt_Tjenester3.0-OKRAmbassadr-kurs-/Delte%20dokumenter/OKR%20Ambassad%C3%B8r-kurs-/OKR%20pa%CC%8A%20en%20lapp.pdf?csf=1&web=1&e=V7LliP" url_text="Github">}}
-{{< team/product-item title="Hva inngår i sprinten/Kanban" subtitle="Backlog for hva som pågår" url="" url_text="Github" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="Github" >}}
+{{< team/product-item title="Introduksjon til OKR prosessen" subtitle="xx" url="" url_text="Introduksjon til OKR" >}}
+{{< team/product-item title="Tidslinje OKR prosessen 2024" subtitle="xx" url="" url_text="Introduksjon til OKR" >}}
+{{< team/product-item title="Tidslinje OKR prosessen 2024" subtitle="xx" url="" url_text="Tidslinje OKR prosessen 2024" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="OKR Ambassadør - Rolle" >}}
