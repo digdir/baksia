@@ -16,7 +16,7 @@ banner:
 weight: 4
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="" slack_url_text="[Slackkanal for teamet](https://altinndevops.slack.com/archives/C06GSNENWHM)">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C06GSNENWHM" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master, OKR Ambassadør, Fast,  Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, OKR Ambassadør, fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/139115317?v=4" name="Siri-Anna Zahl Kristiansen" role="Scrum master, OKR Ambassadør, fast, Brønnøysund" >}}
