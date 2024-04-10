@@ -28,7 +28,7 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/9282097?v=4" name="Knut Kjærvik" role="Team Lead, Leikanger" >}}
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/144001718?v=4" name="Håvard Dybvik" role="Utvikler, Leikanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/21328986?v=4" name="Daniel Skovli" role="Utvikler, Leikanger" >}}
+
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/33317342?v=4" name="Thor Kristian Sortevik" role="Driftsleiar, Leikanger" >}}
 
 {{< /team/members >}}
