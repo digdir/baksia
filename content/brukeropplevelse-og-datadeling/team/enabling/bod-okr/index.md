@@ -29,8 +29,8 @@ weight: 4
 {{< /team/members >}}
 
 {{< team/products title="Veiledning" >}}
-{{< team/product-item title="OKR på en lapp" subtitle="Roadmap" url="https://digdir.sharepoint.com/:b:/r/sites/Prosjekt_Tjenester3.0-OKRAmbassadr-kurs-/Delte%20dokumenter/OKR%20Ambassad%C3%B8r-kurs-/OKR%20pa%CC%8A%20en%20lapp.pdf?csf=1&web=1&e=V7LliP" url_text="Github">}}
-{{< team/product-item title="Introduksjon til OKR prosessen" subtitle="xx" url="" url_text="Introduksjon til OKR" >}}
+{{< team/product-item title="OKR på en slide " subtitle="OKR på en slide" url="https://digdir.sharepoint.com/:p:/r/sites/Prosjekt_Tjenester3.0-OKRAmbassadr-kurs-/Delte%20dokumenter/OKR%20Ambassad%C3%B8r-kurs-/OKR%20dokumentasjon%20til%20Baksia/OKR%20p%C3%A5%201%20slide.pptx?d=w1091d470c3344ccc84afd2a3460f928b&csf=1&web=1&e=IugPmy" url_text="OKR på en slide">}}
+{{< team/product-item title="Introduksjon til OKR prosessen" subtitle="https://digdir.sharepoint.com/:p:/r/sites/Prosjekt_Tjenester3.0-OKRAmbassadr-kurs-/Delte%20dokumenter/OKR%20Ambassad%C3%B8r-kurs-/OKR%20dokumentasjon%20til%20Baksia/OKR%20kickstart.pptx?d=wb03bf48306a74cfba087e389cf5ba8db&csf=1&web=1&e=pETuHG" url="" url_text="Kickstart med OKR" >}}
 {{< team/product-item title="Tidslinje OKR prosessen 2024" subtitle="xx" url="" url_text="Tidslinje OKR prosessen 2024" >}}
 {{< /team/products >}}
 
