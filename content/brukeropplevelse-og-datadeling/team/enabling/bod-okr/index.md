@@ -4,7 +4,6 @@ ingress: OKR står for «Objectives and Key Results». «Objectives» handler om
 
 navigation_link:
   title: OKR Ambassadører
-  subtitle: kommer snart
 
 layout: 'team/single'
 
