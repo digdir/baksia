@@ -1,6 +1,6 @@
 ---
 title: Porteføljeskontoret
-Ingress: Porteføljekontoret møtes normalt hver 14 dag. I møtene behandles nye tiltak og pågående tiltak. Det tas stilling til oppstart av nye tiltak samt sikre sikre innfrielse av krav for overgang til ny fase for igansatte tiltak.
+Ingress: Porteføljekontoret møtes normalt hver 14 dag. I møtene behandles nye tiltak og pågående tiltak. Det tas stilling til oppstart av nye tiltak samt sikre innfrielse av krav for overgang til ny fase for igansatte tiltak.
 
 navigation_link:
   title: Portefølje manager
@@ -38,6 +38,7 @@ weight: 2
 - forberede saksunderlag til prioritering av tiltak,
 - melde inn saker til beslutning for milepæler/faseoverganger konsept, plan, implementering og utført til ledergruppen,
 - holde oversikt over status på gjennomføring og gevinstuttak på tiltak i porteføljen (OKR) samt melde dette videre til ledergruppen,
-- veilede tiltakseiere i utarbeidelse av saksunderlag
-- veilede tiltakseiere i gjennomføring av prosjekter
-- Koordinere arbeidet med innspill til virksomhetsplan
+- veilede tiltakseiere i utarbeidelse av saksunderlag,
+- veilede tiltakseiere i gjennomføring av prosjekter,
+- koordinere arbeidet med innspill til virksomhetsplan,
+- sikre rapportering til VIS
