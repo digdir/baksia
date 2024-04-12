@@ -1,6 +1,6 @@
 ---
 title: Porteføljeskontoret
-Ingress: Porteføljekontoret møtes normalt hver 14 dag. I møtene behandles nye tiltak og pågående tiltak. Det tas stilling til oppstart av nye tiltak samt sikre sikre innfrielse for faseovergang til ny fase for igansatte tiltak.
+Ingress: Porteføljekontoret møtes normalt hver 14 dag. I møtene behandles nye tiltak og pågående tiltak. Det tas stilling til oppstart av nye tiltak samt sikre sikre innfrielse av krav for overgang til ny fase for igansatte tiltak.
 
 navigation_link:
   title: Portefølje manager
@@ -19,6 +19,12 @@ weight: 2
 {{< team/members title="Medlemmer i teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/35563205?v=4" name="Frank-Robert Sveinsbø" role="Porteføljestyrer" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt Altinn" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/47210425?v=4" name="Tor Arild Sunnevåg" role="Produktgruppeleder datadeling" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/126155457?v=4" name="Lis Lonning" role="Produktgruppeleder portaler og brukeropplevelse" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/85931131?v=4" name="Hanne Hofsæth Fredheim" role="Fungerende Produktgruppeleder portaler og brukeropplevelse" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/97158464?v=4" name="Johann Finnur Sigurvinsson Olafsson" role="Produktgruppeleder tjenesteutvikling" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Fagdirektør designsystem" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/91873115?v=4" name="Kyrre Nordhagen" role="Prosjektleder modernisering Altinn" >}}
 
 {{< /team/members >}}
 
