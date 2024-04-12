@@ -1,5 +1,5 @@
 ---
-title: Porteføljeskontoret
+title: Porteføljekontoret
 Ingress: Porteføljekontoret møtes normalt hver 14 dag. I møtene behandles nye tiltak og pågående tiltak. Det tas stilling til oppstart av nye tiltak samt sikre innfrielse av krav for overgang til ny fase for igansatte tiltak.
 
 navigation_link:
@@ -28,8 +28,9 @@ weight: 2
 
 {{< /team/members >}}
 
-{{< team/products title="Tiltak" >}}
-{{< team/product-item title="Backlog og tiltak under arbeid" subtitle="Hold deg oppdatert her" url="https://github.com/digdir/portfolio" url_text="Github" >}}
+{{< team/products title="Oversikt" >}}
+{{< team/product-item title="Beskrivelse:" subtitle="Hold deg oppdatert her" url="https://github.com/digdir/portfolio" url_text="Beskrivelse av porteføljestyringen" >}}
+{{< team/product-item title="Status:" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/digdir/projects/1/views/6" url_text="Status på igangsatte tiltak i porteføljen" >}}
 {{< /team/products >}}
 
 
