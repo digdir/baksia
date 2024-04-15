@@ -5,7 +5,7 @@
         {{ partial "components/breadcrumbs.html" . }}
         <div class="container">
           <div class="row">
-            <div class="col-lg-8 my-auto">
+            <div class="col-lg-7 my-auto">
               <h1 class="">{{ .Title }}</h1>
               {{ $ingress := .Params.ingress | markdownify }}
               <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
@@ -14,7 +14,7 @@
               class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
             >
               <div>
-                {{ partial "components/image.html" (dict "context" . "image"
+                {{ partial "components/header-image.html" (dict "context" . "image"
                   .Params.banner.image)
                 }}
               </div>
