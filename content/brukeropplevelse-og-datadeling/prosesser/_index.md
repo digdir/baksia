@@ -5,7 +5,7 @@ ingress: |
 
 layout: 'prosesser/list'
 
-draft: true
+draft: false
 
 weight: 3
 
