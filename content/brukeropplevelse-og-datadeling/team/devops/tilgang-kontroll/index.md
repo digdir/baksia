@@ -25,7 +25,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36295493?v=4" name="Ragnhild Tafjord" role="Produkteier, fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/40996230?v=4" name="Jon-Kjetil Øye" role="Team-arkitekt, backend, Security Champion, konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/139115317?v=4" name="Siri-Anna Zahl Kristiansen" role="Scrum master, fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/31471142?v=4" name="Albert Larsen" role="Frontend, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22012997?v=4" name="Alexandra Vedeler" role="Frontend, konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/59682632?v=4" name="Ivar Tryti" role="Backend, fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/17529876?v=4" name="Andreas Isnes Nilsen" role="Backend, konsulent, Oslo">}}
@@ -37,7 +36,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22615518?v=4" name="Ernst Jonny Lyngøy" role="Test, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/113685460?v=4" name="Sneha Sirure" role="Test, konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/122274313?v=4" name="Abir Khan" role="Test, konsulent, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
