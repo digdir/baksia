@@ -22,16 +22,17 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1636323?v=4" name="Nina Kylstad" role="Produkteier, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/23359247?v=4" name="Mirko Sekulic" role="Backend, Konsulent,  Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/24462611?v=4" name="Michael Queyrichon" role="Frontend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/29770305?v=4" name="Tomas Engebretsen" role="Frontend, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars Walderhaug" role="Frontend,  Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/90609090?v=4" name="Jamal Alabdullah" role="Frontend,  Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend, Team-arkitekt, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/133344438?v=4" name="William Thorenfeldt" role="Frontend, Scrummaster, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/71079896?v=4" name="Andrea Standeren" role="Frontend og backend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/100292724?v=4" name="Anniken Kjos Bråthen" role="Interaksjonsdesigner, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1636323?v=4" name="Nina Kylstad" role="Produkteier, fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/23359247?v=4" name="Mirko Sekulic" role="Backend, konsulent,  Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/24462611?v=4" name="Michael Queyrichon" role="Frontend, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/29770305?v=4" name="Tomas Engebretsen" role="Frontend, konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars Walderhaug" role="Frontend, fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/90609090?v=4" name="Jamal Alabdullah" role="Frontend, fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend, Team-arkitekt, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/133344438?v=4" name="William Thorenfeldt" role="Frontend, Scrummaster, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/71079896?v=4" name="Andrea Standeren" role="Frontend og backend, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/100292724?v=4" name="Anniken Kjos Bråthen" role="Interaksjonsdesigner, fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/111488506?v=4" name="Gørild Døhl" role="Innholdsdesigner, fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach,  Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach,  Fast, Oslo">}}
 
@@ -45,12 +46,12 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn Studio Designer – en del av tjenesteutviklingsverktøyet i Altinn Studio-produktet
--	Altinn Studio Repositories (Gitea) – en del av tjenesteutviklingsverktøyet i Altinn Studio-produktet
+- Altinn Studio Designer – en del av tjenesteutviklingsverktøyet i Altinn Studio.
+-	Altinn Studio Repositories (Gitea) – en del av tjenesteutviklingsverktøyet i Altinn Studio.
 -	LocalTest – en kopi av Altinn-plattformen som brukes til å teste apper under utvikling lokalt
 -	Dokumentasjon
--	Bidra til Digdirs felles designsystem
--	DevOps-team med totalansvar fra idé til produksjon
+-	Bidra til Digdirs felles designsystem.
+-	DevOps-team med totalansvar fra idé til produksjon.
 
 
 
