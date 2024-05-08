@@ -37,7 +37,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22615518?v=4" name="Ernst Jonny Lyngøy" role="Test, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/113685460?v=4" name="Sneha Sirure" role="Test, konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/42677476?v=4" name="Cato Teig" role="Test, konsulent, Bergen">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
