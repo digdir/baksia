@@ -49,9 +49,7 @@ tags:
 - Drifte, forvalte og videreutvikle
   - [data.norge.no](https://data.norge.no/) – en portal for å dele data med datakataloger, for eksempel datasett, API-er, begreper, informasjonsmodeller og tjenester og hendelser
   - https://data.norge.no/publishing – en registreringsløsning og høsteløsning for å fylle datakatalogene
-  - [datafabrikken.norge.no](https://datafabrikken.norge.no/) – en portal for å dele data, spesielt med privat sektor
   - [datalandsbyen.norge.no](https://datalandsbyen.norge.no/) – nettforumet til data.norge.no
-- Transportportalen.no
 - Behandlingsoversikt – en del av registreringsløsningen som gir oversikt over behandlingsaktiviteter i en virksomhet
 - Bidra til Digdirs felles designsystem
 - DevOps-team med totalansvar fra idé til produksjon
