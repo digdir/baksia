@@ -31,10 +31,12 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend, Team-arkitekt, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/133344438?v=4" name="William Thorenfeldt" role="Frontend, Scrummaster, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71079896?v=4" name="Andrea Standeren" role="Frontend og backend, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/148075168?v=4" name="Erling Hauan" role="Frontend og backend, fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1525466?v=4" name="Jonas Dyrlie" role="Frontend og backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/100292724?v=4" name="Anniken Kjos Bråthen" role="Interaksjonsdesigner, fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/111488506?v=4" name="Gørild Døhl" role="Innholdsdesigner, fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach,  Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach,  Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach,  fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach,  fast, Oslo">}}
 
 {{< /team/members >}}
 
