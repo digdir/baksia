@@ -4,7 +4,7 @@ ingress: Team Altinn core har hovedansvaret for å utvikle felleskomponenter som
 
 navigation_link:
   title: Produkteier
-  subtitle: Torkel Buarøy
+  subtitle: Ole Bay Hansen
 
 layout: 'team/single'
 
