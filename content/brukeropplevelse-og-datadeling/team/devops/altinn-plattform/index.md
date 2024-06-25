@@ -1,6 +1,6 @@
 ---
 title: Altinn Platform
-ingress: "Beskrivelse kommer snart"
+ingress: "Selvbetjening og automatisering av: App Infrastruktur, Oppsett og vedlikehold av sertifikater, Monitorering, Overvåking og alarmering, APIM. Cloud Management: Tilgangsstyring, Policies, Kostnadskontroll. Nettverk: DNS, Express-route, Sikkerhet"
 
 
 navigation_link:

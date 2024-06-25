@@ -34,8 +34,7 @@ tags:
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/116799560?v=4" name="Borgar Grande" role="Plattformutvikler, Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/1797266?v=4" name="Sindre Johannessen" role="Plattformutvikler, Leikanger" >}}
-
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/79941408?v=4" name="Emil Arnesen" role="Plattformutvikler, Oslo" >}}
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/4632491?v=4" name="Jonas Arneberg Saltvik" role="Plattformutvikler, Oslo" >}}
 
