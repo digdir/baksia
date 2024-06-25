@@ -35,6 +35,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/121860376?v=4" name="Mateus Furuløkken" role="Interaksjonsdesigner, 50%, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aaseberg" role="Legal Coach, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/74510?v=4" name="Eirik Lillebo" role="Frontend, Fast, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
@@ -48,9 +49,7 @@ tags:
 - Drifte, forvalte og videreutvikle
   - [data.norge.no](https://data.norge.no/) – en portal for å dele data med datakataloger, for eksempel datasett, API-er, begreper, informasjonsmodeller og tjenester og hendelser
   - https://data.norge.no/publishing – en registreringsløsning og høsteløsning for å fylle datakatalogene
-  - [datafabrikken.norge.no](https://datafabrikken.norge.no/) – en portal for å dele data, spesielt med privat sektor
   - [datalandsbyen.norge.no](https://datalandsbyen.norge.no/) – nettforumet til data.norge.no
-- Transportportalen.no
 - Behandlingsoversikt – en del av registreringsløsningen som gir oversikt over behandlingsaktiviteter i en virksomhet
 - Bidra til Digdirs felles designsystem
 - DevOps-team med totalansvar fra idé til produksjon
