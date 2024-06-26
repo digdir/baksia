@@ -1,8 +1,8 @@
-disableKinds = ["taxonomy","taxonomyTerm"]
+disableKinds = ["taxonomy", "term"]
 
 title = 'Baksia'
 
-baseURL = ''
+baseURL = '/'
 languageCode = 'nb'
 theme = 'digdir-hugo-theme'
 
@@ -23,10 +23,11 @@ enableRobotsTXT = true
 
 [languages]
   [languages.no]
-    languageName = "Norsk"
-    other = "Norsk"
+      [languages.no.params]
+        languageName = "Norsk"
+        other = "Norsk"
 
 [params]
     logo = 'images/logo-baksia.svg'
-    global_keywords = ['digdir', 'devops', 'digitaliseringsdirektoratet', 'baksia']
+    global_keywords = ['digdir', 'devops', 'product operating model', 'teams', 'digitaliseringsdirektoratet', 'baksia']
     editURL = "https://github.com/digdir/baksia/blob/main/content/"
