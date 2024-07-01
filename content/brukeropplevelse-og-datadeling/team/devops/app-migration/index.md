@@ -25,12 +25,12 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/75472603?v=4" name="Andreas Didriksen" role="Skjemautvikler, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/65394379?v=4" name="Tony Grimstad" role="Skjemautvikler, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/114151129?v=4" name="Ahmed Ghanam" role="Fullstack, Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Junior Utvikler backend, Skjemautvikler,Scrum Master, Konsulent,  Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/61122289?v=4" name="Celine Uyen Tram Tran" role="Graduates, Utvikler, Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/144219994?v=4" name="Nora Sofie Thesen Laeskogen" role="Graduates, Utvikler, Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/56260049?v=4" name="Per Bergsjø Andresen" role="Graduates, Utvikler, Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/143729834?v=4" name="Filippa Walden" role="Graduates, Utvikler, Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/150332945?v=4" name="Tina Ahmedpanah " role="Graduates, Utvikler, Skjemautvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Skjemautvikler,Scrum Master, Konsulent,  Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/61122289?v=4" name="Celine Uyen Tram Tran" role="Skjemautvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/144219994?v=4" name="Nora Sofie Thesen Laeskogen" role="Skjemautvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/56260049?v=4" name="Per Bergsjø Andresen" role="Skjemautvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/143729834?v=4" name="Filippa Walden" role="Skjemautvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/150332945?v=4" name="Tina Ahmedpanah " role="Skjemautvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/8640329?v=4" name="Thomas Rene Hansen" role="Arbeidstrening, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Fast, Oslo">}}
