@@ -17,8 +17,6 @@ banner:
 # first section of the page as a blue box
 isFirstSection: true
 
-weight: 2
-
 produktgruppe: pg_tillitstjenester
 ---
 

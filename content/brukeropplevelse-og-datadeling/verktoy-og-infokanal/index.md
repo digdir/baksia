@@ -16,8 +16,6 @@ banner:
 
 layout: verkt-og-infokanal/single
 
-weight: 2
-
 # determines if this content should be rendered in the
 # second section of the page as a yellow box
 isSecSection: true
