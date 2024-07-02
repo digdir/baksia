@@ -27,7 +27,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47737608?v=4" name="Stephanie Buadu" role="Backend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/70642698?v=4" name="Thomas Bakken" role="Backend, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/28589510?v=4" name="Henning Normann" role="Ytelse, 50%, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/6243408?v=4" name="Khan Naby" role="Backend, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/128159828?v=4" name="Linda Solstad" role="Legal Coach, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Fast, Oslo">}}
 {{< /team/members >}}
