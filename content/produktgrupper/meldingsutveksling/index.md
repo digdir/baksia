@@ -16,8 +16,6 @@ banner:
 # first section of the page as a blue box
 isFirstSection: true
 
-weight: 4
-
 produktgruppe: pg_meldingsutveksling
 ---
 

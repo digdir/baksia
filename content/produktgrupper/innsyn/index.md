@@ -1,7 +1,6 @@
 ---
 title: Innsyn og oppslag
 
-
 navigation_link:
   text: |
     eInnsyn sikrer en åpen forvaltning
@@ -14,8 +13,6 @@ banner:
     alt:
 
 isFirstSection: true
-
-weight: 5
 
 produktgruppe: pg_innsyn
 ---
