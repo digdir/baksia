@@ -12,18 +12,13 @@ ingress: |
   å etablere statistikk, dokumentasjon og konstatere fakta. På den måten kan det 
   prioriteringsarbeidet styres i ønsket retning, og etter målsetting. Styringsteamet støtter
   avdelingen i å implementere målinger og rapporteringer.
-  
-
-# SEO
-description:
-keywords:
 
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt:
+    alt: 
 
-layout: 'rapportering/single'
+layout: rapportering/single
 
 weight: 4
 

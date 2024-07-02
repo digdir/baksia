@@ -1,0 +1,86 @@
+{{ define "main" }}
+
+<div class="component" style="background-color: #a5d6fb">
+  {{ partial "components/breadcrumbs.html" . }}
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 my-auto">
+        <h1 class="">{{ .Title }}</h1>
+        {{ $ingress := .Params.ingress | markdownify }}
+        <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+      </div>
+      <div
+        class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+      >
+        <div>
+          <img class="img-fluid" src="/images/team-topologies.svg" style="margin-left: 4em;">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="component">
+  <div class="container">
+      {{ .Content }}
+      <div class="row gy-4">
+        <div class="col-sm-12" style="height: 2.5em;">
+          <label for="team-filter">Vis</label>
+          <select id="team-filter" class="h-100" onchange="javascript:changeFilter(this.options[this.selectedIndex].value); return true;">
+            <option value="">Alle</option>
+            <option value="enabling">Enabling teams</option>
+            <option value="platform">Platform teams</option>
+            <option value="stream-aligned">Stream-aligned teams</option>
+            <option value="complicated-subsystem">Complicated-subsystem teams</option>
+            <option value="pg_datadeling">Produktgruppe - Datadeling</option>
+            <option value="pg_innsyn">Produktgruppe - Innsyn og oppslag</option>
+            <option value="pg_meldingsutveksling">Produktgruppe - Meldingsutveksling</option>
+            <option value="pg_portaler">Produktgruppe - Portaler og brukeropplevelse</option>
+            <option value="pg_tillitstjenester">Produktgruppe - Tillitstjenester</option>
+            <option value="pg_tjenesteutvikling">Produktgruppe - Tjenesteutvikling</option>
+          </select>
+        </div>
+      </div>
+  </div>
+</div>
+
+<div class="component">
+  <div class="container">
+    <div class="row gy-4">
+      {{ range .Pages }}
+        <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+          {{ .Render "li"}}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<script>
+  function changeFilter(option) {
+    window.location.hash = option;
+
+    const cards = document.getElementsByClassName("navigation-card");
+    for (let i = 0; i < cards.length; i++) {
+      cards[i].parentElement.style.display = "block";
+      if (option && !cards[i].classList.contains(option)) {
+        cards[i].parentElement.style.display = "none";
+      }
+    }
+  }
+
+  if (window.location.hash) {
+    const h = window.location.hash.split('#')[1];
+    document.getElementById("team-filter").value = h;
+    changeFilter(h);
+  }
+</script>
+
+<style>
+  .enabling a {background-color: #AD97C1 !important;}
+  .stream-aligned a {background-color: #F4E9CD !important;}
+  .platform a {background-color: #8FCCE8 !important;}
+  .complicated-subsystem a {background-color: #F6ACA1 !important;}
+</style>
+
+{{ end }}

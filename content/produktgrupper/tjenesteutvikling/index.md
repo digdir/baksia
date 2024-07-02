@@ -16,12 +16,8 @@ banner:
 # first section of the page as a blue box
 isFirstSection: true
 
-weight: 3
-
 produktgruppe: pg_tjenesteutvikling
 ---
-
-## Tjenesteutvikling
 
 Produktgruppeansvarlig:  
 Finnur Olafsson

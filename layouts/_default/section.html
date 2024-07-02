@@ -1,5 +1,6 @@
 {{ define "main" }}
   <div class="component component--bg-primary">
+    {{ partial "components/breadcrumbs.html" . }}
     <div class="container">
       <div class="row">
         <div class="col-lg-7">
@@ -18,27 +19,19 @@
   <div class="component">
     <div class="container">
       <div class="row">
-        <div class="col-lg-7">
+        <div class="col-lg-12">
           {{ .Content }}
         </div>
+      </div>
+    </div>
+  </div>
 
-        {{ with .Params.related_pages }}
-          <div class="col-lg offset-lg-1 mt-lg-0 mt-5">
-            <div class="column related__links">
-              <h2>{{ i18n "relaterte-lenker" }}:</h2>
-              <ul>
-                {{ range . }}
-                  {{ $url := . }}
-                  {{ with $.Site.GetPage $url }}
-                    <li>
-                      <a href="{{ .RelPermalink }}">
-                        {{ .Title }}
-                      </a>
-                    </li>
-                  {{ end }}
-                {{ end }}
-              </ul>
-            </div>
+  <div class="component">
+    <div class="container">
+      <div class="row gy-4">
+        {{ range .Pages }}
+          <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+            {{ .Render "li"}}
           </div>
         {{ end }}
       </div>

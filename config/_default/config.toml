@@ -1,5 +1,3 @@
-disableKinds = ["taxonomy", "term"]
-
 title = 'Baksia'
 
 baseURL = '/'
