@@ -26,7 +26,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend, Konsulent, Hamar">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5313373?v=4" name="Ole-Jørgen Skogstad" role="Backend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/3768832?v=4" name="Sean Erik Scully" role="Frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1777366?v=4" name="Are Almaas" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/154342485?v=4" name="Knut Haug" role="Backend, Konsulent, Oslo">}}
 
