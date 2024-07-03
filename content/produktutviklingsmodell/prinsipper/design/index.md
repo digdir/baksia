@@ -11,6 +11,8 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 ---
 
+## Designprinsipper
+
 1. Sett brukernes behov først
 2. Skjul kompleksitet
 3. Del opp kompliserte oppgaver.
