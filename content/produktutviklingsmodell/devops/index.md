@@ -12,4 +12,7 @@ banner:
 
 Digdir follows a secure development methodology for the development and operation of Altinn 3 – DevSecOps. 
 
+![image](https://github.com/digdir/baksia/assets/50205992/79a6b7ea-27a0-4c4b-9623-98cff05b0a8c)
+
+
 https://github.com/digdir/baksia/blob/main/content/produktutviklingsmodell/devops/devops.svg
