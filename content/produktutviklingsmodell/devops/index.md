@@ -2,7 +2,7 @@
 title: DevSecOps
 ingress: DevSecOps stands for development, security, and operations. It is an extension of the DevOps practice. Each term defines different roles and responsibilities of software teams when they are building software applications.
 navigation_link:
-  subtitle: Digdir follows a secure development methodology for the development and operation of Altinn 3 – DevSecOps. 
+  subtitle: 
 
 banner:
   image:
@@ -11,3 +11,4 @@ banner:
 ---
 
 Placeholder content...
+Digdir follows a secure development methodology for the development and operation of Altinn 3 – DevSecOps. 
