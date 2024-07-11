@@ -10,5 +10,6 @@ banner:
     alt: Illustrasjon av en person som løper
 ---
 
-Placeholder content...
 Digdir follows a secure development methodology for the development and operation of Altinn 3 – DevSecOps. 
+
+https://github.com/digdir/baksia/blob/main/content/produktutviklingsmodell/devops/devops.svg
