@@ -4,7 +4,7 @@ Ingress: Norges minste register!
 
 navigation_link:
   title: Produkteier
-  subtitle: Sindre Ramung
+  subtitle: Sture Domaas Førre
 
 banner:
   image:
@@ -18,7 +18,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C015J61FEU9" slack_url_text="Slackkanal for teamet">}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/93767748?v=4" name="Sindre Ramung" role="Produkteier,  Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/29775060?v=4" name="Sture Domaas Førre" role="Produkteier,  Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/2622676?v=4" name="Eldar Venes" role="Team Lead, Utvikler, Leikanger" >}}
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/28562254?v=4" name="Jan Ingar Tistel" role="Utvikler, 50%, Leikanger" >}}
