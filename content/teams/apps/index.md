@@ -30,7 +30,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/42615991?v=4" name="Johannes Haukland" role="Fullstack, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23121869?v=4" name="Camilla Marie Dalan" role="FrontEnd, Konsulent,Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/68380161?v=4" name="Pål Myran" role="FrontEnd, Konsulent,Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Fast,  Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/70377508?v=4" name="Olav Friisberg Larssen" role="Interaksjonsdesigner, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/2195512?v=4" name="Edvin Avdagic" role="UX Designer, Konsulent, Oslo">}}
 
