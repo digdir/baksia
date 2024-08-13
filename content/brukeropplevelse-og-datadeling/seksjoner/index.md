@@ -1,7 +1,7 @@
 ---
 title: Seksjoner
 ingress: |
-   Seksjonene i BOD er først og fremst et personal-hjem for medarbeidere fra felles kompetanseområder. Seksjonene avgir ressurser(kompetanse) til leveranse-områder i og utenfor BOD som f.eks. til Digdir sine produktgrupper, prosjekter 
+   Seksjonene i BOD er først og fremst et personal-hjem for medarbeidere fra felles kompetanseområder. Seksjonene avgir ressurser(kompetanse) til leveranse-områder i og utenfor BOD som f.eks. til Digdir sine produktgrupper og produktteam, prosjekter 
    og andre små og store oppdrag/tiltak. Seksjonslederne har ansvar for å bygge opp, organisere og selvstendig-gjøre fagmiljøene på best mulig måte.
 
 
@@ -17,5 +17,5 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 
 navigation_link:
-  text: Brukeropplevelse og datadeling (BOD) består av fem seksjoner
+  text: Avdeling Brukeropplevelse og datadeling (BOD) er inndelt i syv seksjoner
 ---
