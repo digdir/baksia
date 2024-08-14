@@ -9,12 +9,14 @@ banner:
 weight: 4
 ---
 
-## DevOps Brønnøysubnd
+## DevOps Brønnøysund
 
 Seksjonen er en av 2 seksjoner som fokuserer på å bygge kompetansekapasitet innen DevOps-metodikk og smidig utvikling. Seksjonen består av utviklere, sikkerhets- og tekniske-ressurser som fremmer en kultur for kontinuerlig forbedring. Seksjonens medarbeidere legge til rette for deling av erfaring og kunnskap via åpen kildekode, og søker kontinuerlig etter måter å forbedre og effektivisere både driften, teknologien vi bruker, og våre arbeidsmetoder. 
 
 Seksjonsleder: Bjørn Langfors
+
 Gruppeleder Dev: Thomas Bakken
+
 Gruppeleder TechSec: Anne Risbakk
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
