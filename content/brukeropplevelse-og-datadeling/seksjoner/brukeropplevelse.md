@@ -2,7 +2,7 @@
 banner:
   image:
     src: /illustrations/illustration-05.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som kaster noe i luften
     position: right
 
 weight: 2
@@ -10,7 +10,7 @@ weight: 2
 
 ## Brukeropplevelse
 
-Seksjonen skal sørge for at vi tar utgangspunkt i data og innsikt i brukerbehov når vi prioriterer og utvikler. Vi skal være med på å legge de strategiske føringene for produktene våre, og bidra til å skape bedre og mer lik brukeropplevelse og design i offentlig sektor. På den måten jobber vi for å gjøre hverdagen enklere for brukerne.
+Seksjonen skal fokusere på å bygge kompetansekapasitet innen brukeropplevelse som sikrer at vi alltid tar utgangspunkt i data og innsikt i brukerbehov når vi prioriterer og utvikler. Seksjonens medarbeider skal være en drivkraft i å legge de strategiske føringene for produktene våre, og samtidig styrke vår evne til å bidra til bedre og mer enhetlig brukeropplevelse og design i offentlig sektor. 
 
 Seksjonsleder: Reidun Milde
 
