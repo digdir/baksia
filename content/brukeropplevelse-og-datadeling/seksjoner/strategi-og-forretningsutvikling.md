@@ -14,6 +14,7 @@ Seksjonen har ansvaret for å bygge kompetansekapasitet innenfor produktledelse,
 Medarbeiderne i seksjonen bidrar til at vi styrer produktutviklingen på en god måte, og at vi hever blikket og ser 3-5 år fremover og kontinuerlig jobber med produktvisjoner og målkartarbeid. Seksjonen har medarbeidere med roller som fagdirektører, forretningsutviklere, produkteiere, produktgruppeledere, behovsdrivere og virksomhetsarkitekter.
 
 Seksjonsleder: Tor Arild Sunnevåg
+
 Gruppeleder produktledelse: Andreas Maasø Fjelldal
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
