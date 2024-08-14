@@ -14,6 +14,7 @@ Seksjonen skal bygge kompetansekapasitet innnenfor smidig leveranseledelse og kv
 Scrum-mastere, prosjektledere, controllere og støtteressurser sørger for at vi utvikler gode utvikling og styringsmetoder som oppfyller både regulatoriske, sikkerhetsmessige og økonomiske rammebetingelser. 
 
 Seksjonsleder: Hege Marie Nielsen (fungerende)
+
 Gruppeleder smidig leveranseledelse: Hanne Lauritsen
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
