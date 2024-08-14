@@ -13,6 +13,7 @@ weight: 7
 Seksjonen skal bygge kompetanse som sørger for at vi leverer en effektiv og god brukerstøtte og support både mot tjenesteeiere, sluttbrukersystemleverandører og øvrige brukere av våre tjenester.  Seksjonen har også ansvaret for interne tjenester i avdelingen.
 
 Seksjonsleder: Hege Nielsen
+
 Gruppeleder brukerstøtte: Cathrine Jensen Bastesen
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
