@@ -18,4 +18,8 @@ banner:
 
 navigation_link:
   text: Avdeling Brukeropplevelse og datadeling (BOD) er inndelt i syv seksjoner
+
+## Ressurser
+![](pom-vs-sections.svg)
+
 ---
