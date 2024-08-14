@@ -6,7 +6,7 @@ navigation_link:
   text: Her kan du lese mer om hvordan vi gjør produktutvikling i Digdir
 ---
 
-## Flow map
+## Flyt i produktutvikling
 ![](pom-flow-map.svg)
 
 ## Ressurser
