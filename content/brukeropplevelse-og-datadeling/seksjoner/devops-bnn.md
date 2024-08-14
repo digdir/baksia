@@ -2,19 +2,20 @@
 ---
 banner:
   image:
-    src: /illustrations/illustration-04.png
+    src: /illustrations/illustration-05.png
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
-    position: left
+    position: right
 
-weight: 6
+weight: 4
 ---
 
-## DevOpsBNN
+## DevOps Brønnøysubnd
 
-Seksjonen arbeider med å forsterke DevOps-metodikken og har et sterkt fokus på å forbedre Developer Experience (DX). Vi verdsetter takhøyde for prøving og feiling, og vi fremmer aktivt samskaping innen offentlig sektor. Vi legger til rette for deling av vår erfaring og kunnskap gjennom åpen kildekode. Vi er konstant engasjert i å lete etter måter å forbedre og effektivisere driften, teknologien vi bruker, og arbeidsmetodene våre.
-Vi mener at dette bidrar til å fremme innovasjon, øke tillit, og resultere i bedre tjenester for alle.
+Seksjonen er en av 2 seksjoner som fokuserer på å bygge kompetansekapasitet innen DevOps-metodikk og smidig utvikling. Seksjonen består av utviklere, sikkerhets- og tekniske-ressurser som fremmer en kultur for kontinuerlig forbedring. Seksjonens medarbeidere legge til rette for deling av erfaring og kunnskap via åpen kildekode, og søker kontinuerlig etter måter å forbedre og effektivisere både driften, teknologien vi bruker, og våre arbeidsmetoder. 
 
 Seksjonsleder: Bjørn Langfors
+Gruppeleder Dev: Thomas Bakken
+Gruppeleder TechSec: Anne Risbakk
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
 
