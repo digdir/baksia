@@ -8,6 +8,3 @@ navigation_link:
 
 ## Flyt i produktutvikling
 ![](pom-flow-map.svg)
-
-## Ressurser
-![](pom-vs-sections.svg)

@@ -1,6 +1,5 @@
 {{ define "main" }}
   <div>
-    {{ with .Site.GetPage "/brukeropplevelse-og-datadeling/prosesser/metodikk/scrum" }}
       <div class="component" style="background-color: #D1F4E1">
         {{ partial "components/breadcrumbs.html" . }}
         <div class="container">
@@ -22,8 +21,19 @@
           </div>
         </div>
       </div>
-    {{ end }}
   </div>
+
+  {{ if .Content }}
+  <div class="component" style="background-color: #D1F4E1">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
 
   {{ range .Resources }}
     <div

@@ -10,7 +10,7 @@ banner:
     src: /illustrations/illustration-21.png
     alt:
 
-weight: 3
+weight: 4
 
 backgroundColor: '#FFFFFF'
 ---
