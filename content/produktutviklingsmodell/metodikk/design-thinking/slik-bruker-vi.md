@@ -15,6 +15,9 @@ backgroundColor: '#FFFBE6'
 ---
 
 ## Slik bruker vi designtenkning når vi jobber 
+
+![Diamant figur](/images/diamant.png)
+
 Vi jobber i faser, som her er representert ved tre diamanter. Diamantene illustrerer den utforskende (åpne) og den konkretiserende (lukke) delen av hver fase.
 
 - Diamant 1: Stille diagnose
