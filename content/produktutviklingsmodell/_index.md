@@ -22,7 +22,7 @@ Porteføljen gir innspill til Satsningsforslag og Virksomhetsplan på vegne av l
 Hvem som helst som ønsker å drive frem endring kan lage et nytt tiltak i porteføljen.
 Produktgruppeledere og fagdirektører er representert i porteføljen. De fungerer som rådgivere for porteføljestyrer, fronter tiltak fra egne strategier og ser etter muligheter for samarbeid på tvers.
 
-### <a href="https://baksia.digdir.no/produktutviklingsmodell/portfolio/" style="font-size: 9px;">Gå til portefølje</a>
+### [Gå til portefølje](https://baksia.digdir.no/produktutviklingsmodell/portfolio/)
 
 ## Oppgavefordeling
 # Fordeling av tiltaket
@@ -34,10 +34,10 @@ Tiltaket fordeles deretter til produktgruppen, teamet / teamene eller arbeidsgru
 # Implementering av tiltaket
 Når oppgaven har blitt fordelt ett team lages det egne **epics**  i **bakcklog** til teamet. Disse bruker teamet til å beskrive problemet og løsningen på et overordnet teknisk nivå for så å bryte oppgaven ned i mindre **issues** som de fordeler seg i mellom for å løse oppgaven.
 
-### <a href="https://baksia.digdir.no/teams/" style="font-size: 9px;">Gå til team oversiken</a>
+### [Gå til team oversiken](https://baksia.digdir.no/teams/)
 
 ## Roadmap
 # Veikart for produktene samlet på ett sted
 Elementene i veikartet peker ned på **epics** i teamene sine **baklogen** slik at vi får en rød tråd fra opprinnelse til leveranse. Etterhvert som alle relevante element i veikartet er levert settes porteføljetiltaket til **Utfør** og teamet går over til løpende måling og innsikt for å utbedre løsningen.
 
-### <a href="https://github.com/Altinn" style="font-size: 9px;">Gå til roadmap</a>
+### [Gå til roadmap](https://github.com/Altinn)
