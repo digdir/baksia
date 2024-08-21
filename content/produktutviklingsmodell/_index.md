@@ -35,3 +35,9 @@ Tiltaket fordeles deretter til produktgruppen, teamet / teamene eller arbeidsgru
 Når oppgaven har blitt fordelt ett team lages det egne **epics**  i **bakcklog** til teamet. Disse bruker teamet til å beskrive problemet og løsningen på et overordnet teknisk nivå for så å bryte oppgaven ned i mindre **issues** som de fordeler seg i mellom for å løse oppgaven.
 
 ### <a href="https://baksia.digdir.no/teams/" style="font-size: 9px;">Gå til team oversiken</a>
+
+## Roadmap
+# Veikart for produktene samlet på ett sted
+Elementene i veikartet peker ned på **epics** i teamene sine **backlog** slik at vi får en rød tråd fra opprinnelse til leveranse. Etterhvert som alle relevante element i veikartet er levert settes porteføljetiltaket til**Utført** og teamet går over til løpende måling og innsikt for å utbedre løsningen.
+
+### <a href="https://github.com/Altinn" style="font-size: 9px;">roadmap</a>
