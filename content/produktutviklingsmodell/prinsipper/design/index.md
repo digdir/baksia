@@ -1,16 +1,16 @@
 ---
-title: Brukeropplevelse
-ingress: Alle i teamet er ansvarlige for at det de lager er av høy kvalitet og har en god iboende brukeropplevelse.
+title: "Brukeropplevelse"
+ingress: "Alle i teamet er ansvarlige for at det de lager er av høy kvalitet og har en god iboende brukeropplevelse.
 
-Denne siden har som formål å gjøre det enkelt for deg å følge prinsipper og beste praksis for god brukeropplevelse.
+Denne siden har som formål å gjøre det enkelt for deg å følge prinsipper og beste praksis for god brukeropplevelse."
 
 navigation_link:
-  subtitle: Prinsipper
+  subtitle: "Prinsipper"
 
 banner:
   image:
-    src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    src: "/illustrations/illustration-03.png"
+    alt: "Illustrasjon av en person som holder mobilskjerm på kneet sitt"
 ---
 
 ## Prinsipper
