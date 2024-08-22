@@ -1,6 +1,6 @@
 ---
 title: Prinsipper
-ingress: Placeholder ingress text...
+ingress: Våre prinsipper er grunnlaget for alt vi gjør, og de sikrer at vi jobber helhetlig, strukturert og med høy kvalitet. De gir oss retningslinjer som hjelper oss med å ta gode beslutninger, håndtere kompleksitet og sikre at vi oppfyller både brukerbehov og samfunnsforpliktelser. Å følge disse prinsippene er avgjørende for å skape bærekraftige og pålitelige løsninger som tjener hele samfunnet.
 
 navigation_link:
   subtitle: Prinsipper som styrer produktutviklingen
