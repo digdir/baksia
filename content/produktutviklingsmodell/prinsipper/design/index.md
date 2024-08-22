@@ -40,16 +40,26 @@ Brukeropplevelse har to hovedmål:
 - løse **riktig problem**
 - løse problemet **på riktig måte**
 
+## Viktigheten av Lovmessige Endringer
+
 Det kan fort vise seg at det beste for brukeren er en lovmessig endring istedenfor et skinnende nytt digitalt produkt.
+
+---
+
+## Veien til God Brukeropplevelse
 
 En god start på veien til god brukeropplevelse er å kopiere listen til høyre til Github issuet ditt og svare ut hvert av punktene.
 
 ---
 
-> ## Hva er utfordringen?
-> #### Hvorfor er det viktig å løse?
-> #### Hvem er dette for?
-> #### Hva ønsker brukeren å oppnå?
-> #### Hva ønsker forretningen å oppnå?
-> #### Hva er hypotesene våre?
-> #### Hvordan måler vi suksess?
+## Sjekkliste for Evaluering
+
+1. **Hva er utfordringen?**
+   - *Hvorfor er det viktig å løse?*
+
+2. **Hvem er dette for?**
+   - *Hva ønsker brukeren å oppnå?*
+   - *Hva ønsker forretningen å oppnå?*
+
+3. **Hva er hypotesene våre?**
+   - *Hvordan måler vi suksess?*
