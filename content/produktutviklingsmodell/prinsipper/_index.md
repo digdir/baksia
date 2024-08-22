@@ -11,4 +11,13 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 ---
 
-Placeholder content...
+Vi har utviklet en rekke sentrale prinsipper som skal være veiledende for vårt arbeid med å bygge og forvalte løsninger som Altinn. Disse prinsippene er avgjørende for å sikre at vi leverer høy kvalitet i alle ledd av prosessen, fra idé til ferdig produkt.
+
+- **Arkitektur**: Vi sikrer en robust og fremtidsrettet teknologisk plattform som støtter våre tjenester.
+- **Brukeropplevelse**: Vi setter brukeren i sentrum, og sørger for at våre løsninger er enkle og intuitive.
+- **Jus**: Vi overholder alle juridiske krav, og sikrer at våre tjenester er trygge og lovlydige.
+- **Økonomi**: Vi forvalter ressursene effektivt for å maksimere verdien for samfunnet.
+- **Ops**: Vi sikrer stabil drift og kontinuerlig forbedring av våre tjenester.
+- **Sikkerhet**: Vi beskytter våre brukeres data med høyeste grad av sikkerhet.
+
+Disse prinsippene gir oss et solid fundament for vårt arbeid og bidrar til å sikre kvalitet, brukertilfredshet og samfunnsnytte.
