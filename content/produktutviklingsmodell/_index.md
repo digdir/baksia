@@ -7,4 +7,37 @@ navigation_link:
 ---
 
 ## Flyt i produktutvikling
+Denne siden forklarer hvordan produktutvikling i Digdir fungerer og hvordan flyten fra ide eller oppdrag til implementering henger sammen.
 ![](pom-flow-map.svg)
+## Porteføljen
+# Er porteføljen riktig sted for meg?
+Porteføljen er de sentrale tiltakene det må settes av midler og ressurser til (utover normal drift) for å realisere. Porteføljen aktiveres også når tiltaket har en tidsramme på minimum 6 måneder og maksimalt 2 år for realisering.
+
+Dersom ideen din vil dra nytte av forankring fra ledelsen eller krever prioritet på tvers av flere team, kan porteføljen hjelpe deg med dette.
+
+Porteføljen gir innspill til Satsningsforslag og Virksomhetsplan på vegne av leverandørrollen i Digdir.
+
+## Porteføljetiltak
+# Opprett tiltak i porteføljen
+Hvem som helst som ønsker å drive frem endring kan lage et nytt tiltak i porteføljen.
+Produktgruppeledere og fagdirektører er representert i porteføljen. De fungerer som rådgivere for porteføljestyrer, fronter tiltak fra egne strategier og ser etter muligheter for samarbeid på tvers.
+
+### [Gå til portefølje](https://baksia.digdir.no/produktutviklingsmodell/portfolio/)
+
+## Oppgavefordeling
+# Fordeling av tiltaket
+Etter å ha vært gjennom konsept- og planleggingsfasen har du fått beskrevet hvem som er ansvarlig for gjennomføring, hvilke team som må involveres, hvilke ressurser og midler det er behov for med mer.
+
+Tiltaket fordeles deretter til produktgruppen, teamet / teamene eller arbeidsgruppen som skal gjennomføre arbeidet.
+
+## Gjennomføring
+# Implementering av tiltaket
+Når oppgaven har blitt fordelt ett team lages det egne **epics**  i **bakcklog** til teamet. Disse bruker teamet til å beskrive problemet og løsningen på et overordnet teknisk nivå for så å bryte oppgaven ned i mindre **issues** som de fordeler seg i mellom for å løse oppgaven.
+
+### [Gå til team oversiken](https://baksia.digdir.no/teams/)
+
+## Roadmap
+# Veikart for produktene samlet på ett sted
+Elementene i veikartet peker ned på **epics** i teamene sine **baklogen** slik at vi får en rød tråd fra opprinnelse til leveranse. Etterhvert som alle relevante element i veikartet er levert settes porteføljetiltaket til **Utfør** og teamet går over til løpende måling og innsikt for å utbedre løsningen.
+
+### [Gå til roadmap](https://github.com/Altinn)
