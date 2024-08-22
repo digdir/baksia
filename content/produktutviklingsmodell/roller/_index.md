@@ -1,9 +1,9 @@
 ---
-title: Roller
-ingress: Placeholder ingress text...
+title: Roller og ressurser
+ingress: Samspill mellom produktorganisering og linjeorganisering
 
 navigation_link:
-  subtitle: Beskrivelse av rollene som finnes i teamene
+  subtitle: Roller og flyt av ressurser
 
 banner:
   image:
@@ -11,4 +11,5 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 ---
 
-Placeholder content...
+
+![](pom-vs-sections.svg)

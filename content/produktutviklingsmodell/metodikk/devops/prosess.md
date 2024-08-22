@@ -1,20 +1,22 @@
 ---
-title: DevSecOps
-ingress: DevSecOps stands for development, security, and operations. It is an extension of the DevOps practice. Each term defines different roles and responsibilities of software teams when they are building software applications.
-navigation_link:
-  subtitle: 
+title: Prosess
+
+# SEO
+description:
+keywords:
 
 banner:
   image:
-    src: /illustrations/illustration-18.png
-    alt: Illustrasjon av en person som løper
+    src: /images/devops-loop.png
+    alt:
+
+weight: 3
+
+backgroundColor: '#FFFFFF'
 ---
 
-Digdir follows a secure development methodology for the development and operation of Altinn 3 – DevSecOps. 
-
-![image](https://github.com/digdir/baksia/assets/50205992/79a6b7ea-27a0-4c4b-9623-98cff05b0a8c)
-
 8-tallsdiagrammet representerer den kontinuerlige og iterative naturen til DevOps-praksiser. Diagrammet består av følgende faser:
+
 1.	Planlegg
 Dokumenter hvordan teamet kommer frem til prosjektets mål, krav og tidslinjer for å sikre en tydelig vei fremover. Hvordan jobber teamet rundt sikkerhet ifb med planlegging
 2.	Kode

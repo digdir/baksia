@@ -13,7 +13,7 @@ banner:
     alt: Illustration of a person holding a mobile screen on his knee
 
 navigation_link:
-  text: Her kan du lese mer om hvordan vi i BOD jobber og er organisert
+  text: Her kan du lese mer om hvordan avdeling BOD er organisert
 ---
 
 ## For å bli verdensmester i digitalisering, må vi være verdensmester i samarbeid sier leder Andreas Gjertin Rafaelsen i BOD:

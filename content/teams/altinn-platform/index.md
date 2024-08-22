@@ -24,7 +24,8 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49302758?v=4" name="Øystein Otneim" role="Infrastruktur, 80%, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89203237?v=4" name="Simon Ellefsen" role="Infrastruktur, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/6243408?v=4" name="Khan Naby" role="Backend, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/6243408?v=4" name="Khan Naby" role="Infrastruktur, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/45536168?v=4" name="Renato Monteiro" role="Infrastruktur, Fast, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
