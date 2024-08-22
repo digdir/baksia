@@ -5,7 +5,7 @@ ingress: |
    og andre små og store oppdrag/tiltak. Seksjonslederne har ansvar for å bygge opp, organisere og selvstendig-gjøre fagmiljøene på best mulig måte.
 
 
-layout: 'seksjoner/single'
+layout: seksjoner/single
 
 # determines if this content should be rendered in the
 # first section of the page as a blue box
@@ -21,4 +21,5 @@ navigation_link:
 ---
 
 ## Ressurser
-![](pom-vs-sections.svg)
+
+![Figur som viser ressursflyt fra seksjoner til teams](../../produktutviklingsmodell/roller/pom-vs-sections.svg)
