@@ -25,6 +25,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56260049?v=4" name="Per Bergsjø Andresen" role="Skjemautvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/143729834?v=4" name="Filippa Walden" role="Skjemautvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/150332945?v=4" name="Tina Ahmedpanah " role="Skjemautvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/44813032?v=4" name="Erlend Håkegård " role="Skjemautvikler, Konsulent, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
