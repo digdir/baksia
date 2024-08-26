@@ -44,7 +44,7 @@ Hver fase i tiltakene har spesifikke kriterier som må oppfylles før overgangen
 - Problembeskrivelse er etablert.
 - Tiltaket sikrer leveranser til det strategiske målbildet.
 - Tiltaket er tildelt en ansvarlig.
-- Prioritering er angitt (f.eks. MoSCoW).
+- Prioritering er angitt (f.eks. [MoSCoW](https://community.atlassian.com/t5/App-Central-articles/Understanding-the-MoSCoW-prioritization-How-to-implement-it-into/ba-p/2463999?aceid=&adgroup=&adtype=&campaign=21252494340&country=&creative=&device=c&devicemodel=&gad_source=1&gclid=Cj0KCQjwrKu2BhDkARIsAD7GBosgti8iuZFVcERKGOE5aEsyCJACC74XI5gS4I2idOcnqyZOOAEMzf0aApnPEALw_wcB&network=x&placement=&targetid=&utm_medium=paid-display&utm_source=gdn)).
 - Arbeidsoppgaver og omfang i konseptfasen er definert.
 
 #### Konsept:
