@@ -16,7 +16,7 @@ tags:
 - enabling
 ---
 
-{{< team/members title="Medlemmer i teamet"
+{{< team/members title="Medlemmer i teamet" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89571254?v=4" name="Torkel Buarøy" role="Team Lead" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/116548729?v=4" name="Roy Horn" role="KAM/BOD" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36764011?v=4" name="Lars Vegard Bachmann" role="KAM/BOD" >}}
