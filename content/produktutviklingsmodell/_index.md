@@ -40,4 +40,4 @@ Når oppgaven har blitt fordelt ett team lages det egne **epics**  i **bakcklog*
 # Veikart for produktene samlet på ett sted
 Elementene i veikartet peker ned på **epics** i teamene sine **baklogen** slik at vi får en rød tråd fra opprinnelse til leveranse. Etterhvert som alle relevante element i veikartet er levert settes porteføljetiltaket til **Utfør** og teamet går over til løpende måling og innsikt for å utbedre løsningen.
 
-### [Gå til roadmap]([https://github.com/Altinn](https://github.com/orgs/digdir/projects/8))
+### [Gå til roadmap](https://github.com/orgs/digdir/projects/8)
