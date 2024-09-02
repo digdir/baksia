@@ -22,7 +22,7 @@ Porteføljen gir innspill til Satsningsforslag og Virksomhetsplan på vegne av l
 Hvem som helst som ønsker å drive frem endring kan lage et nytt tiltak i porteføljen.
 Produktgruppeledere og fagdirektører er representert i porteføljen. De fungerer som rådgivere for porteføljestyrer, fronter tiltak fra egne strategier og ser etter muligheter for samarbeid på tvers.
 
-### [Gå til portefølje](https://baksia.digdir.no/produktutviklingsmodell/portfolio/](https://github.com/digdir/portfolio)
+### [Gå til portefølje](https://github.com/digdir/portfolio)
 
 ## Oppgavefordeling
 # Fordeling av tiltaket
