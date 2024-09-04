@@ -12,7 +12,7 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 
 tags:
-- value-stream
+- stream-aligned
 ---
 
 Content placeholder
