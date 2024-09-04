@@ -39,11 +39,10 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Arkitektur og løsningsbeskrivelse
-- Konseptbevis (Proof of Concept, PoC)
-- Ekstern testing
-- Etablere forvaltning
+- Utvikling og forvaltning av Dialogporten som produkt
+- Infrastruktur knyttet til Dialogporten
+- Integrasjoner mot andre interne produkter
+- Utvikling av relevante verktøy og referanseimplementasjoner
 - Dokumentasjon
-- Bidra til Digdirs felles designsystem
-- DevOps-team med totalansvar fra idé til produksjon
+- Support mot tjenesteeiere, sluttbrukersystemleverandører og andre interne team
 
