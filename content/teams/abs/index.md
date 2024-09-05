@@ -17,7 +17,10 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/89571254?v=4" name="Cathrine Bastesen" role="Team Lead" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/130640200?v=4" name="Cathrine Bastesen" role="Team Lead" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/96233806?v=4" name="Erik Dahle Harvey" role="Kundeveileder" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/128376773?v=4" name="Stein Roger Warholm" role="Kundeveileder" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/130458134?v=4" name="Silvana F Torgersen" role="Kundeveileder" >}}
 
 
 
