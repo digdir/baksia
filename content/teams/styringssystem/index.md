@@ -4,7 +4,7 @@ ingress: Team Styringssystem skal legge til rette for at «alt henger sammen» i
 
 navigation_link:
   title: Teamleder
-  subtitle: Snorre Aakerø
+  subtitle: Snorre Sjæf Aakerø
 
 banner:
   image:
