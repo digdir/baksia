@@ -4,7 +4,7 @@ ingress: Team Styringssystem skal legge til rette for at «alt henger sammen» i
 
 navigation_link:
   title: Teamleder
-  subtitle: Snorre Aakerø
+  subtitle: Snorre Sjæf Aakerø
 
 banner:
   image:
@@ -17,8 +17,8 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/72547415?v=4" name="Snorre Aakerø" role="Teamleder" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role="Scrum master" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/97237741?v=4" name="Arild Hansteen" role="Risikostyring" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role=" Potato" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/97237741?v=4" name="Arild Hansteen" role="Risikostyring" role="Scrum master">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45390623?v=4" name="Børre Hovstøl" role="Kompetanse og opplæring" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/63044671?v=4" name="Hilde Måsøy" role="Kompetanse og opplæring">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="Dokumentstyring" >}}

@@ -20,8 +20,9 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/951969?v=4" name="Ole Bay Hansen" role="Produkteier, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Scrum Master 50% fom 1 okt, utv,  Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/2217340?v=4" name="Terje Holene" role="Team-arkitekt, infrastruktur, backend, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47737608?v=4" name="Stephanie Buadu" role="Backend, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/114151129?v=4" name="Ahmed Ghanam" role="Fullstack, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/70642698?v=4" name="Thomas Bakken" role="Backend, Fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/11887560?v=4" name="Hallgeir Garnes-Gutvik" role="Fullstack, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/28589510?v=4" name="Henning Normann" role="Ytelse, 50%, Konsulent, Oslo">}}
 {{< /team/members >}}
 
