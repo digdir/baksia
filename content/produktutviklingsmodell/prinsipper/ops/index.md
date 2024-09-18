@@ -1,7 +1,8 @@
 ---
 title: Ops
-ingress: Placeholder ingress text...
+ingress: "IT Ops – er prosessen med å implementere, administrere, levere og støtte IT-tjenester for å møte forretningsbehovene til interne og 
 
+eksterne brukere."
 navigation_link:
   subtitle: Prinsipper
 
