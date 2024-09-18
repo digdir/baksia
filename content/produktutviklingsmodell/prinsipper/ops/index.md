@@ -1,6 +1,6 @@
 ---
 title: Ops
-ingress: Placeholder ingress text...
+ingress: "Ops er den operasjonelle delen et DevOps team ivaretar, eksempelvis Deploy, overvåking, kontinuerlig forbedringer på miljøer mm."
 
 navigation_link:
   subtitle: Prinsipper
