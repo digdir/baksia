@@ -1,10 +1,10 @@
 ---
 title: Ops
-ingress: "The Ops (Operations) part of DevOps refers to the practices, processes, and technologies involved in managing and maintaining IT 
+ingress: The Ops (Operations) part of DevOps refers to the practices, processes, and technologies involved in managing and maintaining IT 
 
 infrastructure, systems, and applications in production. It focuses on ensuring that software runs smoothly, reliably, and securely in a live 
 
-environment. =
+environment.
 
 navigation_link:
   subtitle: Prinsipper
