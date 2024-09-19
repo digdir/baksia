@@ -65,3 +65,10 @@ navigation_link:
   external_url="https://teams.microsoft.com/_?tenantId=008e560f-08af-4cec-a056-b35447503991#/conversations/IT-hjelp?groupId=69a578ee-b915-43ed-96dc-f1e9c1f05cdd&threadId=19:c8aea9a880604431a0a566bffea59ee3@thread.tacv2&ctx=channel"
 >}}
 
+{{< onboarding/ext-nav-card
+  title="For ledere/fadder/mentor"
+
+  description="I denne Teams-kanalen kan du få hjelp"
+
+  external_url="https://digdir.sharepoint.com/:f:/r/sites/TeamStyringssystem/Delte%20dokumenter/Oppl%C3%A6ring%20og%20on-boarding/1%20Onboarding/Samarbeid%20med%20HR?csf=1&web=1&e=fufOZO"
+>}}
