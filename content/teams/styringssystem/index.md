@@ -37,6 +37,7 @@ tags:
 -	Kompetanse og opplæring
 -	Introduksjonsprogrammet (onboarding)
 
-{{< verkt-infokanal/accordion title="Digdir.no" >}} digdir.no
+{{< verkt-infokanal/accordion title="Digdir.no" >}}
+[digdir.no](https://digdir.no)
 
 Direktoratet sin informasjonsportal om hva direktoratet tilbyr av tjenester og produkter, konferanser og webinarer som er tilgjengelig på internett for alle. {{< /verkt-infokanal/accordion >}}
