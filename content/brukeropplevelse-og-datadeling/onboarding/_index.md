@@ -68,7 +68,7 @@ navigation_link:
 {{< onboarding/ext-nav-card
   title="For ledere/fadder/mentor"
 
-  description="I denne Teams-kanalen kan du få hjelp"
+  description="Her finner du sjekkliste for on-boarding av nyansatte"
 
   external_url="https://digdir.sharepoint.com/:f:/r/sites/TeamStyringssystem/Delte%20dokumenter/Oppl%C3%A6ring%20og%20on-boarding/1%20Onboarding/Samarbeid%20med%20HR?csf=1&web=1&e=fufOZO"
 >}}
