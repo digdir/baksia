@@ -22,10 +22,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45390623?v=4" name="Børre Hovstøl" role="Kompetanse og opplæring" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/63044671?v=4" name="Hilde Måsøy" role="Kompetanse og opplæring">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="Dokumentstyring" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Storsjef" >}}
 {{< /team/members >}}
-
-
 
 {{< team/products title="Produkter" >}}
 {{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="Github">}}
