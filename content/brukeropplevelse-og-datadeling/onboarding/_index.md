@@ -35,7 +35,7 @@ navigation_link:
 
   description="Gir en rask innføring i grunnleggende forvaltningskompetanse"
 
-  external_url="https://laeringsplattformen.dfo.no/nn/kursoversikt/starte-i-staten-eit-introduksjonsprogram-nytilsette"
+  external_url="https://laeringsplattformen.dfo.no/kursoversikt/forvaltningsreisen"
 >}}
 
 
