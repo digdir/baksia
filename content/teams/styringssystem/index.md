@@ -4,7 +4,7 @@ ingress: Team Styringssystem skal legge til rette for at «alt henger sammen» i
 
 navigation_link:
   title: Teamleder
-  subtitle: Snorre Sjæf Aakerø
+  subtitle: Snorre Aakerø
 
 banner:
   image:
@@ -36,8 +36,3 @@ tags:
 -	Dokumentstyring
 -	Kompetanse og opplæring
 -	Introduksjonsprogrammet (onboarding)
-
-{{< verkt-infokanal/accordion title="Digdir.no" >}}
-[digdir.no](https://digdir.no)
-
-Direktoratet sin informasjonsportal om hva direktoratet tilbyr av tjenester og produkter, konferanser og webinarer som er tilgjengelig på internett for alle. {{< /verkt-infokanal/accordion >}}
