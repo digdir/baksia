@@ -1,6 +1,6 @@
 ---
 title: Kunde-team
-Ingress: Sikre effektiv og brukervennlig support/onboarding til brukere/kunder i henhold til avtalte nivåer og retningslinjer.
+Ingress: Teamet skal utvikle, drifte og forvalte løsninger og rutiner som sikrer en effektiv og brukervennlig support til kunder av våre produkter og API-er. Teamet er ansvarlig for onboarding av nye tjenesteeiere og oppfølging av hele kundedialogen. I tillegg skal kundeteamet sikre en helhetlig incidentprosess på tvers av alle team.
 
 
 navigation_link:
@@ -36,6 +36,10 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Jurist" >}}
 
 {{< /team/members >}}
+
+{{< team/products title="Produkter" >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/121/views/1" url_text="Github" >}}
+{{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
