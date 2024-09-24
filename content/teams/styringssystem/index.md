@@ -37,3 +37,9 @@ tags:
 -	Dokumentstyring
 -	Kompetanse og opplæring
 -	Introduksjonsprogrammet (onboarding)
+
+{{< team/testområde title="Område for testing" >}}
+
+-	Test 1
+-	Test 2
+-	Test 3
