@@ -23,8 +23,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/63044671?v=4" name="Hilde Måsøy" role="Kompetanse og opplæring">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="Dokumentstyring" >}}
 
-{{< team/github-profile url="https://www.vg.no/nyheter/i/lwvGz3/anne-holt-boka-burde-trekkes-umiddelbart?utm_source=vgfront&utm_content=hovedlopet_row1_pos1&utm_medium=dre-66f2626bb393965ff2cfe748" name="Testmedlem" role="Tester" >}}
-
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
