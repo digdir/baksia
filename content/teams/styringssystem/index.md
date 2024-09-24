@@ -37,3 +37,9 @@ tags:
 -	Dokumentstyring
 -	Kompetanse og opplæring
 -	Introduksjonsprogrammet (onboarding)
+
+{{< team/test title="Test-inndeling" >}}
+- test 1
+- test 2
+- test 3
+{{< team/product-item title="Testlenkeer" subtitle="Roadmap" url="https://www.vg.no/" url_text="VG">}}
