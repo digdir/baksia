@@ -22,12 +22,13 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45390623?v=4" name="Børre Hovstøl" role="Kompetanse og opplæring" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/63044671?v=4" name="Hilde Måsøy" role="Kompetanse og opplæring">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="Dokumentstyring" >}}
+
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
 {{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="Github">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="" url_text="Github" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="Github" >}}
+{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/Altinn/projects/122/views/1" url_text="Github" >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/122" url_text="Github" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
