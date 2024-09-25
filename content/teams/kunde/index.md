@@ -27,7 +27,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/29474941?v=4" name="Elin Walstrand" role="App Migration" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/75472603?v=4" name="Andreas Didriksen" role="App Migration, Skjemautvikler" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45939254?v=4" name="Tommy Almendingen" role="Infrastruktur" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/94651380?v=4" name="Lars-Gøran Andersson" role="Leverandørstyrer" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/94651380?v=4" name="Lars-Göran Andersson" role="Leverandørstyrer" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/123467801?v=4" name="Camilla Wold" role="Behovsstiller" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/86382095?v=4" name="Dan Remi Mørk " role="Seksjonsleder for Platform og styring (BPS)" >}}
