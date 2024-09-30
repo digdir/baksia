@@ -3,7 +3,7 @@ title: OKR
 ingress: OKR er en enkel, men kraftfull metode for å formulere gode mål og sikre at vi jobber målrettet i hele organisasjonen.
 
 navigation_link:
-  subtitle: Hvordan OKR benyttes i Digdir
+  subtitle: Hvordan OKR benyttes i Digdir produktutvikling
 
 banner:
   image:

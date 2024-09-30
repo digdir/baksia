@@ -3,7 +3,7 @@
     {{ partial "components/breadcrumbs.html" . }}
     <div class="container">
       <div class="row">
-        <div class="col-lg-7">
+        <div class="col-lg-8">
           <h1 style="font-size:2.25rem;font-weight: 500;" class="mb-0">
             {{ .Title }}
           </h1>
@@ -11,8 +11,14 @@
           {{ with .Params.ingress }}
             <p class="ingress mb-0" style="margin-top:1.5rem;">{{ . }}</p>
           {{ end }}
-
         </div>
+        {{ if .Params.bannerimage}}
+        <div class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end">
+          <div>
+            <img class="img-fluid" src="{{ .Params.bannerimage }}" alt="">
+          </div>
+        </div>
+        {{ end }}
       </div>
     </div>
   </div>
