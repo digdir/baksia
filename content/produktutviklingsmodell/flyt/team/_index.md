@@ -20,4 +20,4 @@ Hvis du er usikker på hvilket team du bør ta kontakt med så kan du spør i [#
 
 Når teamet har anledning til å prioritere oppgaven så begynner de å beskrive problemet og løsningen på et overordnet teknisk nivå. Etter det bryter de oppgaven ned i mindre tasks som de fordeler seg i mellom for å løse oppgaven.
 
-[Gå til team oversikten](/teams/#stream-aligned)
+[Gå til team oversikten](/teams/)
