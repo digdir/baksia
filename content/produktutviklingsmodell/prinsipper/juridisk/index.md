@@ -1,9 +1,9 @@
 ---
-title: Jurist
+title: Juridisk
 ingress: Placeholder ingress text...
 
 navigation_link:
-  subtitle: Rollebeskrivelse
+  subtitle: Prinsipper
 
 banner:
   image:

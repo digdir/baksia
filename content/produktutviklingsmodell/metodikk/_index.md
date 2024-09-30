@@ -5,7 +5,7 @@ ingress: >
 
 
 navigation_link:
-  subtitle: Beskrivelse av metodikk som benyttes ifbm. produktutvikling
+  subtitle:  Metodikk som benyttes i Digdir produktutvikling
 
 banner:
   image:
