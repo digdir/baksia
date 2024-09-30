@@ -35,7 +35,7 @@ navigation_link:
 
   description="Gir en rask innføring i grunnleggende forvaltningskompetanse"
 
-  external_url="https://laeringsplattformen.dfo.no/nn/kursoversikt/starte-i-staten-eit-introduksjonsprogram-nytilsette"
+  external_url="https://laeringsplattformen.dfo.no/kursoversikt/forvaltningsreisen"
 >}}
 
 
@@ -62,6 +62,13 @@ navigation_link:
 
   description="I denne Teams-kanalen kan du få hjelp"
 
-  external_url="https://teams.microsoft.com/_?tenantId=008e560f-08af-4cec-a056-b35447503991#/conversations/IT-hjelp?groupId=69a578ee-b915-43ed-96dc-f1e9c1f05cdd&threadId=19:c8aea9a880604431a0a566bffea59ee3@thread.tacv2&ctx=channel"
+  external_url="https://teams.microsoft.com/l/team/19%3Aa013288881064252b9e53b6ad3bf3c91%40thread.tacv2/conversations?groupId=69a578ee-b915-43ed-96dc-f1e9c1f05cdd&tenantId=008e560f-08af-4cec-a056-b35447503991"
 >}}
 
+{{< onboarding/ext-nav-card
+  title="For ledere/fadder/mentor"
+
+  description="Her finner du informasjon om on-boarding av nyansatte"
+
+  external_url="https://handbooks.simployer.com/nb-no/folder/100301"
+>}}

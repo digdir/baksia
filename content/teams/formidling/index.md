@@ -28,6 +28,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/123467801?v=4" name="Camilla Wold" role="Behovsstiller, Fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/182608783?v=4" name="Martin Todorov" role="Backend, Fast, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
