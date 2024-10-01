@@ -1,5 +1,5 @@
 ---
-title: Team juridisk
+title: Juridisk team
 Ingress: Teamet skal bidra til å sikre at eksisterende og fremtidige juridiske rammer og vilkår ivaretas i både utvikling, drift og forvaltning av våre produkter. Teamet består av techjurister som kombinerer sin kompetanse om juridiske rammevilkår med en forståelse av teknologi og forretning, og dermed kan gi effektiv rådgivning og sikre at vi opererer innenfor rammene, i et raskt skiftende teknologisk samfunn. 
 
 navigation_link:
