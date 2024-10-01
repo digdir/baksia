@@ -16,7 +16,7 @@ tags:
 - stream-aligned
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C03CKEHD286" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com" slack_url_text="Slackkanal for teamet">}}
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1483360?v=4" name="Jørgen Binningsbø" role="Produkteier,  Leikanger" >}}
 T {{< team/github-profile url="https://avatars.githubusercontent.com/u/77618118?v=4" name="Frank Hofslundsengen" role="Team Lead, Leikanger" >}}
@@ -29,7 +29,7 @@ T {{< team/github-profile url="https://avatars.githubusercontent.com/u/77618118?
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/2151277?v=4" name="Thomas Reppesgård" role="Utvikler, Sandefjord" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/16701985?v=4" name="Linesh Raghawan" role="Testutvikler, Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/33317342?v=4" name="Thor Kristian Sortevik" role="Driftsleiar Maskinporten, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/6310801?v=4" name="Eirik Hoem" role="Driftsleiar Maskinporten, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/6310801?v=4" name="Eirik Hoem" role="Driftsleiar ID-porten, Leikanger" >}}
   {{< team/github-profile url="" name="Solveig Kvame" role="Service Manager, Leikanger" >}}
 
