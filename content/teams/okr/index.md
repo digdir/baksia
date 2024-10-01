@@ -11,7 +11,7 @@ banner:
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 
 tags:
-- enabling
+- other
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C06GSNENWHM" slack_url_text="Slackkanal for teamet">}}
