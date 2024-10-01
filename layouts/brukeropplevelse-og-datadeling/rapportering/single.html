@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ $sass := resources.Get "sass/rapportering.scss" }}
-  {{ $style := $sass | resources.ToCSS }}
+  {{ $style := $sass | css.Sass }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 
 
