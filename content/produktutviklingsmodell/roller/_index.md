@@ -19,4 +19,4 @@ Seksjonslederne har det overordnede ansvaret for å bygge opp, organisere og utv
 ---
 
 
-![](pom-vs-sections.svg)
+![Figur som viser seksjoner og ressurser](/images/pom-vs-sections.svg)

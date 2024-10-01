@@ -8,6 +8,8 @@ defaultContentLanguage = 'no'
 
 enableRobotsTXT = true
 
+disableKinds = ["taxonomy", "term"]
+
 [sitemap]
   changefreq = 'monthly'
   filename = 'sitemap.xml'

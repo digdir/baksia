@@ -6,5 +6,5 @@ navigation_link:
   subtitle: Flyten i Digdir produktutvikling
 ---
 
-![](pom-flow-map.svg)
+![Flyt i produktutviklingen](/images/pom-flow-map.svg)
 

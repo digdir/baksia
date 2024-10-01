@@ -1,7 +1,7 @@
 ---
 title: Teamsaker
 ingress: Denne siden forklarer produkt-teamene sin rolle i flyten for produktutvikling i Digdir.
-bannerimage: team-flow.webp
+bannerimage: /images/team-flow.webp
 weight: 30
 
 navigation_link:

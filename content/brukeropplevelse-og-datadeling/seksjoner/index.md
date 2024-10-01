@@ -22,4 +22,4 @@ navigation_link:
 
 ## Ressurser
 
-![Figur som viser ressursflyt fra seksjoner til teams](../../produktutviklingsmodell/roller/pom-vs-sections.svg)
+![Figur som viser ressursflyt fra seksjoner til teams](/images/pom-vs-sections.svg)

@@ -1,7 +1,7 @@
 ---
 title: Porteføljesaker
 ingress: Denne siden forklarer porteføljen sin rolle i flyten for produktutvikling i Digdir.
-bannerimage: portfolio-flow.webp
+bannerimage: /images/portfolio-flow.webp
 weight: 10
 
 navigation_link:

@@ -1,7 +1,7 @@
 ---
 title: Produktgruppesaker
 ingress: Denne siden forklarer produktgruppene sin rolle i flyten for produktutvikling i Digdir.
-bannerimage: pg-flow.webp
+bannerimage: /images/pg-flow.webp
 weight: 20
 
 navigation_link:
