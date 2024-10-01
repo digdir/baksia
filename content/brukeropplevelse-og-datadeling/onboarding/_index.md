@@ -62,7 +62,7 @@ navigation_link:
 
   description="I denne Teams-kanalen kan du få hjelp"
 
-  external_url="https://teams.microsoft.com/l/team/19%3Aa013288881064252b9e53b6ad3bf3c91%40thread.tacv2/conversations?groupId=69a578ee-b915-43ed-96dc-f1e9c1f05cdd&tenantId=008e560f-08af-4cec-a056-b35447503991"
+  external_url="https://teams.microsoft.com/l/channel/19%3Ac8aea9a880604431a0a566bffea59ee3%40thread.tacv2/IT-hjelp?groupId=69a578ee-b915-43ed-96dc-f1e9c1f05cdd&tenantId=008e560f-08af-4cec-a056-b35447503991"
 >}}
 
 {{< onboarding/ext-nav-card
