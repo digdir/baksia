@@ -4,7 +4,7 @@ Ingress: Markedsteamet skal sørge for økt utbredelse(omsetning) av våre produ
 
 navigation_link:
   title: Leder Markedsteam
-  subtitle: Mari Jøndahl Forberg
+  subtitle: Bodhild Cirotzki
 
 banner:
   image:
