@@ -25,7 +25,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/34273718?v=4" name="Dhanalakshmi Gopalswamy" role="Backend, konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144321622?v=4" name="Mette Grytten" role="Design lead og interaksjonsdesigner, fast, Leikanger">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/61084786?v=4" name="Simen Rekkedal" role="Backend, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/112334?v=4" name="Aleksander Heintz" role="Backend, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/130562196?v=4" name="Sophie Arntsen" role="Interaksjonsdesigner, fast, Oslo">}}

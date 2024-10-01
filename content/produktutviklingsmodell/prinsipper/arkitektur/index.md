@@ -1,15 +1,17 @@
 ---
-title: Prinsipper - Arkitektur
+title: Arkitektur
 ingress: Arkitekturprinsipper er grunnleggende retningslinjer som hjelper oss å bygge robuste, skalerbare og bærekraftige løsninger.
 
 navigation_link:
-  subtitle: Hvordan vi bruker arkitekturprinsipper i Digdir
+  subtitle: Prinsipper
 
 banner:
   image:
     src: /illustrations/illustration-03.png
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 ---
+
+TODO - fikse denne siden
 
 # Hvorfor vi tar i bruk arkitekturprinsipper
 
