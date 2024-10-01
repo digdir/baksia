@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ $sass := resources.Get "sass/team.scss" }}
-  {{ $style := $sass | resources.ToCSS }}
+  {{ $style := $sass | css.Sass }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
   {{ with .Page }}
     <div class="component" style="background-color: #faeec2">
