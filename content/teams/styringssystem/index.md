@@ -37,4 +37,3 @@ tags:
 -	Dokumentstyring
 -	Kompetanse og opplæring
 -	Introduksjonsprogrammet (onboarding)
--	TESTING AV NY TEKST UNDER ANSVARSROMÅDET som blir gjort ifbm utarbeidelse av rutine for enkle endringer. Blir slettet etterpå.
