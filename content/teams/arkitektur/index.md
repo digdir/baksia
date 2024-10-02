@@ -1,6 +1,6 @@
 ---
 title: Arkitektur
-Ingress: Team arkitektur består av team-arkitektene fra de ulike produkt-teamene, og sammen så tar vi arkitekturbeslutninger som går på tvers.
+ingress: Team arkitektur består av team-arkitektene fra de ulike produkt-teamene, og sammen så tar vi arkitekturbeslutninger som går på tvers.
 
 navigation_link:
   title: Team Lead
