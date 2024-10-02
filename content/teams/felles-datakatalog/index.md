@@ -28,7 +28,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/8625716?v=4" name="Hans Olav Sund" role="DevOps-ingeniør, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/121860376?v=4" name="Mateus Furuløkken" role="Interaksjonsdesigner, 50%, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aaseberg" role="Legal Coach, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/99320748?v=4" name="Kristin Bjarke Pettersen" role="Legal Coach, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/74510?v=4" name="Eirik Lillebo" role="Frontend, Fast, Oslo">}}
 {{< /team/members >}}
 
