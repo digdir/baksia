@@ -43,4 +43,3 @@ tags:
 - Bidra med kode på Altinn 3-løsningen til funksjonalitet som dette prosjektet er avhengig av 
 - Koordinere med andre relevante DevOps-team i BOD
 
-https://avatars.githubusercontent.com/u/91191481?v=4
