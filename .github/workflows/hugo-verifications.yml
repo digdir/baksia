@@ -26,6 +26,9 @@ jobs:
       - name: Build
         run: hugo --environment production
 
+      - name: Build pagefind index
+        run: npx -y pagefind --site "public"
+
       - name: Verify links
         uses: untitaker/hyperlink@0.1.32
         with:
