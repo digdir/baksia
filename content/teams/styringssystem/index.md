@@ -15,7 +15,7 @@ tags:
 - enabling
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://app.slack.com/client/TNSQ6Q0KG/C077SDNDHR9" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C077SDNDHR9" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/72547415?v=4" name="Snorre Aakerø" role="Teamleder" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role=" Potato" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/97237741?v=4" name="Arild Hansteen" role="Risikostyring" role="Scrum master">}}
