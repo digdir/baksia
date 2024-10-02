@@ -37,3 +37,4 @@ tags:
 -	Dokumentstyring
 -	Kompetanse og opplæring
 -	Introduksjonsprogrammet (onboarding)
+-	TESTING AV INNLEGGELSE AV TEKST
