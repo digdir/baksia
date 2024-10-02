@@ -16,7 +16,7 @@ tags:
 - stream-aligned
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C04PR2LBRDG" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C07PZUQFBS6" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/92986603?v=4" name="Bredo Swanberg" role="Prosjektleder, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71013993?v=4" name="Tage Bryn" role="Arkitekt, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/91191481?v=4" name="Wenche Fylken" role="Prosjekt koordinator, Fast, Oslo" >}}
