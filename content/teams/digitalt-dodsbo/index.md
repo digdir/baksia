@@ -1,6 +1,7 @@
 ---
 title: Digitalt Dødsbo
-Ingress: Teamet xxx.
+Ingress:Prosjektet Oppgjør etter dødsfall kalt OED er et DSOP-samarbeidsprosjekt (Digital Samhandling Offentlig Privat) mellom Digitaliseringsdirektoratet, Brønnøysundregistrene, domstolene i Norge, finansnæringen (alle banker og forsikringsselskaper i Norge), Skatteetaten, Statens kartverk, Statens vegvesen og Landbruksdirektoratet. OED-prosjektet er det viktigste prosjektet i livshendelsen Dødsfall og arv – kalt DOA som er en av syv prioriterte livshendelser i digitaliseringsstrategien.
+OED realiserer et digitalt dødsbo (DD) som vil være arvingenes samlede informasjonskilde over avdødes formue og gjeld som automatisk samles inn i det digitale dødsboet. Arvingene kan derfor gjøre et mer informert valg om skifteform og unngå å påta seg et utilsiktet gjeldsansvar.
 
 navigation_link:
   title: Prosjektleder
