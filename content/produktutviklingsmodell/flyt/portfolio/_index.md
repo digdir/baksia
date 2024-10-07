@@ -1,20 +1,32 @@
 ---
 title: Porteføljesaker
-ingress: Denne siden forklarer porteføljen sin rolle i flyten for produktutvikling i Digdir.
-bannerimage: /images/portfolio-flow.webp
+ingress: Porteføljen sin rolle i flyten for produktutvikling i Digdir.
 weight: 10
 
 navigation_link:
   subtitle: Flyt av saker i porteføljen
 ---
 
-## Opprett tiltak i porteføljen
-Hvem som helst som ønsker å drive frem endring kan lage et nytt tiltak i porteføljen.
-Produktgruppeledere, design lead og sjefsarkitekt er representert i porteføljekontoret. De fungerer som rådgivere for porteføljestyrer, fronter tiltak fra produktgruppe-strategiene og ser etter muligheter for samarbeid på tvers.
 
-Porteføljen gir også innspill til Satsningsforslag og Virksomhetsplan på vegne av leverandørrollen i Digdir, og tar inn tiltak fra tildelingsbrev, Digdir strategi og andre førende dokumenter/OKRer.
+## Er porteføljen riktig sted for meg?
+Porteføljen er de sentrale tiltakene det må settes av midler og ressurser til (utover normal drift) for å realisere.  
+
+Dersom ideen din vil dra nytte av forankring fra ledelsen eller krever prioritet på tvers av flere team så kan porteføljen hjelpe deg med dette.
+
+
+[//]: # (Seksjonen med cards skal være her)
+[//]: # (Innhold til produktgruppesaker card: "Når ideen må løses på tvers av flere team uten ekstra midler og ressurser")
+[//]: # (Innhold til teamsaker card: "Når ideen din kan løses av ett team uten at det trengs ekstra midler og ressurser")
+[//]: # (Innhold til støtteordninger card: "Medfinansiering og Stimulab er gode alternativer for finansiering" - link til https://www.digdir.no/finansiering/finansiering/702)
+
+
+## Opprett tiltak i porteføljen
+Hvem som helst som ønsker å drive frem endring kan lage et nytt tiltak i porteføljen. Produktgruppeledere, Sjefsdesigner og Sjefsarkitekt er representert i porteføljekontoret. De fungerer som rådgivere for porteføljestyrer, fronter tiltak fra produktgruppe-strategiene og ser etter muligheter for samarbeid på tvers.  
+
+Porteføljen gir også innspill til Satsningsforslag og Virksomhetsplan på vegne av leverandørrollen i Digdir, og tar inn tiltak fra tildelingsbrev, Digdir strategi og andre førende dokumenter og OKRer.  
 
 [Gå til porteføljen](https://github.com/digdir/portfolio)
+
 
 ## Faser for et porteføljetiltak
 
@@ -25,17 +37,10 @@ Porteføljen gir også innspill til Satsningsforslag og Virksomhetsplan på vegn
 - Implementering
 - Utført
 
+
 ## Fordeling av tiltaket
-Etter å ha vært gjennom konsept- og planleggingsfasen har du fått beskrevet hvem som er ansvarlig for gjennomføring, hvilke teams som må involveres, hvilke ressurser og midler det er behov for med mer.
+Etter å ha vært gjennom konsept- og planleggingsfasen har du fått beskrevet hvem som er ansvarlig for gjennomføring, hvilke team som må involveres, hvilke ressurser og midler det er behov for med mer.  
 
-Tiltaket fordeles deretter til produktgruppen, teamet / teamene eller arbeidsgruppen som skal gjennomføre arbeidet.
+Tiltaket fordeles deretter til produktgruppen, teamet / teamene eller arbeiedsgruppen som skal gjennomføre arbeidet.
 
-## Implementering av tiltaket
-Når oppgaven har blitt fordelt ett eller flere teams lages det egne **epics** i **bakcklog** til teamet. Disse bruker teamet til å beskrive problemet og løsningen på et overordnet teknisk nivå for så å bryte oppgaven ned i mindre **issues** som de fordeler seg i mellom for å løse oppgaven.
-
-[Gå til team-oversiken](https://baksia.digdir.no/teams/)
-
-## Roadmap
-Porteføljen kan peke ned på elementer i roadmap, og elementene i roadmap peker ned på **epics** i teamene sine **baklogs** slik at vi får en rød tråd fra opprinnelse til leveranse. Etterhvert som alle relevante element i veikartet er levert settes porteføljetiltaket til **Utfør** og teamet går over til løpende måling og innsikt for å utbedre løsningen.
-
-[Gå til roadmap](https://github.com/orgs/digdir/projects/8)
+[Gå til implementering](/produktutviklingsmodell/flyt#implementering)
