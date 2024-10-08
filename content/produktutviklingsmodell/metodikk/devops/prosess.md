@@ -17,11 +17,12 @@ backgroundColor: '#FFFFFF'
 
 8-tallsdiagrammet representerer den kontinuerlige og iterative naturen til DevOps-praksiser. Diagrammet består av følgende faser:
 
-1.	Planlegg
-Dokumenter hvordan teamet kommer frem til prosjektets mål, krav og tidslinjer for å sikre en tydelig vei fremover. Hvordan jobber teamet rundt sikkerhet ifb med planlegging
+1.	Planlegging
+I denne fasen defineres prosjektkrav, funksjoner og mål. Teamet planlegger utviklingen, setter tidslinjer, og bruker verktøy for oppgavehåndtering og prosjektstyring.I denne fasen involveres også sikkerhetsteams tidlig for å identifisere krav og trusler. Det utarbeides en sikkerhetsstrategi som tar hensyn til regulatoriske krav og beste praksis.
 
-2.	Kode
-Dokumenter hvordan teamet vedlikeholder kildekoden ved hjelp av beste praksis og versjonskontroll. Hvordan jobber teamet rundt sikkerhet ifb med koding.
+2.	Utvikling(kode)
+Koding: Utviklere skriver kode basert på de spesifikasjonene som er definert i planleggingsfasen.
+Versjonskontroll: Koden lagres i versjonskontrollsystemer (f.eks. Git) for å sikre sporbarhet og samarbeid.
 
 3.	Bygg
 Dokumenter hvordan koden blir bygget av automatiserte pipelines i prosjektet. Hvordan jobber teamet rundt sikkerhet ifb med bygg.
