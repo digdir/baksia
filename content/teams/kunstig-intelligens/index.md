@@ -1,6 +1,6 @@
 ---
 title: Kunstig intelligens
-ingress: Team KI (AI) skal utforske muligheten for å bruke generativ KI (AI) i produkter, tjenester og fellesløsninger.
+ingress: Team Digdir R&D Lab skal utforske muligheten for å bruke generativ KI (AI) i produkter, tjenester og fellesløsninger.
 
 navigation_link:
   title: Team Lead
