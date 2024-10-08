@@ -1,6 +1,6 @@
 ---
 title: Operations
-ingress: The Ops (Operations) part of DevOps refers to the practices, processes, and technologies involved in managing and maintaining IT infrastructure, systems, and applications in production. It focuses on ensuring that software runs smoothly, reliably, and securely in a live environment.
+ingress: Ops (Operasjoner)-delen av DevOps refererer til praksis, prosesser og teknologier som er involvert i å håndtere og vedlikeholde IT-infrastruktur, systemer og applikasjoner i produksjon. Den fokuserer på å sikre at programvare kjører jevnt, pålitelig og sikkert i et aktivt miljø.
 
 navigation_link:
   subtitle: Prinsipper
