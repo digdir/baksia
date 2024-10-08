@@ -19,6 +19,7 @@ backgroundColor: '#FFFFFF'
 
 1.	Planlegg
 Dokumenter hvordan teamet kommer frem til prosjektets mål, krav og tidslinjer for å sikre en tydelig vei fremover. Hvordan jobber teamet rundt sikkerhet ifb med planlegging
+
 2.	Kode
 Dokumenter hvordan teamet vedlikeholder kildekoden ved hjelp av beste praksis og versjonskontroll. Hvordan jobber teamet rundt sikkerhet ifb med koding.
 
