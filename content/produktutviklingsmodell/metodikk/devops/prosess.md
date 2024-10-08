@@ -21,10 +21,12 @@ backgroundColor: '#FFFFFF'
    
 I denne fasen defineres prosjektkrav, funksjoner og mål. Teamet planlegger utviklingen, setter tidslinjer, og bruker verktøy for oppgavehåndtering og prosjektstyring.
 
+
 2. Utvikling
    
 Koding: Utviklere skriver kode basert på de spesifikasjonene som er definert i planleggingsfasen.
 Versjonskontroll: Koden lagres i versjonskontrollsystemer (f.eks. Git) for å sikre sporbarhet og samarbeid.
+
 
 
 3. Bygging
