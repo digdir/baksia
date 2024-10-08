@@ -1,5 +1,5 @@
 ---
-title: Kunstig intelligens
+title: Digdir R&D Lab
 ingress: Team Digdir R&D Lab skal utforske muligheten for å bruke generativ KI (AI) i produkter, tjenester og fellesløsninger.
 
 navigation_link:
