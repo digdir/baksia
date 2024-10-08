@@ -26,6 +26,7 @@ I denne fasen defineres prosjektkrav, funksjoner og mål. Teamet planlegger utvi
 Koding: Utviklere skriver kode basert på de spesifikasjonene som er definert i planleggingsfasen.
 Versjonskontroll: Koden lagres i versjonskontrollsystemer (f.eks. Git) for å sikre sporbarhet og samarbeid.
 
+
 3. Bygging
    
 Kompilering: Koden bygges og kompileres til et kjørbart format.
@@ -50,6 +51,7 @@ Hendelseshåndtering: Problemer som oppstår i produksjon håndteres raskt for �
    
 Analysering av resultater: Etter distribusjon vurderes resultatene og tilbakemeldinger fra brukere og teamet samles inn for å identifisere forbedringsområder.
 Kontinuerlig forbedring: Basert på tilbakemeldinger og analyser, justeres prosessene for å optimalisere utviklings- og driftspraksis.
+
 
 Oppsummering
 
