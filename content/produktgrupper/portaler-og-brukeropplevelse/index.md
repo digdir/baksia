@@ -23,6 +23,7 @@ produktgruppe: pg_portaler
 
 Produktgruppeansvarlig:  
 Lis Lonning
+
 Hanne Hofsæth Fredheim (fungerende)
 
 {{< icon class="prod-li-start-icon" >}} [altinn.no](https://www.altinn.no/)  
