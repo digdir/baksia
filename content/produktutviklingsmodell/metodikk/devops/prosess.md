@@ -17,31 +17,40 @@ backgroundColor: '#FFFFFF'
 
 8-tallsdiagrammet representerer den kontinuerlige og iterative naturen til DevOps-praksiser. Diagrammet består av følgende faser:
 
-1.	Planlegging
+1. Planlegging
    
-I denne fasen defineres prosjektkrav, funksjoner og mål. Teamet planlegger utviklingen, setter tidslinjer, og bruker verktøy for oppgavehåndtering og prosjektstyring.I denne fasen involveres også sikkerhetsteams tidlig for å identifisere krav og trusler. Det utarbeides en sikkerhetsstrategi som tar hensyn til regulatoriske krav og beste praksis.
+I denne fasen defineres prosjektkrav, funksjoner og mål. Teamet planlegger utviklingen, setter tidslinjer, og bruker verktøy for oppgavehåndtering og prosjektstyring.
 
-3.	Utvikling(kode)
+2. Utvikling
+   
 Koding: Utviklere skriver kode basert på de spesifikasjonene som er definert i planleggingsfasen.
 Versjonskontroll: Koden lagres i versjonskontrollsystemer (f.eks. Git) for å sikre sporbarhet og samarbeid.
 
-4.	Bygg
-Dokumenter hvordan koden blir bygget av automatiserte pipelines i prosjektet. Hvordan jobber teamet rundt sikkerhet ifb med bygg.
+3. Bygging
+   
+Kompilering: Koden bygges og kompileres til et kjørbart format.
+Automatisering: Bruk av CI (Continuous Integration) for automatisk bygging og testing av koden hver gang det skjer endringer.
 
-5.	Test
-Dokumenter hvordan teamet utfører automatiserte og manuelle tester for å sikre at programvaren fungerer som forventet. Hvordan jobber teamet rundt sikkerhet ifb med test.
+4. Testing
+ 
+Automatisert testing: Koden testes automatisk for å oppdage feil eller problemer. Dette kan inkludere enhetstesting, integrasjonstesting og systemtesting.
+Kvalitetssikring: Tester vurderes for å sikre at programvaren oppfyller kvalitetsstandardene.
 
-6.	Utgiv
-Dokumenter hvordan teamet praktiserer/utgir programvaren til produksjonsmiljøet. Hvordan jobber teamet rundt sikkerhet ifb med utgivelse.
+5. Distribusjon
+   
+Utrulling: Programvaren distribueres til produksjonsmiljøet. Dette kan skje manuelt eller automatisk gjennom CI/CD-pipelines (Continuous Delivery/Continuous Deployment).
+Sikkerhet: Sikkerhetskontroller implementeres før distribusjon.
 
-7.	Distribuer
-Beskriv hvordan teamet distribuer en release av programvaren til ulike miljøer. Hvordan jobber teamet rundt sikkerhet ifb med deployment.
+6. Drift
+   
+Overvåking: Systemet overvåkes kontinuerlig for ytelse, tilgjengelighet og helse. Verktøy brukes til å samle inn og analysere data.
+Hendelseshåndtering: Problemer som oppstår i produksjon håndteres raskt for å minimere nedetid.
 
-8.	Operer
-Dokumenter hvordan teamet administrer og vedlikehold programvaren i produksjon for optimal ytelse. Hvordan jobber teamet rundt sikkerhet ifb med daglig drift. 
+7. Tilbakemelding
+   
+Analysering av resultater: Etter distribusjon vurderes resultatene og tilbakemeldinger fra brukere og teamet samles inn for å identifisere forbedringsområder.
+Kontinuerlig forbedring: Basert på tilbakemeldinger og analyser, justeres prosessene for å optimalisere utviklings- og driftspraksis.
 
-9.	Overvåk
-Dokumenter hvordan teamet kontinuerlig overvåker programvarens ytelse og pålitelighet for å identifisere og løse problemer raskt når de oppstår. Hvordan jobber teamet rundt sikkerhet ifb med overvåking.
+Oppsummering
 
-10. Security
-Dokumenter hvordan teamet kontinuerlig jobber med sikkerhet.
+DevOps-modellen er en syklisk prosess der utvikling og drift samarbeider for å levere programvare raskere, mer pålitelig og med høyere kvalitet. Målet er å skape en kultur av kontinuerlig forbedring og samarbeid mellom teamene.
