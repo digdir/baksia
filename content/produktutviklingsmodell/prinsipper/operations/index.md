@@ -40,7 +40,7 @@ Ressursforvaltning: Optimalisere bruken av databehandlingsressurser (CPU, minne,
 
 8. Observabilitet
 Logging: Samle inn og håndtere logger (f.eks. applikasjonslogger, systemlogger) for feilsøking og sporingsproblemer. Verktøy som ELK Stack (Elasticsearch, Logstash, Kibana) eller Splunk brukes ofte.
-Metrikker og Sporing: Spore nøkkelmetrikker (f.eks. latens, gjennomstrømning, fe率) og spore forespørslene gjennom distribuerte systemer for å diagnostisere ytelsestopper eller feil.
+Metrikker og Sporing: Spore nøkkelmetrikker (f.eks. latens, gjennomstrømning) og spore forespørslene gjennom distribuerte systemer for å diagnostisere ytelsestopper eller feil.
 
 9. Samarbeid med Utvikling
 Tilbakemeldingssløyfer: Jobbe tett med utviklingsteam for å gi tilbakemelding om hvordan applikasjoner fungerer i produksjon, noe som hjelper utviklere med å optimalisere koden og unngå potensielle problemer.
