@@ -29,6 +29,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1777366?v=4" name="Are Almaas" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/154342485?v=4" name="Knut Haug" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/11448941?v=4" name="Amund Myrbostad" role="Backend, Fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Leif Kristian Helstad" role="Test & QA ansvarlig, Konsulent, Oslo">}}
 
 {{< /team/members >}}
 
