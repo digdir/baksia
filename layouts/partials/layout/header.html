@@ -19,17 +19,12 @@
           {{ end }}
         </div>
         <div id="search" style="margin: auto;" class="col-sm-12 col-lg-8"></div>
-        
         <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
         <script src="/pagefind/pagefind-ui.js"></script>
         <script>
           window.addEventListener('DOMContentLoaded', (event) => {
-            new PagefindUI({ element: "#search", showSubResults: true, highlightParam: "q"});
+            new PagefindUI({ element: "#search", showSubResults: true });
           });
-        </script>
-        <script type="module">
-          await import('/pagefind/pagefind-highlight.js');
-          new PagefindHighlight({ highlightParam: "q" });
         </script>
     </nav>
   </div>

@@ -25,7 +25,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36594318?v=4" name="Roar Mjelde" role="Backend, Fullstack, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/61122289?v=4" name="Celine Uyen Tram Tran" role="utvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/24913160?v=4" name="Andreas Hammerbeck" role="Backend, Fullstack, konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/123467801?v=4" name="Camilla Wold" role="Behovsstiller, Fast, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/130640130?v=4" name="Marianne Saltnes" role="Behovsstiller, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/182608783?v=4" name="Martin Todorov" role="Backend, Fast, Oslo">}}
