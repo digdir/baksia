@@ -1,6 +1,6 @@
 ---
-title: Kunstig intelligens
-ingress: Team KI (AI) skal utforske muligheten for å bruke generativ KI (AI) i produkter, tjenester og fellesløsninger.
+title: Digdir R&D Lab
+ingress: Team Digdir R&D Lab skal utforske muligheten for å bruke generativ KI (AI) i produkter, tjenester og fellesløsninger.
 
 navigation_link:
   title: Team Lead
@@ -19,7 +19,7 @@ tags:
 
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, fast, Hamar" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/113984758?v=4" name="Benjamin Brodie" role="Fullstack, KI-guru, konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/145535451?v=4" name="Andreas Hermstad" role="Jurist, fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/145535451?v=4" name="Andreas Hermstad" role="Legal Coach, fast, Brønnøysund">}}
 
 {{< /team/members >}}
 
