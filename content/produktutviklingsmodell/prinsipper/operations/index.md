@@ -35,9 +35,8 @@ Altinn 3 har 24/7 vakt - alle team har ansvar med å sikre at kjente feil og hvo
 
 4. Skalering:
 
-Tilpasse systemressurser for å håndtere økt trafikk eller belastning.
-Bruke skalerbare løsninger, som skyplattformer, for fleksibilitet.
-
+Platform og produktteamene i BOD sal sikre at vi til enhver tid har kontroll på ytelsen på platform og clustre ved overvåking og alarmer, og sikre at vi kontinuerlig skalerer for å håndtere økt trafikk eller belastning.
+Teamene må tilstrebe seg å benytte skalerbare løsninger.
 5. Sikkerhet:
 
 Implementere sikkerhetstiltak for å beskytte applikasjoner og data.
@@ -45,15 +44,11 @@ Regelmessige sikkerhetsvurderinger og oppdateringer.
 
 6. Automatisering:
 
-Automatisere repetitive oppgaver for å redusere feil og forbedre effektiviteten.
-Bruke verktøy som Ansible, Puppet eller Chef for konfigurasjonsstyring.
+Alle Teamene skal kontinuerlig jobbe med å automatisere repetitive oppgaver for å redusere feil og forbedre effektiviteten.
+Det brukes ulike verktøy i dag, Eks Renovate
 
 7. Backup og gjenoppretting:
 
-Sikre regelmessige sikkerhetskopier av data og systemer.
-Utvikle gjenopprettingsplaner for å håndtere data- eller systemtap.
+Platform Teamet i BOD har etablert løsninger som skal sigre regelmessige sikkerhetskopier av data og systemer, samt hvordan restore skal kunne håndteres. 
+Vi skal samtidig ha etablerte planer for kontinuerlig teste våre løsninger at de fungerer til enhver tid, ikke minst teste hvor lang tid restore av ulike data vil ta. 
 
-8. Samarbeid med utviklingsteam:
-I DevOps-modellen er det et tett samarbeid mellom driftsteamet og utviklerne. Dette fremmer bedre kommunikasjon, raskere problemløsning og en mer smidig tilnærming til programvareutvikling og drift.
-
-Ops-delen i DevOps er avgjørende for å sikre at programvaren ikke bare utvikles, men også fungerer optimalt i produksjon. Hvis du ønsker mer informasjon om spesifikke aspekter, si ifra!
