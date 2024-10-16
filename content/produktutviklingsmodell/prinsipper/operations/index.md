@@ -17,8 +17,8 @@ Definisjon: Operations, eller drift, refererer til de aktivitetene og prosessene
 
 1. Overvåking:
 
-Kontinuerlig overvåking av systemytelse, tilgjengelighet og sikkerhet.
-Bruk av verktøy som Grafana, Prometheus eller Nagios for å spore ytelsesindikatorer.
+Teamene skal sikre at vi ivaretar kontinuerlig overvåking av systemytelse, tilgjengelighet og sikkerhet.
+Noen av verktøyene vi i dag benytter er Applicaton Insight og Grafana. Hva og hvordan vi i dag overvåker ligger på https://pedia.altinn.cloud/altinn-3/ops/monitoring/
 
 2. Vedlikehold:
 
