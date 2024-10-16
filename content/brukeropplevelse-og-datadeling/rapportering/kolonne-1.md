@@ -8,4 +8,4 @@ weight: 1
 {{< icon class="rep-li-start-icon" >}} [Statistikk for ABS](https://digdir.sharepoint.com/sites/DigdirDGT/Delte%20dokumenter/Forms/AllItems.aspx?csf=1&web=1&e=UqS5VZ&cid=e76ecb9a%2D0ba9%2D4be0%2D9065%2Da1f068027f85&RootFolder=%2Fsites%2FDigdirDGT%2FDelte%20dokumenter%2FStatistikk%20fra%20ABS&FolderCTID=0x0120004EA8294F9ADB674FAAB36A65F01170FF)  
 {{< icon class="rep-li-start-icon" >}} [Om OKR i BOD](https://baksia.digdir.no/teams/okr/)  
 {{< icon class="rep-li-start-icon" >}} [Status porteføljesaker](https://github.com/digdir/portfolio/issues?q=is%3Aopen+sort%3Aupdated-desc)  
-{{< icon class="rep-li-start-icon" >}} [Årsstatistikker Altinn](https://digdir.sharepoint.com/sites/DigdirDGT/Delte%20dokumenter/Forms/AllItems.aspx?csf=1&web=1&e=1Uu7hf&cid=bf7817a4%2Db4dd%2D42fc%2Dae61%2Dc2c35fd20dda&RootFolder=%2Fsites%2FDigdirDGT%2FDelte%20dokumenter%2F%C3%85rsstatistikk&FolderCTID=0x0120004EA8294F9ADB674FAAB36A65F01170FF)
+{{< icon class="rep-li-start-icon" >}} [Årsstatistikker Altinn](https://samarbeid.digdir.no/altinn/statistikk-altinn/2388)
