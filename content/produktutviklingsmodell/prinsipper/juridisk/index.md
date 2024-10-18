@@ -1,6 +1,6 @@
 ---
 title: Juridisk
-ingress: Placeholder ingress text...
+ingress: Det er mulig å utvikle fungerende tekniske løsninger uten å involvere og hensynta jussen, men det blir fort dårlig og dyrt. Vår produktutvikling skal være ansvarlig, effektiv og i henhold til de juridiske rammevilkårene vi må forholde oss til. 
 
 navigation_link:
   subtitle: Prinsipper
@@ -24,8 +24,13 @@ Vi skal sikre at brukerens rettssikkerhet og samfunnets verdier ivaretas. Derfor
 ![image](https://github.com/user-attachments/assets/43360bee-3687-414f-a835-9fd57c5d87e2)
 
 ## Jussen er en mulighetsskaper  - ingen hindring
-Sammen skal vi sikre etterlevelse i våre løsninger, gjennom kravstilling og kvalitetssikring, kontinuerlige regelanalysreorg regelverksutvikling hvor det er nødvendig. 
+Sammen skal vi sikre etterlevelse i våre løsninger, gjennom kravstilling og kvalitetssikring, kontinuerlige regelanalyser og regelverksutvikling hvor det er nødvendig. 
 
 Jussen gir oss et stort mulighetsrom om man involverer juristen tidlig nok – verken juristene eller jussen er et hinder, men en muliggjører, som sammen setter de juridiske rammene og finner de riktige, ansvarlige løsningene. 
 
+## Samarbeid - ikke stafett 
+Vi skal i fellesskap sikre at vi har en ansvarlig, effektiv og regulatorisk riktig utvikling av våre produkter, innenfor det juridiske handlingsrommet som identifiseres og håndteres, for å oppnå ønsket resultat. 
+
 ![image](https://github.com/user-attachments/assets/1edf3f4a-71fa-4150-a8f7-c7acaeb38dd5)
+
+
