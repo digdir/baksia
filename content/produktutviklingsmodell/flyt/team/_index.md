@@ -33,4 +33,4 @@ Etter at du har opprettet issuen kan du trykke på subscribe nede til høyre (i 
 
 ![Et bilde som viser subscribe funksjonen i github og hvor det går an å finne den unike IDen til issuet](/images/folg-fremgangen-github.svg).  
 
-[Gå til implementering](/produktutviklingsmodell/flyt#implementering)
+[Gå til implementering](https://baksia.digdir.no/produktutviklingsmodell/flyt#implementering)
