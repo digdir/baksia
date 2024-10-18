@@ -13,6 +13,10 @@ ingress: |
   prioriteringsarbeidet styres i ønsket retning, og etter målsetting. Styringsteamet støtter
   avdelingen i å implementere målinger og rapporteringer.
 
+  Flere av lenkene under krever tilgang/innlogging
+
+  
+
 banner:
   image:
     src: /illustrations/illustration-03.png
