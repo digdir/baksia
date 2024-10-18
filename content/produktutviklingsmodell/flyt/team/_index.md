@@ -31,6 +31,6 @@ Hvis du er usikker på hvilket team du bør ta kontakt med så kan du spør i **
 
 Etter at du har opprettet issuen kan du trykke på subscribe nede til høyre (i github) for å bli varslet når noe skjer (se bilde under til venstre). Det kan også være kjekt å ta vare på tallet bak tittelen. Dette er en unik id for issuen din som du kan henvise til senere (se bilde under til høyre).  
 
-![Et bilde som viser subscribe funksjonen i github og hvor det går an å finne den unike IDen til issuet](/images/folg-fremgangen-github.svg).  
+![Et bilde som viser subscribe funksjonen i github og hvor det går an å finne den unike IDen til issuet](/images/folg-fremgangen-github.png).  
 
 [Gå til implementering](https://baksia.digdir.no/produktutviklingsmodell/flyt#implementering)
