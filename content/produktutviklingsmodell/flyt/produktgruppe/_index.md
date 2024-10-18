@@ -36,4 +36,4 @@ Per i dag finnes det ingen formell og delt prosess for hvordan produktgruppelede
 
 Det er opp til produktgruppeleder å prioritere og planlegge implementeringen av ideen sammen med teamene i gruppen.  
   
-[Gå til implementering](/produktutviklingsmodell/flyt#implementering)
+[Gå til implementering](https://baksia.digdir.no/produktutviklingsmodell/flyt#implementering)
