@@ -13,11 +13,7 @@ Teamene arbeider kontinuerlig med å få en balansegang mellom å fikse feil og 
 
 Dersom ideen din kan løses av ett produktteam uten at det trengs ekstra midler og ressurser så kan produktteamet selv hjelpe deg med å få ideen gjennomført.
 
-[//]: # (Card section skal ligge her)
-[//]: # (Innhold til Porteføljesaker card: "Når du trenger forankring hos ledelsen og ideen tar 6+ måneder å gjennomføre")
-[//]: # (Innhold til Produktgruppesaker card: "Når ideen må løses på tvers av flere team uten ekstra midler og ressurser")
-[//]: # (Innhold til Støtteordninger card: "Medfinansiering og Stimulab er gode alternativer til finansiering" - link til https://www.digdir.no/finansiering/finansiering/702)
-
+{{<sibling-pages>}}
 
 ## Opprett en issue i teamet sin backlog
 Hvem som helst kan komme med innspill og ønsker til teamene. Dette gjør du ved å opprette en ny issue i Github (du trenger en [github bruker](https://github.com/signup)).  
@@ -29,8 +25,7 @@ Hvis du er usikker på hvilket team du bør ta kontakt med så kan du spør i **
 
 ## Følg fremgangen
 
-Etter at du har opprettet issuen kan du trykke på subscribe nede til høyre (i github) for å bli varslet når noe skjer (se bilde under til venstre). Det kan også være kjekt å ta vare på tallet bak tittelen. Dette er en unik id for issuen din som du kan henvise til senere (se bilde under til høyre).  
+Etter at du har opprettet issuen så vil du [automatisk bli varslet](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#choosing-your-notification-settings) når noe skjer.
+Det kan også være kjekt å ta vare på tallet bak tittelen. Dette er en unik id for issuen din innenfor den aktuelle backloggen som du kan henvise til senere.  
 
-![Et bilde som viser subscribe funksjonen i github og hvor det går an å finne den unike IDen til issuet](/images/folg-fremgangen-github.png).  
-
-[Gå til implementering](https://baksia.digdir.no/produktutviklingsmodell/flyt#implementering)
+[Gå til implementering](../../flyt#implementering)
