@@ -18,11 +18,7 @@ Produktgruppene utarbeider en strategi som setter en felles retning som gjør at
 
 så kan det være en god ide å kontakte produktgruppelederne direkte for å få ideen gjennomført.
 
-
-[//]: # (Card seksjonen skal ligge her)
-[//]: # (Innhold til Porteføljesaker card: "Når du trenger forankring hos ledelsen og ideen tar 6+ måneder å gjennomføre")
-[//]: # (Innhold til Teamsaker card: "Når ideen din kan løses av ett team uten at det trengs ekstra midler og ressurser")
-[//]: # (Innhold til Støtteordninger card: "Medfinansiering og Stimulab er gode alternativer for finansiering" - link til https://www.digdir.no/finansiering/finansiering/702)
+{{<sibling-pages>}}
 
 
 ## Ta kontakt med produktgruppeleder
