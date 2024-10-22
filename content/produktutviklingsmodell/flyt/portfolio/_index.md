@@ -39,4 +39,4 @@ Etter å ha vært gjennom konsept- og planleggingsfasen har du fått beskrevet h
 
 Tiltaket fordeles deretter til produktgruppen, teamet / teamene eller arbeiedsgruppen som skal gjennomføre arbeidet.
 
-[Gå til implementering](https://www.baksia.digdir.no/produktutviklingsmodell/flyt#implementering)
+[Gå til implementering](../../flyt#implementering)
