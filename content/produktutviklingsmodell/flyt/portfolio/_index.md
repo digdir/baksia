@@ -13,11 +13,7 @@ Porteføljen er de sentrale tiltakene det må settes av midler og ressurser til 
 
 Dersom ideen din vil dra nytte av forankring fra ledelsen eller krever prioritet på tvers av flere team så kan porteføljen hjelpe deg med dette.
 
-
-[//]: # (Seksjonen med cards skal være her)
-[//]: # (Innhold til produktgruppesaker card: "Når ideen må løses på tvers av flere team uten ekstra midler og ressurser")
-[//]: # (Innhold til teamsaker card: "Når ideen din kan løses av ett team uten at det trengs ekstra midler og ressurser")
-[//]: # (Innhold til støtteordninger card: "Medfinansiering og Stimulab er gode alternativer for finansiering" - link til https://www.digdir.no/finansiering/finansiering/702)
+{{<sibling-pages>}}
 
 
 ## Opprett tiltak i porteføljen
