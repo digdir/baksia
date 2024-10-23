@@ -3,15 +3,13 @@ title: Arkitektur
 ingress: Arkitekturprinsipper er grunnleggende retningslinjer som hjelper oss å bygge robuste, skalerbare og bærekraftige løsninger.
 
 navigation_link:
-  subtitle: Prinsipper
+  subtitle: Arkitekturprinsipper standardiserer arbeid, reduserer kompleksitet og sikrer kvalitet.
 
 banner:
   image:
     src: /illustrations/illustration-03.png
     alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
 ---
-
-TODO - fikse denne siden
 
 # Hvorfor vi tar i bruk arkitekturprinsipper
 
