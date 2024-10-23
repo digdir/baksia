@@ -3,7 +3,7 @@ title: Sikkerhet
 ingress: Placeholder ingress text...
 
 navigation_link:
-  subtitle: Prinsipper
+  subtitle: Sikkerhet er avgjørende for trygg og pålitelig produktutvikling.
 
 banner:
   image:
