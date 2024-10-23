@@ -21,4 +21,4 @@ Gruppeleder TechSec: Anne Risbakk
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
 
-[Rollebeskrivelser](https://digdir.sharepoint.com/:f:/r/sites/DigdirDGT/Delte%20dokumenter/Rollebeskrivelser,%20nye,%20Arbeidsomr%C3%A5de/Arbeidsdokumenter%20og%20utg%C3%A5tte%20rollebeskrivelser/Utvikling/Nye%20roller?csf=1&web=1&e=BiZIgE)
+[Rollebeskrivelser](https://digdir.sharepoint.com/sites/DigdirDGT/Delte%20dokumenter/Forms/AllItems.aspx?csf=1&web=1&e=1ITt9x&CID=e8d8179f%2D2f7c%2D44b9%2Db53c%2D35318d606706&FolderCTID=0x0120004EA8294F9ADB674FAAB36A65F01170FF&id=%2Fsites%2FDigdirDGT%2FDelte%20dokumenter%2FRollebeskrivelser%2C%20nye%2C%20Arbeidsomr%C3%A5de%2FRollebeskrivelser%20BOD%2FRoller%20i%20seksjon%20Utvikling%20DevOps%20BNN%20%26%20OSL&viewid=66522cde%2D546b%2D4465%2Dbdf3%2Df2b757ea02ff)
