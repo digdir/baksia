@@ -26,6 +26,8 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6243408?v=4" name="Khan Naby" role="Plattformutvikler, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45536168?v=4" name="Renato Monteiro" role="Plattformutvikler, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/164244096?v=4" name="Eivind B Risa" role="Plattformutvikler, Konsulent, Oslo">}}
+
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
