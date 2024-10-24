@@ -3,7 +3,7 @@ title: Økonomi
 ingress: For å hjelpe deg å forstå hvordan vi jobber med økonomistyring, har vi laget en enkel oversikt over de viktigste prinsippene. Økonomistyring høres kanskje litt komplisert ut, men det handler egentlig bare om å passe på at vi bruker pengene våre smart, slik at vi kan nå målene våre på best mulig måte.
 
 navigation_link:
-  subtitle: Prinsipper
+  subtitle: God økonomistyring sikrer kontroll, etikk, ansvar og kontinuerlig forbedring.
 
 banner:
   image:
