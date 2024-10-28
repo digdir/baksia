@@ -21,7 +21,7 @@ Vi skal i fellesskap sikre at de oppgavene vi utøver, herunder utvikling, drift
 ## Jussen skal være med å sette rammene for utviklingen 
 Vi skal sikre at brukerens rettssikkerhet og samfunnets verdier ivaretas. Derfor - de oppgavene som det offentlige gjør, og måten det gjøres på, må ha sin støtte i rettslige reguleringer- jussen må være med å sette rammene for produktutvikling, drift og forvaltning.
 
-![image](https://github.com/user-attachments/assets/43360bee-3687-414f-a835-9fd57c5d87e2)
+![image](https://github.com/digdir/baksia/blob/main/assets/illustrations/illustration-27.png)
 
 ## Jussen er en mulighetsskaper  - ingen hindring
 Sammen skal vi sikre etterlevelse i våre løsninger, gjennom kravstilling og kvalitetssikring, kontinuerlige regelanalyser og regelverksutvikling hvor det er nødvendig. 
