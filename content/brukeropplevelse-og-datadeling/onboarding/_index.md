@@ -22,6 +22,31 @@ navigation_link:
 ---
 
 {{< onboarding/ext-nav-card
+  title="For nyansatte"
+
+  description="DENNE SIDEN ER UNDER OPPBYGGING"
+
+  external_url=""
+>}}
+
+{{< onboarding/ext-nav-card
+  title="For ledere"
+
+  description="Her finner du hjelp til on-boarding av nyansatte"
+
+  external_url="https://handbooks.simployer.com/nb-no/folder/100301"
+>}}
+
+{{< onboarding/ext-nav-card
+  title="For fadder og faglig mentor"
+
+  description="Her finner du informasjonom dine oppgaver som fadder og faglig mentor"
+
+  external_url="https://handbooks.simployer.com/nb-no/article/100309"
+>}}
+
+
+{{< onboarding/ext-nav-card
   title="Velkomst-appen"
 
   description="I denne appen finner du nyttig informasjon om hvordan du får en god start på karrieren din hos oss."
@@ -65,10 +90,4 @@ navigation_link:
   external_url="https://teams.microsoft.com/l/channel/19%3Ac8aea9a880604431a0a566bffea59ee3%40thread.tacv2/IT-hjelp?groupId=69a578ee-b915-43ed-96dc-f1e9c1f05cdd&tenantId=008e560f-08af-4cec-a056-b35447503991"
 >}}
 
-{{< onboarding/ext-nav-card
-  title="For ledere/fadder/mentor"
 
-  description="Her finner du informasjon om on-boarding av nyansatte"
-
-  external_url="https://handbooks.simployer.com/nb-no/folder/100301"
->}}
