@@ -16,12 +16,12 @@ Rettslig regulering skal være med å sikre at rammene for forvaltningens samfun
 
 Vi skal i fellesskap sikre at de oppgavene vi utøver, herunder utvikling, drift og forvaltning, og måten det gjøres på, har sin støtte i rettslige vurderinger.
 
-![image](https://github.com/user-attachments/assets/f70ba2c1-cdc5-4d46-a492-eaa3a0eea386)
+![Figur som illustrerer sammenhengen mellom storting, domstol og forvaltning](https://github.com/user-attachments/assets/f70ba2c1-cdc5-4d46-a492-eaa3a0eea386)
 
 ## Jussen skal være med å sette rammene for utviklingen 
 Vi skal sikre at brukerens rettssikkerhet og samfunnets verdier ivaretas. Derfor - de oppgavene som det offentlige gjør, og måten det gjøres på, må ha sin støtte i rettslige reguleringer- jussen må være med å sette rammene for produktutvikling, drift og forvaltning.
 
-![image](https://raw.githubusercontent.com/digdir/baksia/main/assets/illustrations/illustration-27.png)
+![Figur som illustrerer avveining mellom brukers interesser og brukervennlighet](https://raw.githubusercontent.com/digdir/baksia/main/assets/illustrations/illustration-27.png)
 
 ## Jussen er en mulighetsskaper  - ingen hindring
 Sammen skal vi sikre etterlevelse i våre løsninger, gjennom kravstilling og kvalitetssikring, kontinuerlige regelanalyser og regelverksutvikling hvor det er nødvendig. 
@@ -31,6 +31,6 @@ Jussen gir oss et stort mulighetsrom om man involverer juristen tidlig nok – v
 ## Samarbeid - ikke stafett 
 Vi skal i fellesskap sikre at vi har en ansvarlig, effektiv og regulatorisk riktig utvikling av våre produkter, innenfor det juridiske handlingsrommet som identifiseres og håndteres, for å oppnå ønsket resultat. 
 
-![image](https://github.com/user-attachments/assets/1edf3f4a-71fa-4150-a8f7-c7acaeb38dd5)
+![Figur av en sirkel som illustrer at dette er et kontinuerlig arbeid](https://github.com/user-attachments/assets/1edf3f4a-71fa-4150-a8f7-c7acaeb38dd5)
 
 
