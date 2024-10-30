@@ -1,5 +1,5 @@
 ---
-title: Støtteordninger
+title: Støtte­ordninger
 ingress:
 weight: 40
 
@@ -12,3 +12,5 @@ navigation_link:
 
 external_url: https://www.digdir.no/finansiering/finansiering/702
 ---
+
+[Gode alternativer for finansiering](https://www.digdir.no/finansiering/finansiering/702)

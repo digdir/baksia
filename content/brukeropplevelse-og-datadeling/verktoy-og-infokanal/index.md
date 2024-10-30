@@ -1,5 +1,5 @@
 ---
-title: Bruk av verktøy og informasjonskanal i BOD 
+title: Bruk av verktøy og informasjons­kanal i BOD 
 ingress: |
   Det er viktig at BOD har felles orden og kontroll på verktøy som brukes i avdelingen blant annet på grunn av personvern og sikkerhet, kostnader ved innkjøp, effektiv bruk av verktøy, bruk og deling av data som gir kvalitet for den enkelte bruker og Digdir.
   

@@ -1,10 +1,10 @@
 ---
-title: Produktgruppesaker
+title: Produkt­gruppe­saker
 ingress: Produktgruppene sin rolle i flyten for produktutvikling i Digdir.
 weight: 20
 
 navigation_link:
-  subtitle: Flyt av saker i produktgruppene
+  subtitle: Flyt av saker i produkt­gruppene
 ---
 
 ## Bør jeg ta direkte kontakt med produktgruppeleder?

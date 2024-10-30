@@ -1,5 +1,5 @@
 ---
-title: Tjenesteutvikling
+title: Tjeneste­utvikling
 
 navigation_link:
   text: |

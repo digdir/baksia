@@ -1,5 +1,3 @@
-
-
 ---
 banner:
   image:
@@ -10,7 +8,7 @@ banner:
 weight: 6
 ---
 
-## Marked og tjenesteoppfølging
+## Marked og tjeneste­oppfølging
 
 Seksjonen skal bygge kompetansekapasitet innen kunde og markedsarbeid samt juridisk kompetanse på tolkning og utvikling av regulatoriske rammebetingelser for offentlig forvaltning.
 Seksjonen har medarbeidere som kundeansvarlige, markedsressurser og juridiske rådgivere.

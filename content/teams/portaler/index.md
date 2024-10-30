@@ -4,7 +4,7 @@ ingress: Team Portal er under produktgruppen Portaler og brukeropplevelse. Teame
 
 navigation_link:
   title: Produkteiere
-  subtitle: Jørgen Ferkingstad og Ragnhild Borge Olsen
+  subtitle: Jørgen Ferkingstad og Ragnhild Olsen
 
 banner:
   image:

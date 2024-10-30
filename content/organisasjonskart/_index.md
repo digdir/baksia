@@ -1,5 +1,5 @@
 ---
-title: Organisasjonskart
+title: Organisasjons­kart
 ingress:
 
 # SEO
