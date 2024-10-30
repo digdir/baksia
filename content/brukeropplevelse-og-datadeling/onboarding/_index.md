@@ -8,9 +8,9 @@ ingress: |
 banner:
   image:
     src: /illustrations/illustration-10.png
-    alt:
+    alt: Illustrasjon av to personer som hilser på hverandre
 
-layout: 'onboarding/list'
+layout: onboarding/list
 
 # determines if this content should be rendered in the
 # first section of the page as a blue box

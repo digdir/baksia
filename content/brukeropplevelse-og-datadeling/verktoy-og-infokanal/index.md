@@ -12,7 +12,7 @@ Spesifisert oversikt over verktøy og informasjonskilder som brukes:
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt:
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 layout: verkt-og-infokanal/single
 

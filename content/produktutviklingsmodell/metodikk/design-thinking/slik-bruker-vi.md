@@ -7,7 +7,7 @@ keywords:
 banner:
   image:
     src: /illustrations/illustration-22.png
-    alt:
+    alt: Illustrasjon av en dokument
 
 weight: 1
 
@@ -16,7 +16,7 @@ backgroundColor: '#FFFBE6'
 
 ## Slik bruker vi designtenkning når vi jobber 
 
-![Diamant figur](/images/diamant.png)
+![Trippel diamant som illustrerer fasene i prosessen som benyttes](/images/diamant.png)
 
 Vi jobber i faser, som her er representert ved tre diamanter. Diamantene illustrerer den utforskende (åpne) og den konkretiserende (lukke) delen av hver fase.
 
