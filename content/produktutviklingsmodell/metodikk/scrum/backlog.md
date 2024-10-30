@@ -8,7 +8,7 @@ keywords:
 banner:
   image:
     src: /illustrations/illustration-14.png
-    alt:
+    alt: Illustrasjon av en backlog
 
 weight: 3
 

@@ -8,7 +8,7 @@ keywords:
 banner:
   image:
     src: /illustrations/illustration-13.png
-    alt:
+    alt: Illustrasjon av personer som snakker sammen i et møte
 
 weight: 2
 

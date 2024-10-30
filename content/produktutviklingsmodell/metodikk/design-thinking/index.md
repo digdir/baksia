@@ -11,9 +11,7 @@ keywords:
 banner:
   image:
     src: /illustrations/illustration-20.png
-    alt:
-  contentImage:
-    src: /illustrations/illustration-19.png
+    alt: Illustrasjon av to hender som holder ulike figurer
 
 layout: inline-list
 

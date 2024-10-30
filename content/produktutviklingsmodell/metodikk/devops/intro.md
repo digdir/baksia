@@ -8,7 +8,7 @@ keywords:
 banner:
   image:
     src: /illustrations/illustration-17.png
-    alt:
+    alt: Illustrasjon av to personer som går i takt
 
 weight: 3
 

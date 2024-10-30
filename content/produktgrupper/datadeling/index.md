@@ -14,7 +14,7 @@ isFirstSection: true
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt:
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 produktgruppe: pg_datadeling
 ---

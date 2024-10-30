@@ -8,7 +8,7 @@ keywords:
 banner:
   image:
     src: /illustrations/illustration-22.png
-    alt:
+    alt: Illustrasjon av en dokument
 
 weight: 3
 

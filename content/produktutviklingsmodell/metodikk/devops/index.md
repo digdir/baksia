@@ -9,10 +9,7 @@ keywords:
 banner:
   image:
     src: /illustrations/illustration-18.png
-    alt:
-  contentImage:
-    src: '/illustrations/illustration-17.png'
-    alt:
+    alt: Illustrasjon av en person som løper raskt
 
 layout: inline-list
 
