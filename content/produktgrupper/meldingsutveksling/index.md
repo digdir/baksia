@@ -1,5 +1,5 @@
 ---
-title: Meldingsutveksling
+title: Meldings­utveksling
 
 navigation_link:
   text: |

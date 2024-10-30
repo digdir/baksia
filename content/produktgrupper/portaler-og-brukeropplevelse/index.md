@@ -1,5 +1,5 @@
 ---
-title: Portaler og brukeropplevelse
+title: Portaler og bruker­opplevelse
 
 navigation_link:
   text: |

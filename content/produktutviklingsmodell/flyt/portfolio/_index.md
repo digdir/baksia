@@ -1,5 +1,5 @@
 ---
-title: Porteføljesaker
+title: Portefølje­saker
 ingress: Porteføljen sin rolle i flyten for produktutvikling i Digdir.
 weight: 10
 

@@ -1,5 +1,5 @@
 ---
-title: Produktgrupper
+title: Produkt­grupper
 ingress: |
   Digdir lager fellesløsninger som er til gode for samfunnet. Fellesløsninger er små byggeklosser som kan brukes av kundene etter individuelle behov.   For å sikre at videreutvikling ikke blir fragmentert, er løsningene inndelt i produktgrupper, som beslutter den overordna strategiske retningen i en produktgruppestrategi. 
   

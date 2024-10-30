@@ -1,10 +1,10 @@
 ---
-title: Team Sikkerhet
+title: Sikkerhet
 Ingress: Team sikkerhet hjelper teamene opprettholde sikkerhet i utvikling gjennom både tekniske og organisatoriske tiltak. Vi driver Digdir Security Champions, operasjonaliserer sikkerhetskrav, og bistår teamene i utvikling, drift og forvaltning av sikre produkter.
 
 
 navigation_link:
-  title: Teamleder sikkerhet
+  title: Teamleder
   subtitle: Hein Gabrielsen
 
 banner:

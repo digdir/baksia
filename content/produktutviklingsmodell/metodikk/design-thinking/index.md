@@ -1,5 +1,5 @@
 ---
-title: Designtenkning
+title: Design­tenkning
 ingress: |
   Designtenkning er en metode for brukerdreven design og innovasjon som ofte blir brukt innen produktutvikling. Metoden oppfordrer til å starte med brukeren – ikke løsningen. Ved å sette brukeren først og undersøke utfordringer og mulige løsninger, kan vi utvikle tjenester som dekker brukernes behov.
 

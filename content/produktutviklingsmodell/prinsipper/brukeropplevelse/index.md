@@ -1,9 +1,9 @@
 ---
-title: Brukeropplevelse
+title: Bruker­opplevelse
 ingress: "Alle i teamet er ansvarlige for at det de lager er av høy kvalitet og har en god iboende brukeropplevelse. Denne siden har som formål å gjøre det enkelt for deg å følge prinsipper og beste praksis for god brukeropplevelse."
 
 navigation_link:
-  subtitle: Brukeropplevelsesprinsipper sikrer at produkter er intuitive og effektive.
+  subtitle: Sikrer at produkter er intuitive og effektive.
 
 banner:
   image:

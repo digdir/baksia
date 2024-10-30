@@ -1,7 +1,7 @@
 ---
 title: Onboarding av ansatte
 ingress: |
-  Som nytilsatt i BOD er du med i det generelle introduksjonsprogrammet (ofte kalt onboarding), som HR-avdelingen i Digdir kjører. Du får også mer spisset fagopplæring, som er tilpasset den rollen og de oppgavene du skal løse for BOD.
+  Som nytilsatt i BOD er du med i det generelle introduksjons­programmet (ofte kalt onboarding), som HR-avdelingen i Digdir kjører. Du får også mer spisset fagopplæring, som er tilpasset den rollen og de oppgavene du skal løse for BOD.
 
   Her finner du lenker til sider med nyttig informasjon i oppstarten.
 
@@ -33,7 +33,7 @@ navigation_link:
 {{< onboarding/ext-nav-card
   title="Å starte i staten"
 
-  description="Gir en rask innføring i grunnleggende forvaltningskompetanse"
+  description="Gir en rask innføring i grunnleggende forvaltnings­kompetanse"
 
   external_url="https://laeringsplattformen.dfo.no/kursoversikt/forvaltningsreisen"
 >}}
@@ -42,7 +42,7 @@ navigation_link:
 {{< onboarding/ext-nav-card
   title="IT-sikkerhet"
 
-  description="Informasjonssikkerhet i Digitaliseringsdirektoratet"
+  description="Informasjons­sikkerhet i Digdir"
 
   external_url="https://digdir.sharepoint.com/sites/Notita/Delte%20dokumenter/Forms/AllItems.aspx?id=%2Fsites%2FNotita%2FDelte%20dokumenter%2FGeneral%2FInformasjonssikkerhet%20i%20DigDir%2Epdf&parent=%2Fsites%2FNotita%2FDelte%20dokumenter%2FGeneral"
 >}}
