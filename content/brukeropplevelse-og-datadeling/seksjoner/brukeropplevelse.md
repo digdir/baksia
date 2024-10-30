@@ -14,7 +14,7 @@ Seksjonen skal fokusere på å bygge kompetansekapasitet innen brukeropplevelse 
 
 Seksjonsleder: Reidun Milde
 
-Gruppeleder: Hanne Kristin Saltnes
+Gruppeleder IXD: Hanne Kristin Saltnes
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
 
