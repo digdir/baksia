@@ -18,14 +18,27 @@
           </a>
           {{ end }}
         </div>
+        <!-- Search START -->
         <div id="search" style="margin: auto;" class="col-sm-12 col-lg-8"></div>
         <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
         <script src="/pagefind/pagefind-ui.js"></script>
         <script>
           window.addEventListener('DOMContentLoaded', (event) => {
             new PagefindUI({ element: "#search", showSubResults: true });
+            document.getElementsByClassName("pagefind-ui__search-input")[0].ariaLabel = "Søk";
           });
         </script>
+        <style>
+          :root {
+            --pagefind-ui-text: #000000;
+          }
+          .pagefind-ui__search-input::placeholder {
+            color: #757575 !important;
+            opacity: 1 !important;
+            font-weight: normal !important;
+          }
+        </style>
+        <!-- Search END -->
     </nav>
   </div>
 </header>
