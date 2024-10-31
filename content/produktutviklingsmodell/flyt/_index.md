@@ -1,6 +1,6 @@
 ---
 title: Flyt
-ingress: Hvordan produktutvikling i Digdir fungerer og hvordan flyten fra ide eller oppdrag til implementering henger sammen.
+ingress: Hvordan produktutvikling i Digdir flyter -fra en ide eller et oppdrag til implementering og lansering av et produkt eller tjeneste.
 
 navigation_link:
   subtitle: Flyten i Digdir produktutvikling
