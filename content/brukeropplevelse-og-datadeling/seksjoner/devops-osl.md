@@ -2,7 +2,7 @@
 banner:
   image:
     src: /illustrations/illustration-04.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av to personer som hilser på hverandre
     position: left
 
 weight: 3

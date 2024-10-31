@@ -14,7 +14,7 @@ isFirstSection: true
 banner:
   image:
     src: /illustrations/illustration-06.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av fire armer i ulike farger som holder fast i hverandre
 
 navigation_link:
   text: Avdeling Brukeropplevelse og datadeling (BOD) er inndelt i syv seksjoner

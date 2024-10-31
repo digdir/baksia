@@ -2,7 +2,7 @@
 banner:
   image:
     src: /illustrations/illustration-08.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som snakker inn i en megafon rett mot ansiktet til en annen person
     position: left
 
 weight: 5

@@ -2,7 +2,7 @@
 banner:
   image:
     src: /illustrations/illustration-09.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av tre personer som holder på med hver sin mobil
     position: left
 
 weight: 1

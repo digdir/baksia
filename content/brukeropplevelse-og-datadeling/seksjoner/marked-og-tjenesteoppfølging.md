@@ -2,7 +2,7 @@
 banner:
   image:
     src: /illustrations/illustration-05.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som kaster noe i luften
     position: right
 
 weight: 6
