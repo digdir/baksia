@@ -8,8 +8,8 @@ navigation_link:
 
 banner:
   image:
-    src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som sitter og leser en bok
+    src: /illustrations/illustration-05.png
+    alt: Illustrasjon av en person som løfter en enorm mobiltelefon (MYE minne for å kjøre store LLMer!), mens han hvilker foten på et par KI-caser.
 
 tags:
 - enabling
@@ -23,10 +23,19 @@ tags:
 
 {{< /team/members >}}
 
-{{< team/responsibilities title="Ansvarsområder" >}}
+## Konkrete KI-caser som vi jobber med nå
 
-- Tekniske løsninger
-  - [altinn/digdir-assistants](https://github.com/Altinn/digdir-assistants)
-  - [digdir/kunnskapsgrunnlag-for-innovasjon](https://github.com/digdir/kunnskapsgrunnlag-for-innovasjon)
-- Etablere KI Lab, fostre samarbeid internt og eksternt, bidra til at Digdir fortsetter å [walk the walk](https://www.kode24.no/artikkel/81951932) 😛
-- Bidra til videreutvikling av [veiledning for ansvarlig utvikling og bruk av kunstig intelligens i offentlig sektor](https://www.digdir.no/kunstig-intelligens/kunstig-intelligens/4132)
+- Kunnskapsassistent basert på dataene i [Kudos](https://kudos.dfo.no/). Denne har et voldsomt potensiale.
+- Utviklerassistent basert på [vår tekniske dokumentasjon](https://docs.altinn.studio/).
+- Assistent basert på [veiledningen fra Digdir for bruk av kunstig intelligens](https://www.digdir.no/kunstig-intelligens/kunstig-intelligens/4132). Morsomt case som er litt "meta".
+- Assistent basert på [info.altinn.no](https://info.altinn.no/) inkludert starte og drive bedrift.
+- Løsning for å kunne stille spørsmål på tvers av koden i alle tjenester utviklet i Altinn Studio.
+- Automatisere/effektivisere utviklingen av digitale tjenester i Altinn Studio.
+
+
+## Ansvarsområder
+
+- Etablere KI Lab, fostre samarbeid internt, eksternt og nasjonalt. Bygge miljø og kompetanse.
+- Bidra til at Digdir fortsetter å [walk the walk](https://www.kode24.no/artikkel/81951932) 😛
+- Bidra til videreutvikling av [veiledningen for bruk av KI](https://www.digdir.no/kunstig-intelligens/kunstig-intelligens/4132).
+- Åpen kildekode ([digdir-assistants](https://github.com/Altinn/digdir-assistants)) som understøtter alle casene vi jobber med. Både Slack og web som frontend.
