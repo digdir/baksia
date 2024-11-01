@@ -10,7 +10,7 @@ weight: 2
 
 ## Brukeropplevelse
 
-Seksjonen skal bygge kompetansekapasitet for brukeropplevelse som sikrer at vi tar utgangspunkt i brukerbehov gjennom data og innsikt, når vi prioriterer og utvikler produkter. Seksjonens medarbeidere skal være en drivkraft i å legge de strategiske føringene for produktene våre, og samtidig styrke vår evne og bidrag til bedre og mer enhetlig brukeropplevelse og design i offentlig sektor. 
+Seksjonen skal bygge kompetansekapasitet for brukeropplevelse som sikrer at vi tar utgangspunkt i brukerbehov, gjennom data og innsikt, når vi prioriterer og utvikler produkter. Seksjonens medarbeidere dekker flere designretninger(se roller) og skal være en drivkraft i å legge de strategiske føringene for produktene våre. Og samtidig styrke vår evne og bidrag til bedre og mer enhetlig brukeropplevelse og design i offentlig sektor. 
 
 Seksjonsleder: Reidun Milde
 
