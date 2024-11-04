@@ -9,7 +9,7 @@ navigation_link:
 ![Flyt i produktutviklingen](/images/pom-flow-map.svg)
 
 ## Jeg har en idé, men hvor starter jeg?
-I Digdir skal beslutninger tas på lavest mulig nivå. Det betyr at størrelsen på ideen og antall mennesker som må involveres i stor grad styrer hvor du bør starte reisen din.  
+I Digdir skal beslutninger tas på lavest mulig nivå. Det betyr at størrelsen på ideen, antall mennesker som må involveres, og en tydelig tidsbegrensning (timebox) i stor grad styrer hvor du bør starte reisen din.  
 
 Under ligger flere mulige inngangsporter for å få ideen implementert som beskriver når de bør tas i bruk og hvordan de fungerer.
 
