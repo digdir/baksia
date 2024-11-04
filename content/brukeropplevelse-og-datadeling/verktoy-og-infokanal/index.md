@@ -1,7 +1,7 @@
 ---
-title: Bruk av verktøy og informasjons­kanal i BOD 
+title: Bruk av verktøy og informasjons­kanaler i BOD 
 ingress: |
-  Det er viktig at vi har oversikt og kontroll på verktøy som brukes i avdelingen. Dette av hensyn til personvern og sikkerhet, kostnader ved innkjøp, effektiv og sikker bruk og deling av data.
+  Det er viktig at vi har god oversikt og kontroll på verktøy som brukes i avdelingen. Dette av hensyn til personvern og sikkerhet, kostnader ved innkjøp, effektiv og sikker bruk/deling av data.
   
   Oversikt over alle systemer og oppdateringer med beskrivelser finnes i [systemoversikten](https://digdir.sharepoint.com/:x:/r/sites/Systemoversikt/_layouts/15/Doc.aspx?sourcedoc=%7B74B1CF9D-37B8-43E2-BAEC-B23D0E66EFD4%7D&file=Systemoversikten.xlsx&action=default&mobileredirect=true&wdLOR=c7FB2C801-99E3-8047-A9A3-67BD0C0B4037) til Digdir på intranett.  
   
