@@ -18,7 +18,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.137.0'
           extended: true
 
       - run: npm install
@@ -30,6 +30,6 @@ jobs:
         run: npx -y pagefind --site "public"
 
       - name: Verify links
-        uses: untitaker/hyperlink@0.1.40
+        uses: untitaker/hyperlink@0.1.43
         with:
           args: public/ --check-anchors --sources content/
