@@ -30,6 +30,6 @@ jobs:
         run: npx -y pagefind --site "public"
 
       - name: Verify links
-        uses: untitaker/hyperlink@0.1.32
+        uses: untitaker/hyperlink@0.1.40
         with:
           args: public/ --check-anchors --sources content/
