@@ -1,17 +1,9 @@
 ---
-title: Intern rapportering
+title: Virksomhetsstyring
 ingress: |
-  Et rapporteringssystem vil bidra til å avdekke områder som har forbedringspotensial
-  og lette prioriteringer for tiltak. Ved å implementere et effektivt rapporteringssystem
-  kan hele prosessen rundt forbedringsarbeidet gjøres mer effektiv, i tillegg 
-  til å imøtekomme myndighetskrav angående dokumentasjon. En annen viktig effekt 
-  er at et godt rapporteringsregime fremmer god sikkerhetskultur og reell arbeidstakermedvirkning. 
+Virksomhetsstyringen for våre digitale fellesløsninger handler om å planlegge, lede og koordinere utvikling, implementering og drift av felles digitale løsninger, som skal brukes på tvers av organisasjoner eller sektorer. Målet er å sikre at disse løsningene er effektive, sikker, brukervennlige, kostnadseffektive og i tråd med relevante krav og standarder, samtidig som de bidrar til bedre samarbeid og innovasjon på tvers av ulike aktører. Det handler om å sikre at organisasjonen opererer effektivt i tråd med strategiske mål, og at det er god styring både på det økonomiske, oerasjonelle og strategiske prosesser - dette omhandler bla. økonomistyring, risikostyring og strategisk planlegging. 
   
-  Det er oftest opp til linjeledelsen å planlegge tiltak og gjennomføre prioriteringer. 
-  Ved at alle i virksomheten er med på å rapportere, så har vi mulighet til 
-  å etablere statistikk, dokumentasjon og konstatere fakta. På den måten kan det 
-  prioriteringsarbeidet styres i ønsket retning, og etter målsetting. Styringsteamet støtter
-  avdelingen i å implementere målinger og rapporteringer.
+Relevant styringsdokumentasjon for avdelingen finner du her:
 
   Flere av lenkene under krever tilgang/innlogging
 
