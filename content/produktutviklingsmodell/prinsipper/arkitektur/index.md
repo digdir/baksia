@@ -7,51 +7,55 @@ navigation_link:
 
 banner:
   image:
-    src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som sitter og leser en bok
+    src: /illustrations/illustration-11.png
+    alt: Illustrasjon av to personer som gjør et tungt arkitekturløft
 ---
 
-# Hvorfor vi tar i bruk arkitekturprinsipper
+## Overordnede arkitekturprinsipper
 
-Arkitekturprinsipper er ikke bare tekniske retningslinjer. De hjelper oss med å sikre at alle løsningene vi bygger i Digdir, er godt fundert, skalerbare og i stand til å møte fremtidens krav. Ved å følge disse prinsippene kan vi sikre at løsningene er robuste, sikre og tilpasningsdyktige, samtidig som de støtter vår strategiske retning.
+De overordnede arkitekturprinsippene er en støtte til arbeid med virksomhetsarkitektur
+og skal bidra til økt samhandlingsevne på tvers av virksomheter og sektorer.
 
-## Hva er arkitekturprinsipper?
+Alle fellesløsningene som Digdir utvikler og forvalter skal naturlig nok følge disse prinsippene.
 
-Arkitekturprinsipper fungerer som veiledende regler eller anbefalinger som gir retning for hvordan vi utvikler og implementerer løsninger. De bidrar til å standardisere måten vi jobber på, redusere kompleksitet og sikre at vi leverer høy kvalitet i alt vi gjør.
+1. [Ta utgangspunkt i brukernes behov](https://www.digdir.no/digital-samhandling/prinsipp-1-ta-utgangspunkt-i-brukernes-behov/1055)
+2. [Ta arkitekturbeslutninger på rett nivå](https://www.digdir.no/digital-samhandling/prinsipp-2-ta-arkitekturbeslutninger-pa-rett-niva/1056)
+3. [Bidra til digitaliseringsvennlige regelverk](https://www.digdir.no/digital-samhandling/prinsipp-3-bidra-til-digitaliseringsvennlige-regelverk/1057)
+4. [Del og gjenbruk data](https://www.digdir.no/digital-samhandling/prinsipp-4-del-og-gjenbruk-data/1061)
+5. [Del og gjenbruk løsninger](https://www.digdir.no/digital-samhandling/prinsipp-5-del-og-gjenbruk-losninger/1062)
+6. [Lag digitale løsninger som støtter samhandling](https://www.digdir.no/digital-samhandling/prinsipp-6-lag-digitale-losninger-som-stotter-samhandling/1063)
+7. [Sørg for tillit til oppgaveløsningen](https://www.digdir.no/digital-samhandling/prinsipp-7-sorg-tillit-til-oppgavelosningen/1064)
 
-### Overordnede arkitekturprinsipper
 
-De overordnede arkitekturprinsippene i Digdir er basert på tre hovedområder:
+## Altinn 3 arkitekturprinsipper
 
-1. **Brukerorientering:** All arkitektur skal ha brukeren i fokus. Løsningene skal være enkle å bruke, tilgjengelige og gi reell verdi for brukeren.
+[Moderniseringen av Altinn](https://samarbeid.digdir.no/altinn/modernisering-av-altinn/2331) følger noen sentrale og enda mer spissede arkitekturprinsipper,
+som gjelder for alle de nye [Altinn 3 produktene](https://samarbeid.digdir.no/altinn/produktene-i-altinn-3/2345).
 
-2. **Gjenbruk:** Vi prioriterer å gjenbruke eksisterende løsninger og komponenter der det er mulig, noe som bidrar til effektiv bruk av ressurser og reduserer utviklingstiden.
+1.  **Åpen kildekode**  
+Det er ikke bærekraftig å bygge nasjonale fellesløsninger på bindinger til programvare som ikke kan endres eller videreutvikles. Altinn 3 baserer seg ikke på kommersiell hyllevare, men er egenutviklede produkter med gjenbruk av åpen kildekode. Det gjør at Digdir har fleksibilitet over retningen til produktutviklingen og kan oppfylle behov som oppstår. Siden Altinn 3 ikke benytter programvare som er begrenset av lisensiering åpner dette for åpen samskaping og gjenbruk på tvers.
 
-3. **Sikkerhet og personvern:** Sikkerhet er grunnleggende i alt vi gjør. Vi sikrer at dataene vi behandler, er beskyttet, og at personvern alltid ivaretas i tråd med gjeldende regelverk.
+2. **Åpen samskaping**  
+Altinn 3 utvikles åpent og i tett samarbeid og samråd med tjenesteeiere og brukere. Dette gjelder også tjenesteutviklingsløsningen Altinn Studio, som benyttes for effektiv og selvbetjent utvikling av digitale tjenester, som også kan samskapes og gjenbrukes. Altinn 3 utvikles gjennom prioritering av brukerbehov og [direkte bidrag av kildekode fra ulike virksomheter](https://github.com/search?q=org%3AAltinn+label%3Aexternal-contribution-%E2%9D%A4%EF%B8%8F&type=pullrequests).
+Altinn 3 er et distribuert samarbeid på tvers av organisasjoner og lokasjoner, og siden Altinn 3 er et [digitalt fellesgode](https://www.digitalpublicgoods.net/digital-public-goods) (DPG), så er ambisjonen at samarbeid og deling også kan krysse landegrenser og bidra til FNs bærekraftsmål.
 
-## Hvordan det fungerer
+3. **Skytjenester og fleksibel bruk**  
+Altinn 3 kjører på fleksibel og selvbetjent infrastruktur i skyen som kan skaleres opp og ned avhengig av trafikk, og settes opp ved bruk av infrastruktur som kode (IaC). Skytjenester kan testes ut raskt, noe som muliggjør en helt annen endringstakt enn infrastrukturen i Altinn II. En annen viktig egenskap er at man kun betaler for det man faktisk bruker av kapasitet, og kostnader kan knyttes til hver enkelt tjeneste.
 
-Ved å følge disse arkitekturprinsippene, kan vi sikre at våre løsninger er både effektive og tilpasningsdyktige. Prinsippene gir oss en felles forståelse og retning som gjør det enklere å samarbeide på tvers av team og prosjekter. Dette fører til mer konsistente og pålitelige løsninger, som er enklere å vedlikeholde og videreutvikle over tid.
+4. **Separate produkter med separat infrastruktur**  
+For å kunne håndtere frittstående produkter på en god måte bygger Altinn 3 på mikrotjenestearkitektur og skytjenester. Mikrotjenestearkitektur gjør det enklere å lage og drifte frittstående produkter. Separate infrastrukturer gjør at eventuelle problemer isoleres, og hvert produkt kan skaleres opp uavhengig av andre produkter. 
 
-## Arkitekturprinsipper i praksis
+5. **Separate finansieringsmodeller**  
+Altinn 3 benytter skytjenester, og har en arkitektur som er laget med tanke på frittstående produkter og egen infrastruktur pr. tjenesteeier. Dette legger grunnlaget for ny finansieringsmodell som tar hensyn til tjenesteeiernes faktiske forbruk av ressurser.
 
-Her er noen eksempler på hvordan arkitekturprinsippene kan anvendes i praksis:
+6. **Fleksible driftspartnere**  
+Drift og utvikling håndteres av tverrfaglige og smidige DevOps produktteam som har helhetsansvaret for sine produkter.
+Dette gjør både utvikling og drift mer effektiv samt at dette sikrer internt eierskap til produktene.
 
-- **Modularitet:** Ved å bygge løsninger som består av modulære komponenter, kan vi enkelt oppdatere, erstatte eller gjenbruke deler av systemet uten å påvirke hele løsningen.
 
-- **Skalerbarhet:** Løsninger skal kunne vokse med behovene. Dette betyr at arkitekturen må være designet for å håndtere økt belastning uten å kompromittere ytelsen.
 
-- **Interoperabilitet:** Våre løsninger skal kunne integreres og kommunisere med andre systemer, både internt og eksternt. Dette gjør det enklere å utveksle data og skape sømløse brukeropplevelser.
+## Altinn Studio arkitekturprinsipper
 
-## Hvorfor dette er viktig for deg
+Et ytterligere detaljeringsnivå (pt. kun på engelsk), som i stor grad også gjelder for alle produktene i Altinn 3.
 
-Som ny medarbeider er det viktig å forstå hvordan arkitekturprinsippene påvirker din daglige jobb. Uansett om du jobber med utvikling, prosjektledelse, eller brukerstøtte, vil disse prinsippene være med på å forme måten vi tenker og arbeider på. Ved å følge disse retningslinjene bidrar du til å bygge løsninger som ikke bare fungerer i dag, men som også kan tilpasses fremtidige behov.
-
----
-
-For mer informasjon, vennligst besøk disse sidene:
-
-- [Overordnede arkitekturprinsipper](https://www.digdir.no/digital-samhandling/overordnede-arkitekturprinsipper/1065)
-- [Arkitekturprinsipper i Altinn Studio](https://docs.altinn.studio/principles)
-
-Ved å sette deg inn i disse ressursene, vil du få en dypere forståelse av hvordan vi bruker arkitekturprinsipper i Digdir og hvordan de hjelper oss å oppnå våre mål.
+https://docs.altinn.studio/principles
