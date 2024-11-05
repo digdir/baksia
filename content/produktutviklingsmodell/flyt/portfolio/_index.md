@@ -9,7 +9,7 @@ navigation_link:
 
 
 ## Er porteføljen riktig sted for meg?
-Porteføljen er de sentrale tiltakene det må settes av midler og ressurser til (utover normal drift) for å realisere.  
+Porteføljen er de sentrale tiltakene det må settes av midler og ressurser til,som krever strategiske investeringer og fokus for å skape ny verdi,og inkluderer i hvert fall saker som tar mer enn 6 måneder å realisere.
 
 Dersom ideen din vil dra nytte av forankring fra ledelsen eller krever prioritet på tvers av flere team så kan porteføljen hjelpe deg med dette.
 

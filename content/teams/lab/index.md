@@ -25,9 +25,9 @@ tags:
 
 ## Konkrete KI-caser som vi jobber med nå
 
-- Kunnskapsassistent basert på dataene i [Kudos](https://kudos.dfo.no/). Denne har et voldsomt potensiale.
+- Kunnskapsassistent basert på dataene i [Kudos](https://kudos.dfo.no/).
 - Utviklerassistent basert på [vår tekniske dokumentasjon](https://docs.altinn.studio/).
-- Assistent basert på [veiledningen fra Digdir for bruk av kunstig intelligens](https://www.digdir.no/kunstig-intelligens/kunstig-intelligens/4132). Morsomt case som er litt "meta".
+- Assistent basert på [veiledningen fra Digdir for bruk av kunstig intelligens](https://www.digdir.no/kunstig-intelligens/kunstig-intelligens/4132).
 - Assistent basert på [info.altinn.no](https://info.altinn.no/) inkludert starte og drive bedrift.
 - Løsning for å kunne stille spørsmål på tvers av koden i alle tjenester utviklet i Altinn Studio.
 - Automatisere/effektivisere utviklingen av digitale tjenester i Altinn Studio.
