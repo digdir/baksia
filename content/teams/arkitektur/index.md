@@ -1,6 +1,6 @@
 ---
 title: Arkitektur
-ingress: Team arkitektur består av team-arkitektene fra de ulike produkt-teamene, og sammen så tar vi arkitekturbeslutninger som går på tvers.
+ingress: Team arkitektur består av sjefsarkitekt og team-arkitektene fra produkt-teamene, og sammen så tar vi arkitekturbeslutninger som går på tvers.
 
 navigation_link:
   title: Team Lead
@@ -8,14 +8,14 @@ navigation_link:
 
 banner:
   image:
-    src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som sitter og leser en bok
+    src: /illustrations/illustration-11.png
+    alt: Illustrasjon av to personer som gjør et tungt arkitekturløft
 
 tags:
 - enabling
 ---
 
-{{< team/members title="Medlemmer i teamet">}}
+{{< team/members title="Medlemmer i team arkitektur">}}
 
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, fast, Hamar" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Dialogporten/Arbeidsflate/DAN, fast, Brønnøysund" >}}
@@ -31,3 +31,11 @@ tags:
 
 {{< /team/members >}}
 
+
+## Ansvarsområder
+
+- Altinn arkitektur og dokumentasjon
+- Arkitekturforum, fast møteserie
+- Beslutte og dokumentere [overordnede beslutninger](https://github.com/orgs/Altinn/projects/131) som går på tvers av produkter og teams
+- [Arkitekturprinsippene](../../produktutviklingsmodell/prinsipper/arkitektur)
+- [Verktøy](https://docs.altinn.studio/technology/tools/) som benyttes
