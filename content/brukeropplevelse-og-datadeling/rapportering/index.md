@@ -1,7 +1,7 @@
 ---
 title: Virksomhetsstyring
 ingress: |
-  Virksomhetsstyring handler om å planlegge, organisere og følge opp aktiviteter, evt. sette tiltak slik at vi når målene våre på en effektiv og målrettet måte. Det handler om resultatoppfølging, ta beslutninger, sette nye strategier og sørge for at alle i avdelingen jobber mot de samme målene. Dette inkluderer både økonomistyring, ledelse og evaluering av hvordan ting går slik at vi kan forbedre oss og justere kursen om nødvendig. Relevant styringsdokumentasjon for avdelingen finner du her:
+  Virksomhetsstyring handler om å planlegge, organisere og følge opp aktiviteter eller sette tiltak slik at vi når målene våre på en effektiv og målrettet måte. Det handler om resultatoppfølging, ta beslutninger, sette nye strategier eller prioriteringer og sørge for at alle i avdelingen jobber mot de samme målene. Dette inkluderer både økonomistyring, ledelse og evaluering av hvordan ting går slik at vi kan forbedre oss og justere kursen om nødvendig. Relevant styringsdokumentasjon for avdelingen finner du her.
   
 
   Flere av lenkene under krever tilgang/innlogging
