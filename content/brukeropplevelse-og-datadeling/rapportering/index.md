@@ -1,9 +1,8 @@
 ---
 title: Virksomhetsstyring
 ingress: |
-  Virksomhetsstyringen for våre digitale fellesløsninger handler om å planlegge, lede og koordinere utvikling, implementering og drift av felles digitale løsninger, som skal brukes på tvers av organisasjoner    eller sektorer. Målet er å sikre at disse løsningene er effektive, sikker, brukervennlige, kostnadseffektive og i tråd med relevante krav og standarder, samtidig som de bidrar til bedre samarbeid og           innovasjon på tvers av ulike aktører. Det handler om å sikre at organisasjonen opererer effektivt i tråd med strategiske mål, og at det er god styring både på det økonomiske, oerasjonelle og strategiske prosesser - dette innenfor bla. økonomistyring, risikostyring og strategisk planlegging. 
+  Virksomhetsstyring handler om å planlegge, organisere og følge opp aktiviteter, evt. sette tiltak slik at vi når målene våre på en effektiv og målrettet måte. Det handler om resultatoppfølging, ta beslutninger, sette nye strategier og sørge for at alle i avdelingen jobber mot de samme målene. Dette inkluderer både økonomistyring, ledelse og evaluering av hvordan ting går slik at vi kan forbedre oss og justere kursen om nødvendig. Relevant styringsdokumentasjon for avdelingen finner du her:
   
-Relevant styringsdokumentasjon for avdelingen finner du her:
 
   Flere av lenkene under krever tilgang/innlogging
 
