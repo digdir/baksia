@@ -7,7 +7,7 @@ description:
 keywords:
 
 navigation_link:
-  text: Oversikt over organisasjonen
+  text: Digdir
 
 external_url: https://www.digdir.no/digdir/oversikt-over-organisasjonen/709
 ---
