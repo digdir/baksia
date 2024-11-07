@@ -17,7 +17,7 @@ banner:
     alt: Illustrasjon av fire armer i ulike farger som holder fast i hverandre
 
 navigation_link:
-  text: Finn rollene våre i personal- og kompetansehjem!
+  text: Finn medarbeidere/roller i personal- og kompetansehjem!
 ---
 
 ## Ressurser
