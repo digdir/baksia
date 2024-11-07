@@ -1,6 +1,6 @@
 ---
 title: Altinn Platform
-ingress: "Selvbetjening og automatisering av: App Infrastruktur, Oppsett og vedlikehold av sertifikater, Monitorering, Overvåking og alarmering, APIM. Cloud Management: Tilgangsstyring, Policies, Kostnadskontroll. Nettverk: DNS, Express-route, Sikkerhet."
+ingress: "Bygge og vedlikeholde verktøy, infrastrukturtjenester og standarder som gjør det enklere for utviklere å lage og lansere produktene som utgjør Altinn. Sørge for at prosesser er automatiserte, skalerbare og enkle å vedlikeholde. Altinn Platformteamet støtter dermed andre team, slik at de kan fokusere mer på selve produktutviklingen."
 
 navigation_link:
   title: Team Lead
