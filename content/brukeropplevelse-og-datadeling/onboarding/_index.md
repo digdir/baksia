@@ -1,5 +1,5 @@
 ---
-title: Onboarding av nytilsatte 
+title: Onboarding 
 ingress: |
   Som nytilsatt deltar du i introduksjons­programmet som HR-avdelingen i Digdir kjører. Du får også fagopplæring som er tilpasset den rollen og de oppgavene du skal løse for BOD.
 
@@ -18,7 +18,7 @@ isFirstSection: true
 
 navigation_link:
   text: |
-    Kom i gang som nyansatt i Brukeropplevelse og datadeling
+    Kom i gang som nytilsatt!
 ---
 
 {{< onboarding/ext-nav-card
