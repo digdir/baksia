@@ -21,5 +21,5 @@ isFirstSection: true
 
 navigation_link:
   text: |
-    Den strategiske retningen for videreutvikling blir bestemt av produktgruppene 
+    Les mer om produktgruppene
 ---
