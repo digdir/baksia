@@ -16,6 +16,7 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C0378DYQ7B9" slack_url_text="Slackkanal for teamet">}}
+
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/62640845?v=4" name="Espen Herskedal" role="Platformsjef, Security Champion, Fast, Hamar">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32734566?v=4" name="Bengt Fredh" role="Plattformutvikler,  Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/8321743?v=4" name="Sebastian Duran" role="Plattformutvikler, AI Champion, Fast, Oslo" >}}
@@ -30,10 +31,11 @@ tags:
 
 {{< /team/members >}}
 
-{{< team/product-item title="Board for Radical Focus " subtitle="Backlog og hva som pågår" url="https://github.com/orgs/Altinn/projects/117/views/2)" url_text="Github" >}}
+{{< team/products title="Produkter" >}}
+{{< team/product-item title="Board for Radical Focus" subtitle="Backlog og hva som pågår" url="https://github.com/orgs/Altinn/projects/117/views/2" url_text="Github" >}}
 {{< /team/products >}}
 
-{{< team/responsibilities title="Ansvarsområder" >}}
+## Ansvarsområder
 
 Selvbetjening og automatisering av:
 - API Management
