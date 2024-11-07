@@ -1,7 +1,7 @@
 ---
 title: Bruker­opplevelse og datadeling (BOD)
 ingress: |
-  BOD forvalter og videreutvikler fellesløsningene, Altinn og Felles datakatalog. Vi jobber og leverer i tverrfaglige og selvgående team, men har personal- og kompetansetilhørighet i seksjoner. Nedenfor litt mer om hvordan vi er organisert.
+  BOD forvalter og videreutvikler fellesløsningene, Altinn og Felles datakatalog. Vi jobber og leverer i tverrfaglige og selvgående team, men har personal- og kompetansetilhørighet i seksjoner. Nedenfor litt mer om hvordan vi bidrar med styring og støtte til avdelingen.
 
 # SEO
 description:
