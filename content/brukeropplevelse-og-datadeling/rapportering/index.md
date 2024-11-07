@@ -13,7 +13,7 @@ banner:
     src: /illustrations/illustration-03.png
     alt: Illustrasjon av en person som sitter og leser en bok
 
-layout: Rapportering/single
+layout: rapportering/single
 
 weight: 4
 
