@@ -1,5 +1,5 @@
 ---
-title: Verktøy og informasjonskilder i BOD 
+title: Verktøy og informasjonskilder 
 ingress: |
   Det er viktig at vi har god oversikt og kontroll på verktøy som brukes i avdelingen. Dette av hensyn til personvern og sikkerhet, kostnader ved innkjøp, effektiv og sikker bruk/deling av data.
   
@@ -22,7 +22,7 @@ isSecSection: true
 
 navigation_link:
   text: |
-    Kontroll på verktøy og informasjonskanaler
+   Få oversikt over systemene vi bruker!
 ---
 
 {{< verkt-infokanal/accordion title="Digdir.no" >}}
