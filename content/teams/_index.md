@@ -9,7 +9,7 @@ ingress: |
   hindringer og forstyrrelser utenfra.
 
 navigation_link:
-  text: Les mer om teamene våre
+  text: Les mer om teamene 
 # SEO
 description:
 keywords:
