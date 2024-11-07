@@ -23,5 +23,5 @@ isFirstSection: true
 
 navigation_link:
   text: |
-    Her finner du lenker til rapporteringer fra de ulike teamene og funksjonene i avdelingen.
+    Se hvordan vi ligger an i løypa!
 ---
