@@ -31,9 +31,8 @@ tags:
 
 {{< /team/members >}}
 
-{{< team/products title="Produkter" >}}
-{{< team/product-item title="Board for Radical Focus" subtitle="Backlog og hva som pågår" url="https://github.com/orgs/Altinn/projects/117/views/2" url_text="Github" >}}
-{{< /team/products >}}
+## Kanban board
+- [Radical Focus](https://github.com/orgs/Altinn/projects/117/views/2)
 
 ## Ansvarsområder
 
