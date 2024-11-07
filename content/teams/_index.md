@@ -9,8 +9,7 @@ ingress: |
   hindringer og forstyrrelser utenfra.
 
 navigation_link:
-  text: Les mer om produkt- og utviklingsteamene i Digdir og hvilke andre team vi har
-
+  text: Les mer om teamene 
 # SEO
 description:
 keywords:
