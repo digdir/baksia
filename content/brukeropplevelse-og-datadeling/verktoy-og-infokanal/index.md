@@ -1,5 +1,5 @@
 ---
-title: Bruk av verktøy og informasjons­kanaler i BOD 
+title: Verktøy og informasjonskilder i BOD 
 ingress: |
   Det er viktig at vi har god oversikt og kontroll på verktøy som brukes i avdelingen. Dette av hensyn til personvern og sikkerhet, kostnader ved innkjøp, effektiv og sikker bruk/deling av data.
   
