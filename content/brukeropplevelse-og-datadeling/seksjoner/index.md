@@ -17,7 +17,7 @@ banner:
     alt: Illustrasjon av fire armer i ulike farger som holder fast i hverandre
 
 navigation_link:
-  text: Avdeling Brukeropplevelse og datadeling (BOD) er inndelt i syv seksjoner
+  text: Finn roller fordelt på personal- og kompetansehjem!
 ---
 
 ## Ressurser
