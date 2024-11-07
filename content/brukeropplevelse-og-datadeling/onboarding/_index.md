@@ -18,7 +18,7 @@ isFirstSection: true
 
 navigation_link:
   text: |
-    Kom i gang som nytilsatt!
+    Kom i gang som nyansatt!
 ---
 
 {{< onboarding/ext-nav-card
