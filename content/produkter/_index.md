@@ -7,7 +7,7 @@ description:
 keywords:
 
 navigation_link:
-  text: Se hvordan vi beskriver produktene våre 
+  text: Se beskrivelser av produktene våre 
 
 external_url: https://samarbeid.digdir.no/
 ---
