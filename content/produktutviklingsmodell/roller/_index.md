@@ -12,7 +12,7 @@ navigation_link:
     alt: Illustrasjon av en person som sitter og leser en bok
 ---
 
-## Seksjonenes roller og ansvar
+## Seksjonenes rolle og ansvar
 
 Seksjonslederne har det overordnede ansvaret for å bygge opp, organisere og utvikle fagmiljøene på en måte som gjør dem mest mulig selvstendige og effektive. Dette betyr at seksjonene fungerer som kraftsentre for kompetanseutvikling, der ansatte kan utvikle sine ferdigheter og ekspertise innen spesifikke fagområder.
 
