@@ -13,5 +13,5 @@ banner:
     alt: Illustration of a person holding a mobile screen on his knee
 
 navigation_link:
-  text: Les mer om hvordan avdeling FEL er organisert
+  text: Les hvordan avdeling FEL er organisert
 ---
