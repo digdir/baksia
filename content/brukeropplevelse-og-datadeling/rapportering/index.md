@@ -1,7 +1,7 @@
 ---
 title: Styringsinformasjon
 ingress: |
-  Virksomhetsstyring handler om å planlegge, organisere og følge opp aktiviteter evt. sette tiltak slik at vi når målene våre på en effektiv og målrettet måte. Det handler om resultatoppfølging, ta beslutninger, sette nye strategier eller prioriteringer, og sørge for at alle i avdelingen jobber mot de samme målene. Dette inkluderer både økonomistyring, ledelse og evaluering av hvordan ting går slik at vi kan forbedre oss og justere kursen om nødvendig. Relevant styringsdokumentasjon for avdelingen finner du her.
+  Styringsinformasjon er viktig fordi den gir grunnlag for beslutninger og handlinger på alle nivå. Uten dette blir det vanskelig å vite planen, hva som fungerer bra og hva som trenger forbedring evt. hvilke prioriteringer og ressursdisponeringer vi bør gjøre. Den hjelper oss å sette bedre mål og følge opp fremdriften, og få innsikt i hvordan vi bidrar/påvirker virksomheten til å nå mål og resultater. God styringsinformasjon sørger for at vi trekker i samme retning, tar informerte valg og bidrar til at virksomheten når sine mål på en effektiv måte. Relevant styringsinformasjon for avdelingen finner du her.
   
 
   Flere av lenkene under krever tilgang/innlogging
