@@ -3,7 +3,7 @@ title: Juridisk
 ingress: Det er mulig å utvikle fungerende tekniske løsninger uten å involvere og hensynta jussen, men det blir fort dårlig og dyrt. Vår produktutvikling skal være ansvarlig, effektiv og i henhold til de juridiske rammevilkårene vi må forholde oss til. 
 
 navigation_link:
-  subtitle: Vi sette rammer og skape muligheter for ansvarlig produktutvikling og drift.
+  subtitle: Vi setter rammer og skaper muligheter for ansvarlig produktutvikling og drift.
 
 banner:
   image:

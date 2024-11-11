@@ -5,7 +5,7 @@ ingress: >
 
 
 navigation_link:
-  subtitle:  Metodikk som benyttes i Digdir produktutvikling
+  subtitle:  Metodikk i Digdir produktutvikling
 
 banner:
   image:
