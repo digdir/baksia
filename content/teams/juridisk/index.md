@@ -53,7 +53,7 @@ Team juridisk har et omfattende ansvar for å sikre juridisk etterlevelse på ma
 - Tilrettelegging for prosesser for potensiell tvisteløsning
 - Intern veiledning og opplæring
 
-**Informasjonssikkerhet og beredska**p
+**Informasjonssikkerhet og beredskap**
 - Bidra til etterlevelse av regelverkskrav i våre produkter,  spesielt for å sikre at personopplysninger og annen sensitiv informasjon håndteres trygt
 - Støtte og juridisk bistand ved hendelser og sikkerhetsbrudd
 
