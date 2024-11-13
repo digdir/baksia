@@ -25,7 +25,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36764011?v=4" name="Lars Vegard Bachmann" role="Markedsteam" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/116086465?v=4" name="Erling Laugen" role="Markedsteam" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/97237741?v=4" name="Arild E. Hansten" role="Risikostyring" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Sørli Olsen" role="Jurist" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Jurist" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/72547415?v=4" name="Snorre Aakerø" role="Planverk/rutiner" >}}
 {{< team/github-profile url="" name="Are Bendiksen" role="Controller" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Prosjektstøtte" >}}
