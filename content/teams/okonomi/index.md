@@ -17,8 +17,12 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/132452427?v=4" name="Maria Helmersen Sommervik" role="Team Lead" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/150725294?v=4" name="Are Bendiksen" role="Team-medlem" >}}
+{{< team/github-profile url="" name="" role="Team-medlem" >}}
 {{< /team/members >}}
 
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/139" url_text="Github" >}}
+{{< /team/products >}}
 
 ## Ansvarsområder
 
