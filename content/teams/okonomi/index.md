@@ -25,8 +25,6 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="Github">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="" >}}
 {{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/139" url_text="Github" >}}
 {{< /team/products >}}
 
