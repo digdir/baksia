@@ -31,4 +31,10 @@ tags:
 
 ## Ansvarsområder
 
-- TODO
+- Kontrollere budsjettering og regnskap for BOD
+- Oppfølging av Samarbeidsavtalens bilag 4
+- Foreslå og etablere attestasjons- og budsjettdisponeringsmyndighet
+- Oppfølging av budsjett med avvikskontroll, periodisering og systemer for ”early warning”, kostnadsreduserende tiltak
+- Tilpasse og implementere styrings- og rapporteringsstruktur
+- Etablere metode/metodikk og rutiner for bruk i linjen og kontroll
+- Intern kravsetter før oppstart/bevilgning og oppfølging av vedtak/ressursbruk
