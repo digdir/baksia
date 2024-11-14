@@ -1,7 +1,7 @@
 ---
 title: Onboarding 
 ingress: |
-  Som nyansatt deltar du i introduksjons­programmet som HR-avdelingen i Digdir kjører. Du får også fagopplæring som er tilpasset den rollen og de oppgavene du skal løse for BOD.
+  Som nyansatt deltar du i vårt introduksjonsprogram og etter hvert i mer spisset fagopplæring som er tilpasset den rollen og de oppgavene du skal løse for BOD.
 
   Her finner du lenker til sider med nyttig informasjon i oppstarten.
 
