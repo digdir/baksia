@@ -16,12 +16,12 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/132452427?v=4" name="Maria Helmersen Sommervik" role="Team Lead/Økonomi Controller" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/150725294?v=4" name="Are Bendiksen" role="Økonomi Controller" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/97230343?v=4" name="Ståle Rundberg" role="Økonomi Controller" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/97155144?v=4" name="Hilde Rønnaug Berntsen" role="Økonomi Controller" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/130762498?v=4" name="Ivar Husevåg" role="Økonomi Controller" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/185334843?v=4" name="Daniel Bloch" role="Økonomi Controller" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/132452427?v=4" name="Maria Helmersen Sommervik" role="Team Lead, Controller" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/150725294?v=4" name="Are Bendiksen" role="Controller" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/97230343?v=4" name="Ståle Rundberg" role="Controller" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/97155144?v=4" name="Hilde Rønnaug Berntsen" role="Controller" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/130762498?v=4" name="Ivar Husevåg" role="Controller" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/185334843?v=4" name="Daniel Bloch" role="Controller" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
@@ -31,7 +31,7 @@ tags:
 
 ## Ansvarsområder
 
-- Kontrollere budsjettering og regnskap for BOD
+- Kontrollere budsjett og regnskap for BOD
 - Oppfølging av Samarbeidsavtalens bilag 4
 - Foreslå og etablere attestasjons- og budsjettdisponeringsmyndighet
 - Oppfølging av budsjett med avvikskontroll, periodisering og systemer for ”early warning”, kostnadsreduserende tiltak
