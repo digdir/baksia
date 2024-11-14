@@ -1,6 +1,6 @@
 ---
 title: Økonomi
-Ingress: Controller skal bistå i planleggingen og utførelsen av virksomhetsstyringen i avdelingen. Det består blant annet i å bistå i VP- og budsjettrevisjoner og etablere metoder/metodikk for kontroll og generell oppfølging av økonomien i avdelingen.
+Ingress: Teamet bistår i planleggingen og utførelsen av virksomhetsstyringen i avdelingen. Det består blant annet i å bistå i VP- og budsjettrevisjoner og etablere metoder/metodikk for kontroll og generell oppfølging av økonomien i avdelingen.
 
 navigation_link:
   title: Team Lead
