@@ -38,7 +38,7 @@ navigation_link:
 >}}
 
 {{< onboarding/ext-nav-card
-  title="For fadder og faglig mentor"
+  title="Fadderordningen"
 
   description="Få hjelp som fadder og faglig mentor"
 
