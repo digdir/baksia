@@ -1,9 +1,9 @@
 ---
 title: Onboarding 
 ingress: |
-  Som nyansatt deltar du i vårt introduksjonsprogram og etter hvert i mer spisset fagopplæring som er tilpasset den rollen og de oppgavene du skal løse for BOD.
+  Som nyansatt deltar du i vårt introduksjonsprogram og etter hvert i mer spisset fagopplæring, som er tilpasset den rollen og de oppgavene du skal løse.
 
-  Her finner du lenker til sider med nyttig informasjon i oppstarten.
+  Her finner du lenker til nyttig informasjon som nyansatt i Digdir.
 
 banner:
   image:
@@ -32,7 +32,7 @@ navigation_link:
 {{< onboarding/ext-nav-card
   title="For ledere"
 
-  description="Her finner du hjelp til on-boarding av nyansatte"
+  description="Hjelp til on-boarding av nyansatte"
 
   external_url="https://handbooks.simployer.com/nb-no/folder/100301"
 >}}
@@ -40,7 +40,7 @@ navigation_link:
 {{< onboarding/ext-nav-card
   title="For fadder og faglig mentor"
 
-  description="Her finner du informasjonom dine oppgaver som fadder og faglig mentor"
+  description="Hjelp i rollen som fadder og faglig mentor"
 
   external_url="https://handbooks.simployer.com/nb-no/article/100309"
 >}}
@@ -49,7 +49,7 @@ navigation_link:
 {{< onboarding/ext-nav-card
   title="Velkomst-appen"
 
-  description="I denne appen finner du nyttig informasjon om hvordan du får en god start på karrieren din hos oss."
+  description="Hjelp til å kickstarte karrieren din hos oss."
 
   external_url="https://apps.powerapps.com/play/e/default-008e560f-08af-4cec-a056-b35447503991/a/36c658ed-f5c3-4907-9fd8-5a38306a2157?tenantId=008e560f-08af-4cec-a056-b35447503991&hint=7247c09b-6af3-40b0-90ad-00eae64f98bd&source=sharebutton&sourcetime=1698149690389"
 >}}
@@ -76,7 +76,7 @@ navigation_link:
 {{< onboarding/ext-nav-card
   title="Ansatt- og lederportal"
 
-  description="I denne portalen får du oversikt over regler, rutiner og retningslinjer som er relevante i arbeidsforholdet ditt."
+  description="Regler, rutiner og retningslinjer for arbeidsforholdet ditt."
 
   external_url="https://login.simployer.com/login?state=hKFo2SBVMFEyTFV0WnpuT2xfMzcweElUVlJnWC1TdGNMZEhJVKFupWxvZ2luo3RpZNkgRkdEUGs5OTV1Mlk2dG1LeFExNHpRNTJNdndiWlhQbzKjY2lk2SBNaFlHOTUyQWxaTjZEWGtvSHpvWnRVMFp1QlBtNkhwNA&client=MhYG952AlZN6DXkoHzoZtU0ZuBPm6Hp4&protocol=oauth2&redirect_uri=https%3A%2F%2Fhandbooks.simployer.com%2Fsignin-auth0&response_type=code&scope=openid%20profile%20email%20context%20auth0_migration&code_challenge=ZmI_6unLrh2hvbhSwbvMK5ixAaJBTZgTVtFfDEBCXdE&code_challenge_method=S256&response_mode=form_post&nonce=638203789767153062.ZmU0ZWJmODUtZmQzOC00Mjk3LTg0NTEtMWRkMmZkNzRhMWU1ZDI5MTNhYTItYjA2My00YTYyLThlNDEtMjYzMjNkNTk3ODNj&audience=simployer-default&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=5.6.0.0"
 >}}
