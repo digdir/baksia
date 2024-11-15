@@ -1,8 +1,9 @@
 ---
 title: Styringsinformasjon
 ingress: 
-  God styringsinformasjon sørger for at vi får et grunnlag å treffe beslutninger på, tar informerte valg, trekker i samme retning og når målene på en effektiv måte. Målrettet resultatoppfølging forutseter at vi kjenner tilstanden til virksomheten, og følger opp ved å gjøre tiltak/forbedringer som er nødvendige.
-  Nedenfor finner du status og måltall fra virksomheten,
+  God styringsinformasjon sørger for at vi får et grunnlag å treffe beslutninger på, tar informerte valg, trekker i samme retning og når målene på en effektiv måte. Målrettet resultatoppfølging forutsetter at vi kjenner tilstanden til virksomheten, og følger opp ved å gjøre tiltak/forbedringer som er nødvendige.
+  
+  Nedenfor finner du status og måltall fra virksomheten.
   
   Flere av lenkene under krever tilgang/innlogging
 
