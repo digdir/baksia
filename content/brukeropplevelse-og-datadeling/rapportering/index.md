@@ -1,7 +1,8 @@
 ---
 title: Styringsinformasjon
-ingress: |
-  God styringsinformasjon gir oss et grunnlag for å treffe beslutninger og gjøre tiltak på alle nivå. Når vi er godt kjent med planen, og etter hvert vet hva som fungerer bra og hva som trenger forbedring, kan vi gjøre nye prioriteringer(justere mål) og ressursdisponeringer, som treffer bedre. God styringsinformasjon sørger for at vi trekker i samme retning, tar informerte valg og når målene på en effektiv måte. Relevant styringsinformasjon for avdelingen finner du her.
+ingress: 
+  God styringsinformasjon sørger for at vi får et grunnlag å treffe beslutninger på, tar informerte valg, trekker i samme retning og når målene på en effektiv måte. Målrettet resultatoppfølging forutseter at vi kjenner tilstanden til virksomheten, og følger opp ved å gjøre tiltak/forbedringer som er nødvendige.
+  Nedenfor finner du status og måltall fra virksomheten,
   
   Flere av lenkene under krever tilgang/innlogging
 
