@@ -29,7 +29,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45939254?v=4" name="Tommy Almendingen" role="Infrastruktur" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94651380?v=4" name="Lars-Göran Andersson" role="Leverandørstyrer" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/123467801?v=4" name="Camilla Wold" role="Behovsstiller" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/86382095?v=4" name="Dan Remi Mørk " role="Seksjonsleder for Platform og styring (BPS)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/113507384?v=4" name="Vidar Tilrem" role="Samfunnsøkonom" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94672791?v=4" name="Anita Meisingset" role="Teknisk brukerstøtte" >}}
