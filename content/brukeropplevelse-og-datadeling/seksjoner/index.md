@@ -7,10 +7,6 @@ ingress: |
 
 layout: seksjoner/single
 
-# determines if this content should be rendered in the
-# first section of the page as a blue box
-isFirstSection: true
-
 banner:
   image:
     src: /illustrations/illustration-06.png

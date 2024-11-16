@@ -1,0 +1,52 @@
+{{ define "main" }}
+  <div class="component component--bg-primary">
+    {{ partial "components/breadcrumbs.html" . }}
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <h1 style="font-size:2.25rem;font-weight: 500;" class="mb-0">
+            {{ .Title }}
+          </h1>
+
+          {{ with .Params.ingress }}
+            <p class="ingress mb-0" style="margin-top:1.5rem;">{{ . }}</p>
+          {{ end }}
+        </div>
+        {{ if .Params.bannerimage}}
+        <div class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end">
+          <div>
+            <img class="img-fluid" src="{{ .Params.bannerimage }}" alt="">
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  {{ if .Content }}
+  <div class="component">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if not (.Page.HasShortcode "child-pages") }}
+    <div class="component">
+      <div class="container">
+        <div class="row gy-4">
+          {{ range .Pages }}
+            <div class="col-sm-12 col-lg-6 col-xxl-4">
+              {{ .Render "li"}}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  {{ end }}
+
+{{ end }}
