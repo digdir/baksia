@@ -3,7 +3,7 @@ title: Overordnet styringsinformasjon
 ingress: Planer som strategidok, tildelingsbrev, styringskalender(årshjul) m.m.
 
 navigation_link:
-  subtitle: Planer som startegidok, tildelingsbrev, styringskalender(årshjul) m.m.
+  subtitle: Planer som strategidok, tildelingsbrev, styringskalender(årshjul) m.m.
 
 banner:
   image:
