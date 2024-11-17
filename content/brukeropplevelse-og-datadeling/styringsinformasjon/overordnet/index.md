@@ -1,6 +1,6 @@
 ---
 title: Overordnet styringsinformasjon
-ingress: herunder ulike strategidok, planer, tildelingsbrev, styringskalender (årshjul) m.m.
+ingress: Planer som strategidok, tildelingsbrev, styringskalender(årshjul) m.m.
 
 navigation_link:
   subtitle: Ulike strategidok, planer, tildelingsbrev, styringskalender (årshjul) m.m.
