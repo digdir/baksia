@@ -1,9 +1,9 @@
 ---
 title: Måltall økonomi
-ingress: herunder statuser og rapporteringer årlig, halvårlig og tertial 
+ingress: Status og rapportering årlig, halvårlig og tertial 
 
 navigation_link:
-  subtitle: Statuser og rapporteringer årlig, halvårlig og tertial 
+  subtitle: Status og rapportering årlig, halvårlig og tertial 
 
 banner:
   image:
