@@ -1,9 +1,9 @@
 ---
 title: Måltall medarbeidere
-ingress: herunder statuser fra endringsmålinger seksjoner og team, kompetanseutviklingstiltak
+ingress: Status endringsmålinger fra seksjoner og team
 
 navigation_link:
-  subtitle: Statuser fra endringsmålinger seksjoner og team, kompetanseutviklingstiltak
+  subtitle: Status endringsmålinger fra seksjoner og team
 
 banner:
   image:
