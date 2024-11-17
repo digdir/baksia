@@ -3,7 +3,7 @@ title: Måltall leveranser
 ingress: Status og okr fra porteføljen, produktgrupper, produkter og andre leveranseområder
 
 navigation_link:
-  subtitle: Status og okr fra porteføljen, produktgropper, produkter og andre leveranseområder
+  subtitle: Status og okr fra porteføljen, produktgrupper, produkter og andre leveranseområder
 
 banner:
   image:
