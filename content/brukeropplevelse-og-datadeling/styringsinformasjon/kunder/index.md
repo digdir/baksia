@@ -1,6 +1,6 @@
 ---
-title: Måltall leveranser
-ingress: herunder statistikk og statuser fra abs og tjenesteeier, kundeundersøkelser og rapporter (bios) 
+title: Måltall kunder
+ingress: Statistikk og rapporter, kundeundersøkelser 
 
 navigation_link:
   subtitle: Statistikk og statuser fra abs og tjenesteeier, kundeundersøkelser og rapporter (bios)
