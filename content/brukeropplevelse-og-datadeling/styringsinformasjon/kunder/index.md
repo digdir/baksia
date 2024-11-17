@@ -3,7 +3,7 @@ title: Måltall kunder
 ingress: Statistikk og rapporter, kundeundersøkelser 
 
 navigation_link:
-  subtitle: Statistikk og statuser fra abs og tjenesteeier, kundeundersøkelser og rapporter (bios)
+  subtitle: Statistikk og rapporter, kundeundersøkelser
 
 banner:
   image:
