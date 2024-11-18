@@ -11,7 +11,5 @@ banner:
     alt: Illustrasjon av en person som sitter og leser en bok
 ---
 
-{{< icon class="rep-li-start-icon" >}} [Servicerapporter](https://www.altinndigital.no/internt-dashboard/)  
-
 {{< icon class="rep-li-start-icon" >}} [Status porteføljesaker](https://github.com/digdir/portfolio/issues?q=is%3Aopen+sort%3Aupdated-desc)
 
