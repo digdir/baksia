@@ -15,5 +15,3 @@ banner:
 
 {{< icon class="rep-li-start-icon" >}} [Om OKR i BOD](https://baksia.digdir.no/teams/okr/)
 
-{{< icon class="rep-li-start-icon" >}} [Status porteføljesaker](https://github.com/digdir/portfolio/issues?q=is%3Aopen+sort%3Aupdated-desc)
-
