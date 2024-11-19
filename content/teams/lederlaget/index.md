@@ -24,7 +24,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/86382095?v=4" name="Dan Remi Mørk " role="Seksjonsleder for Platform og styring (BPS)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/95215761?v=4" name="Hege Nielsen" role="Seksjonsleder for Brukerstøtte (BBS)">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Seksjonsleder DevOps Brønnøysund (BUB)" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role="Scrum Master">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role="Smidig coach">}}
 
 {{< /team/members >}}
 
