@@ -1,6 +1,6 @@
 ---
 title: Styringssystem
-ingress: Team Styringssystem skal legge til rette for at «alt henger sammen» i avdelingen mtp hvilke verktøy vi benytter for å styre og utføre arbeid i avdelingen, og sørge for at alle team dokumenterer sine prosesser og ansvarsområder helhetlig. Dette vil f.eks. være å legge til rette for bruk av OKR som metodikk og dokumentere hvordan man gjør det.
+ingress: Team Styringssystem skal legge til rette for at «alt henger sammen» i avdelingen mtp hvilke verktøy vi benytter for å styre og utføre arbeid i avdelingen, og sørge for at alle team dokumenterer sine prosesser og ansvarsområder helhetlig på Baksia. Dette vil f.eks. være å legge til rette for bruk av OKR som metodikk og dokumentere hvordan man gjør det.
 
 navigation_link:
   title: Teamleder
@@ -17,11 +17,11 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C077SDNDHR9" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/72547415?v=4" name="Snorre Aakerø" role="Teamleder" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role=" Potato" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/97237741?v=4" name="Arild Hansteen" role="Risikostyring" role="Scrum master">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/45390623?v=4" name="Børre Hovstøl" role="Kompetanse og opplæring" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/63044671?v=4" name="Hilde Måsøy" role="Kompetanse og opplæring">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="Dokumentstyring" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role="" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/45390623?v=4" name="Børre Hovstøl" role="" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/63044671?v=4" name="Hilde Måsøy" role="">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="" >}}
 
 {{< /team/members >}}
 
