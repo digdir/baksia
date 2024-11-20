@@ -4,7 +4,7 @@ Ingress: Teamet bistår i planleggingen og utførelsen av virksomhetsstyringen i
 
 navigation_link:
   title: Team Lead
-  subtitle: Maria Sommervik
+  subtitle: Maria Helmersen Sommervik
 
 banner:
   image:
