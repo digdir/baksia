@@ -33,7 +33,8 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
--	Kvalitetsstyring
+-	OKR
+-	Forvaltning Baksia
 -	Dokumentstyring
--	Kompetanse og opplæring
+-	Intern kursing 
 -	Introduksjonsprogrammet (onboarding)
