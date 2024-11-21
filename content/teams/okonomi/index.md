@@ -1,6 +1,6 @@
 ---
 title: Økonomi
-Ingress: Teamet bistår i planleggingen og utførelsen av virksomhetsstyringen i avdelingen. Det består blant annet i å bistå i VP- og budsjettrevisjoner og etablere metoder/metodikk for kontroll og generell oppfølging av økonomien i avdelingen.
+Ingress: Teamet skal bidra i planleggingen og utførelsen av virksomhetsstyringen i avdelingen. Dette består blant annet i å bistå i virksomhetsplanprosesser, etablering av metodikk for kontroll og generell oppfølging av økonomien i BOD og i Altinn samarbeidet.
 
 navigation_link:
   title: Team Lead
@@ -31,10 +31,28 @@ tags:
 
 ## Ansvarsområder
 
-- Kontrollere budsjett og regnskap for BOD
-- Oppfølging av Samarbeidsavtalens bilag 4
-- Foreslå og etablere attestasjons- og budsjettdisponeringsmyndighet
-- Oppfølging av budsjett med avvikskontroll, periodisering og systemer for ”early warning”, kostnadsreduserende tiltak
-- Tilpasse og implementere styrings- og rapporteringsstruktur
-- Etablere metode/metodikk og rutiner for bruk i linjen og kontroll
-- Intern kravsetter før oppstart/bevilgning og oppfølging av vedtak/ressursbruk
+Regnskap og budsjett
+-	Attestering
+-	Kontroll og oppfølging av regnskap i BOD, herunder omposteringer
+-	Oppfølging av budsjett med avvikskontroll
+
+Rapportering
+-	Rapportering på prosjekter og drift
+-	Utarbeidelse av prognoser 
+-	Deltager i Digdir sitt økonomikontakt-team
+
+Prosjektstyring
+-	Støtte produkteiere og ledelse i prognostisering og oppfølging 
+-	Følge opp timeregnskap på avdelingens prosjekter 
+
+Fakturering
+-	Fakturering av tjenesteeiere jf. Samarbeidsavtalens bilag 4
+-	Avregning av tjenesteeierfinansieringen ved årsslutt
+-	Fakturering av andre etatsfinansierte prosjekter
+-	Internfakturering
+
+Rutineutvikling
+-	Tilpasse og implementere styrings- og rapporteringsstruktur
+-	Etablere metodikk og rutiner for bruk i linjen og kontroll av disse
+-	Intern kravsetter før oppstart og oppfølging av ressursbruk
+-	Høringsinstans for saksfremlegg med merkantilt innhold i BOD
