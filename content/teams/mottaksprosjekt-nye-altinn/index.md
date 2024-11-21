@@ -24,7 +24,7 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Dokumentasjon" subtitle="" url="" url_text="Confluence">}}
+{{< team/product-item title="Dokumentasjon" subtitle="" url="https://digdir.atlassian.net/wiki/spaces/BM/overview?homepageId=2824503569" url_text="Confluence">}}
 {{< /team/products >}}
 
 ## Ansvarsområder
