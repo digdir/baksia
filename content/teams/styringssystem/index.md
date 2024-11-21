@@ -24,11 +24,10 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="" >}}
 
 {{< /team/members >}}
-
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="Github">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/Altinn/projects/122/views/1" url_text="Github" >}}
 {{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/122" url_text="Github" >}}
+{{< team/product-item title="Roadmap Baksia" subtitle="Forvaltningsendringer på Baksia" url="https://github.com/orgs/Altinn/projects/122/views/7" url_text="Baksia">}}
+
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
