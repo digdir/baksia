@@ -1,6 +1,6 @@
 ---
-title: Felles datakatalog
-ingress: Felles datakatalog gir oversikt over hvilke data virksomheter har, som de kan dele med andre. I felles datakatalog finner du beskrivelser av datasett, begreper, API-er, informasjonsmodeller og tjenester og hendelser.
+title: Data.norge.no
+ingress: Data.norge.no gir oversikt over hvilke data virksomheter har, som de kan dele med andre. På data.norge.no finner du beskrivelser av datasett, begreper, API-er, informasjonsmodeller og tjenester og hendelser. I tillegg til portalen hvor du kan se beskrivelsene, drifter teamet en høsteløsning for å høste beskrivelser fra virksomhetenes egne kataloger, en registreringsløsning for å registrere beskrivelsene manuelt og Datalandsbyen, et forum hvor man kan diskutere datadeling og behov for data. 
 
 navigation_link:
   title: Produkteier
@@ -21,7 +21,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="Team-arkitekt, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum master, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50879748?v=4" name="Pooria Mehregan" role="Frontend, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/108797958?v=4" name="Terje Sylvarnes" role="Frontend, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/3617256?v=4" name="Livar Bergheim" role="Datajeger, Fast, Leikanger">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/430997?v=4" name="Jeff Reiffers" role="Fullstack, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50194012?v=4" name="Nils Ove Tendenes" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/48259307?v=4" name="Hege Aalvik" role="Fullstack, Konsulent, Oslo">}}
