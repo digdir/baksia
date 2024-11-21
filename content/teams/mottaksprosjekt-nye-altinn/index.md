@@ -1,6 +1,6 @@
 ---
 title: Mottaksprosjekt Nye Altinn
-Ingress: Ingress TODO
+Ingress: Teamet skal holde et overordnet blikk på roller og ansvar for å sikre at organisasjonen er godt forberedt på drift og forvaltning av Altinn 3. Dette innebærer å få oversikt over alle nødvendige aktiviteter, at ansvar er tydelig plassert og forstått, samt at ingen kritiske oppgaver eller kapabiliteter faller mellom stolene.
 
 navigation_link:
   title: Prosjektleder
@@ -17,15 +17,14 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/123467801?v=4" name="Camilla Wold" role="Prosjektleder" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/25979569?v=4" name="Knut Halvor Larnsen" role="Prosjektdeltaker, Konsulent" >}}
 
 
 
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="Github">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="" url_text="Github" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="Github" >}}
+{{< team/product-item title="Dokumentasjon" subtitle="" url="" url_text="Confluence">}}
 {{< /team/products >}}
 
 ## Ansvarsområder
