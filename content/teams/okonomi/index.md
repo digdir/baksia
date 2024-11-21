@@ -31,27 +31,27 @@ tags:
 
 ## Ansvarsområder
 
-### Regnskap og budsjett
+**Regnskap og budsjett**
 -	Attestering
 -	Kontroll og oppfølging av regnskap i BOD, herunder omposteringer
 -	Oppfølging av budsjett med avvikskontroll
 
-### Rapportering
+**Rapportering**
 -	Rapportering på prosjekter og drift
 -	Utarbeidelse av prognoser 
 -	Deltager i Digdir sitt økonomikontakt-team
 
-### Prosjektstyring
+**Prosjektstyring**
 -	Støtte produkteiere og ledelse i prognostisering og oppfølging 
 -	Følge opp timeregnskap på avdelingens prosjekter 
 
-### Fakturering
+**Fakturering**
 -	Fakturering av tjenesteeiere jf. Samarbeidsavtalens bilag 4
 -	Avregning av tjenesteeierfinansieringen ved årsslutt
 -	Fakturering av andre etatsfinansierte prosjekter
 -	Internfakturering
 
-### Rutineutvikling
+**Rutineutvikling**
 -	Tilpasse og implementere styrings- og rapporteringsstruktur
 -	Etablere metodikk og rutiner for bruk i linjen og kontroll av disse
 -	Intern kravsetter før oppstart og oppfølging av ressursbruk
