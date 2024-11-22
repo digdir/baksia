@@ -24,7 +24,7 @@ Så langt det er hensiktsmessig legges etablerte rammeverk og standarder til gru
 ---
 
 ### Minste privilegiums prinsipp
-Brukere skal kun gis tilgang og adgang til de IT-systemer/moduler/prosesser og den informasjon vedkommende har behov for i sitt arbeid og innenfor det minste tidsrommet som trengs. Dette reduserer risikoen for uautorisert tilgang til sensitive data og systemer.
+Brukere skal kun gis tilgang og adgang til de IT-systemer/moduler/prosesser og den informasjon vedkommende har behov for i sitt arbeid og innenfor det minste tidsrommet som trengs. Dette reduserer risikoen for uautorisert tilgang til sensitive data og systemer og brukere kan bare hente ut informasjon som de trenger.
 
 ---
 
@@ -56,10 +56,10 @@ Produktteamene er ansvarlige for etterlevelse av Digdirs retningslinjer og polic
 
 | **Aktivitet**              | **Fase**          | **Beskrivelse**                                                                 |
 |-----------------------------|-------------------|---------------------------------------------------------------------------------|
-| **Risikovurdering**         | Plan              | Personvern- og sikkerhetsrisiko vurderes gjennom hele livsløpet til løsningen. |
-| **Sikkerhetskrav**          | Plan-Test         | Enhetlige krav sikrer konsekvent og dokumenterbart kvalitetsnivå.              |
-| **Sikkerhetstest**          | Build-Test        | All kode testes statisk, dynamisk og gjennom penetrasjonstester.               |
-| **Håndtering av hendelser** | Operate-Monitor   | Produktteamene håndterer hendelser for å raskt gjenopprette normaltilstand.    |
+| **Risikovurdering**         | Plan              | Personvern- og sikkerhetsrisiko vurderes gjennom hele livsløpet til løsningen. Risikovurdering gjøres ved planlegging av endringer/ny funksjonalitet – typisk i forbindelse med oppstart at et nytt veikartelement/epic.|
+| **Sikkerhetskrav**          | Plan-Test         | Enhetlige sikkerhetskrav gir grunnlag for et helhetlig, konsekvent og dokumenterbart kvalitetsnivå for løsningene som utvikles. Sikkerhetskrav identifiseres i planfasen og verifiseres i bygg- eller testfasen.              |
+| **Sikkerhetstest**          | Build-Test        |All kode er gjenstand for statisk og dynamisk sikkerhetstest, som følges opp av produktteamene. I tillegg gjennomføres manuelle penetrasjonstester regelmessig. |
+| **Håndtering av hendelser** | Operate-Monitor   | Dersom en sikkerhetshendelse oppstår må riktige ressurser fra produktteamene involveres slik at hendelsen kan håndteres og normaltilstand gjenopprettes så snart som mulig.|
 
 ---
 
