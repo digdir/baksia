@@ -1,5 +1,7 @@
 ---
 title: Verktøy og informasjonskilder 
+linktitle: Verktøy
+
 ingress: |
   Det er viktig at vi har god oversikt og kontroll på verktøyene som vi bruker i avdelingen. Dette av hensyn til personvern og sikkerhet, kostnader ved innkjøp, effektiv og sikker bruk/deling av data.
   

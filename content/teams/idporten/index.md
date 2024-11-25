@@ -1,6 +1,7 @@
 ---
 title: ID-porten
-Ingress: Teamets hovedoppgave er å utvikle og forvalte ID-porten og Maskinporten.
+linktitle: ID-porten
+ingress: Teamets hovedoppgave er å utvikle og forvalte ID-porten og Maskinporten.
 
 navigation_link:
   title: Produkteier

@@ -1,6 +1,7 @@
 ---
 title: eInnsyn
-Ingress: En løsning som gjør offentlig forvaltning åpen og tilgjengelig for innbyggeren.
+linktitle: eInnsyn
+ingress: En løsning som gjør offentlig forvaltning åpen og tilgjengelig for innbyggeren.
 
 navigation_link:
   title: Produkteier

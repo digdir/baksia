@@ -1,5 +1,7 @@
 ---
-title: Data.norge.no
+title: data.norge.no
+linktitle: data.norge.no
+
 ingress: Data.norge.no gir oversikt over hvilke data virksomheter har, som de kan dele med andre. På data.norge.no finner du beskrivelser av datasett, begreper, API-er, informasjonsmodeller og tjenester og hendelser. I tillegg til portalen hvor du kan se beskrivelsene, drifter teamet en registreringsløsning der de som ikke har egne kataloger kan registrere sine beskrivelser, en høsteløsning for å høste beskrivelser fra virksomhetenes egne kataloger og fra registreringsløsningen og Datalandsbyen, et forum hvor man kan diskutere datadeling og behov for data. 
 
 navigation_link:

@@ -1,6 +1,8 @@
 ---
 title: eFormidling
-Ingress: Teamets hovedoppgave er å utvikle og forvalte eFormidling og Elma.
+linktitle: eFormidling
+
+ingress: Teamets hovedoppgave er å utvikle og forvalte eFormidling og Elma.
 
 navigation_link:
   title: Produkteier

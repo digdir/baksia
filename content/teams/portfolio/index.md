@@ -1,5 +1,7 @@
 ---
 title: Portefølje
+linktitle: Portefølje
+
 ingress: Porteføljekontoret møtes normalt hver 14 dag. I møtene behandles nye tiltak og pågående tiltak. Det tas stilling til oppstart av nye tiltak samt sikre innfrielse av krav for overgang til ny fase for igansatte tiltak.
 
 navigation_link:

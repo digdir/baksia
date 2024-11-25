@@ -1,6 +1,8 @@
 ---
 title: Økonomi
-Ingress: Teamet skal bidra i planleggingen og utførelsen av virksomhetsstyringen i avdelingen. Dette består blant annet i å bistå i virksomhetsplanprosesser, etablering av metodikk for kontroll og generell oppfølging av økonomien i BOD og i Altinn samarbeidet.
+linktitle: Økonomi
+
+ingress: Teamet skal bidra i planleggingen og utførelsen av virksomhetsstyringen i avdelingen. Dette består blant annet i å bistå i virksomhetsplanprosesser, etablering av metodikk for kontroll og generell oppfølging av økonomien i BOD og i Altinn samarbeidet.
 
 navigation_link:
   title: Team Lead

@@ -1,7 +1,8 @@
 ---
 title: ABS
-Ingress: Levere effektiv og god brukerstøtte mot sluttbrukere av Altinn. Kategorisere og eskalere eventuelle hendelser. 
+linktitle: ABS
 
+ingress: Levere effektiv og god brukerstøtte mot sluttbrukere av Altinn. Kategorisere og eskalere eventuelle hendelser. 
 
 navigation_link:
   title: Team Lead

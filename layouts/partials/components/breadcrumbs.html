@@ -6,6 +6,11 @@
       <li><a href="{{ .RelPermalink }}">{{ humanize (index (split .RelPermalink "/") (sub (len (split .RelPermalink "/")) 2)) }}</a></li>
       {{- end }}
     {{- end }}
-    <li>{{ humanize (index (split .RelPermalink "/") (sub (len (split .RelPermalink "/")) 2)) }}</li>
+
+    {{ if .Params.linktitle }}
+      <li>{{ .Params.linktitle }}</li>
+    {{ else }}
+      <li>{{ humanize (index (split .RelPermalink "/") (sub (len (split .RelPermalink "/")) 2)) }}</li>
+    {{ end }}
   </ul>
 </div>

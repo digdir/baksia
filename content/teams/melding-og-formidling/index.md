@@ -1,5 +1,6 @@
 ---
 title: Melding & Formidling
+linktitle: Melding & Formidling
 ingress: Team Melding & Formidling har ansvar for de to produktene Melding og Formidling både i Altinn 2 og Altinn 3.
 
 navigation_link:

@@ -1,5 +1,6 @@
 ---
 title: data.altinn.no
+linktitle: data.altinn.no
 
 ingress:
   Data.altinn.no har som oppgave å gjøre det enklere å dele data mellom virksomheter. Formålet er å gjenbruke informasjon direkte fra kilden – i sanntid.
