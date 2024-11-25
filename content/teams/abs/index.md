@@ -26,14 +26,16 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131243980?v=4" name="Elin Torgvær" role="Kundeveileder" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/180465845?v=4" name="Herman Sefring" role="Kundeveileder" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/180412833?v=4" name="John-Andreas Lorentzen" role="Kundeveileder" >}}
+{{< team/github-profile url="" name="Bente Maasø" role="Kundeveileder" >}}
 
 
 {{< /team/members >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Rekruttering til brukertester
+- Brukstøtte mot sluttbrukere av Altinn
 - Oppdatere og kvalitetssikre hjelpesider altinn.no
+- Rekruttering til brukertester
 - Oversettelsesarbeid
 - Testing
 - Pårørendetelefon Digdir

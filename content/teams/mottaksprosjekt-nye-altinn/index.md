@@ -17,7 +17,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/123467801?v=4" name="Camilla Wold" role="Prosjektleder" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/25979569?v=4" name="Knut Halvor Larnsen" role="Prosjektdeltaker, Konsulent" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/25979569?v=4" name="Knut Halvor Larsen" role="Prosjektdeltaker, Konsulent" >}}
 
 
 
