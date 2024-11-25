@@ -32,8 +32,9 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Rekruttering til brukertester
+- Brukstøtte mot sluttbrukere av Altinn
 - Oppdatere og kvalitetssikre hjelpesider altinn.no
+- Rekruttering til brukertester
 - Oversettelsesarbeid
 - Testing
 - Pårørendetelefon Digdir
