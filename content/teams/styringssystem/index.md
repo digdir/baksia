@@ -25,8 +25,8 @@ tags:
 
 {{< /team/members >}}
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/122" url_text="Github" >}}
-{{< team/product-item title="Forvaltning Baksia" subtitle="Roadmap for Baksia" url="https://github.com/orgs/Altinn/projects/122/views/7" url_text="Baksia">}}
+{{< team/product-item title="Backlog for teamet" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/122" url_text="Github" >}}
+{{< team/product-item title="Roadmap for Baksia" subtitle="Forvaltning av Baksia" url="https://github.com/orgs/Altinn/projects/122/views/7" url_text="Baksia">}}
 {{< team/product-item title="Behov for hjelp med enkle endringer på Baksia?" subtitle="" url="https://digdir.slack.com/archives/C077SDNDHR9" url_text="Meld inn endring">}}
 
 {{< /team/products >}}
