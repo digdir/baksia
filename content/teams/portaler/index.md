@@ -26,7 +26,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144218610?v=4" name="Kenneth Helland" role="Innholdsforvalter for norge.no, Fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/147068285?v=4" name="Wilhelm Walberg Schive" role="Backend og tech-lead, Konsulent,  Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/147140002?v=4" name="Monica Wold Olsen" role="Frontend, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/147135987?v=4" name="Jonas Hildershavn" role="Backend, Konsulent, Oslo" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
@@ -36,5 +35,7 @@ tags:
 {{< team/responsibilities title="Ansvarsområder" >}}
 
 - Oppdatere og vedlikeholde norge.no
-- Oppdatere og vedlikeholde altinn.no
-- Ensrette og konsolidere portaler driftet av Digdir
+- Videreutvikle, oppdatere og vedlikeholde altinn.no
+- Ensrette og konsolidere sluttbrukerportaler driftet av Digdir
+- Sammenhengende design på tvers av teams
+- Framtidas innbyggerdialog
