@@ -24,6 +24,7 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
+{{< team/product-item title="Roadmap Mottaksprosjektet" subtitle="Roadmap" url="https://github.com/orgs/Altinn/projects/135/views/4" url_text="Github" >}}
 {{< team/product-item title="Dokumentasjon" subtitle="" url="https://digdir.atlassian.net/wiki/spaces/BM/overview?homepageId=2824503569" url_text="Confluence">}}
 {{< /team/products >}}
 
