@@ -23,15 +23,12 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71013993?v=4" name="Tage Bryn" role="Arkitekt,Brukerhistorier, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="Prosjekt koordinator, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/91191481?v=4" name="Cecilie Fjellsøy Lammering" role="Designer, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/277605?v=4" name="Erlend Oksvoll" role="sjefsarkitekt, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/142312811?v=4" name="Jan Vidar Simonsen" role="Sikkerhetsansvarlig, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/166691946?v=4" name="Johan Strømberg" role="Testleder, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3437949?v=4" name="Daniel Johansen" role="Fullstack, leder SW utvikling, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/24936250?v=4" name="Kurt Monge" role="Tech Lead, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/390839?v=4" name="Lars Olav Kjølstad" role="Fullstack, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/100407878?v=4" name="Thomas Østdahl" role="Fullstack, Konsulent, Oslo" >}}
-
-
 
 {{< /team/members >}}
 
