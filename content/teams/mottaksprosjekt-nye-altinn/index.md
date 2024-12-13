@@ -30,4 +30,5 @@ tags:
 
 ## Ansvarsområder
 
-- ...
+Mottaksprosjektet har mandat til å hente innsikt i organisasjonens forberedelser, og gi anbefalinger. Prosjektet har en koordinerende rolle for å sikre en helhet på tvers av kapabiliteter. Prosjektet har ikke mandat til å implementere verktøy, fatte beslutninger om ressurser eller bestemme metode og rammeverk.
+
