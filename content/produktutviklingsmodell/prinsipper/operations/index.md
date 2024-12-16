@@ -49,6 +49,6 @@ Det brukes ulike verktøy i dag, Eks Renovate
 
 7. Backup og gjenoppretting:
 
-Platform Teamet i BOD har etablert løsninger som skal sigre regelmessige sikkerhetskopier av data og systemer, samt hvordan restore skal kunne håndteres. 
+Platform Teamet i BOD har etablert løsninger som skal sigre regelmessige sikkerhetskopier av data og systemer, samt hvordan gjenoppretting skal kunne håndteres. 
 Vi skal samtidig ha etablerte planer for kontinuerlig teste våre løsninger at de fungerer til enhver tid, ikke minst teste hvor lang tid restore av ulike data vil ta. 
 
