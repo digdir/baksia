@@ -102,6 +102,17 @@ Samarbeidsportalen er den primære informasjons- og varslingskanalen fra Digital
 Nettsted for kode, back log, dokumentasjon, kanban tavle og deling av informasjon.
 {{< /verkt-infokanal/accordion >}}
 
+{{< verkt-infokanal/accordion title="Confluence" >}}
+[Confluence](https://digdir.atlassian.net/wiki/home)
+
+Confluence et verktøy for å samle, organisere og samarbeide om innhold, og det er mye brukt for intern kommunikasjon og dokumentasjon i bedrifter og team. 
+- Team i BOD som tar i bruk Confluence skal sørge for at det kun benyttes til <ins>**intern**</ins> dokumentasjon, som ikke er egnet eller klart for ekstern publisering.
+- Informasjonen som legges inn i Confluence er i utgangspunktet åpen for alle i Digdir som har en Confluence bruker og alle med bruker fra BOD har (lese)tilgang til alle BOD områder i Confluence.
+
+[Rutiner for conflunce](https://digdir.sharepoint.com/:f:/r/sites/DigdirDGT/Delte%20dokumenter/General/Rutiner,%20prosedyrer%20BOD?csf=1&web=1&e=eN3Utt)
+
+{{< /verkt-infokanal/accordion >}}
+
 {{< verkt-infokanal/accordion title="Slack" >}}
 Works places og kanal som brukes i utvikling, til deling og utveksling av informasjon internt og eksternt.
 
