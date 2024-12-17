@@ -37,6 +37,6 @@ Porteføljen gir også innspill til Satsningsforslag og Virksomhetsplan på vegn
 ## Fordeling av tiltaket
 Etter å ha vært gjennom konsept- og planleggingsfasen har du fått beskrevet hvem som er ansvarlig for gjennomføring, hvilke team som må involveres, hvilke ressurser og midler det er behov for med mer.  
 
-Tiltaket fordeles deretter til produktgruppen, teamet / teamene eller arbeiedsgruppen som skal gjennomføre arbeidet.
+Tiltaket fordeles deretter til produktgruppen, teamet / teamene eller arbeidsgruppen som skal gjennomføre arbeidet.
 
 [Gå til implementering](../../flyt#implementering)
