@@ -30,7 +30,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/103100644?v=4" name="Hanne Saltnes" role="Interaksjonsdesigner, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94835837?v=4" name="Randi Mansæterbak" role="Interaksjonsdesigner, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22615518?v=4" name="Ernst Jonny Lyngøy" role="Test, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/113685460?v=4" name="Sneha Sirure" role="Test, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1306601?v=4" name="Vegard Nyeng" role="Test, konsulent, Oslo">}}
