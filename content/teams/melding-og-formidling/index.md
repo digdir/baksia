@@ -24,6 +24,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/24913160?v=4" name="Andreas Hammerbeck" role="Produkteier, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/130640130?v=4" name="Marianne Saltnes" role="Behovsstiller, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/78788499?v=4" name="Axel Ytterås" role="Backend, Fullstack, Fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/45386992?v=4" name="Viktor Olsen" role="Produktsjef, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/182608783?v=4" name="Martin Todorov" role="Backend, Fast, Oslo">}}
 {{< /team/members >}}
 
