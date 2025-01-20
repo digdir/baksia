@@ -19,8 +19,11 @@ tags:
 {{< team/members title="Medlemmer i teamet">}}
 
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, fast, Hamar" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/113984758?v=4" name="Benjamin Brodie" role="Fullstack, KI-guru, konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/15182069?v=4" name="Simon Archer Dreyer" role="Design, fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/113984758?v=4" name="Benjamin Brodie" role="KI-guru, konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/23278708?v=4" name="Nikolai Lunde" role="Utvikler, fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/144219994?v=4" name="Nora Laeskogen" role="Utvikler, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/79701340?v=4" name="Simen Waitz " role="Utvikler, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/15182069?v=4" name="Simon Dreyer" role="Designer, fast, Oslo">}}
 
 {{< /team/members >}}
 
@@ -33,6 +36,7 @@ tags:
 - Løsning for å kunne stille spørsmål på tvers av koden i alle tjenester utviklet i Altinn Studio.
 - Automatisere/effektivisere utviklingen av digitale tjenester i Altinn Studio.
 
+Se oversikt over caser [her](https://github.com/Altinn/ai/issues?q=is%3Aissue%20state%3Aopen%20label%3Akind%2Fcase).
 
 ## Ansvarsområder
 
