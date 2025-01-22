@@ -9,8 +9,7 @@ navigation_link:
 ![Flyt i produktutviklingen](/images/pom-flow-map.svg)
 
 ## Jeg har en idé, men hvor starter jeg?
-I Digdir skal beslutninger tas på lavest mulig nivå. Det betyr at størrelsen på ideen, antall mennesker som må involveres, og en tydelig tidsbegrensning (timebox) i stor grad styrer hvor du bør starte reisen din.  
-
+I avdelingen Brukeropplevelse og Datadeling tas beslutninger av dem som har best kunnskap og er nærmest arbeidet. Dette innebærer at ideens omfang, antallet som må involveres, og en klar tidsbegrensning (timebox) i stor grad avgjør hvor du bør starte prosessen din.
 Under ligger flere mulige inngangsporter for å få ideen implementert som beskriver når de bør tas i bruk og hvordan de fungerer.
 
 {{<child-pages>}}
