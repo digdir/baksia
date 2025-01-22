@@ -1,7 +1,7 @@
 ---
-title: Produkt­utviklings­modell
+title: Produktleveransemodell
 ingress: >
-  Produktutviklingsmodellteamet har ansvar for å utvikle, vedlikeholde og forbedre rammeverket og arbeidsflyten, også kalt "måten vi jobber på". Teamet analyserer og eksperimenterer kontinuerlig for å forbedre hastighet, kvalitet og ressursbruk. Vi samarbeider tett med spesialister innen design, arkitektur, ledelse og drift i Digdir/BOD. Teamet har et sterkt fokus på kontinuerlig læring, smidige metoder og kunnskapsdeling for å forbedre prosesser og sikre høy effektivitet og bærekraft. Åpenhet og eksperimentering står sentralt i vårt arbeid.
+  Produktleveransemodell-team (PLM) har ansvar for å utvikle, vedlikeholde og forbedre rammeverket og arbeidsflyten, også kalt "måten vi jobber på". Teamet analyserer og eksperimenterer kontinuerlig for å forbedre hastighet, kvalitet og ressursbruk. Vi samarbeider tett med spesialister innen design, arkitektur, ledelse og drift i Digdir/BOD. Teamet har et sterkt fokus på kontinuerlig læring, smidige metoder og kunnskapsdeling for å forbedre prosesser og sikre høy effektivitet og bærekraft. Åpenhet og eksperimentering står sentralt i vårt arbeid.
 
 navigation_link:
   title: Team Lead
