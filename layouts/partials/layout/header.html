@@ -24,7 +24,7 @@
         <script src="/pagefind/pagefind-ui.js"></script>
         <script>
           window.addEventListener('DOMContentLoaded', (event) => {
-            new PagefindUI({ element: "#search", showSubResults: true });
+            new PagefindUI({ element: "#search", pageSize: 10, showSubResults: true });
             document.getElementsByClassName("pagefind-ui__search-input")[0].ariaLabel = "Søk";
           });
         </script>
