@@ -22,7 +22,7 @@ navigation_link:
 
   description="DENNE SIDEN ER UNDER OPPBYGGING"
 
-  external_url=""
+  external_url="https://github.com/digdir/baksia/blame/main/content/brukeropplevelse-og-datadeling/onboarding/nyansatt"
 >}}
 
 {{< onboarding/ext-nav-card
