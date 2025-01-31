@@ -25,7 +25,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/90609090?v=4" name="Jamal Alabdullah" role="Frontend, fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend, Team-arkitekt, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/48119543?v=4" name="William Thorenfeldt" role="Frontend, Scrummaster, konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/71079896?v=4" name="Andrea Standeren" role="Frontend og backend, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/89974012?v=4" name="Espen Halsen" role="Frontend og backend, lærling, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/148075168?v=4" name="Erling Hauan" role="Frontend og backend, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1525466?v=4" name="Jonas Dyrlie" role="Frontend og backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/180176181?v=4" name="Konrad Simsø" role="Frontend og backend, fast, Brønnøysund">}}
