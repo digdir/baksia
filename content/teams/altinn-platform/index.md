@@ -24,7 +24,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/8321743?v=4" name="Sebastian Duran" role="Plattformutvikler, AI Champion, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Team-arkitekt, Plattformutvikler, Fast, Korgen" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49302758?v=4" name="Øystein Otneim" role="Plattformutvikler, 80%, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/89203237?v=4" name="Simon Ellefsen" role="Plattformutvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/89203237?v=4" name="Simon Ellefsen" role="Plattformutvikler, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6243408?v=4" name="Khan Naby" role="Plattformutvikler, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45536168?v=4" name="Renato Monteiro" role="Plattformutvikler, Fast, Oslo">}}
