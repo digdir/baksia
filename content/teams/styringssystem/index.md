@@ -1,6 +1,6 @@
 ---
 title: Styringssystem
-ingress: Team Styringssystem skal legge til rette for at «alt henger sammen» i avdelingen mtp hvilke verktøy vi benytter for å styre og utføre arbeid i avdelingen, og sørge for at alle team dokumenterer sine prosesser og ansvarsområder helhetlig på Baksia. Dette vil f.eks. være å legge til rette for bruk av OKR som metodikk og dokumentere hvordan man gjør det.
+ingress: Team Styringssystem skal legge til rette for å vise sammenhenger i avdelingen med tanke på hvilke verktøy vi benytter i utførelse og organisering av arbeid i avdelingen. <teamnavn> følger opp at alle team dokumenterer sine prosesser og ansvarsområder helhetlig på Baksia ved hjelp av årshjul og ad hoc rutiner.
 
 navigation_link:
   title: Teamleder
@@ -30,11 +30,15 @@ tags:
 {{< team/product-item title="Behov for hjelp med enkle endringer på Baksia?" subtitle="" url="https://github.com/Altinn/styringssystem/issues/new?template=generelle-henvendelser-til-team-styringssystem.md" url_text="Meld inn endring">}}
 
 {{< /team/products >}}
+{{< team/responsibilities title="Baksia som oversikt gir" >}}
 
-{{< team/responsibilities title="Ansvarsområder" >}}
+-	Én felles kilde til informasjon
+- Kobling videre til relatert og detaljert informasjon
+- Økt transparens og effektivitet
+{{< team/responsibilities title="Overordnet ansvar innen" >}}
 
 -	OKR
 -	Forvaltning Baksia
--	Dokumentstyring
+-	Forvaltning dokumentasjon
 -	Intern kursing 
 -	Introduksjonsprogrammet (onboarding)
