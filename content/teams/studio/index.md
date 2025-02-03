@@ -16,9 +16,9 @@ tags:
 - stream-aligned
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C0760NPT2BE" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1636323?v=4" name="Nina Kylstad" role="Produkteier, fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/23359247?v=4" name="Mirko Sekulic" role="Backend, konsulent,  Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/23359247?v=4" name="Mirko Sekulic" role="Backend, konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/24462611?v=4" name="Michael Queyrichon" role="Frontend, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/29770305?v=4" name="Tomas Engebretsen" role="Frontend, konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars Walderhaug" role="Frontend, fast, Oslo" >}}
