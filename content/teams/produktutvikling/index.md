@@ -27,8 +27,16 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/35563205?v=4" name="Frank-Robert Sveinsbø" role="Porteføljestyrer" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Sjefsdesigner" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/21181213?v=4" name="Therese Engen" role="Smidig Virksomhetscoach" >}}
 
 {{< /team/members >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/digdir/projects/24/views/1" url_text="Github" >}}
+
+{{< team/responsibilities title="Ansvarsområder" >}}
+
+Utvikling og forbedring av produktleveransemodellen
+Optimalisering av arbeidsflyt og rammeverk
+Drive innovasjon gjennom testing, smidige metoder og kunnskapsdeling
 
 {{< team/responsibilities title="Oppgaver" >}}
 
