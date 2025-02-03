@@ -2,7 +2,7 @@
 banner:
   image:
     src: /illustrations/illustration-05.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som kaster noe i luften
     position: right
 
 weight: 2
@@ -10,9 +10,11 @@ weight: 2
 
 ## Brukeropplevelse
 
-Seksjonen skal sørge for at vi tar utgangspunkt i data og innsikt i brukerbehov når vi prioriterer og utvikler. Vi skal være med på å legge de strategiske føringene for produktene våre, og bidra til å skape bedre og mer lik brukeropplevelse og design i offentlig sektor. På den måten jobber vi for å gjøre hverdagen enklere for brukerne.
+Seksjonen skal bygge kompetansekapasitet innen brukeropplevelse som sikrer at vi tar utgangspunkt i brukerbehov, gjennom data og innsikt, når vi prioriterer og utvikler produkter. Seksjonens medarbeidere dekker flere designretninger(se roller) og skal være en drivkraft i å legge de strategiske føringene for produktene våre. Og samtidig styrke vår evne og bidrag til bedre og mer enhetlig brukeropplevelse og design i offentlig sektor. 
 
 Seksjonsleder: Reidun Milde
+
+Gruppeleder IXD: Hanne Kristin Saltnes
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
 

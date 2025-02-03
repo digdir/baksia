@@ -1,7 +1,7 @@
 ---
-title: Brukeropplevelse og datadeling (BOD)
+title: Bruker­opplevelse og datadeling (BOD)
 ingress: |
-  BOD er en av to avdelinger i Digdir som leverer fellesløsninger. Vi forvalter (salg, drift og support) og videreutvikler Altinn og Felles datakatalog. Vi jobber i tverrfaglige og selvgående team. Personalansvaret for fagfolkene våre ligger i seksjonene. Hver fagperson kan være del av ett eller flere team. Under finner du en nærmere oversikt over hvordan vi er organisert.
+  BOD forvalter og videreutvikler fellesløsningene, Altinn og Felles datakatalog. Vi jobber og leverer i tverrfaglige og selvgående team, men har personal- og kompetansetilhørighet i seksjoner. Nedenfor litt mer om hvordan vi bidrar med styring og støtte til avdelingen.
 
 # SEO
 description:
@@ -13,7 +13,7 @@ banner:
     alt: Illustration of a person holding a mobile screen on his knee
 
 navigation_link:
-  text: Her kan du lese mer om hvordan vi i BOD jobber og er organisert
+  text: Les hvordan avdeling BOD er organisert
 ---
 
 ## For å bli verdensmester i digitalisering, må vi være verdensmester i samarbeid sier leder Andreas Gjertin Rafaelsen i BOD:
