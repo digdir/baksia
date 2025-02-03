@@ -34,9 +34,9 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-Utvikling og forbedring av produktleveransemodellen
-Optimalisering av arbeidsflyt og rammeverk
-Drive innovasjon gjennom testing, smidige metoder og kunnskapsdeling
+* Utvikling og forbedring av produktleveransemodellen
+* Optimalisering av arbeidsflyt og rammeverk
+* Drive innovasjon gjennom testing, smidige metoder og kunnskapsdeling
 
 {{< team/responsibilities title="Oppgaver" >}}
 
