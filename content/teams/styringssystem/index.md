@@ -32,9 +32,12 @@ tags:
 {{< /team/products >}}
 {{< team/responsibilities title="Baksia som oversikt gir" >}}
 
+### Baksia som oversikt gir
+
 -	Én felles kilde til informasjon
 - Kobling videre til relatert og detaljert informasjon
 - Økt transparens og effektivitet
+
 {{< team/responsibilities title="Overordnet ansvar innen" >}}
 
 -	OKR
