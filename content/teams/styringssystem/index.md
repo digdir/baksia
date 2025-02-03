@@ -30,7 +30,6 @@ tags:
 {{< team/product-item title="Behov for hjelp med enkle endringer på Baksia?" subtitle="" url="https://github.com/Altinn/styringssystem/issues/new?template=generelle-henvendelser-til-team-styringssystem.md" url_text="Meld inn endring">}}
 
 {{< /team/products >}}
-{{< team/responsibilities title="Baksia som oversikt gir" >}}
 
 ### Baksia som oversikt gir
 
