@@ -27,7 +27,7 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/731401?v=4" name="Anne Marte Hjemås" role="Utvikler, Oslo" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/8371957?v=4" name="Randi Øyri" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/114908757?v=4" name="Sigvald Høyheim" role="Utvikler, Leikanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/114908757?v=4" name="Rune Melhus" role="Utvikler, Oslo" >}}
+  {{< team/github-profile url="" name="Rune Melhus" role="Utvikler, Oslo" >}}
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/16701985?v=4" name="Linesh Raghawan" role="Testutvikler, Leikanger" >}}
 
