@@ -32,12 +32,15 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Designsystemet skal forenkle og effektivisere arbeidsflyten for designere, utviklere og produktteam.
-- Designsystemet skal tilby UI-komponenter og mønstre som bidrar til mer helhet og konsistens i løsningene vi leverer.
-- Designsystemet skal sikre bedre kvalitet ved at tilgjengeligskrav og testing er ivaretatt i komponentene som lages og vedlikeholdes sentralt. 
-
-I tillegg skal vi
-- Lage dokumentasjon, retningslinjer og god praksis for å bruke komponenter og mønstre
+- Forenkle og effektivisere arbeidsflyten for designere, utviklere og produktteam.
+- Tilby grunnleggende UI-komponenter og mønstre der tilgjengelig og testing er ivaretatt.
+- Tilby dokumentasjon, retningslinjer og god praksis for UI-komponenter og mønstre
 - Koordinere og tilrettelegge for samarbeid mellom DevOps-team som bruker og bidrar til å utvikle designsystemet
-- Involvere andre offentlige aktører i samarbeidet – skape et samarbeid rundt felles designsystem i det offentlige
+- Involvere andre offentlige aktører i samarbeidet
+- Skape en samarbeidsarena rundt designsystem og brukeropplevelse i Norge
 
+
+---
+
+
+**Les mer på [designsystemet.no](https://www.designsystemet.no)**
