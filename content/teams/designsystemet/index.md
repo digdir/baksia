@@ -25,7 +25,7 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/digdir/designsystemet/issues/1435" url_text="Github">}}
+{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/3/views/30" url_text="Github">}}
 {{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/digdir/projects/3" url_text="Github" >}}
 {{< team/product-item title="Repo" subtitle="Hold deg oppdatert her" url="https://github.com/digdir/designsystemet" url_text="Github" >}}
 {{< /team/products >}}
