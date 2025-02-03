@@ -1,0 +1,17 @@
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+<link rel="prefetch" href="{{ .Permalink }}" />
+
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+{{ end }}
+
+<link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
+<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml" />
+
+{{ $options := (dict "targetPath" "main.css" "outputStyle" "compressed" "enableSourceMap" true "includePaths" (slice "node_modules")) }}
+{{ $style := resources.Get "sass/main.scss" | css.Sass $options | resources.Minify }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+<script src="https://kit.fontawesome.com/85f464b459.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>

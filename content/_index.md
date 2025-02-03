@@ -1,7 +1,7 @@
 ---
 title: Velkommen til Baksia!
 
-ingress: Her finner du informasjon om hvordan vi i Digdir forvalter og videreutvikler produktene våre, for eksempel hvordan vi styrer, jobber og fordeler ansvaret for arbeidet.
+ingress: Vi er to innovative leverandør-avdelinger i Digdir, som spesialiserer oss på digitale fellesløsninger, organisert rundt prinsippene DesOps og DevOps. Vårt hovedfokus er å forbedre brukeropplevelsen samtidig som vi fremmer tverrfaglig samarbeid og kontinuerlig forbedring på tvers av team. Vi tror at fokus på utvikling og drift som en modernisert enhet, sørger for effektive og brukervennlige løsninger for våre kunder. Bli med oss på reisen mot en mer smidig og sammenkoblet fremtid! Baksia -our way of working!
 
 # SEO
 description:

@@ -9,7 +9,7 @@ navigation_link:
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
 - pg_tjenesteutvikling
@@ -18,15 +18,17 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/29474941?v=4" name="Elin Walstrand" role="Produkteier, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Scrum Master, Skjemautvikler, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/75472603?v=4" name="Andreas Didriksen" role="Skjemautvikler, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/65394379?v=4" name="Tony Grimstad" role="Skjemautvikler, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/114151129?v=4" name="Ahmed Ghanam" role="Fullstack, Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Skjemautvikler,Scrum Master, Konsulent,  Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/61122289?v=4" name="Celine Uyen Tram Tran" role="Skjemautvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/120412864?v=4" name="Elias Tilrem Johansen" role="Trainee, Fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/78788499?v=4" name="Axel Ytterås" role="Trainee, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144219994?v=4" name="Nora Sofie Thesen Laeskogen" role="Skjemautvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56260049?v=4" name="Per Bergsjø Andresen" role="Skjemautvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/143729834?v=4" name="Filippa Walden" role="Skjemautvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/150332945?v=4" name="Tina Ahmedpanah " role="Skjemautvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/44813032?v=4" name="Erlend Håkegård " role="Skjemautvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/79701340?v=4)" name="Simen Myhre Waitz " role="Skjemautvikler, Konsulent, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}

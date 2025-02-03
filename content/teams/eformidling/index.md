@@ -1,6 +1,8 @@
 ---
 title: eFormidling
-Ingress: Teamets hovedoppgave er å utvikle og forvalte eFormidling og Elma.
+linktitle: eFormidling
+
+ingress: Teamets hovedoppgave er å utvikle og forvalte eFormidling og Elma.
 
 navigation_link:
   title: Produkteier
@@ -9,7 +11,7 @@ navigation_link:
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
 - pg_meldingsutveksling

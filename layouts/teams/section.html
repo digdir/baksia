@@ -13,7 +13,7 @@
         class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
       >
         <div>
-          <img class="img-fluid" src="/images/team-topologies.svg" style="margin-left: 4em;">
+          <img class="img-fluid" alt="Figur som viser de ulike typene team som er definert i boken Team Topologies" src="/images/team-topologies.svg" style="margin-left: 4em;">
         </div>
       </div>
     </div>
@@ -25,13 +25,14 @@
       {{ .Content }}
       <div class="row gy-4">
         <div class="col-sm-12" style="height: 2.5em;">
-          <label for="team-filter">Vis</label>
+          <label for="team-filter">Team filter</label>
           <select id="team-filter" class="h-100" onchange="javascript:changeFilter(this.options[this.selectedIndex].value); return true;">
             <option value="">Alle</option>
-            <option value="enabling">Enabling teams</option>
-            <option value="platform">Platform teams</option>
-            <option value="stream-aligned">Stream-aligned teams</option>
-            <option value="complicated-subsystem">Complicated-subsystem teams</option>
+            <option value="stream-aligned">Stream-aligned (verdistrøm)</option>
+            <option value="enabling">Enabling (tilrettelegging)</option>
+            <option value="platform">Platform</option>
+            <option value="complicated-subsystem">Complicated-subsystem</option>
+            <option value="other">Andre team og faggrupper</option>
             <option value="pg_datadeling">Produktgruppe - Datadeling</option>
             <option value="pg_innsyn">Produktgruppe - Innsyn og oppslag</option>
             <option value="pg_meldingsutveksling">Produktgruppe - Meldingsutveksling</option>
@@ -48,7 +49,7 @@
   <div class="container">
     <div class="row gy-4">
       {{ range .Pages }}
-        <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+        <div class="col-sm-12 col-lg-6 col-xxl-4">
           {{ .Render "li"}}
         </div>
       {{ end }}
@@ -81,6 +82,7 @@
   .stream-aligned a {background-color: #F4E9CD !important;}
   .platform a {background-color: #8FCCE8 !important;}
   .complicated-subsystem a {background-color: #F6ACA1 !important;}
+  .other a {background-color: #ccffcc !important;}
 </style>
 
 {{ end }}

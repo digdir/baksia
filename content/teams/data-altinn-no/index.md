@@ -1,5 +1,6 @@
 ---
 title: data.altinn.no
+linktitle: data.altinn.no
 
 ingress:
   Data.altinn.no har som oppgave å gjøre det enklere å dele data mellom virksomheter. Formålet er å gjenbruke informasjon direkte fra kilden – i sanntid.
@@ -11,7 +12,7 @@ navigation_link:
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
 - pg_datadeling
@@ -20,11 +21,9 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C9STJH9NZ" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/277605?v=4" name="Erlend Oksvoll" role="Produkteier, backend, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, infrastruktur, backend, 50%, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/82439090?v=4" name="Hanne Brun" role="Scrum master, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3437949?v=4" name="Daniel Rustad Johansen" role="Frontend, backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23278708?v=4" name="Nikolai Maasø Lunde" role="Frontend, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/177205336?v=4"  name="Sondre Jahrsengene" role="Backend, Fast, Oslo">}}
 {{< /team/members >}}
 

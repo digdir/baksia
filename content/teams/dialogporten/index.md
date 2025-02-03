@@ -11,7 +11,7 @@ navigation_link:
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
 - pg_meldingsutveksling
@@ -23,11 +23,12 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master, 50%, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, backend, 50%, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend, Konsulent, Hamar">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5313373?v=4" name="Ole-Jørgen Skogstad" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1777366?v=4" name="Are Almaas" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/154342485?v=4" name="Knut Haug" role="Backend, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/11448941?v=4" name="Amund Myrbostad" role="Backend, Fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Leif Kristian Helstad" role="Test & QA ansvarlig, Konsulent, Oslo">}}
 
 {{< /team/members >}}
 
@@ -38,11 +39,10 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Arkitektur og løsningsbeskrivelse
-- Konseptbevis (Proof of Concept, PoC)
-- Ekstern testing
-- Etablere forvaltning
+- Utvikling og forvaltning av Dialogporten som produkt
+- Infrastruktur knyttet til Dialogporten
+- Integrasjoner mot andre interne produkter
+- Utvikling av relevante verktøy og referanseimplementasjoner
 - Dokumentasjon
-- Bidra til Digdirs felles designsystem
-- DevOps-team med totalansvar fra idé til produksjon
+- Support mot tjenesteeiere, sluttbrukersystemleverandører og andre interne team
 

@@ -9,7 +9,7 @@ navigation_link:
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
 - pg_tillitstjenester
@@ -23,13 +23,12 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1149104?v=4" name="Martin Gunnerud" role="Frontend, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/34273718?v=4" name="Dhanalakshmi Gopalswamy" role="Backend, konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/75827794?v=4" name="Sondre Bråthen" role="Backend, konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/144321622?v=4" name="Mette Grytten" role="Design lead og interaksjonsdesigner, fast, Leikanger">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/144321622?v=4" name="Mette Grytten" role="Design lead og interaksjonsdesigner, fast, Førde">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/61084786?v=4" name="Simen Rekkedal" role="Backend, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/112334?v=4" name="Aleksander Heintz" role="Backend, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/130562196?v=4" name="Sophie Arntsen" role="Interaksjonsdesigner, fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1306601?v=4" name="Vegard Nyeng" role="Test, konsulent, Oslo">}}
 
 
 

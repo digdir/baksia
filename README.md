@@ -6,7 +6,7 @@ https://baksia.digdir.no
 
 For a full description of how to do changes to Baksia, please read [CONTRIBUTING.md](https://github.com/digdir/baksia/blob/main/CONTRIBUTING.md).
 
-Requirements: [Hugo](https://gohugo.io/installation/) (extended)
+Requirements: [Hugo](https://gohugo.io/installation/) (extended) and [node (npm)](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)
 
 1. Clone repo:
    ```shell

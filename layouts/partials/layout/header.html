@@ -3,20 +3,45 @@
   "components/alert.html" (dict "context" . "alert" $alert)
 }}
 
-
 <header class="header">
   <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light p-0">
-      {{ with .Site.GetPage "/" }}
-        <a href="{{ .RelPermalink }}" style="text-decoration: none">
-          <img
-            class="my-auto pe-2"
-            style="width: 10rem"
-            src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}"
-            alt="logo"
-          />
-        </a>
-      {{ end }}
+    <nav class="row">
+        <div class="col-sm-12 col-lg-4">
+          {{ with .Site.GetPage "/" }}
+          <a href="{{ .RelPermalink }}" style="text-decoration: none;">
+            <img
+              class="my-auto pe-2 mt-2"
+              style="width: 10rem;"
+              src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}"
+              alt="Baksia"
+            />
+          </a>
+          {{ end }}
+        </div>
+        <!-- Search START -->
+        <div id="search" style="margin: auto;" class="col-sm-12 col-lg-8"></div>
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+        <script src="/pagefind/pagefind-ui.js"></script>
+        <script>
+          window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ element: "#search", pageSize: 10, showSubResults: true });
+            document.getElementsByClassName("pagefind-ui__search-input")[0].ariaLabel = "Søk";
+          });
+        </script>
+        <style>
+          :root {
+            --pagefind-ui-text: #000000;
+          }
+          .pagefind-ui__search-input::placeholder {
+            color: #757575 !important;
+            opacity: 1 !important;
+            font-weight: normal !important;
+          }
+          .pagefind-ui__form:before {
+            opacity: 1 !important;
+          }
+        </style>
+        <!-- Search END -->
     </nav>
   </div>
 </header>

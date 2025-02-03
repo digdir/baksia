@@ -9,7 +9,7 @@ navigation_link:
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
 - enabling
@@ -20,11 +20,11 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/63843143?v=4" name="Andreas Rafaelsen" role="Avdelingsleder for Brukeropplevelse og datadeling (BOD)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47210425?v=4" name="Tor Arild Sunnevåg " role="Seksjonsleder for Strategi og forretning (BSF)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/80898170?v=4" name="Reidun Milde" role="Seksjonsleder for Brukeropplevelse (BBO) " >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/7873274?v=4" name="Roberto Carrera" role="Seksjonsleder for Utvikling (BUT)">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/86382095?v=4" name="Dan Remi Mørk " role="Seksjonsleder for Platform og styring (BPS)" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/95215761?v=4" name="Hege Nielsen" role="Seksjonsleder for Brukerstøtte (BBS)">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="DevOps-leder">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role="Scrum Master">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/7873274?v=4" name="Roberto Carrera" role="Seksjonsleder DevOps Oslo (BUO)">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/86382095?v=4" name="Dan Remi Mørk " role="Seksjonsleder for Marked og Tjenesteoppfølging (BMT)" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/95215761?v=4" name="Hege Nielsen" role="Seksjonsleder for Brukerstøtte (BBS) og fungerende Selsjonsleder for Styring og Støtte (BSS)">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Seksjonsleder DevOps Brønnøysund (BUB)" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role="Smidig coach">}}
 
 {{< /team/members >}}
 

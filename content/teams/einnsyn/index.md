@@ -1,6 +1,7 @@
 ---
 title: eInnsyn
-Ingress: En løsning som gjør offentlig forvaltning åpen og tilgjengelig for innbyggeren.
+linktitle: eInnsyn
+ingress: En løsning som gjør offentlig forvaltning åpen og tilgjengelig for innbyggeren.
 
 navigation_link:
   title: Produkteier
@@ -9,7 +10,7 @@ navigation_link:
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
 - pg_innsyn

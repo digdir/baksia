@@ -1,5 +1,5 @@
 ---
-title: Portaler og brukeropplevelse
+title: Portaler og bruker­opplevelse
 
 navigation_link:
   text: |
@@ -10,7 +10,7 @@ layout: 'single_pg'
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt:
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 # determines if this content should be rendered in the
 # first section of the page as a blue box
@@ -23,6 +23,8 @@ produktgruppe: pg_portaler
 
 Produktgruppeansvarlig:  
 Lis Lonning
+
+Hanne Hofsæth Fredheim (fungerende)
 
 {{< icon class="prod-li-start-icon" >}} [altinn.no](https://www.altinn.no/)  
 {{< icon class="prod-li-start-icon" >}} [norge.no](https://www.norge.no/)

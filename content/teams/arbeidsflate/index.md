@@ -12,7 +12,7 @@ layout: 'team/single'
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
 - pg_portaler
@@ -25,13 +25,13 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Theresa Harmanen" role="Design-lead, 50%, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, backend, 50%, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Legal Coach, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Legal Coach, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/54906720?v=4" name="Alexander Midteide" role="Frontend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/213777?v=4" name="Frank Lyder Bredland" role="Frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3768832?v=4" name="Sean Erik Scully" role="Frontend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/15613654?v=4" name="Audun Karlsrud Larsen" role="Tjenestedesigner og fung. design lead arbeidsflate, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Mateusz Marek Bacherycz" role="Frontend, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/15613654?v=4" name="Audun Karlsrud Larsen" role="Tjenestedesigner, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1138656?v=4" name="Inge Fossland" role="UI Designer, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Kim Renè Teige" role="UX Designer, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Leif Kristian Helstad" role="Test & QA ansvarlig, Konsulent, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}

@@ -10,7 +10,7 @@ navigation_link:
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
 - pg_datadeling
@@ -22,7 +22,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/11029809?v=4" name="Øystein Åsnes" role="Faglig leder, Fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/82439090?v=4" name="Hanne Brun" role="Scrum master, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/79148378?v=4" name="Joachim Fugleberg" role="Fagressurs og prosjektleder for Nasjonale grunndata, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/3617256?v=4" name="Livar Bergheim" role="Fagressurs, Fast, Leikanger/Nordfjordeid" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/46558821?v=4" name="Jim Yang" role="Fagressurs, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/48056195?v=4" name="Espen Slotvik" role="Fagressurs, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/69573572?v=4" name="Christiane Fröhlich" role="Fagressurs, Fast, Oslo">}}
@@ -30,6 +29,8 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/48251060?v=4" name="Terje Bertelsen" role="Fagressurs, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/85098886?v=4" name="Helle Astrid Stedøy" role="Fagressurs, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/118802706?v=4" name="Steven Christensen" role="Fagressurs, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/108797958?v=4" name="Terje Sylvarnes" role="Fagressurs, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Oddhild Aasberg" role="Fagdirektør/jurist, Fast, Brønnøysund">}}
 
 {{< /team/members >}}
 

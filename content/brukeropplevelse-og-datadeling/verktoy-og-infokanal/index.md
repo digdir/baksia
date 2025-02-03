@@ -1,9 +1,11 @@
 ---
-title: Bruk av verktøy og informasjonskanal i BOD 
+title: Verktøy og informasjonskilder 
+linktitle: Verktøy
+
 ingress: |
-  Det er viktig at BOD har felles orden og kontroll på verktøy som brukes i avdelingen blant annet på grunn av personvern og sikkerhet, kostnader ved innkjøp, effektiv bruk av verktøy, bruk og deling av data som gir kvalitet for den enkelte bruker og Digdir.
+  Det er viktig at vi har god oversikt og kontroll på verktøyene som vi bruker i avdelingen. Dette av hensyn til personvern og sikkerhet, kostnader ved innkjøp, effektiv og sikker bruk/deling av data.
   
-  Oversikt over alle systemer og oppdateringer med beskrivelser finnes i [systemoversikten](https://digdir.sharepoint.com/:x:/r/sites/Systemoversikt/_layouts/15/Doc.aspx?sourcedoc=%7B74B1CF9D-37B8-43E2-BAEC-B23D0E66EFD4%7D&file=Systemoversikten.xlsx&action=default&mobileredirect=true&wdLOR=c7FB2C801-99E3-8047-A9A3-67BD0C0B4037) til Digdir på intranett.  
+  Oversikt over alle systemer finnes i [systemoversikten](https://digdir.sharepoint.com/:x:/r/sites/Systemoversikt/_layouts/15/Doc.aspx?sourcedoc=%7B74B1CF9D-37B8-43E2-BAEC-B23D0E66EFD4%7D&file=Systemoversikten.xlsx&action=default&mobileredirect=true&wdLOR=c7FB2C801-99E3-8047-A9A3-67BD0C0B4037) til Digdir på intranett.  
   
 Spesifisert oversikt over verktøy og informasjonskilder som brukes:
   Hvilke verktøy og informasjonskanaler har vi og hva brukes de til?
@@ -12,7 +14,7 @@ Spesifisert oversikt over verktøy og informasjonskilder som brukes:
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt:
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 layout: verkt-og-infokanal/single
 
@@ -22,7 +24,7 @@ isSecSection: true
 
 navigation_link:
   text: |
-    Kontroll på verktøy og informasjonskanaler
+   Få oversikt over systemene vi bruker!
 ---
 
 {{< verkt-infokanal/accordion title="Digdir.no" >}}
@@ -98,6 +100,17 @@ Samarbeidsportalen er den primære informasjons- og varslingskanalen fra Digital
 [github.com/Digdir ](https://github.com/digdir )
 
 Nettsted for kode, back log, dokumentasjon, kanban tavle og deling av informasjon.
+{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="Confluence" >}}
+[Confluence](https://digdir.atlassian.net/wiki/home)
+
+Confluence et verktøy for å samle, organisere og samarbeide om innhold, og det er mye brukt for intern kommunikasjon og dokumentasjon i bedrifter og team. 
+- Team i BOD som tar i bruk Confluence skal sørge for at det kun benyttes til <ins>**intern**</ins> dokumentasjon, som ikke er egnet eller klart for ekstern publisering.
+- Informasjonen som legges inn i Confluence er i utgangspunktet åpen for alle i Digdir som har en Confluence bruker og alle med bruker fra BOD har (lese)tilgang til alle BOD områder i Confluence.
+
+[Her finner du oppdatert rutine for conflunce](https://digdir.sharepoint.com/:f:/r/sites/DigdirDGT/Delte%20dokumenter/General/Rutiner,%20prosedyrer%20BOD?csf=1&web=1&e=eN3Utt)
+
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Slack" >}}
