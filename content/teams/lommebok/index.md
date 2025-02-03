@@ -1,6 +1,6 @@
 ---
 title: Digital lommebok
-linktitle: lommebok
+linktitle: digital-lommebok
 ingress: Temaet jobber med innføring av EUs digitale identitetslommebok, herunder både etablering av den nasjonale sandkassen for utprøving og varig infrastruktur.
 
 navigation_link:
@@ -23,8 +23,8 @@ tags:
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1137512?v=4" name="Aamund Bremer" role="Arkitekt, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/2151277?v=4" name="Thomas Reppesgård" role="Utvikler, Sandefjord" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/2151277?v=4" name="Magnus Lefdal" role="Utvikler, Oslo" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/2151277?v=4" name="Anders" role="Utvikler, Leikanger" >}}
+  {{< team/github-profile url="" name="Magnus Lefdal" role="Utvikler, Oslo" >}}
+  {{< team/github-profile url="" name="Anders" role="Utvikler, Leikanger" >}}
 
 
 {{< /team/members >}}
