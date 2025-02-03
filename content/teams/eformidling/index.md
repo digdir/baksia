@@ -33,6 +33,7 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/49980641?s=96&v=4" name="Justyna Mucha" role="Teknisk forvalter, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/57747742?s=96&v=4" name="Karsten Bjelde" role="Teknisk forvalter, Leikanger" >}}
   {{< team/github-profile url="" name="Morten Andre Hansen" role="Teknisk forvalter, Leikanger" >}}
+    {{< team/github-profile url="" name="Randi Eggum" role="Teknisk forvalter, Leikanger" >}}
 
 {{< /team/members >}}
 
