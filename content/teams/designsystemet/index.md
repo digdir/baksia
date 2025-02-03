@@ -8,7 +8,7 @@ navigation_link:
 
 banner:
   image:
-    src: /illustrations/illustration-03.png
+    src: /illustrations/illustration-11.png
     alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
@@ -25,19 +25,22 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/digdir/designsystemet/issues/1435" url_text="Github">}}
+{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/3/views/30" url_text="Github">}}
 {{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/digdir/projects/3" url_text="Github" >}}
 {{< team/product-item title="Repo" subtitle="Hold deg oppdatert her" url="https://github.com/digdir/designsystemet" url_text="Github" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Designsystemet skal forenkle og effektivisere arbeidsflyten for designere, utviklere og produktteam.
-- Designsystemet skal tilby UI-komponenter og mønstre som bidrar til mer helhet og konsistens i løsningene vi leverer.
-- Designsystemet skal sikre bedre kvalitet ved at tilgjengeligskrav og testing er ivaretatt i komponentene som lages og vedlikeholdes sentralt. 
-
-I tillegg skal vi
-- Lage dokumentasjon, retningslinjer og god praksis for å bruke komponenter og mønstre
+- Forenkle og effektivisere arbeidsflyten for designere, utviklere og produktteam.
+- Tilby grunnleggende UI-komponenter og mønstre der tilgjengelig og testing er ivaretatt.
+- Tilby dokumentasjon, retningslinjer og god praksis for UI-komponenter og mønstre
 - Koordinere og tilrettelegge for samarbeid mellom DevOps-team som bruker og bidrar til å utvikle designsystemet
-- Involvere andre offentlige aktører i samarbeidet – skape et samarbeid rundt felles designsystem i det offentlige
+- Involvere andre offentlige aktører i samarbeidet
+- Skape en samarbeidsarena rundt designsystem og brukeropplevelse i Norge
 
+
+---
+
+
+**Les mer på [designsystemet.no](https://www.designsystemet.no)**
