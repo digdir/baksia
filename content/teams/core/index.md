@@ -1,6 +1,6 @@
 ---
 title: Core
-ingress: Team Altinn Core har hovedansvaret for å utvikle felleskomponenter som støtter ulike produkter i Altinn 3, og drifter/forvalter infrastrukturen.
+ingress: Team Altinn Core har hovedansvaret for å utvikle, drifte og vedlikeholde produktet Varsling, og et knippe interne felleskomponenter som støtter ulike andre produkter i Altinn 3.
 
 navigation_link:
   title: Produkteier
@@ -36,6 +36,5 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Utvikle felleskomponenter på Altinn 3, for eksempel backup og overvåkingsløsninger
-- Drifte og forvalte infrastrukturen til Altinn 3
-- Sikre at de som bruker felleskomponentene våre får god veiledning og dokumentasjon
+- Utvikle, drifte og vedlikeholde produktet Varsling
+- Utvikle, drifte og vedlikeholde felleskomponenter på Altinn 3
