@@ -20,8 +20,7 @@ tags:
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/29775060?v=4" name="Sture Domaas Førre" role="Produkteier,  Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/2622676?v=4" name="Eldar Venes" role="Team Lead, Utvikler, Leikanger" >}}
-
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/28562254?v=4" name="Jan Ingar Tistel" role="Utvikler, 50%, Leikanger" >}}
+{{< team/github-profile url="" name="Solveig Kvame" role="Service Manager, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/149239?v=4" name="Aase Mestad" role="Utvikler, Oslo" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/46349741?v=4" name="Frode Bjerkholt" role="Utvikler, Oslo" >}}
 
@@ -35,4 +34,4 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Kontakt- og Reservasjonsregisteret 
+- Kontakt- og reservasjonsregisteret 
