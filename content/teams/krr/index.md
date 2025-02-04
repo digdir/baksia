@@ -1,6 +1,8 @@
 ---
-title: Kontaktregisteret
-Ingress: Norges minste register!
+title: Kontakt- og reservasjonsregisteret
+Ingress: Teamet utvikler og forvalter Kontakt- og reservasjonsregisteret - Primærkilden for innbyggernes digitale kontaktinformasjon
+
+KRR-teamet inngår som en del av Team MinID, med felles Team-lead, driftsleder og Service Manager
 
 navigation_link:
   title: Produkteier
