@@ -1,5 +1,5 @@
 ---
-title: Kontaktregisteret
+title: Kontakt- og reservasjonsregisteret
 Ingress: Norges minste register!
 
 navigation_link:
