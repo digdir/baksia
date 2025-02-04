@@ -4,7 +4,7 @@ Ingress: Produktgruppen har som formål å forenkle brukerens kommunikasjon med 
 
 navigation_link:
   text: |
-
+    Helhetlig brukeropplevelse for alle
 
 layout: 'single_pg'
 
