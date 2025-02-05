@@ -5,7 +5,7 @@ ingress: Team Digdir R&D Lab skal utforske mulighetene for bruk av generativ KI 
 
 navigation_link:
   title: Team Lead
-  subtitle: Eirik Mikkelsen
+  subtitle: Heather Broomfield
 
 banner:
   image:
@@ -18,6 +18,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/197900897?v=4" name="Heather Broomfield" role="Team Lead, fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, fast, Hamar" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/113984758?v=4" name="Benjamin Brodie" role="KI-guru, konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23278708?v=4" name="Nikolai Lunde" role="Utvikler, fast, Oslo" >}}
