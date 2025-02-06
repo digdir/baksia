@@ -1,10 +1,10 @@
 ---
 title: Data som ressurs 
-ingress: Teamet er vedtatt nedlagt av DSS og vil bli fjernet fra denne oversikten
+ingress: Teamet er vedtatt nedlagt av DSS og vil bli fjernet fra denne oversikten. Dersom du har spørsmål vedrørende dette, ta kontakt med tidligere teamleder Øystein Åsnes
  
 navigation_link:
   title: 
-  subtitle: Teamet er vedtatt nedlagt av DSS og vil bli fjernet fra denne oversikten
+  subtitle: Teamet er vedtatt nedlagt av DSS og vil bli fjernet fra denne oversikten. Dersom du har spørsmål vedrørende dette, ta kontakt med tidligere teamleder Øystein Åsnes
 
 banner:
   image:
