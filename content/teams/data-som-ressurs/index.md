@@ -4,7 +4,7 @@ ingress: Teamet er vedtatt nedlagt av DSS og vil bli fjernet fra denne oversikte
  
 navigation_link:
   title: 
-  subtitle: Teamet er vedtatt nedlagt av DSS og vil bli fjernet fra denne oversikten. Dersom du har spørsmål vedrørende dette, ta kontakt med tidligere teamleder Øystein Åsnes
+  subtitle: Teamet er vedtatt nedlagt av DSS og vil bli fjernet fra denne oversikten. Kontakt tidligere teamleder Øystein Åsnes ved evt spørsmål
 
 banner:
   image:
