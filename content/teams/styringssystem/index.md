@@ -1,6 +1,6 @@
 ---
-title: Styringssystem
-ingress: Team Styringssystem skal legge til rette for å vise sammenhenger i avdelingen med tanke på hvilke verktøy vi benytter i utførelse og organisering av arbeid i avdelingen. <teamnavn> følger opp at alle team dokumenterer sine prosesser og ansvarsområder helhetlig på Baksia ved hjelp av årshjul og ad hoc rutiner.
+title: Koordinering
+ingress: Team Koordinering skal legge til rette for å vise sammenhenger i avdelingen med tanke på hvilke verktøy vi benytter i utførelse og organisering av arbeid i avdelingen. Teamet følger opp at alle team dokumenterer sine prosesser og ansvarsområder helhetlig på Baksia ved hjelp av årshjul og ad hoc rutiner.
 
 navigation_link:
   title: Teamleder
