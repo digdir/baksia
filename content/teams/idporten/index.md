@@ -17,7 +17,8 @@ tags:
 - stream-aligned
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C03CKEHD286" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C012PN9BE85" slack_url_text="Henvendelse fra andre Digdir-team">}}
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1483360?v=4" name="Jørgen Binningsbø" role="Produkteier,  Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/77618118?v=4" name="Frank Hofslundsengen" role="Team Lead, Leikanger" >}}
