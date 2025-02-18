@@ -28,4 +28,6 @@ tags:
 
 {{< /team/members >}}
 
+{{< team/responsibilities title="Ansvarsområder" >}}
+
 
