@@ -22,7 +22,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/80898170?v=4" name="Reidun Milde" role="Seksjonsleder for Brukeropplevelse (BBO) " >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/7873274?v=4" name="Roberto Carrera" role="Seksjonsleder for DevOps Oslo (BUO)">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/86382095?v=4" name="Dan Remi Mørk " role="Seksjonsleder for Marked og Tjenesteoppfølging (BMT)" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/95215761?v=4" name="Hege Nielsen" role="Seksjonsleder for Brukerstøtte (BBS) og fung.Seksjonsleder for Styring og Støtte (BSS)">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/95215761?v=4" name="Hege Nielsen" role="Seksjonsleder for Brukerstøtte (BBS) og fung. Seksjonsleder for Styring og Støtte (BSS)">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Seksjonsleder for DevOps Brønnøysund (BUB)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role="Smidig coach">}}
 
@@ -30,4 +30,6 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 Strategisk ledelse:
+
+Operativ ledelse:
 
