@@ -29,7 +29,10 @@ tags:
 {{< /team/members >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
+Kommunisere samfunnsoppdrag og implementere virksomhetsplanen for dette.
+Tydeliggjøre  mål og strategier for produktgruppene og andre leveranseområder.
+Bygge en mer brukerorientert, resultatorientert og datadrevet kultur, som høster innsikt før beslutningstaking og kontinuerlig forbedring.
+Bygge en robust, skalerbar og fleksibel organisering som bygger på DevOps, og leverer bærekraftig resultat for samfunnet(våre kunder).
 
-
-
+Relevant styringsinformasjon finner du her: peke på "styring og støtte-siden"
 
