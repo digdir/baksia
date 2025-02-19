@@ -45,8 +45,11 @@ Etablere og utvikle økonomiske og regulatoriske rammebetingelser for avdelingen
 Rapportering internt i Digdir og til DFD.
 
 {{< team/responsibilities title="Møteplass for Lederlaget" >}}
-Ledermøter tirsdager: Leveransefokus i linja og program(prosjekt)
-Ledermøter fredager: Produktorganiserng(transformasjon)
+Ledermøter tirsdager: Fokus på Leveranser i linja, program og prosjekt.
+
+Ledermøter fredager: Fokus på Produktorganiserng(transformasjon av avdelingen)
+
+Ledermøter mellom BOD og FEL månedlig: Fokus på felles Produktstrategier, OKR, Brukerstøtte og markedsaktiviteter og konferanser for våre kunder.
 
 Styringsinformasjon finner du her: peke til "styring og støtte"
 
