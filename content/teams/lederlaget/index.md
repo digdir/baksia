@@ -32,11 +32,11 @@ tags:
 
 Kommunisere samfunnsoppdraget og implementere virksomhetsplanen for dette.
 
-Tydeliggjøre mål(okr) og strategier for våre leveranseområder(produktgrupper).
+Tydeliggjøre mål(okr) og strategier for vår linje(avdeling) og produktorganisasjon.
 
-Bygge en brukerorientert, resultatorientert og datadrevet kultur, som høster innsikt før beslutningstaking og kontinuerlig forbedring.
+Bygge en brukerorientert, resultatorientert og datadrevet kultur, som høster innsikt før beslutningstaking og hvor kontinuerlig forbedring er i fokus.
 
-Bygge en robust, skalerbar og fleksibel produktorganisering som bygger på Team Typologies og DevOps, og som leverer bærekraftig resultat for samfunnet(våre kunder).
+Bygge en robust, skalerbar og fleksibel produktorganisering som bygger på Team Topologies og DevOps, og som leverer bærekraftig resultater for samfunnet(våre kunder).
 
 Styringsinformasjon finner du her: peke til "styring og støtte"
 
