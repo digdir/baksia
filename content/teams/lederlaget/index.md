@@ -36,7 +36,17 @@ Tydeliggjøre mål(okr) og strategier for vår linje(avdeling) og produktorganis
 
 Bygge en brukerorientert, resultatorientert og datadrevet kultur, som høster innsikt før beslutningstaking og hvor kontinuerlig forbedring er i fokus.
 
-Bygge en robust, skalerbar og fleksibel produktorganisering som bygger på Team Topologies og DevOps, og som leverer bærekraftig resultater for samfunnet(våre kunder).
+Bygge en robust, skalerbar og fleksibel produktorganisering som bygger på Team Topologies og DevOps, og som leverer bærekraftig resultater for samfunnet(våre kunder). Herunder utøve støtte i form av god personaloppfølging og kompetanseutvikling for våre medarbeidere.
+
+Eskaleringspunkt for Muliggjørende-team.
+
+Etablere og utvikle økonomiske og regulatoriske rammebetingelser for avdleingen.
+
+Rapportering internt i Digdir og DFD.
+
+
+
+
 
 Styringsinformasjon finner du her: peke til "styring og støtte"
 
