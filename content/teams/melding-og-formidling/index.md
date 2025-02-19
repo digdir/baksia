@@ -18,14 +18,14 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C079AJR5TEX" slack_url_text="Slackkanal for teamet">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/24913160?v=4" name="Andreas Hammerbeck" role="Produkteier, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/45386992?v=4" name="Viktor Olsen" role="Produkteier, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/34267083?v=4" name="Tore Måsøy" role="Scrum-Master, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13086439?v=4" name="Erik Hagen" role="Arkitekt, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/36594318?v=4" name="Roar Mjelde" role="Backend, Fullstack, konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/24913160?v=4" name="Andreas Hammerbeck" role="Produkteier, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/130640130?v=4" name="Marianne Saltnes" role="Behovsstiller, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/78788499?v=4" name="Axel Ytterås" role="Backend, Fullstack, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/45386992?v=4" name="Viktor Olsen" role="Produkteier, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/182608783?v=4" name="Martin Todorov" role="Backend, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/36594318?v=4" name="Roar Mjelde" role="Tech Lead, Fullstack, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/182608783?v=4" name="Martin Todorov" role="Fullstack, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/78788499?v=4" name="Axel Ytterås" role="Fullstack, Fast, Brønnøysund">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
