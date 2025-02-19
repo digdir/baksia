@@ -29,7 +29,7 @@ tags:
 {{< /team/members >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
-Strategisk ledelse:
 
-Operativ ledelse:
+
+
 
