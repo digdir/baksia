@@ -7,7 +7,7 @@ ingress: |
   
   Oversikt over Verktøy finnes i [systemoversikten](https://digdir.sharepoint.com/:x:/r/sites/Systemoversikt/_layouts/15/Doc.aspx?sourcedoc=%7B74B1CF9D-37B8-43E2-BAEC-B23D0E66EFD4%7D&file=Systemoversikten.xlsx&action=default&mobileredirect=true&wdLOR=c7FB2C801-99E3-8047-A9A3-67BD0C0B4037) til Digdir på intranett.  
 
-  Oversikt over Policy finnes i overikten her.
+  Oversikt over Policy finnes i oversikten her.
   
 Spesifisert oversikt over policy og retningslinjer som brukes:
   Hvilke policy og retningslinjer har vi og hva brukes de til?
