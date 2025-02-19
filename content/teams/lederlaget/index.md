@@ -50,7 +50,7 @@ Ledermøter tirsdager: Fokus på Leveranser i linja, program og prosjekt.
 
 Ledermøter fredager: Fokus på Produktorganisering(transformasjon av avdelingen).
 
-Ledermøter mellom leverandøravdelingene, BOD og FEL, månedlig: Fokus på felles Produktstrategier, OKR, Markedsaktiviteter og konferanser for våre kunder og Brukerstøtte.
+Ledermøter leverandøravdelingene, BOD og FEL, månedlig: Fokus på felles Produktstrategier, felles OKR, felles Samlinger(DevOpsDays), felles Markedsaktiviteter og konferanser for våre kunder.
 
-Styringsinformasjon finner du her: peke til "styring og støtte"
+Styringsinformasjon finner du her: "Styring"
 
