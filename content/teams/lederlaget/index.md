@@ -52,5 +52,6 @@ Ledermøter fredager: Fokus på Produktorganisering(transformasjon av avdelingen
 
 Ledermøter leverandøravdelingene, BOD og FEL, månedlig: Fokus på felles Produktstrategier, felles OKR, felles Samlinger(DevOpsDays), felles Markedsaktiviteter og konferanser for våre kunder.
 
+
 Styringsinformasjon finner du her: "Styring"
 
