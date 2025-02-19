@@ -1,9 +1,9 @@
 ---
 title: Mer styringsinformasjon
-ingress: Strategidok, tildelingsbrev, virksomhetsplan, styringskalender og referater
+ingress: Strategidok, tildeling og virksomhetsplan, styringskalender, rapportering og referater
 
 navigation_link:
-  subtitle: Planer som strategidok, tildelingsbrev, virksomhetsplan, styringskalender, rapporteringer og referater
+  subtitle: Planer som strategidok, tildelingsbrev, virksomhetsplan, styringskalender, rapportering og referater
 
 banner:
   image:
