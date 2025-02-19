@@ -1,14 +1,14 @@
 ---
-title: Verktøy og informasjonskilder (under endring)
-linktitle: Verktøy
+title: Policy  
+linktitle: Policy
 
 ingress: |
-  Det er viktig at vi har god oversikt og kontroll på verktøyene som vi bruker i avdelingen. Dette av hensyn til personvern og sikkerhet, kostnader ved innkjøp, effektiv og sikker bruk/deling av data.
+  Policy management er viktig fordi det hjelper organisasjoner med å etablere klare retningslinjer og regler som sikrer at de opererer effektivt, i samsvar med lover og forskrifter, og beskytter mot risiko. Det gir struktur for beslutningstaking, sikrer konsekvent atferd, og gjør det lettere å håndtere endringer og overholdelse av interne og eksterne krav.
   
-  Oversikt over alle systemer finnes i [systemoversikten](https://digdir.sharepoint.com/:x:/r/sites/Systemoversikt/_layouts/15/Doc.aspx?sourcedoc=%7B74B1CF9D-37B8-43E2-BAEC-B23D0E66EFD4%7D&file=Systemoversikten.xlsx&action=default&mobileredirect=true&wdLOR=c7FB2C801-99E3-8047-A9A3-67BD0C0B4037) til Digdir på intranett.  
+  Oversikt over BOD Policy finnes i [systemoversikten](https://digdir.sharepoint.com/:x:/r/sites/Systemoversikt/_layouts/15/Doc.aspx?sourcedoc=%7B74B1CF9D-37B8-43E2-BAEC-B23D0E66EFD4%7D&file=Systemoversikten.xlsx&action=default&mobileredirect=true&wdLOR=c7FB2C801-99E3-8047-A9A3-67BD0C0B4037) til Digdir på intranett.  
   
-Spesifisert oversikt over verktøy og informasjonskilder som brukes:
-  Hvilke verktøy og informasjonskanaler har vi og hva brukes de til?
+Spesifisert oversikt over policy og retningslinjer som brukes:
+  Hvilke policy og retningslinjer har vi og hva brukes de til?
 
 
 banner:
