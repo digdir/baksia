@@ -28,7 +28,7 @@ tags:
 
 {{< /team/members >}}
 
-{{< team/responsibilities title="Ansvarsområder" >}}
+{{< team/responsibilities title="Ansvarsområder for teamet" >}}
 
 Kommunisere samfunnsoppdraget og implementere virksomhetsplanen for dette.
 
@@ -44,7 +44,7 @@ Etablere og utvikle økonomiske og regulatoriske rammebetingelser for avdelingen
 
 Rapportering internt i Digdir og til DFD.
 
-{{< team/responsibilities title="Møteplass for Lederlaget" >}}
+{{< team/responsibilities title="Møteplass for teamet" >}}
 
 Ledermøter tirsdager: Fokus på Leveranser i linja, program og prosjekt.
 
