@@ -38,7 +38,7 @@ Bygge en brukerorientert, resultatorientert og datadrevet kultur, som høster in
 
 Bygge en robust, skalerbar og fleksibel produktorganisering som bygger på Team Topologies og DevOps, og som leverer bærekraftig resultater for samfunnet(våre kunder). Herunder utøve støtte i form av god personaloppfølging og kompetanseutvikling for våre medarbeidere.
 
-Eskaleringspunkt for Muliggjørende-team.
+Eskaleringspunkt for Tilretteleggings-team.
 
 Etablere og utvikle økonomiske og regulatoriske rammebetingelser for avdelingen.
 
