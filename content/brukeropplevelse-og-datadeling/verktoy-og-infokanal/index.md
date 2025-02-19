@@ -1,5 +1,5 @@
 ---
-title: Verktøy og informasjonskilder 
+title: Verktøy og informasjonskilder (under endring)
 linktitle: Verktøy
 
 ingress: |
