@@ -32,7 +32,7 @@ tags:
 
 Kommunisere samfunnsoppdraget og implementere virksomhetsplanen for dette.
 
-Tydeliggjøre mål(okr) og strategier for vår linje(avdeling) og produktorganisasjon.
+Tydeliggjøre mål(OKR) og strategier for vår linje(avdeling) og produktorganisasjon.
 
 Bygge en brukerorientert, resultatorientert og datadrevet kultur, som høster innsikt før beslutningstaking og hvor kontinuerlig forbedring er i fokus. 
 
