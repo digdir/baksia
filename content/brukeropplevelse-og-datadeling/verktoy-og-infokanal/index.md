@@ -146,7 +146,7 @@ Microsoft 365 inneholder en rekke verktøy for produktivitet og kommunikasjon. B
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="WebSak+" >}}
-[WebSak+](https://websakpluss.digdir.acossky.no)
+[WebSak+](https://digdir.acossky.no/saksbehandling)
 
 - Digdirs saksbehandlings- og arkivverktøy. 
 - Digdirs offisielle (og eneste) verktøy for å journalføre og arkivere dokumenter.
