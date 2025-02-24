@@ -22,7 +22,7 @@ layout: verkt-og-infokanal/single
 
 # determines if this content should be rendered in the
 # second section of the page as a yellow box
-isSecSection: true
+isSecSection: false
 
 navigation_link:
   text: |
