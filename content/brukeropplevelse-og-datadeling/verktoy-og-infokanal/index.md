@@ -5,9 +5,9 @@ linktitle: Verktøy og Policy
 ingress: |
   Verkøy og Policy management er viktig fordi det hjelper organisasjoner med å etablere klare retningslinjer og regler som sikrer at de opererer effektivt, i samsvar med lover og forskrifter, og beskytter mot risiko. Det gir struktur for beslutningstaking, sikrer konsekvent atferd, og gjør det lettere å håndtere endringer og overholdelse av interne og eksterne krav.
   
-  Oversikt over Verktøy finnes i [systemoversikten](https://digdir.sharepoint.com/:x:/r/sites/Systemoversikt/_layouts/15/Doc.aspx?sourcedoc=%7B74B1CF9D-37B8-43E2-BAEC-B23D0E66EFD4%7D&file=Systemoversikten.xlsx&action=default&mobileredirect=true&wdLOR=c7FB2C801-99E3-8047-A9A3-67BD0C0B4037) til Digdir på intranett.  
+  **Systemoversikten** finner du ved å søke på [Intranett](https://digdir.sharepoint.com/?locale=en-gb&inPlaceNav=portals).  
 
-  Oversikt over Policy finnes i oversikten her.
+  Oversikt over Policy vil finne på confluence (lenke kommer).
   
 Spesifisert oversikt over policy og retningslinjer som brukes:
   Hvilke policy og retningslinjer har vi og hva brukes de til?
