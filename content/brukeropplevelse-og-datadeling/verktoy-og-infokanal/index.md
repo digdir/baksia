@@ -5,9 +5,9 @@ linktitle: Verktøy og Policy
 ingress: |
   Verkøy og Policy management er viktig fordi det hjelper organisasjoner med å etablere klare retningslinjer og regler som sikrer at de opererer effektivt, i samsvar med lover og forskrifter, og beskytter mot risiko. Det gir struktur for beslutningstaking, sikrer konsekvent atferd, og gjør det lettere å håndtere endringer og overholdelse av interne og eksterne krav.
   
-  Oversikt over Verktøy finnes i [systemoversikten](https://digdir.sharepoint.com/:x:/r/sites/Systemoversikt/_layouts/15/Doc.aspx?sourcedoc=%7B74B1CF9D-37B8-43E2-BAEC-B23D0E66EFD4%7D&file=Systemoversikten.xlsx&action=default&mobileredirect=true&wdLOR=c7FB2C801-99E3-8047-A9A3-67BD0C0B4037) til Digdir på intranett.  
+  **Systemoversikten** finner du ved å søke på [Intranett](https://digdir.sharepoint.com/?locale=en-gb&inPlaceNav=portals).  
 
-  Oversikt over Policy finnes i oversikten her.
+  Oversikt over Policy vil du finne på Confluence (lenke kommer).
   
 Spesifisert oversikt over policy og retningslinjer som brukes:
   Hvilke policy og retningslinjer har vi og hva brukes de til?
@@ -22,7 +22,7 @@ layout: verkt-og-infokanal/single
 
 # determines if this content should be rendered in the
 # second section of the page as a yellow box
-isSecSection: true
+isSecSection: false
 
 navigation_link:
   text: |
@@ -111,7 +111,7 @@ Confluence et verktøy for å samle, organisere og samarbeide om innhold, og det
 - Team i BOD som tar i bruk Confluence skal sørge for at det kun benyttes til <ins>**intern**</ins> dokumentasjon, som ikke er egnet eller klart for ekstern publisering.
 - Informasjonen som legges inn i Confluence er i utgangspunktet åpen for alle i Digdir som har en Confluence bruker og alle med bruker fra BOD har (lese)tilgang til alle BOD områder i Confluence.
 
-[Her finner du oppdatert rutine for conflunce](https://digdir.sharepoint.com/:f:/r/sites/DigdirDGT/Delte%20dokumenter/General/Rutiner,%20prosedyrer%20BOD?csf=1&web=1&e=eN3Utt)
+[Her finner du oppdatert rutine for Confluence](https://digdir.sharepoint.com/:f:/r/sites/DigdirDGT/Delte%20dokumenter/General/Rutiner,%20prosedyrer%20BOD?csf=1&web=1&e=eN3Utt)
 
 {{< /verkt-infokanal/accordion >}}
 
@@ -146,7 +146,7 @@ Microsoft 365 inneholder en rekke verktøy for produktivitet og kommunikasjon. B
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="WebSak+" >}}
-[WebSak+](https://websakpluss.digdir.acossky.no)
+[WebSak+](https://digdir.acossky.no/saksbehandling)
 
 - Digdirs saksbehandlings- og arkivverktøy. 
 - Digdirs offisielle (og eneste) verktøy for å journalføre og arkivere dokumenter.
@@ -160,7 +160,7 @@ Felles datakatalog er det offentlige nettstedet som gir oversikt over beskrivels
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Topdesk" >}}
-Verktøy som Service desken bruker i sitt arbeid med behandling av support saker.
+Verktøy som bla ServiceDesk og Altinn brukerstøtte bruker ifbm behandling av supportsaker.
 
 {{< /verkt-infokanal/accordion >}}
 
@@ -205,6 +205,7 @@ Verktøy for tilgjengelighetserklæringer
 Søkemotor optimalisering. Antall søkeord om det går opp eller nedover, alt teknisk blir fanget opp av verktøyet.{{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Zisson" >}}
-Chat verktøy Zisson med kunder for ABS og servicedesken{{< /verkt-infokanal/accordion >}}
+Telefonverktøy som Altinn brukerstøtte og ServiceDesk bruker i sin kontakt med kunder
+{{< /verkt-infokanal/accordion >}}
 
 
