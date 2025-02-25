@@ -160,7 +160,7 @@ Felles datakatalog er det offentlige nettstedet som gir oversikt over beskrivels
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Topdesk" >}}
-Verktøy som Service desken bruker i sitt arbeid med behandling av support saker.
+Verktøy som bla ServiceDesk og Altinn brukerstøtte bruker ifbm behandling av supportsaker.
 
 {{< /verkt-infokanal/accordion >}}
 
@@ -205,6 +205,7 @@ Verktøy for tilgjengelighetserklæringer
 Søkemotor optimalisering. Antall søkeord om det går opp eller nedover, alt teknisk blir fanget opp av verktøyet.{{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Zisson" >}}
-Chat verktøy Zisson med kunder for ABS og servicedesken{{< /verkt-infokanal/accordion >}}
+Telefonverktøy som Altinn brukerstøtte og ServiceDesk bruker i sin kontakt med kunder
+{{< /verkt-infokanal/accordion >}}
 
 
