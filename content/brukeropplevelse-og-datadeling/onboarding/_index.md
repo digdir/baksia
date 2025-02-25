@@ -18,14 +18,6 @@ navigation_link:
 ---
 
 {{< onboarding/ext-nav-card
-  title="For nyansatte"
-
-  description="DENNE SIDEN ER UNDER OPPBYGGING"
-
-  external_url=""
->}}
-
-{{< onboarding/ext-nav-card
   title="For ledere"
 
   description="Få hjelp til on-boarding av nyansatte"
