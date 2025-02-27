@@ -91,11 +91,7 @@ Kildekode:
 AI dev verktøy for tilgangsstyring blant annet for Azure
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="Samarbeidsportalen" >}}
-[samarbeid.digdir.no ](https://samarbeid.digdir.no/ )
 
-Samarbeidsportalen er den primære informasjons- og varslingskanalen fra Digitaliseringsdirektoratet om samarbeidet rundt de digitale fellesløsningene. Digitaliseringsdirektoratet forvalter og drifter Samarbeidsportalen.
-{{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="GitHub (Altinn)" >}}
 [github.com/Altinn ](https://github.com/Altinn )
@@ -115,12 +111,7 @@ Confluence et verktøy for å samle, organisere og samarbeide om innhold, og det
 
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="Slack" >}}
-Works places og kanal som brukes i utvikling, til deling og utveksling av informasjon internt og eksternt.
 
-- Tjeneste som legger til rette for samarbeid mellom personer som deltar i team som kan bestå av Digdir-ansatte og eksterne personer 
-- Kanal mot enkelt-tjenesteeiere for tekniske avklaringer
-{{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="FutureWorks" >}}
 Verktøyet brukes i mål- og resultatstyring i OKR (Objective & Key Results) metodikken som er et enkelt og effektivt rammeverk. 
@@ -129,16 +120,12 @@ Metodikken skaper felles forståelse, samhandling og tydelig fokus på de viktig
 
 {{< /verkt-infokanal/accordion >}}
 
-
-
 {{< verkt-infokanal/accordion title="Microsoft 365" >}}
 [Microsoft 365 ](https://www.microsoft365.com)
 
 Microsoft 365 inneholder en rekke verktøy for produktivitet og kommunikasjon. Brukes som administrativt verktøy: tekst, regneark, presentasjon, datadeling og kommunikasjon m.m. 
 
 {{< /verkt-infokanal/accordion >}}
-
-
 
 {{< verkt-infokanal/accordion title="Felles datakatalog" >}}
 [Felles datakatalog](https://data.norge.no)
@@ -147,9 +134,6 @@ Felles datakatalog er det offentlige nettstedet som gir oversikt over beskrivels
 {{< /verkt-infokanal/accordion >}}
 
 
-{{< verkt-infokanal/accordion title="Miro" >}}
-Miro er et online samarbeidsverktøy som gjør det mulig å gjennomføre digitale workshops og arbeidsmøter. Det fungerer som et digitalt whiteboard der deltakere kan tegne, jobbe og samhandle.
-{{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Baksia" >}}
 Portalen til dokumentasjon som understøtter BODs avdeling og rolle som leverandør av fellesløsninger i Digdir. Her finner du beskrivelser av gjeldende organisering og måten vi jobber på når vi utvikler og forvalter digitale løsninger for våre brukere.
@@ -159,9 +143,7 @@ Portalen til dokumentasjon som understøtter BODs avdeling og rolle som leverand
 Designverktøy for nettsider. Verktøy som kan brukes for å designe og teste nettsider, og at nettsider gjøres interaktivt. Man kan lage en brukertest på ett avgrenset område.
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="Optimal Workshops" >}}
-Arbeidsutviklingsverktøy for design (UX) - Modeller, ideer, brukertester
-{{< /verkt-infokanal/accordion >}}
+
 
 {{< verkt-infokanal/accordion title="DFØ selvbetjening" >}}
 [DFØ ](https://dfo.no )
@@ -169,9 +151,7 @@ Arbeidsutviklingsverktøy for design (UX) - Modeller, ideer, brukertester
 DFØ selvbetjening er SAP systemer for tid, lønn, reiseregning og utgifter.
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="Regnskapssystem Unit 4" >}}
-Til bruk i fakturering og regnskap. 
-{{< /verkt-infokanal/accordion >}}
+
 
 {{< verkt-infokanal/accordion title="Contempus" >}}
 System for behandling av fakturaer
@@ -179,12 +159,37 @@ System for behandling av fakturaer
 
 
 
-{{< verkt-infokanal/accordion title="Siteimprove" >}}
-Verktøy for tilgjengelighetserklæringer
+{{< verkt-infokanal/accordion title="Miro" >}}
+Miro er et online samarbeidsverktøy som gjør det mulig å gjennomføre digitale workshops og arbeidsmøter. Det fungerer som et digitalt whiteboard der deltakere kan tegne, jobbe og samhandle.
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="MOZ" >}}
 Søkemotor optimalisering. Antall søkeord om det går opp eller nedover, alt teknisk blir fanget opp av verktøyet.{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="Optimal Workshops" >}}
+Arbeidsutviklingsverktøy for design (UX) - Modeller, ideer, brukertester
+{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="Samarbeidsportalen" >}}
+[samarbeid.digdir.no ](https://samarbeid.digdir.no/ )
+
+{{< verkt-infokanal/accordion title="Regnskapssystem Unit 4" >}}
+Til bruk i fakturering og regnskap. 
+{{< /verkt-infokanal/accordion >}}
+
+Samarbeidsportalen er den primære informasjons- og varslingskanalen fra Digitaliseringsdirektoratet om samarbeidet rundt de digitale fellesløsningene. Digitaliseringsdirektoratet forvalter og drifter Samarbeidsportalen.
+{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="Siteimprove" >}}
+Verktøy for tilgjengelighetserklæringer
+{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="Slack" >}}
+Works places og kanal som brukes i utvikling, til deling og utveksling av informasjon internt og eksternt.
+
+- Tjeneste som legger til rette for samarbeid mellom personer som deltar i team som kan bestå av Digdir-ansatte og eksterne personer 
+- Kanal mot enkelt-tjenesteeiere for tekniske avklaringer
+{{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Teams" >}}
 - Brukes til internt og eksternt samarbeid med funksjoner som:
