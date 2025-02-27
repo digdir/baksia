@@ -129,14 +129,7 @@ Metodikken skaper felles forståelse, samhandling og tydelig fokus på de viktig
 
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="Teams" >}}
-- Brukes til internt og eksternt samarbeid med funksjoner som:
-- Telefon- og videomøter
-- Webkonferanse
-- Chat (med kolleger og team)
-- Intranett
 
-{{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Microsoft 365" >}}
 [Microsoft 365 ](https://www.microsoft365.com)
@@ -145,13 +138,7 @@ Microsoft 365 inneholder en rekke verktøy for produktivitet og kommunikasjon. B
 
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="WebSak+" >}}
-[WebSak+](https://digdir.acossky.no/saksbehandling)
 
-- Digdirs saksbehandlings- og arkivverktøy. 
-- Digdirs offisielle (og eneste) verktøy for å journalføre og arkivere dokumenter.
-
-{{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Felles datakatalog" >}}
 [Felles datakatalog](https://data.norge.no)
@@ -159,10 +146,6 @@ Microsoft 365 inneholder en rekke verktøy for produktivitet og kommunikasjon. B
 Felles datakatalog er det offentlige nettstedet som gir oversikt over beskrivelser av datasett, begrep, api-er, informasjonsmodeller og tjenester.
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="Topdesk" >}}
-Verktøy som bla ServiceDesk og Altinn brukerstøtte bruker ifbm behandling av supportsaker.
-
-{{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Miro" >}}
 Miro er et online samarbeidsverktøy som gjør det mulig å gjennomføre digitale workshops og arbeidsmøter. Det fungerer som et digitalt whiteboard der deltakere kan tegne, jobbe og samhandle.
@@ -194,8 +177,7 @@ Til bruk i fakturering og regnskap.
 System for behandling av fakturaer
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="Yammer" >}}
-Verktøy for å sende meldingsforespørsel om møtedatoer{{< /verkt-infokanal/accordion >}}
+
 
 {{< verkt-infokanal/accordion title="Siteimprove" >}}
 Verktøy for tilgjengelighetserklæringer
@@ -203,6 +185,31 @@ Verktøy for tilgjengelighetserklæringer
 
 {{< verkt-infokanal/accordion title="MOZ" >}}
 Søkemotor optimalisering. Antall søkeord om det går opp eller nedover, alt teknisk blir fanget opp av verktøyet.{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="Teams" >}}
+- Brukes til internt og eksternt samarbeid med funksjoner som:
+- Telefon- og videomøter
+- Webkonferanse
+- Chat (med kolleger og team)
+- Intranett
+
+{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="Topdesk" >}}
+Verktøy som bla ServiceDesk og Altinn brukerstøtte bruker ifbm behandling av supportsaker.
+
+{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="WebSak+" >}}
+[WebSak+](https://digdir.acossky.no/saksbehandling)
+
+- Digdirs saksbehandlings- og arkivverktøy. 
+- Digdirs offisielle (og eneste) verktøy for å journalføre og arkivere dokumenter.
+
+{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="Yammer" >}}
+Verktøy for å sende meldingsforespørsel om møtedatoer{{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Zisson" >}}
 Telefonverktøy som Altinn brukerstøtte og ServiceDesk bruker i sin kontakt med kunder
