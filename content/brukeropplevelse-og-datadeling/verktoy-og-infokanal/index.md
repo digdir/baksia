@@ -29,27 +29,14 @@ navigation_link:
    Få oversikt over systemene vi bruker!
 ---
 
-{{< verkt-infokanal/accordion title="Digdir.no" >}}
-[digdir.no](https://digdir.no)
-
-Direktoratet sin informasjonsportal om hva direktoratet tilbyr av tjenester og produkter, konferanser og webinarer som er tilgjengelig på internett for alle. 
+{{< verkt-infokanal/accordion title="AI dev" >}}
+AI dev verktøy for tilgangsstyring blant annet for Azure
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="Intranett" >}}
-[Intranett](https://digdir.sharepoint.com/?locale=en-gb&inPlaceNav=portals)
+{{< verkt-infokanal/accordion title="Altinn studio" >}}
+[altinn.studio](https://altinn.studio)
 
-Internt nettsted med informasjon om:
-
-- Verktøy og tjenester (IT-hjelp, økonomi, melde avvik, tidsregistrering, verneombud m.m)
-
-- Aktuelt (artikler om interne og eksterne saker som er av interesse for hele Digdir, samt hyggelige ting som skjer i Digdir)
-
-- Sakslister og referater fra ledermøter og samarbeidet
-
-- Ansatt og lederportalen
-
-- Ditt ansettelsesforhold (ferie, permisjoner, sykefravær, tjenestetelefon,)
-
+Tjenesteutviklingsløsning for Altinn. (Baserer seg på .NET Core, med docker og kubernetes som arkitektur). 
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Altinndigital.no" >}}
@@ -69,12 +56,6 @@ Informasjonsportal med intern driftsdokumentasjon (er ikke åpen for alle)WebS
 
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="Altinn studio" >}}
-[altinn.studio](https://altinn.studio)
-
-Tjenesteutviklingsløsning for Altinn. (Baserer seg på .NET Core, med docker og kubernetes som arkitektur). 
-{{< /verkt-infokanal/accordion >}}
-
 {{< verkt-infokanal/accordion title="Azure Dev Ops i sky" >}}
 Systemer og skytjenester driftes, utvikles og lagres i Azure sky. 
 Der lagres backlogs og boards for Altinn 2. 
@@ -87,17 +68,8 @@ Kildekode:
 - Behovsprosessen
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="AI dev" >}}
-AI dev verktøy for tilgangsstyring blant annet for Azure
-{{< /verkt-infokanal/accordion >}}
-
-
-
-{{< verkt-infokanal/accordion title="GitHub (Altinn)" >}}
-[github.com/Altinn ](https://github.com/Altinn )
-[github.com/Digdir ](https://github.com/digdir )
-
-Nettsted for kode, back log, dokumentasjon, kanban tavle og deling av informasjon.
+{{< verkt-infokanal/accordion title="Baksia" >}}
+Portalen til dokumentasjon som understøtter BODs avdeling og rolle som leverandør av fellesløsninger i Digdir. Her finner du beskrivelser av gjeldende organisering og måten vi jobber på når vi utvikler og forvalter digitale løsninger for våre brukere.
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Confluence" >}}
@@ -111,12 +83,60 @@ Confluence et verktøy for å samle, organisere og samarbeide om innhold, og det
 
 {{< /verkt-infokanal/accordion >}}
 
+{{< verkt-infokanal/accordion title="Contempus" >}}
+System for behandling av fakturaer
+{{< /verkt-infokanal/accordion >}}
 
+{{< verkt-infokanal/accordion title="DFØ selvbetjening" >}}
+[DFØ ](https://dfo.no )
+
+DFØ selvbetjening er SAP systemer for tid, lønn, reiseregning og utgifter.
+{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="Digdir.no" >}}
+[digdir.no](https://digdir.no)
+
+Direktoratet sin informasjonsportal om hva direktoratet tilbyr av tjenester og produkter, konferanser og webinarer som er tilgjengelig på internett for alle. 
+{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="Felles datakatalog" >}}
+[Felles datakatalog](https://data.norge.no)
+
+Felles datakatalog er det offentlige nettstedet som gir oversikt over beskrivelser av datasett, begrep, api-er, informasjonsmodeller og tjenester.
+{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="Figma" >}}
+Designverktøy for nettsider. Verktøy som kan brukes for å designe og teste nettsider, og at nettsider gjøres interaktivt. Man kan lage en brukertest på ett avgrenset område.
+{{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="FutureWorks" >}}
 Verktøyet brukes i mål- og resultatstyring i OKR (Objective & Key Results) metodikken som er et enkelt og effektivt rammeverk. 
 
 Metodikken skaper felles forståelse, samhandling og tydelig fokus på de viktigste oppgavene for å nå etatens overordna mål.
+
+{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="GitHub (Altinn)" >}}
+[github.com/Altinn ](https://github.com/Altinn )
+[github.com/Digdir ](https://github.com/digdir )
+
+Nettsted for kode, back log, dokumentasjon, kanban tavle og deling av informasjon.
+{{< /verkt-infokanal/accordion >}}
+
+{{< verkt-infokanal/accordion title="Intranett" >}}
+[Intranett](https://digdir.sharepoint.com/?locale=en-gb&inPlaceNav=portals)
+
+Internt nettsted med informasjon om:
+
+- Verktøy og tjenester (IT-hjelp, økonomi, melde avvik, tidsregistrering, verneombud m.m)
+
+- Aktuelt (artikler om interne og eksterne saker som er av interesse for hele Digdir, samt hyggelige ting som skjer i Digdir)
+
+- Sakslister og referater fra ledermøter og samarbeidet
+
+- Ansatt og lederportalen
+
+- Ditt ansettelsesforhold (ferie, permisjoner, sykefravær, tjenestetelefon,)
 
 {{< /verkt-infokanal/accordion >}}
 
@@ -126,38 +146,6 @@ Metodikken skaper felles forståelse, samhandling og tydelig fokus på de viktig
 Microsoft 365 inneholder en rekke verktøy for produktivitet og kommunikasjon. Brukes som administrativt verktøy: tekst, regneark, presentasjon, datadeling og kommunikasjon m.m. 
 
 {{< /verkt-infokanal/accordion >}}
-
-{{< verkt-infokanal/accordion title="Felles datakatalog" >}}
-[Felles datakatalog](https://data.norge.no)
-
-Felles datakatalog er det offentlige nettstedet som gir oversikt over beskrivelser av datasett, begrep, api-er, informasjonsmodeller og tjenester.
-{{< /verkt-infokanal/accordion >}}
-
-
-
-{{< verkt-infokanal/accordion title="Baksia" >}}
-Portalen til dokumentasjon som understøtter BODs avdeling og rolle som leverandør av fellesløsninger i Digdir. Her finner du beskrivelser av gjeldende organisering og måten vi jobber på når vi utvikler og forvalter digitale løsninger for våre brukere.
-{{< /verkt-infokanal/accordion >}}
-
-{{< verkt-infokanal/accordion title="Figma" >}}
-Designverktøy for nettsider. Verktøy som kan brukes for å designe og teste nettsider, og at nettsider gjøres interaktivt. Man kan lage en brukertest på ett avgrenset område.
-{{< /verkt-infokanal/accordion >}}
-
-
-
-{{< verkt-infokanal/accordion title="DFØ selvbetjening" >}}
-[DFØ ](https://dfo.no )
-
-DFØ selvbetjening er SAP systemer for tid, lønn, reiseregning og utgifter.
-{{< /verkt-infokanal/accordion >}}
-
-
-
-{{< verkt-infokanal/accordion title="Contempus" >}}
-System for behandling av fakturaer
-{{< /verkt-infokanal/accordion >}}
-
-
 
 {{< verkt-infokanal/accordion title="Miro" >}}
 Miro er et online samarbeidsverktøy som gjør det mulig å gjennomføre digitale workshops og arbeidsmøter. Det fungerer som et digitalt whiteboard der deltakere kan tegne, jobbe og samhandle.
