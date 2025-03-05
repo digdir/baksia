@@ -16,9 +16,8 @@ tags:
 - enabling
 ---
 
-## Medlemmer i teamet
-
-- Teamleder sikkerhet: Hein Gabrielsen
+{{< team/members title="Medlemmer i teamet" slack_url="" slack_url_text="">}}
+{{< team/github-profile url="" name="Hein Gabrielsen" role="Teamleder" >}}
 
 ## Produkter
 
