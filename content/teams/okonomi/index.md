@@ -5,7 +5,7 @@ linktitle: Økonomi
 ingress: Teamet skal bidra i planleggingen og utførelsen av virksomhetsstyringen i avdelingen. Dette består blant annet i å bistå i virksomhetsplanprosesser, etablering av metodikk for kontroll og generell oppfølging av økonomien i BOD og i Altinn samarbeidet.
 
 navigation_link:
-  title: Team Lead
+  title: Teamleder
   subtitle: Maria Helmersen Sommervik
 
 banner:
@@ -18,7 +18,7 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/132452427?v=4" name="Maria Helmersen Sommervik" role="Team Lead, Controller" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/132452427?v=4" name="Maria Helmersen Sommervik" role="Teamleder, Controller" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/150725294?v=4" name="Are Bendiksen" role="Controller" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/97230343?v=4" name="Ståle Rundberg" role="Controller" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/97155144?v=4" name="Hilde Rønnaug Berntsen" role="Controller" >}}
