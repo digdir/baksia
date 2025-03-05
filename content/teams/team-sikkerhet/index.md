@@ -15,10 +15,8 @@ banner:
 tags:
 - enabling
 ---
-
-## Medlemmer i teamet
-
-- Teamleder sikkerhet: Hein Gabrielsen
+{{< team/members title="Medlemmer i teamet" >}}
+{{< team/github-profile url="" name="Hein Gabrielsen" role="Teamleder" >}}
 
 ## Produkter
 
