@@ -3,7 +3,7 @@ title: Plattform
 Ingress: Teamets hovedoppgave er å lage og vedlikeholde OpenShift Kubernetes plattformen med støttetenester som løysingen er drifta på i samarbeid med driftspartner.
 
 navigation_link:
-  title: Team Lead
+  title: Teamleder
   subtitle: Leif Olav S. Bjordal
 
 banner:
@@ -17,7 +17,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C01B8559XKR" slack_url_text="Slackkanal for teamet">}}
 
- {{< team/github-profile url="https://avatars.githubusercontent.com/u/66918079?v=4" name="Leif Olav S. Bjordal" role="Team Lead, Leikanger" >}}
+ {{< team/github-profile url="https://avatars.githubusercontent.com/u/66918079?v=4" name="Leif Olav S. Bjordal" role="Teamleder, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/2690292?s=96&v=4" name="Bjørn-Erik Strand" role="Plattformutvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/79941408?v=4" name="Emil Arnesen" role="Plattformutvikler, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56262765?v=4" name="Ola Slålien Thoen" role="Sikkerheit, Leikanger" >}}
