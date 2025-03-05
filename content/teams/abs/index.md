@@ -5,7 +5,7 @@ linktitle: ABS
 ingress: Levere effektiv og god brukerstøtte mot sluttbrukere av Altinn. Kategorisere og eskalere eventuelle hendelser. 
 
 navigation_link:
-  title: Team Lead
+  title: Teamleder
   subtitle: Cathrine Bastesen
 
 banner:
