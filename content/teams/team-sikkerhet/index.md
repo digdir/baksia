@@ -16,9 +16,9 @@ tags:
 - enabling
 ---
 
-## Medlemmer i teamet
-
-- Teamleder sikkerhet: Hein Gabrielsen
+{{< /team/members >}}
+{{< team/members title="Medlemmer i teamet">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/72547415?v=4" name="Snorre Torgeir Egedal Aakerø" role="Teamleder" >}}
 
 ## Produkter
 
