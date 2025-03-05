@@ -3,7 +3,7 @@ title: Arkitektur
 ingress: Team arkitektur består av sjefsarkitekt og team-arkitektene fra produkt-teamene, og sammen så tar vi arkitekturbeslutninger som går på tvers.
 
 navigation_link:
-  title: Team Lead
+  title: Teamleder
   subtitle: Eirik Mikkelsen
 
 banner:
