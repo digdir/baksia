@@ -20,7 +20,7 @@ tags:
 
   {{< team/github-profile url="" name="Erlend Husabø" role="Produkteier,  Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/9282097?v=4" name="Knut Kjærvik" role="Team Lead, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/9282097?v=4" name="Knut Kjærvik" role="Teamleiar, Leikanger" >}}
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/33317342?v=4" name="Thor Kristian Sortevik" role="Driftsleiar, Leikanger" >}}
 
