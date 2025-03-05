@@ -17,9 +17,10 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C05MRKCKZ6Z" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Produkteier og redaktør for altinn.no, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Roger Stenbakk Olsen" role="Produkteier for Altinn.no, Fast,  Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Ragnhild Borge Olsen" role="Produkteier for Norge.no, Fast,  Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/139115317?v=4" name="Siri-Anna Zahl Kristiansen" role="Scrum master, Fast, Brønnøysund " >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Redaktør for altinn.no, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/31504150?v=4" name="Alise Kjelling" role="Design lead og UX-designer, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/12525344?v=4" name="Thord V. Foss" role="UX-designer konseptutvikler, Konsulent,  Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/180932679?v=4" name="Stig Ola Svahn" role="UX-research, Fast  Brønnøysund" >}}
