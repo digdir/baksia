@@ -19,7 +19,7 @@ tags:
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C01KKGLDR1V" slack_url_text="Slackkanal for teamet">}}
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/93767748?v=4" name="Sindre Ramung" role="Produkteier,  Leikanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/2622676?v=4" name="Eldar Venes" role="Team Lead, Utvikler, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/2622676?v=4" name="Eldar Venes" role="Teamleiar, Utvikler, Leikanger" >}}
   
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/69586003?v=4" name="Alexander Nordstrand" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/16241840?v=4" name="Andreas Balevik" role="Utvikler, Leikanger" >}}
