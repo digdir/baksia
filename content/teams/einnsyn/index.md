@@ -21,7 +21,7 @@ tags:
 
   {{< team/github-profile url="" name="Siv Kvåle Sanden" role="Produktsjef,  Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/23337466?v=4" name="John Eivind Presterud" role="Produkteigar, Leikanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/2155616?v=4" name="Daniel Lerum" role="Team Lead, Knarvik" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/2155616?v=4" name="Daniel Lerum" role="Teamleiar, Knarvik" >}}
   
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1352446?v=4" name="Håvard Tørresen" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1481395?v=4" name="Gisle Nes" role="Utvikler, Leikanger" >}}
