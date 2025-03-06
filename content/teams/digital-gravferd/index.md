@@ -3,7 +3,7 @@ title: Digital gravferd
 Ingress: Teamet jobber for Statsforvalteren i Vestfold/Telemark og har som mål å digitalisere og forenkle skjemaer og prosesser i livshendelsen Dødsfall og arv. Hovedoppgaven fremover er skjemaene for gravferd og dødsbo.
 
 navigation_link:
-  title: Koordinator
+  title: Teamleder
   subtitle: Andreas Fjelldal
 
 banner:
@@ -17,7 +17,7 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C04PR2LBRDG" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Andreas Fjeldal" role="Koordinator, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Andreas Fjeldal" role="Teamleder, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/938091?v=4" name="Morten Foshaug" role="Tech lead, Backend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/121860376?v=4" name="Mateus Furuløkken" role="Interaksjonsdesigner, 50%, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/26043795?v=4" name="Mikael Solstad" role="Frontend, Konsulent, Oslo">}}
