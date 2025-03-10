@@ -10,7 +10,7 @@ weight: 4
 
 ## DevOps Brønnøysund
 
-Seksjonen er en av 2 seksjoner som fokuserer på å bygge kompetansekapasitet innen DevOps-metodikk og smidig utvikling. Seksjonen består av utviklere, sikkerhets- og tekniske-ressurser som fremmer en kultur for kontinuerlig forbedring. Seksjonens medarbeidere legge til rette for deling av erfaring og kunnskap via åpen kildekode, og søker kontinuerlig etter måter å forbedre og effektivisere både driften, teknologien vi bruker, og våre arbeidsmetoder. 
+Seksjonen er en av to seksjoner som er ansvarlig for å bygge og styrke organisasjonens strategiske kapasitet innen programvareutvikling. Vi samler kompetanse innen moderne programvareutvikling, arkitektur, sikkerhet og plattform engineering som fremmer en kultur for kontinuerlig forbedring. Seksjonens medarbeidere legge til rette for deling av erfaring og kunnskap via åpen kildekode, og søker kontinuerlig etter måter å forbedre og effektivisere både driften, teknologien vi bruker. 
 
 Seksjonsleder: Bjørn Langfors
 
