@@ -10,7 +10,7 @@ weight: 3
 
 ## DevOps Oslo
 
-Seksjonen er ansvarlig for å bygge og styrke organisasjonens strategiske kapasitet innen programvareutvikling. Vi samler kompetanse innen moderne programvareutvikling, arkitektur, sikkerhet og plattform engineering som fremmer en kultur for kontinuerlig forbedring. Seksjonens medarbeidere legge til rette for deling av erfaring og kunnskap via åpen kildekode, og søker kontinuerlig etter måter å forbedre og effektivisere både driften, teknologien vi bruker. 
+Seksjonen er en av to seksjoner som er ansvarlig for å bygge og styrke organisasjonens strategiske kapasitet innen programvareutvikling. Vi samler kompetanse innen moderne programvareutvikling, arkitektur, sikkerhet og plattform engineering som fremmer en kultur for kontinuerlig forbedring. Seksjonens medarbeidere legge til rette for deling av erfaring og kunnskap via åpen kildekode, og søker kontinuerlig etter måter å forbedre og effektivisere både driften, teknologien vi bruker. 
 
 Seksjonsleder: Roberto Carrera
 
