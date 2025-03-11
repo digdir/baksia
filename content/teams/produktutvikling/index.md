@@ -19,7 +19,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/7873274?v=4" name="Roberto Carrera" role="Teamleder Produktleveransemodell og Seksjonsjef DevOps Oslo (BUO)">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/7873274?v=4" name="Roberto Carrera" role="Seksjonsjef DevOps Oslo (BUO)">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/63843143?v=4" name="Andreas Rafaelsen" role="Avdelingsleder for Brukeropplevelse og datadeling (BOD)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/80898170?v=4" name="Reidun Milde" role="Seksjonsleder for Brukeropplevelse (BBO) " >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Seksjonsleder DevOps Brønnøysund (BUB)" >}}
@@ -27,7 +27,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/35563205?v=4" name="Frank-Robert Sveinsbø" role="Porteføljestyrer" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Sjefsdesigner" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/21181213?v=4" name="Therese Engen" role="Smidig Virksomhetscoach" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/21181213?v=4" name="Therese Engen" role="Smidig Virksomhetscoach og Teamleder Produktleveransemodell" >}}
 
 {{< /team/members >}}
 {{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/digdir/projects/24/views/1" url_text="Github" >}}
