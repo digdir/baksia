@@ -179,6 +179,17 @@ Works places og kanal som brukes i utvikling, til deling og utveksling av inform
 - Kanal mot enkelt-tjenesteeiere for tekniske avklaringer
 {{< /verkt-infokanal/accordion >}}
 
+{{< verkt-infokanal/accordion title="Swarmia" >}}
+[Swarmia](https://app.swarmia.com/)
+
+Swarmia er et verktøy som integrerer med GitHub pull requests og deploys, for å utarbeide statistikker - herunder DORA metrics - som brukes for å måle “devops-modenhet” og annen effektivitet i teamene. 
+- Forutsetningen er at GitHub benyttes for all deploy
+- Verktøyet er i stor grad selvdokumenterende, med hjelpetekster som viser hva de ulike metrikkene og aggregeringene betyr.
+
+[Interndokumentasjon](https://digdir.atlassian.net/wiki/spaces/~6205262fa29402006879a50f/pages/3100573698/Swarmia+for+DORA+metrics+og+annen+stats+fra+teamene?force_transition=48c2ccdd-a9d8-4fdd-a05b-8a7fcb24e4bd)
+
+{{< /verkt-infokanal/accordion >}}
+
 {{< verkt-infokanal/accordion title="Teams" >}}
 - Brukes til internt og eksternt samarbeid med funksjoner som:
 - Telefon- og videomøter
