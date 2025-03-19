@@ -16,7 +16,7 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" >}}
- {{< team/github-profile url="" name="Hein Gabrielsen" role="Teamleder Sikkerhet" >}}
+ {{< team/github-profile url="blob:https://www.microsoft365.com/447cbe6b-8a12-4742-8274-9159afd6db30" name="Hein Gabrielsen" role="Teamleder Sikkerhet" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/72547415?v=4" name="Snorre Torgeir Egedal Aakerø" role="Temaleder Koordinering" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89571254?v=4" name="Torkel Buarøy" role="Teamleder Kunde-team" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Teamleder Arkitektur" >}}
