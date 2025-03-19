@@ -21,12 +21,12 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Teamleder Arkitektur" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/197900897?v=4" name="Heather Broomfield" role="Teamleder Digdir R&B Lab" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Teamleder Juridisk">}}
-{{< team/github-profile url="" name="Bodhild Therese Cirotzki" role="Fagleder Markedslaget" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/132452427?v=4" name="Maria Helmersen Sommervik" role="Teamleder Økonomi" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/21181213?v=4" name="Therese Engen" role="Teamleder Produktleveransemodell" >}}
-{{< team/github-profile url="" name="Hein Gabrielsen" role="Teamleder Sikkerhet" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/62640845?v=4" name="Espen Herskedal" role="Teamleder Altinn Platform">}}
  {{< team/github-profile url="https://avatars.githubusercontent.com/u/66918079?v=4" name="Leif Olav S. Bjordal" role="Teamleder Plattform" >}}
+ {{< team/github-profile url="" name="Bodhild Therese Cirotzki" role="Fagleder Markedslaget" >}}
+ {{< team/github-profile url="" name="Hein Gabrielsen" role="Teamleder Sikkerhet" >}}
 
 {{< /team/members >}}
 
