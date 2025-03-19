@@ -15,7 +15,7 @@ tags:
 - enabling
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/63843143?v=4" name="Andreas Rafaelsen" role="Avdelingsleder for Brukeropplevelse og datadeling (BOD)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/72547415?v=4" name="Snorre Torgeir Egedal Aakerø" role="Temaleder Koordinering" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Teamleder Arkitektur" >}}
