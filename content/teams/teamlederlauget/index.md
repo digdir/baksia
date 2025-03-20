@@ -1,6 +1,6 @@
 ---
 title: Teamlederlauget
-ingress: Teamlederlauget skal være et forum for samhandling, kunnskapsdeling og koordinering på tvers av alle tilretteleggingsteam og plattformteam i BOD. Lauget skal bidra til å styrke helhetlig leveranse, optimalisere samarbeid og fremme kontinuerlig forbedring. 
+ingress: Teamlederlauget er et forum for samhandling, kunnskapsdeling og koordinering på tvers av alle tilretteleggingsteam og plattformteam i BOD. Lauget skal bidra til å styrke helhetlig leveranse, optimalisere samarbeid og fremme kontinuerlig forbedring. 
 
 navigation_link:
   title: Teamleder
