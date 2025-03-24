@@ -39,4 +39,4 @@ tags:
 
 {{< team/responsibilities title="Oppgaver" >}}
 
-- Vedlikeholde [produktutviklingsmodellen](/produktutviklingsmodell)
+- Vedlikeholde [produktleveransemodellen](/produktleveransemodell)

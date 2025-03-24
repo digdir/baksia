@@ -22,4 +22,4 @@ Når teamet har anledning til å prioritere oppgaven begynner de å beskrive pro
 ## Kvalitetssikring av nyutvikling
 Før teamet lanserer løsningen må de sørge for at den ivaretar de underliggende faglige prinsippene for produktutvikling i Digdir. Disse prinsippene eksisterer for å sikre at vi leverer produkter av god kvalitet og uten store feil.  
 
-[Gå til prinsipper](/produktutviklingsmodell/prinsipper/)
+[Gå til prinsipper](/produktleveransemodell/prinsipper/)

@@ -3,7 +3,7 @@ title: Porteføljekontor
 linktitle: Portefølje
 
 ingress: Porteføljekontoret er teamet som håndterer og prioriterer de
-  overordnede [porteføljetiltakene](/produktutviklingsmodell/flyt/portfolio/).
+  overordnede [porteføljetiltakene](/produktleveransemodell/flyt/portfolio/).
   Dette er typisk litt større saker (f.eks. prosjekter eller satsinger) som det må settes av
   midler og ressurser til for å realisere på tvers.
 

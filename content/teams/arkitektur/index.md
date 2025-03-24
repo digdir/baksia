@@ -37,5 +37,5 @@ tags:
 - Altinn arkitektur og dokumentasjon
 - Arkitekturforum, fast møteserie
 - Beslutte og dokumentere [overordnede beslutninger](https://github.com/orgs/Altinn/projects/131) som går på tvers av produkter og teams
-- [Arkitekturprinsippene](../../produktutviklingsmodell/prinsipper/arkitektur)
+- [Arkitekturprinsippene](../../produktleveransemodell/prinsipper/arkitektur)
 - [Verktøy](https://docs.altinn.studio/technology/tools/) som benyttes

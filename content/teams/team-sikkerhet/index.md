@@ -23,7 +23,7 @@ tags:
 ## Produkter
 
 - Security champions
-- Bidra til sikker utvikling, drift og forvaltning. Se [Prinsipper for sikkerhet i utvikling](https://baksia.digdir.no/produktutviklingsmodell/prinsipper/sikkerhet/)
+- Bidra til sikker utvikling, drift og forvaltning. Se [Prinsipper for sikkerhet i utvikling](https://baksia.digdir.no/produktleveransemodell/prinsipper/sikkerhet/)
 
 
 {{< team/responsibilities title="Ansvarsområder" >}}
