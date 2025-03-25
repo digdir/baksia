@@ -1,9 +1,9 @@
 ---
 title: Onboarding 
 ingress: |
-  Som nyansatt deltar du i vårt introduksjonsprogram og etter hvert i mer spisset fagopplæring, som er tilpasset den rollen og de oppgavene du skal løse.
+  For å sikre en vellykket start, er det ikke bare viktig med god informasjon til nyansatte, men også tydelige retningslinjer for ledere og faddere/mentorer. En gjennomtenkt onboardingprosess, der alle involverte vet hva som forventes, bidrar til en inkluderende arbeidskultur og legger grunnlaget for mestring og trivsel fra dag én.
 
-  Her finner du lenker til nyttig informasjon som nyansatt i Digdir.
+  Her finner du lenker til nyttig informasjon for deg som nyansatt, leder, fadder eller mentor hos oss.
 
 banner:
   image:
