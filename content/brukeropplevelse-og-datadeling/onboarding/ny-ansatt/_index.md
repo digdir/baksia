@@ -1,6 +1,6 @@
 ---
 title: For nyansatte
-ingress: Å begynne i ny jobb hos oss i BOD er både spennende og utfordrende. Hos oss hvor lover, regler og interne prosesser spiller en viktig rolle, ser vi at en god onboardinger  avgjørende for om du som ny medarbeider skal føle seg trygge og raskt bli effektive i arbeidet ditt. Vi jobber hele tiden med å få til en strukturert og inkluderende onboardingprosess slik at vi legger til rette for en smidig overgang, slik at du får den kunnskapen, støtten og verktøyene du trenger for å lykkes hos oss.
+ingress: Testing av å legge inn tekste        Å begynne i ny jobb hos oss i BOD er både spennende og utfordrende. Hos oss hvor lover, regler og interne prosesser spiller en viktig rolle, ser vi at en god onboardinger avgjørende for om du som ny medarbeider skal føle seg trygge og raskt bli effektive i arbeidet ditt. Vi jobber hele tiden med å få til en strukturert og inkluderende onboardingprosess slik at vi legger til rette for en smidig overgang, slik at du får den kunnskapen, støtten og verktøyene du trenger for å lykkes hos oss.
 
 banner:
   image:
