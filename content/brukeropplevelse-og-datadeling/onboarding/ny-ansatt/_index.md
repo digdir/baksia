@@ -52,11 +52,11 @@ navigation_link:
 
 
 {{< onboarding/ext-nav-card
-  title="Ansatt- og lederportal"
+  title="Ansattportal"
 
   description="Sett deg inn i rammene for arbeidsforholdet ditt."
 
-  external_url="https://login.simployer.com/login?state=hKFo2SBVMFEyTFV0WnpuT2xfMzcweElUVlJnWC1TdGNMZEhJVKFupWxvZ2luo3RpZNkgRkdEUGs5OTV1Mlk2dG1LeFExNHpRNTJNdndiWlhQbzKjY2lk2SBNaFlHOTUyQWxaTjZEWGtvSHpvWnRVMFp1QlBtNkhwNA&client=MhYG952AlZN6DXkoHzoZtU0ZuBPm6Hp4&protocol=oauth2&redirect_uri=https%3A%2F%2Fhandbooks.simployer.com%2Fsignin-auth0&response_type=code&scope=openid%20profile%20email%20context%20auth0_migration&code_challenge=ZmI_6unLrh2hvbhSwbvMK5ixAaJBTZgTVtFfDEBCXdE&code_challenge_method=S256&response_mode=form_post&nonce=638203789767153062.ZmU0ZWJmODUtZmQzOC00Mjk3LTg0NTEtMWRkMmZkNzRhMWU1ZDI5MTNhYTItYjA2My00YTYyLThlNDEtMjYzMjNkNTk3ODNj&audience=simployer-default&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=5.6.0.0"
+  external_url="https://handbooks.simployer.com/nb-no/handbook/100006"
 >}}
 
 
