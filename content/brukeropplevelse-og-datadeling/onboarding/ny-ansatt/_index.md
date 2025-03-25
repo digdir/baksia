@@ -2,6 +2,8 @@
 title: For nyansatte
 ingress: Som nyansatt hos oss vil du ta del i on-boardingsprogrammet og etter hvert en mer spisset opplæring knyttet til din rolle og dine oppgaver. Dette for at du som ny medarbeider skal føle deg trygg og raskt bli effektiv i arbeidet ditt. Vi jobber hele tiden med å få til en strukturert og inkluderende onboardingprosess slik at vi legger til rette for en smidig overgang, slik at du får den kunnskapen, støtten og verktøyene du trenger for å lykkes hos oss.
 
+Under vil du finne nyttige lenker som hjelper deg i gang hos oss.
+
 banner:
   image:
     src: /illustrations/illustration-10.png
