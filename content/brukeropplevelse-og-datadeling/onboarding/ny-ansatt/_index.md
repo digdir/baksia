@@ -1,7 +1,6 @@
 ---
-title: Ny ansatt
-ingress: |
-  Mer info kommer snart.
+title: Ny ansatt i Brukeropplevelse og datadeling (BOD)
+ingress: Å begynne i ny jobb hos oss i BOD er både spennende og utfordrende. Hos oss hvor lover, regler og interne prosesser spiller en viktig rolle, ser vi at en god onboardinger  avgjørende for om du som ny medarbeider skal føle seg trygge og raskt bli effektive i arbeidet ditt. Vi jobber hele tiden med å få til en strukturert og inkluderende onboardingprosess slik at vi legger til rette for en smidig overgang, slik at du får den kunnskapen, støtten og verktøyene du trenger for å lykkes hos oss.
 
 banner:
   image:
@@ -15,14 +14,6 @@ navigation_link:
     Mer info kommer snart.
 ---
 
-
-{{< onboarding/ext-nav-card
-  title="Kommer snart"
-
-  description="EKSTERN"
-
-  external_url="https://handbooks.simployer.com"
->}}
 
 {{< onboarding/ext-nav-card
   title="Velkomst-appen"
@@ -41,16 +32,6 @@ navigation_link:
   external_url="https://laeringsplattformen.dfo.no/kursoversikt/forvaltningsreisen"
 >}}
 
-
-{{< onboarding/ext-nav-card
-  title="IT-sikkerhet"
-
-  description="Les deg opp på Informasjons­sikkerhet"
-
-  external_url="https://digdir.sharepoint.com/sites/Notita/Delte%20dokumenter/Forms/AllItems.aspx?id=%2Fsites%2FNotita%2FDelte%20dokumenter%2FGeneral%2FInformasjonssikkerhet%20i%20DigDir%2Epdf&parent=%2Fsites%2FNotita%2FDelte%20dokumenter%2FGeneral"
->}}
-
-
 {{< onboarding/ext-nav-card
   title="Ansattportal"
 
@@ -59,6 +40,13 @@ navigation_link:
   external_url="https://handbooks.simployer.com/nb-no/handbook/100006"
 >}}
 
+{{< onboarding/ext-nav-card
+  title="IT-sikkerhet"
+
+  description="Les deg opp på Informasjons­sikkerhet"
+
+  external_url="https://digdir.sharepoint.com/sites/Notita/Delte%20dokumenter/Forms/AllItems.aspx?id=%2Fsites%2FNotita%2FDelte%20dokumenter%2FGeneral%2FInformasjonssikkerhet%20i%20DigDir%2Epdf&parent=%2Fsites%2FNotita%2FDelte%20dokumenter%2FGeneral"
+>}}
 
 {{< onboarding/ext-nav-card
   title="IT-hjelp"
