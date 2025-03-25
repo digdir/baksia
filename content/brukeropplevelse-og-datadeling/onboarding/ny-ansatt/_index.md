@@ -11,7 +11,7 @@ layout: onboarding/ny-ansatt/list
 
 navigation_link:
   text: |
-    Mer info kommer snart.
+    Informasjon i oppstartsfasen hos oss.
 ---
 
 
