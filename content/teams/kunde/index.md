@@ -18,6 +18,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89571254?v=4" name="Torkel Buarøy" role="Teamleder" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/130640144?v=4" name="Ole Gunnar Hoddø" role="Support lead" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/116548729?v=4" name="Roy Horn" role="KAM/BOD" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36764011?v=4" name="Lars Vegard Bachmann" role="KAM/BOD" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/105773373?v=4" name="Elaine Svartis" role="Teknisk brukerstøtte/Samarbeidsportal" >}}
@@ -26,8 +27,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45939254?v=4" name="Tommy Almendingen" role="Infrastruktur" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94651380?v=4" name="Lars-Göran Andersson" role="Leverandørstyrer" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94672791?v=4" name="Anita Meisingset" role="Teknisk brukerstøtte" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/130640144?v=4" name="Ole Gunnar Hoddø" role="Teknisk brukerstøtte" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/86382095?v=4" name="Dan Remi Mørk " role="Seksjonsleder for Platform og styring (BPS)" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/86382095?v=4" name="Dan Remi Mørk " role="Seksjonsleder for Marked og tjeneste­oppfølging" >}}
 
 {{< /team/members >}}
 
@@ -35,12 +35,12 @@ tags:
 {{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/121/views/1" url_text="Github" >}}
 {{< /team/products >}}
 
-{{< team/responsibilities title="Ansvarsområder" >}}
+{{< team/responsibilities title="Ansvarsområder/kapabiliteter" >}}
 
-- Hendelsesprosess på tvers av alle team
-- Onboarding av tjenesteeiere
-- Cloud Governance
-- Teknisk brukerstøtte
-- Avtaleforvaltning
-- API-Management
-- Tjenestenivåstyring (SLA)
+- Customer/User support - Servicedesk, CRM
+- Service Catalog Management - Selvbetjening, oversikt over tjenester/produkter
+- Request Management - Forespørsler, tjeneste eller tilgang
+- Incident Management - Hendelseshåndtering
+- Problem Management - Håndtere gjentagende feil
+- Service Level Management - TE-oppfølging og oppnåelse av tjenestenivå (SLA)
+- Avtaleforvaltning - Avtaler under drift og forvaltning (omfang og teamets rolle må avklares)
