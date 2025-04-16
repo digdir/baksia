@@ -45,6 +45,6 @@ tags:
   - [Data.norge.no](https://data.norge.no/) – en nasjonal portal som samler beskrivelser av data fra offentlig sektor, for eksempel datasett, API-er, begreper, informasjonsmodeller og tjenester og hendelser.
   - https://data.norge.no/publishing – en registreringsløsning og høsteløsning for å publisere beskrivelser til Data.norge.no
   - [datalandsbyen.norge.no](https://datalandsbyen.norge.no/) – nettforumet til data.norge.no
-  - [Transportportal](transportportal.no) - nasjonalt tilgangspunkt for transportdata. Løsningen driftes i samarbeid med Statens vegvesen, Jernbanedirektoratet og Entur.
+  - [Transportportal](https://transportportal.no) - nasjonalt tilgangspunkt for transportdata. Løsningen driftes i samarbeid med Statens vegvesen, Jernbanedirektoratet og Entur.
 - Bidra til Digdirs felles designsystem
 - DevOps-team med totalansvar fra idé til produksjon
