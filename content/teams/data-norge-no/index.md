@@ -23,7 +23,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="Team-arkitekt, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum master, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3617256?v=4" name="Livar Bergheim" role="Datajeger, Fast, Leikanger">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/50879748?v=4" name="Pooria Mehregan" role="Frontend, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/74510?v=4" name="Eirik Lillebo" role="Frontend, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3832517?v=4" name="Torleif Gravelsæter" role="Backend, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/430997?v=4" name="Jeff Reiffers" role="Fullstack, Konsulent, Oslo">}}
@@ -43,9 +42,9 @@ tags:
 {{< team/responsibilities title="Ansvarsområder" >}}
 
 - Drifte, forvalte og videreutvikle
-  - [data.norge.no](https://data.norge.no/) – en portal for å dele data med datakataloger, for eksempel datasett, API-er, begreper, informasjonsmodeller og tjenester og hendelser
-  - https://data.norge.no/publishing – en registreringsløsning og høsteløsning for å fylle datakatalogene
+  - [Data.norge.no](https://data.norge.no/) – en nasjonal portal som samler beskrivelser av data fra offentlig sektor, for eksempel datasett, API-er, begreper, informasjonsmodeller og tjenester og hendelser.
+  - https://data.norge.no/publishing – en registreringsløsning og høsteløsning for å publisere beskrivelser til Data.norge.no
   - [datalandsbyen.norge.no](https://datalandsbyen.norge.no/) – nettforumet til data.norge.no
-- Behandlingsoversikt – en del av registreringsløsningen som gir oversikt over behandlingsaktiviteter i en virksomhet (Avvikles 31. mars 2025)
+  - [Transportportal](https://transportportal.no) - nasjonalt tilgangspunkt for transportdata. Løsningen driftes i samarbeid med Statens vegvesen, Jernbanedirektoratet og Entur.
 - Bidra til Digdirs felles designsystem
 - DevOps-team med totalansvar fra idé til produksjon
