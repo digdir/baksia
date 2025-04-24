@@ -14,7 +14,7 @@ banner:
 Risikostyring
 - Team koordinering har overordnet ansvaret for kapabiliteten risikostyring i BOD.
 - Arbeidet i teamet består blant annet i å kontrollere at tiltakene i Risikoregisteret blir fulgt opp av teamene.
-- I Retningslinje for risikostyring er det nærmere beskrevet hvordan avdelingen skal forholde seg til arbeidet med risiko.
+- I [Retningslinje for risikostyring](https://digdir.sharepoint.com/:b:/r/sites/RisikoBOD/Delte%20dokumenter/General/-UO--Retningslinje-for-risikostyring-v1.1.pdf?csf=1&web=1&e=1M9nX8) er det nærmere beskrevet hvordan avdelingen skal forholde seg til arbeidet med risiko.
 
 ROS-analyse
 - Team sikkerhet fasiliterer ROS-analyser innenfor personvern og sikkerhet.
