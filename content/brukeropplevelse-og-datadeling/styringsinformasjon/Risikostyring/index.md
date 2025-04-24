@@ -11,8 +11,9 @@ banner:
     alt: Illustrasjon av en person som sitter og leser en bok
 ---
 
-{{< icon class="rep-li-start-icon" >}} [Styringskalender Digdir](https://digdir.sharepoint.com/:x:/r/sites/intranettfiler/Delte%20dokumenter/Styringskalender%20Digdir%202024.xlsx?d=w636f009c23ad4f97b00c2df37affbc97&csf=1&web=1&e=M8qKnE)
 
-{{< icon class="rep-li-start-icon" >}} [Om OKR i BOD](https://baksia.digdir.no/teams/okr/)
+{{< icon class="rep-li-start-icon" >}} [Retningslinjer for risikostyring](https://digdir.sharepoint.com/:b:/r/sites/RisikoBOD/Delte dokumenter/General/-UO--Retningslinje-for-risikostyring-v1.1.pdf?csf=1&web=1&e=1M9nX8)
 
-{{< icon class="rep-li-start-icon" >}} [Trusselvurderinger i Digdir](https://digdir.sharepoint.com/SitePages/Trusselvurderinger.aspx?useTeamsAuth=true&OR=Teams-HL&CT=1729065449227&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDA5MDEwMTQyMyIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)
+{{< icon class="rep-li-start-icon" >}} [Risikoregisteret](https://digdir.sharepoint.com/:x:/r/sites/RisikoBOD/Delte dokumenter/General/(UO) Risikoregister .xlsx?d=we2e6dba7fc5b4e58a231265f1b761856&csf=1&web=1&e=mRnSs4)
+
+{{< icon class="rep-li-start-icon" >}} [Prosess for risikovurdering i BOD](https://digdir.sharepoint.com/:p:/r/sites/RisikoBOD/Delte dokumenter/General/Presentasjoner/Prosess for risikovurdering i BOD.pptx?d=w72e7267b32d04e7d983e8fe2b4eebac1&csf=1&web=1&e=cUNEn6)
