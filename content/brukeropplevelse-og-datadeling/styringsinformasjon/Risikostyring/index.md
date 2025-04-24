@@ -18,6 +18,6 @@ Risikostyring
 
 ROS-analyse
 - Team sikkerhet fasiliterer ROS-analyser innenfor personvern og sikkerhet.
-- Det er utarbeidet prosess for hvordan ROS-analyser gjennomføres i BOD.
-- Det er den enkelte produkteier (event. prosjektleder) som har ansvar for at ROS-analyser gjennomføres innenfor sitt ansvarsområde.
+- Det er den enkelte produkteier (eventuelt prosjektleder) som har ansvar for at ROS-analyser gjennomføres innenfor sitt ansvarsområde.
+- Det er utarbeidet [prosess for hvordan ROS-analyser gjennomføres i BOD](https://digdir.sharepoint.com/:p:/r/sites/RisikoBOD/Delte%20dokumenter/General/Presentasjoner/Prosess%20for%20risikovurdering%20i%20BOD.pptx?d=w72e7267b32d04e7d983e8fe2b4eebac1&csf=1&web=1&e=cUNEn6).
 - Team koordinering kan kontaktes for å komme i gang med arbeidet. 
