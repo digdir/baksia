@@ -1,6 +1,6 @@
 ---
 title: Risikostyring
-ingress: Team Koordinering har overordnet ansvar for kapabiliteten risikostyring i BOD. Risikostyring er her definert som koordinerte aktiviteter for å håndtere risiko. Arbeidet i teamet består blant annet i å kontrollere at tiltakene i Risikoregisteret følges opp av teamene.
+ingress: Risikostyring innebærer systematiske prosesser for å identifisere, vurdere og håndtere potensielle risikoer som kan påvirke BOD's evne til å oppnå sine mål. Effektiv risikostyring sikrer at BOD kan opprettholde kontinuitet og levere pålitelig tjenester.
 
 navigation_link:
   subtitle: Hvordan vi jobber med risikostyring i BOD
