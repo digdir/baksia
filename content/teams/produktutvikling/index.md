@@ -31,12 +31,22 @@ tags:
 {{< /team/members >}}
 {{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/digdir/projects/24/views/1" url_text="Github" >}}
 
-{{< team/responsibilities title="Ansvarsområder" >}}
+{{< team/responsibilities title="Ansvarsområder/Kapabiliteter" >}}
 
 * Utvikling og forbedring av produktleveransemodellen
 * Optimalisering av arbeidsflyt og rammeverk
 * Drive innovasjon gjennom testing, smidige metoder og kunnskapsdeling
-* PLM Teamet har overordnet ansvar for følgende prosesser: Requirement Management, Product Backlog Management, Product Developement Management, Product Design Management, Release Management, Test Management, Defect Management, Change Management, deployment Management og Policy Management
+* PLM Teamet har overordnet ansvar for følgende prosesser:
+*   - Requirement Management
+    - Product Backlog Management
+    - Product Developement Management
+    - Product Design Management
+    - Release Management
+    - Test Management
+    - Defect Management 
+    - Change Management
+    - deployment Management
+    - Policy Management
 
 {{< team/responsibilities title="Oppgaver" >}}
 
