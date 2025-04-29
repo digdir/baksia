@@ -36,8 +36,9 @@ tags:
 * Utvikling og forbedring av produktleveransemodellen
 * Optimalisering av arbeidsflyt og rammeverk
 * Drive innovasjon gjennom testing, smidige metoder og kunnskapsdeling
+* PLM Teamet har overordnet ansvar for følgende prosesser: Requirement Management, Product Backlog Management, Product Developement Management, Product Design Management, Release Management, Test Management, Defect Management, Change Management, deployment Management og Policy Management
 
 {{< team/responsibilities title="Oppgaver" >}}
 
 - Vedlikeholde [produktleveransemodellen](/produktleveransemodell)
-- PLM Teamet har overordnet ansvar for følgende prosesser: Requirement Management, Product Backlog Management, Product Developement Management, Product Design Management, Release Management, Test Management, Defect Management, Change Management, deployment Management og Policy Management
+
