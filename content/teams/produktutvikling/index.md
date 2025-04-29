@@ -32,13 +32,13 @@ https://avatars.githubusercontent.com/u/71013993?v=4" name="Tage Bryn" role="Ark
 {{< /team/members >}}
 {{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/digdir/projects/24/views/1" url_text="Github" >}}
 
-{{< team/responsibilities title="Ansvarsområder/Kapabiliteter" >}}
+{{< team/responsibilities title="Ansvarsområder/Kapabiliteter:" >}}
 
-* Utvikling og forbedring av produktleveransemodellen
+* Utvikling og forbedring av produktleveransemodellen [produktleveransemodellen](/produktleveransemodell)
 * Optimalisering av arbeidsflyt og rammeverk
 * Drive innovasjon gjennom testing, smidige metoder og kunnskapsdeling
 * PLM Teamet har overordnet ansvar for følgende prosesser:
-*   - Requirement Management
+    - Requirement Management
     - Product Backlog Management
     - Product Developement Management
     - Product Design Management
@@ -49,7 +49,5 @@ https://avatars.githubusercontent.com/u/71013993?v=4" name="Tage Bryn" role="Ark
     - deployment Management
     - Policy Management
 
-{{< team/responsibilities title="Oppgaver" >}}
 
-- Vedlikeholde [produktleveransemodellen](/produktleveransemodell)
 
