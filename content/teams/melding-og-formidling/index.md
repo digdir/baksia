@@ -23,10 +23,9 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13086439?v=4" name="Erik Hagen" role="Arkitekt, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/130640130?v=4" name="Marianne Saltnes" role="Behovsstiller, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36594318?v=4" name="Roar Mjelde" role="Tech Lead, Fullstack, konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/24913160?v=4" name="Andreas Hammerbeck" role="Fullstack, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/182608783?v=4" name="Martin Todorov" role="Fullstack, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/78788499?v=4" name="Axel Ytterås" role="Fullstack, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/" name="Tai Tien Huynh" role="Fullstack, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1225679?v=4" name="Tai Tien Huynh" role="Fullstack, konsulent, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
