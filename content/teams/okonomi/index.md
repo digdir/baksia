@@ -28,8 +28,7 @@ tags:
 
 {{< team/products title="Produkter" >}}
 {{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/139" url_text="Github" >}}
-{{< team/product-item title="Henvendelser til teamet" subtitle="" href="mailto:bod.okonomikontakter@digdir.no" >}}
-
+{{< email-link text="Dersom du ønsker å ta kontakt med oss," email="okonomikontakter@digdir.no" linkText="send oss gjerne en mail" >}}
 {{< /team/products >}}
 
 
