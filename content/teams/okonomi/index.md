@@ -28,6 +28,7 @@ tags:
 
 {{< team/products title="Produkter" >}}
 {{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/139" url_text="Github" >}}
+{{< team/product-item title="Henvendelser til teamet" subtitle="" href="mailto:din.email@eksempel.com" >}}
 {{< /team/products >}}
 
 
