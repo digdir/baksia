@@ -30,6 +30,7 @@ tags:
 {{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/139" url_text="Github" >}}
 {{< /team/products >}}
 
+Henvendelser til teamet sendes på mail til [bod.okonomikontakter@digdir.no](bod.okonomikontakter@digdir.no)
 
 ## Ansvarsområder
 
