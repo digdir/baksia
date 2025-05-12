@@ -21,9 +21,10 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1841665?v=4" name="Kristoffer V. Pedersen " role="Prosjektkoordinator" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/160860495?v=4" name="Naila Raza" role="Test" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/164495148?v=4" name="Trude Arnes" role="Kommunikasjon" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/36764011?v=4" name="Lars Vegard Bachmann" role="Markedsteam" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/116086465?v=4" name="Erling Laugen" role="Markedsteam" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/164495148?v=4" name="Trude H. Arnes" role="Kommunikasjon/marked" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/36764011?v=4" name="Lars Vegard Bachmann" role="Kommunikasjon/marked" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/116086465?v=4" name="Erling Laugen" role="Kommunikasjon/marked" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/206079673?v=4" name="Caroline Lunde" role="Kommunikasjon/marked" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/97237741?v=4" name="Arild E. Hansten" role="Risikostyring" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Jurist" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/72547415?v=4" name="Snorre Aakerø" role="Planverk/rutiner" >}}
