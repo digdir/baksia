@@ -27,7 +27,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3832517?v=4" name="Torleif Gravelsæter" role="Backend, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/430997?v=4" name="Jeff Reiffers" role="Fullstack, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50194012?v=4" name="Nils Ove Tendenes" role="Backend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/48259307?v=4" name="Hege Aalvik" role="Fullstack, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/45495133?v=4" name="Ahmed Abdelgawwad" role="Fullstack, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/8625716?v=4" name="Hans Olav Sund" role="DevOps-ingeniør, Konsulent, Oslo">}}
 
 
