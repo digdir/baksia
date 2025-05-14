@@ -25,12 +25,13 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/90609090?v=4" name="Jamal Alabdullah" role="Frontend, fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend, Team-arkitekt, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/48119543?v=4" name="William Thorenfeldt" role="Frontend, Scrummaster, konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/89974012?v=4" name="Espen Halsen" role="Frontend og backend, lærling, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/148075168?v=4" name="Erling Hauan" role="Frontend og backend, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1525466?v=4" name="Jonas Dyrlie" role="Frontend og backend, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/180176181?v=4" name="Konrad Simsø" role="Frontend og backend, fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/100292724?v=4" name="Anniken Kjos Bråthen" role="Interaksjonsdesigner, fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/111488506?v=4" name="Gørild Døhl" role="Innholdsdesigner, fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/25076841?v=4" name="Hanne Finnøy" role="Interaksjonsdesigner, fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/22139553?v=4" name="Viveca Krishnamoorthi" role="Interaksjonsdesigner, fast, Oslo">}}
 
 
 {{< /team/members >}}
