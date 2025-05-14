@@ -19,7 +19,6 @@ tags:
 {{< team/members title="Medlemmer i teamet" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89571254?v=4" name="Torkel Buarøy" role="Teamleder" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/130640144?v=4" name="Ole Gunnar Hoddø" role="Support lead" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/116548729?v=4" name="Roy Horn" role="KAM/BOD" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36764011?v=4" name="Lars Vegard Bachmann" role="KAM/BOD" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/105773373?v=4" name="Elaine Svartis" role="Teknisk brukerstøtte/Samarbeidsportal" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/116086465?v=4" name="Erling Laugen" role="KAM/BOD" >}}
