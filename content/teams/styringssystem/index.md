@@ -1,6 +1,9 @@
 ---
 title: Koordinering
-ingress: Team Koordinering skal legge til rette for å vise sammenhenger i avdelingen med tanke på hvilke verktøy vi benytter i utførelse og organisering av arbeid i avdelingen. Teamet følger opp at alle team dokumenterer sine prosesser og ansvarsområder helhetlig på Baksia ved hjelp av årshjul og ad hoc rutiner. Se [teamets mandat, ansvarsområder og rollebeskrivelse](https://digdir.sharepoint.com/:p:/r/sites/DigdirDGT/_layouts/15/Doc.aspx?sourcedoc=%7B90C5B872-7F48-454C-B973-F2F3D50A5749%7D&file=Rollebeskrivelse%20Koordinering%20team%20og%20teamleder.pptx&action=edit&mobileredirect=true)
+ingress: |
+Team Koordinering skal legge til rette for å vise sammenhenger i avdelingen med tanke på hvilke verktøy vi benytter i utførelse og organisering av arbeid i avdelingen. Teamet følger opp at alle team dokumenterer sine prosesser og ansvarsområder helhetlig på Baksia ved hjelp av årshjul og ad hoc rutiner.
+
+Se [teamets mandat, ansvarsområder og rollebeskrivelse](https://digdir.sharepoint.com/:p:/r/sites/DigdirDGT/_layouts/15/Doc.aspx?sourcedoc=%7B90C5B872-7F48-454C-B973-F2F3D50A5749%7D&file=Rollebeskrivelse%20Koordinering%20team%20og%20teamleder.pptx&action=edit&mobileredirect=true)
 
 navigation_link:
   title: Teamleder
