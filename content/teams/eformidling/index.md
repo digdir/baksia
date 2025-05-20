@@ -24,9 +24,12 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/785457?v=4"  name="Steinar Henriksen" role="Produkteigar, Leikanger" >}}
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/12180816?v=4" name="Johannes Molland" role="Team Lead / Utvikler, Leikanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/5196432?s=96&v=4" name="Lars Bårdgard Åstveit" role="Utvikler, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/5196432?s=96&v=4" name="Lars Bårdgard Åstveit" role="Utvikler / security-champion, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/15088232?v=4" name="Håvard England" role="Utvikler, Leikanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/47362824?v=4" name="Joachim Hagheim" role="Utvikler, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/47362824?v=4" name="Joachim Hagheim" role="Utvikler / quality-champion, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/1426570?v=4" name="Thore Johnsen" role="Utvikler, Oslo" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/210819979?v=4" name="Eirik Flaten" role="Utvikler, Oslo" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/3206343?v=4" name="Alexander Petrov" role="Utvikler, Oslo" >}}
   
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/46677409?s=96&v=4" name="Daniel Fylling" role="Driftsleiar, Leikanger" >}}
   {{< team/github-profile url="" name="Ole Jomar Moen" role="Service Manager, Leikanger" >}}
