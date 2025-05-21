@@ -4,7 +4,7 @@ ingress: Team Koordinering skal legge til rette for å vise sammenhenger i avdel
 
 navigation_link:
   title: Teamleder
-  subtitle: Snorre Aakerø
+  subtitle: Snorre Torgeir Egedal Aakerø
 
 banner:
   image:
