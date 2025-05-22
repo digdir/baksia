@@ -29,9 +29,7 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/Altinn/projects/20/views/21" url_text="Github">}}
 {{< team/product-item title="Hva inngår i sprinten/Kanban" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/Altinn/projects/20/views/11" url_text="Github" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/20/views/1" url_text="Github" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
