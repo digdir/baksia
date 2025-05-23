@@ -25,10 +25,14 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/12525344?v=4" name="Thord V. Foss" role="UX-designer konseptutvikler, Konsulent,  Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/180932679?v=4" name="Stig Ola Svahn" role="UX-research, Fast  Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/110961868?v=4" name="Dorte Drange" role="Design lead og innholdsdesigner, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/144218610?v=4" name="Kenneth Helland" role="Innholdsforvalter for norge.no, Fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/147068285?v=4" name="Wilhelm Walberg Schive" role="Backend og tech-lead, Konsulent,  Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/157741111?v=4" name="Quan Vu" role="Fullstack, Konsulent,  Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/147140002?v=4" name="Monica Wold Olsen" role="Frontend, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/144218610?v=4" name="Kenneth Helland" role="Innholdsforvalter for norge.no, Fast, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/50879748?v=4" name="Pooria Mehregan" role="Utvikler for norge.no, fast Oslo" >}}
+{{< team/github-profile url="" name="Kristian Bergem" role="Utreder, Fast,  Oslo" >}}
+{{< team/github-profile url="" name="Helga Maj Myren" role="Innholdsansvarlig norge.no, Fast,  Leikanger" >}}
+{{< team/github-profile url="" name="Inger-Lise Hov Risøy" role="Innholdsansvarlig norge.no, Fast,  Leikanger" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
