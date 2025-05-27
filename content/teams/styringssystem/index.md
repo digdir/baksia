@@ -41,9 +41,12 @@ tags:
 
 -	OKR
 -	Forvaltning Baksia
-    -	[Se hvem som har ansvar for innholdsoppdatering på sidene](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3206905857/Ansvarsmatrise+Baksia?atlOrigin=eyJpIjoiZDYyNDc4MzBhZDYwNGI1OTk4ZjFhYzM1NDU0MDk0MTUiLCJwIjoiYyJ9)
+    -	[Ansvarsmatrise for innhold på Baksia](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3206905857/Ansvarsmatrise+Baksia?atlOrigin=eyJpIjoiZDYyNDc4MzBhZDYwNGI1OTk4ZjFhYzM1NDU0MDk0MTUiLCJwIjoiYyJ9)
 -	Forvaltning Confluence
 -	Forvaltning dokumentasjon
+-	Forvaltning kunnskap
+-	Forvaltning risiko
+-	Forvaltning målinger
 -	Intern kursing
     -	[Grunnkurs i GitHub](https://digdir.sharepoint.com/sites/DigdirDGT/_layouts/15/Doc.aspx?sourcedoc={659f6132-a6ec-4bc6-885a-735c6bd02640}&action=edit&wd=target%28Kurskalender.one%7C7cf5e93c-f42b-43b6-9743-c38a08a6f2f1%2FGrunnkurs%20i%20GitHub%20og%20enkel%20innf%C3%B8ring%20i%20smidig%20metodikk%7C63cadfd4-a98d-4ea3-8001-ceb41ac4e2e2%2F%29&wdorigin=703)
 -	Introduksjonsprogrammet (onboarding)
