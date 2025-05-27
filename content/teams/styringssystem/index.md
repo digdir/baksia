@@ -41,6 +41,7 @@ tags:
 
 -	OKR
 -	Forvaltning Baksia
+    -	[Se hvem som har ansvar for innholdsoppdatering på sidene](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3206905857/Ansvarsmatrise+Baksia?atlOrigin=eyJpIjoiZDYyNDc4MzBhZDYwNGI1OTk4ZjFhYzM1NDU0MDk0MTUiLCJwIjoiYyJ9)
 -	Forvaltning Confluence
 -	Forvaltning dokumentasjon
 -	Intern kursing
