@@ -8,10 +8,28 @@ navigation_link:
 ---
 
 
-## Er porteføljen riktig sted for meg?
-Porteføljen er de sentrale tiltakene det må settes av midler og ressurser til,som krever strategiske investeringer og fokus for å skape ny verdi,og inkluderer i hvert fall saker som tar mer enn 6 måneder å realisere.
+## Hensikten med porteføljestyring
+### Strategisk tilpasning
+Sikre at investeringer støtter virksomhetens strategiske mål og prioriteringer.
 
+### Prioritering og beslutningsstøtte
+Hjelpe ledelsen med å velge hvilke tiltak som skal gjennomføres basert på verdi, risiko, kostnad og kapasitet.
+
+### Ressursoptimalisering
+Sørge for at folk, tid og penger brukes på de viktigste tingene – og ikke spres for tynt.
+
+### Balanse og risikostyring
+Sikre riktig balanse mellom korte og lange initiativer, høy og lav risiko, innovasjon og stabilitet.
+
+### Transparens og styring
+Gi oversikt over hva som skjer, hva det koster, hva det gir – og hvilke avvik eller endringer som oppstår.
+
+
+
+## Er porteføljen riktig sted for meg?
 Dersom ideen din vil dra nytte av forankring fra ledelsen eller krever prioritet på tvers av flere team så kan porteføljen hjelpe deg med dette.
+
+Tiltak som fremmes til porteføljekontoret kjennetegnes ofte ved at det må settes av ekstra midler og ressurser som det enkelte team ikke har til sin disposisjon. Behandling av sakene krever ofte strategiske vurderinger og ekstra fokus. 
 
 {{<sibling-pages>}}
 
