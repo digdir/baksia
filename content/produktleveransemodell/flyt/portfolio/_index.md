@@ -9,20 +9,15 @@ navigation_link:
 
 
 ## Hensikten med porteføljestyring
-### Strategisk tilpasning
-Sikre at investeringer støtter virksomhetens strategiske mål og prioriteringer.
+**Strategisk tilpasning** Sikre at investeringer støtter virksomhetens strategiske mål og prioriteringer.
 
-### Prioritering og beslutningsstøtte
-Hjelpe ledelsen med å velge hvilke tiltak som skal gjennomføres basert på verdi, risiko, kostnad og kapasitet.
+**Prioritering og beslutningsstøtte** Hjelpe ledelsen med å velge hvilke tiltak som skal gjennomføres basert på verdi, risiko, kostnad og kapasitet.
 
-### Ressursoptimalisering
-Sørge for at folk, tid og penger brukes på de viktigste tingene – og ikke spres for tynt.
+**Ressursoptimalisering** Sørge for at folk, tid og penger brukes på de viktigste tingene – og ikke spres for tynt.
 
-### Balanse og risikostyring
-Sikre riktig balanse mellom korte og lange initiativer, høy og lav risiko, innovasjon og stabilitet.
+**Balanse og risikostyring** Sikre riktig balanse mellom korte og lange initiativer, høy og lav risiko, innovasjon og stabilitet.
 
-### Transparens og styring
-Gi oversikt over hva som skjer, hva det koster, hva det gir – og hvilke avvik eller endringer som oppstår.
+**Rapportering** Gi oversikt over hva som skjer, hva det koster, hva det gir – og hvilke avvik eller endringer som oppstår.
 
 
 
