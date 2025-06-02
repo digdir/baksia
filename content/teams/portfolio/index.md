@@ -5,7 +5,7 @@ linktitle: Portefølje
 ingress: Porteføljekontoret er teamet som håndterer og prioriterer de
   overordnede [porteføljetiltakene](/produktleveransemodell/flyt/portfolio/).
   Dette er typisk litt større saker (f.eks. prosjekter eller satsinger) som det må settes av
-  midler og ressurser til for å realisere på tvers.
+  ekstra midler og ressurser til for å realisere.
 
 navigation_link:
   title: Porteføljestyrer
@@ -24,8 +24,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/35563205?v=4" name="Frank-Robert Sveinsbø" role="Porteføljestyrer" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47210425?v=4" name="Tor Arild Sunnevåg" role="Produktgruppeleder datadeling" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/126155457?v=4" name="Lis Lonning" role="Produktgruppeleder portaler og brukeropplevelse" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/85931131?v=4" name="Hanne Hofsæth Fredheim" role="Fung. produktgruppeleder portaler og brukeropplevelse" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/85931131?v=4" name="Hanne Hofsæth Fredheim" role="Produktgruppeleder portaler og brukeropplevelse" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/97158464?v=4" name="Finnur Sigurvinsson Olafsson" role="Produktgruppeleder tjenesteutvikling" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Sjefsdesigner" >}}
 
@@ -36,7 +35,7 @@ tags:
 {{< team/product-item url="https://github.com/orgs/digdir/projects/1/views/6" url_text="Kanban (krever tilganger)" >}}
 {{< /team/products >}}
 
-Porteføljekontoret møtes normalt hver 14 dag. I møtene behandles nye tiltak og pågående tiltak.
+Porteføljekontoret møtes normalt hver uke. I møtene behandles nye - og pågående tiltak.
 Det tas stilling til oppstart av nye tiltak samt sikre innfrielse av krav for overgang til ny fase for igansatte tiltak.
 
 ## Oppgaver
