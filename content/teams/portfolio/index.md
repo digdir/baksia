@@ -28,7 +28,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/85931131?v=4" name="Hanne Hofsæth Fredheim" role="Fung. produktgruppeleder portaler og brukeropplevelse" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/97158464?v=4" name="Finnur Sigurvinsson Olafsson" role="Produktgruppeleder tjenesteutvikling" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Sjefsdesigner" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/91873115?v=4" name="Kyrre Nordhagen" role="Prosjektleder modernisering Altinn" >}}
 
 {{< /team/members >}}
 
