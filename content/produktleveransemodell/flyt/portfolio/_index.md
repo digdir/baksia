@@ -26,6 +26,7 @@ Dersom ideen din vil dra nytte av forankring fra ledelsen eller krever prioritet
 
 Tiltak som fremmes til porteføljekontoret kjennetegnes ofte ved at det må settes av ekstra midler og ressurser som det enkelte team ikke har til sin disposisjon. Behandling av sakene krever ofte strategiske vurderinger og ekstra fokus. 
 
+{{<sibling-pages>}}
 
 
 ## Opprett tiltak i porteføljen
