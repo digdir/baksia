@@ -18,7 +18,7 @@ tags:
 {{< team/members title="Medlemmer i team arkitektur">}}
 
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, fast, Hamar" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Dialogporten/Arbeidsflate/DAN, fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Dialogporten/Arbeidsflate, fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Altinn Studio, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/28589510?v=4" name="Henning Normann" role="Migrering av data, konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/40996230?v=4" name="Jon-Kjetil Øye" role="Tilgangsstyring, konsulent, Oslo" >}}
