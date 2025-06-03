@@ -2,14 +2,15 @@
 title: Måltall kunder
 ingress: Statistikk og rapporter, kundeundersøkelser 
 
-navigation_link:
-  subtitle: Statistikk og rapporter, kundeundersøkelser
-
 banner:
   image:
     src: /illustrations/illustration-03.png
     alt: Illustrasjon av en person som sitter og leser en bok
 
+layout: onboarding/ny-ansatt/list
+
+navigation_link:
+  subtitle: Statistikk og rapporter, kundeundersøkelser
 ---
 
 {{< onboarding/ext-nav-card
