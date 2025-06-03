@@ -9,6 +9,8 @@ banner:
   image:
     src: /illustrations/illustration-03.png
     alt: Illustrasjon av en person som sitter og leser en bok
+
+  layout: onboarding/ny-ansatt/list  
 ---
 
 {{< onboarding/ext-nav-card
