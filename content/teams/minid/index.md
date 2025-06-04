@@ -30,7 +30,7 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/21103742?v=4" name="Terje Ballestad" role="Utvikler, Oslo" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/67735081?v=4" name="Vivian Atteraas" role="QA, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/117446337?v=4" name="Kim Vidar Bakken" role="Driftsleiar, Leikanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/210362909?v=4 name="Dusan Nikolic" role="Utvikler, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/210362909?v=4" name="Dusan Nikolic" role="Utvikler, Leikanger" >}}
 
 
 {{< /team/members >}}
