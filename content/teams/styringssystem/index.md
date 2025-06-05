@@ -27,7 +27,7 @@ tags:
 {{< team/products title="Produkter" >}}
 {{< team/product-item title="Backlog for teamet" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/122" url_text="Github" >}}
 {{< team/product-item title="Årshjul verktøy" subtitle="Forvaltning av verktøy" url="https://github.com/orgs/Altinn/projects/122/views/21" url_text="Årshjul">}}
-{{< team/product-item title="Behov for hjelp med enkle endringer på Baksia?" subtitle="" url="https://github.com/Altinn/koordinering/issues/new?template=baksia--innmelding-av-enkle-endringer.md" url_text="Meld inn endring">}}
+{{< team/product-item title="Behov for hjelp med enkle endringer på Baksia?" subtitle="" url="https://github.com/Altinn/koordinering/issues/new?template=baksia--innmelding-av-enkle-endringer-p%C3%A5-baksia.md">}}
 
 {{< /team/products >}}
 
