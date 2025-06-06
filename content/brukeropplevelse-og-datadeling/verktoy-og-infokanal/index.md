@@ -159,7 +159,7 @@ Arbeidsutviklingsverktøy for design (UX) - Modeller, ideer, brukertester
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Samarbeidsportalen" >}}
-[samarbeid.digdir.no ](https://samarbeid.digdir.no/ )
+[Samarbeidsportalen](https://samarbeid.digdir.no/ )
 
 {{< verkt-infokanal/accordion title="Regnskapssystem Unit 4" >}}
 Til bruk i fakturering og regnskap. 
