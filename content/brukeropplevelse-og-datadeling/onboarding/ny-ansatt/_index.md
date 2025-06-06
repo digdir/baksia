@@ -45,7 +45,7 @@ navigation_link:
 
   description="Les deg opp på Informasjons­sikkerhet"
 
-  external_url="https://digdir.sharepoint.com/sites/Notita/Delte%20dokumenter/Forms/AllItems.aspx?id=%2Fsites%2FNotita%2FDelte%20dokumenter%2FGeneral%2FInformasjonssikkerhet%20i%20DigDir%2Epdf&parent=%2Fsites%2FNotita%2FDelte%20dokumenter%2FGeneral"
+  external_url="https://digdir.sharepoint.com/:u:/r/SitePages/Informasjonssikkerhet.aspx?csf=1&web=1&e=54tKI6"
 >}}
 
 {{< onboarding/ext-nav-card
