@@ -40,7 +40,7 @@ Tjenesteutviklingsløsning for Altinn. (Baserer seg på .NET Core, med docker og
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Altinndigital.no" >}}
-[altinndigital.no](https://Altinndigital.no)
+[Altinndigital](https://Altinndigital.no)
 
 - Inngangsport til Altinn sine produkter
 
@@ -69,6 +69,7 @@ Kildekode:
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Baksia" >}}
+[Baksia](https://baksia.digdir.no/)
 Portalen til dokumentasjon som understøtter BODs avdeling og rolle som leverandør av fellesløsninger i Digdir. Her finner du beskrivelser av gjeldende organisering og måten vi jobber på når vi utvikler og forvalter digitale løsninger for våre brukere.
 {{< /verkt-infokanal/accordion >}}
 
