@@ -34,13 +34,13 @@ AI dev verktøy for tilgangsstyring blant annet for Azure
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Altinn studio" >}}
-[altinn.studio](https://altinn.studio)
+[Altinn studio](https://altinn.studio)
 
 Tjenesteutviklingsløsning for Altinn. (Baserer seg på .NET Core, med docker og kubernetes som arkitektur). 
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Altinndigital.no" >}}
-[altinndigital.no](https://Altinndigital.no)
+[Altinndigital](https://Altinndigital.no)
 
 - Inngangsport til Altinn sine produkter
 
@@ -96,7 +96,7 @@ DFØ selvbetjening er SAP systemer for tid, lønn, reiseregning og utgifter.
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Digdir.no" >}}
-[digdir.no](https://digdir.no)
+[Digdir.no](https://digdir.no)
 
 Direktoratet sin informasjonsportal om hva direktoratet tilbyr av tjenester og produkter, konferanser og webinarer som er tilgjengelig på internett for alle. 
 {{< /verkt-infokanal/accordion >}}
@@ -119,8 +119,8 @@ Metodikken skaper felles forståelse, samhandling og tydelig fokus på de viktig
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="GitHub (Altinn)" >}}
-[github.com/Altinn ](https://github.com/Altinn )
-[github.com/Digdir ](https://github.com/digdir )
+[Github.com/Altinn ](https://github.com/Altinn )
+[Github.com/Digdir ](https://github.com/digdir )
 
 Nettsted for kode, back log, dokumentasjon, kanban tavle og deling av informasjon.
 {{< /verkt-infokanal/accordion >}}
@@ -143,7 +143,7 @@ Internt nettsted med informasjon om:
 {{< /verkt-infokanal/accordion >}}
 
 {{< verkt-infokanal/accordion title="Microsoft 365" >}}
-[Microsoft 365 ](https://www.microsoft365.com)
+[Microsoft 365](https://www.microsoft365.com)
 
 Microsoft 365 inneholder en rekke verktøy for produktivitet og kommunikasjon. Brukes som administrativt verktøy: tekst, regneark, presentasjon, datadeling og kommunikasjon m.m. 
 
