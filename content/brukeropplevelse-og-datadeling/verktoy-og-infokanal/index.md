@@ -39,7 +39,7 @@ AI dev verktøy for tilgangsstyring blant annet for Azure
 Tjenesteutviklingsløsning for Altinn. (Baserer seg på .NET Core, med docker og kubernetes som arkitektur). 
 {{< /verkt-infokanal/accordion >}}
 
-{{< verkt-infokanal/accordion title="Altinndigital.no" >}}
+{{< verkt-infokanal/accordion title="Altinndigital" >}}
 [Altinndigital](https://Altinndigital.no)
 
 - Inngangsport til Altinn sine produkter
