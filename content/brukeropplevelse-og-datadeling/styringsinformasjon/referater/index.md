@@ -3,7 +3,7 @@ title: Referater
 ingress: Her finner du referater fra lederlagsmøtene i BOD 
 
 navigation_link:
-  subtitle: Referater fra lederlagsmøter 
+  subtitle:  
 
 banner:
   image:
