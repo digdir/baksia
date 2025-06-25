@@ -4,7 +4,7 @@ Ingress: Prosjektkontoret koordinerer innsatsen i de ulike produktteamene for å
 
 navigation_link:
   title: Prosjektleder
-  subtitle: Kyrre Nordhagen
+  subtitle: Kristoffer V. Pedersen
 
 banner:
   image:
@@ -17,8 +17,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/91873115?v=4" name="Kyrre Nordhagen" role="Prosjektleder" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1841665?v=4" name="Kristoffer V. Pedersen " role="Prosjektkoordinator" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1841665?v=4" name="Kristoffer V. Pedersen" role="Prosjektleder og -koordinator" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/160860495?v=4" name="Naila Raza" role="Test" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/164495148?v=4" name="Trude H. Arnes" role="Kommunikasjon/marked" >}}
