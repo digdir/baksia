@@ -24,7 +24,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum master, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3617256?v=4" name="Livar Bergheim" role="Datajeger, Fast, Leikanger">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/74510?v=4" name="Eirik Lillebo" role="Frontend, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/3832517?v=4" name="Torleif Gravelsæter" role="Backend, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/430997?v=4" name="Jeff Reiffers" role="Fullstack, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50194012?v=4" name="Nils Ove Tendenes" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45495133?v=4" name="Ahmed Abdelgawwad" role="Fullstack, Konsulent, Oslo">}}
