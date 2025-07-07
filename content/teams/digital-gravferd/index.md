@@ -4,7 +4,7 @@ Ingress: Teamet jobber for Statsforvalteren i Vestfold/Telemark og har som mål 
 
 navigation_link:
   title: Teamleder
-  subtitle: Andreas Fjelldal
+  subtitle: Dirk Lammering
 
 banner:
   image:
@@ -17,7 +17,7 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C04PR2LBRDG" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Andreas Fjeldal" role="Teamleder, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Dirk Lammering" role="Teamleder, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/938091?v=4" name="Morten Foshaug" role="Tech lead, Backend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/4062582?v=4" name="Christer Rustand" role="Backend, Konsulent, Oslo" >}}
 
