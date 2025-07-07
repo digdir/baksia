@@ -7,6 +7,8 @@ ingress: Prosjektet Oppgjør etter dødsfall kalt OED er et DSOP-samarbeidsprosj
 navigation_link:
   title: Prosjektleder
   subtitle: Bredo Swanberg
+  title: Tjenesteeier
+  subtitle: Janne Øren Antonsen
 
 banner:
   image:
@@ -20,8 +22,8 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C07PZUQFBS6" slack_url_text="Slackkanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/92986603?v=4" name="Bredo Swanberg" role="Prosjektleder, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Janne Øren Antonsen" role="Tjenesteeier, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71013993?v=4" name="Tage Bryn" role="Arkitekt,Brukerhistorier, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="Prosjekt koordinator, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/91191481?v=4" name="Cecilie Fjellsøy Lammering" role="Designer, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/142312811?v=4" name="Jan Vidar Simonsen" role="Sikkerhetsansvarlig, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/166691946?v=4" name="Johan Strømberg" role="Testleder, Konsulent, Oslo" >}}
