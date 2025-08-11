@@ -44,7 +44,7 @@ Se oversikt over caser [her](https://github.com/Altinn/ai/issues?q=is%3Aissue%20
 
 ## Ansvarsområder
 
-- Etablere KI Lab, fostre samarbeid internt, eksternt og nasjonalt. Bygge miljø og kompetanse.
+- Etablere KI Lab, fremme samarbeid internt, eksternt og nasjonalt. Bygge miljø og kompetanse.
 - Bidra til at Digdir fortsetter å [walk the walk](https://www.kode24.no/artikkel/81951932) 😛
 - Bidra til videreutvikling av [veiledningen for bruk av KI](https://www.digdir.no/kunstig-intelligens/kunstig-intelligens/4132).
 - Åpen kildekode ([digdir-assistants](https://github.com/Altinn/digdir-assistants)) som understøtter alle casene vi jobber med. Både Slack og web som frontend.
