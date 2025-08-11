@@ -2,7 +2,7 @@
 title: Altinn Platform
 linktitle: Altinn Platform
 
-ingress: "Bygge og vedlikeholde verktøy, infrastrukturtjenester og standarder som gjør det enklere for utviklere å lage og lansere produktene som utgjør Altinn. Sørge for at prosesser er automatiserte, skalerbare og enkle å vedlikeholde. Altinn Platformteamet støtter dermed andre team, slik at de kan fokusere mer på selve produktutviklingen."
+ingress: "Vi bygger og vedlikeholder verktøy, infrastrukturtjenester og standarder som gjør det enklere for utviklere å lage og lansere produktene som utgjør Altinn. Vi sørger for at prosessene er automatiserte, skalerbare og enkle å vedlikeholde. Altinn Platform-teamet støtter dermed andre team, slik at de kan fokusere mer på selve produktutviklingen."
 
 navigation_link:
   title: Teamleder
@@ -26,7 +26,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49302758?v=4" name="Øystein Otneim" role="Plattformutvikler, 80%, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89203237?v=4" name="Simon Ellefsen" role="Plattformutvikler, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6243408?v=4" name="Khan Naby" role="Plattformutvikler, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/45536168?v=4" name="Renato Monteiro" role="Plattformutvikler,Security Champion, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/45536168?v=4" name="Renato Monteiro" role="Plattformutvikler, Security Champion, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/12184124?v=4" name="Børge Thommesen" role="FinOps-Arkitekt, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/164244096?v=4" name="Eivind B Risa" role="Cost Management, Konsulent, Oslo">}}
 
