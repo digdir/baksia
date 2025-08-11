@@ -5,7 +5,7 @@ linktitle: eFormidling
 ingress: Teamets hovedoppgave er å utvikle og forvalte eFormidling, ELMA og Kontaktregisteret.
 
 navigation_link:
-  title: Produktsjek
+  title: Produktsjef
   subtitle: Johannes Hunderi
 
 banner:
