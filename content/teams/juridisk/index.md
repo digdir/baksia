@@ -27,7 +27,7 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-Team juridisk har et omfattende ansvar for å sikre juridisk etterlevelse på mange områder. Gjennom juridisk rådgivning og oppfølging bidrar teamet til å sikre at produktene er forsvarlig, sikker og i samsvar med offentlighetens interesser. Teamet skal håndtere både spesifikke rettslige problemstillinger knyttet til fellesløsningene (produktene) og generell etterlevelse av regelverk. I tillegg gi juridisk rådgivning til ledelsen og øvrige om daglige spørsmål som berører drift, forvaltning og utvikling, slik at virksomheten kan ta gode beslutninger basert på juridiske vurderinger.
+Team juridisk har et omfattende ansvar for å sikre juridisk etterlevelse på mange områder. Gjennom juridisk rådgivning og oppfølging bidrar teamet til å sikre at produktene er forsvarlige, sikre og i samsvar med offentlighetens interesser. Teamet skal håndtere både spesifikke rettslige problemstillinger knyttet til fellesløsningene (produktene) og generell etterlevelse av regelverk. I tillegg gir teamet juridisk rådgivning til ledelsen og øvrige om daglige spørsmål som berører drift, forvaltning og utvikling, slik at virksomheten kan ta gode beslutninger basert på juridiske vurderinger.
 
 **Noen aktuelle ansvarsområder:**
 
@@ -46,7 +46,7 @@ Team juridisk har et omfattende ansvar for å sikre juridisk etterlevelse på ma
 - Høringsuttalelser til nye lov- og forskriftsforslag
 - Veiledning og opplæring
 - Etablering av kontrollmekanismer
-- Tilpasninger i produkt, avtaler eller kontakter 
+- Tilpasninger i produkt, avtaler eller kontrakter 
 
 **Bruksvilkår**
 - Utarbeidelse av bruksvilkår for kunder, sluttbrukerleverandører og private virksomheter
@@ -55,12 +55,12 @@ Team juridisk har et omfattende ansvar for å sikre juridisk etterlevelse på ma
 - Intern veiledning og opplæring
 
 **Informasjonssikkerhet og beredskap**
-- Bidra til etterlevelse av regelverkskrav i våre produkter,  spesielt for å sikre at personopplysninger og annen sensitiv informasjon håndteres trygt
+- Bidrar til etterlevelse av regelverkskrav i våre produkter,  spesielt for å sikre at personopplysninger og annen sensitiv informasjon håndteres trygt
 - Støtte og juridisk bistand ved hendelser og sikkerhetsbrudd
 
 **Anskaffelser**
 - Planlegging og strategisk rådgivning
-- Bidra i utforming av konkurransegrunnlag og gjennomføring av konkurranse
+- Bidrar i utforming av konkurransegrunnlag og gjennomføring av konkurranse
 - Risikohåndtering
 - Kontraktsutforming
 - Veiledning, opplæring og oppfølging
