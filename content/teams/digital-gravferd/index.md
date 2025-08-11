@@ -1,6 +1,6 @@
 ---
 title: Digital gravferd
-Ingress: Teamet jobber for Statsforvalteren i Vestfold/Telemark og har som mål å digitalisere og forenkle skjemaer og prosesser i livshendelsen Dødsfall og arv. Hovedoppgaven fremover er skjemaene for gravferd og dødsbo.
+Ingress: Teamet jobber for Statsforvalteren i Vestfold og Telemark og har som mål å digitalisere og forenkle skjemaer og prosesser i livshendelsen Dødsfall og arv. Hovedoppgaven fremover er skjemaene for gravferd og dødsbo.
 
 navigation_link:
   title: Teamleder
@@ -25,9 +25,9 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="Github">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="" url_text="Github" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="Github" >}}
+{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="GitHub">}}
+{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="" url_text="GitHub" >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="GitHub" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
