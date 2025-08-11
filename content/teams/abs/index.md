@@ -2,7 +2,7 @@
 title: ABS
 linktitle: ABS
 
-ingress: Levere effektiv og god brukerstøtte mot sluttbrukere av Altinn. Kategorisere og eskalere eventuelle hendelser. 
+ingress: Vi levere effektiv og god brukerstøtte til sluttbrukere av Altinn. Vi kategorisere og eskalere eventuelle hendelser. 
 
 navigation_link:
   title: Teamleder
@@ -35,9 +35,9 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Brukstøtte mot sluttbrukere av Altinn
-- Oppdatere og kvalitetssikre hjelpesider altinn.no
+- Brukstøtte til sluttbrukere av Altinn
+- Oppdatere og kvalitetssikre hjelpesidene på altinn.no
 - Rekruttering til brukertester
 - Oversettelsesarbeid
 - Testing
-- Pårørendetelefon Digdir
+- Betjening av Digdirs pårørendetelefon
