@@ -38,6 +38,6 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Sikker og stabil drift av Altinn 2 frem til Altinn 3 tar over
+- Sikre stabil og sikker drift av Altinn 2 frem til Altinn 3 tar over
 - Patche og vedlikeholde programvaren til systemet og infrastrukturen rundt
 - Følge opp leverandørene
