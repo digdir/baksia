@@ -1,6 +1,6 @@
 ---
 title: App migration
-Ingress: Teamets hovedansvar er å følge opp tjenesteeierne og støtte dem under migreringen av skjema til Altinn 3. 
+Ingress: Teamets hovedansvar er å følge opp tjenesteeierne og støtte dem under migreringen av skjemaer til Altinn 3. 
 
 navigation_link:
   title: Produkteier
@@ -37,7 +37,7 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Følge opp tjenesteeierne mens de migrerer fra Altinn 2 til Altinn 3
-- Kartlegge hva slags funksjonalitet tjenesteeierne trenger på Altinn 3
-- Hjelpe til med å utvikle skjemaer og gi kundestøtte
+- Vi følger opp tjenesteeierne mens de migrerer fra Altinn 2 til Altinn 3
+- Vi kartlegger hvilken funksjonalitet tjenesteeierne trenger på Altinn 3
+- Vi bistår med utvikling skjemaer og gir kundestøtte
 
