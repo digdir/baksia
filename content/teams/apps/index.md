@@ -1,6 +1,6 @@
 ---
 title: Apps
-ingress: Team Apps har ansvaret for den delen av Altinn 3 som møter sluttbrukerne når de fyller ut et skjema - fra de starter å fylle det ut til de har sendt det inn til tjenesteeieren.
+ingress: Apps-teamet har ansvaret for den delen av Altinn 3 som møter sluttbrukerne når de fyller ut et skjema - fra de starter å fylle det ut til de har sendt det inn til tjenesteeieren.
 
 navigation_link:
   title: Produkteier
@@ -21,15 +21,15 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master, Fast,  Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131616?v=4" name="Ivar Nesje" role="backend, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3596256?v=4" name="Bjørn-Tore Gjerde " role="Backend, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1534950?v=4" name="Adam Haeger" role="Frontend,Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend,Konsulent, Stavanger">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1534950?v=4" name="Adam Haeger" role="Frontend, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend, Konsulent, Stavanger">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend, Konsulent, Trondheim" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5425986?v=4" name="Martin Othamar" role="Backend, Konsulent ,Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/21328986?v=4" name="Daniel Skovli" role="Backend, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/42615991?v=4" name="Johannes Haukland" role="Fullstack, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23121869?v=4" name="Camilla Marie Dalan" role="FrontEnd, Konsulent,Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/68380161?v=4" name="Pål Myran" role="FrontEnd, Konsulent,Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/68380161?v=4" name="Pål Myran" role="FrontEnd, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/70377508?v=4" name="Olav Friisberg Larssen" role="Interaksjonsdesigner, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/4520175?v=4" name="Bjørn-Ingar Bergum" role="UX Designer, Konsulent, Oslo">}}
 
