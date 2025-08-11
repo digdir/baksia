@@ -1,6 +1,6 @@
 ---
 title: Arbeidsflate
-ingress: "Arbeidsflate skal erstatte brukergrensesnittet til innboksen i Altinn 2. Dette produktet bruker Digdirs felles designsystem som grunnlag og blir bygget slik at det blir lett å integrere direkte i andre portaler, for eksempel tjenesteeiernes egne portaler. Vi henter data fra de tekniske grensesnittene via API-er til Dialogporten."
+ingress: "Arbeidsflate skal erstatte brukergrensesnittet for innboksen i Altinn 2. Dette produktet bruker Digdirs felles designsystem som grunnlag og blir bygget slik at det blir lett å integrere direkte i andre portaler, for eksempel tjenesteeiernes egne portaler. Vi henter data fra de tekniske grensesnittene via API-er til Dialogporten."
 
 
 navigation_link:
