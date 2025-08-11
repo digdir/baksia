@@ -21,11 +21,12 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/62640845?v=4" name="Espen Herskedal" role="Infrastruktur, 50%, Fast, Hamar" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45939254?v=4" name="Tommy Almendingen" role="Infrastruktur, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/28589510?v=4" name="Henning Normann" role="Infrastruktur, Ytelse, 50%, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/90837166?v=4" name="Georg Bjørkliås Østtveit" role="Infrastruktur, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/90837166?v=4" name="Georg Bjørkliås" role="Infrastruktur, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/122606632?v=4" name="Rune Marhaug" role="Infrastruktur, Fast, Oslo">}}
 {{< team/github-profile url=https://avatars.githubusercontent.com/u/56019927?v=4 name="Remi Løvoll" role="Backend, 15%, Konsulent, Oslo">}}
-{{< team/github-profile url=https://avatars.githubusercontent.com/u/60652478?v=4 name="Tom-Sverre Hageland" role="Backend, 50%, Konsulent, Oslo" >}}
-{{< team/github-profile url=https://avatars.githubusercontent.com/u/99019701?v=4 name="Ragnar Fatland" role="Backend, 50%, Konsulent,  Oslo">}}
+{{< team/github-profile url=https://avatars.githubusercontent.com/u/60652478?v=4 name="Tom-Sverre Hageland" role="Backend, 100%, Konsulent, Oslo" >}}
+{{< team/github-profile url=https://avatars.githubusercontent.com/u/99019701?v=4 name="Ragnar Fatland" role="Backend, 100%, Konsulent,  Oslo">}}
+{{< team/github-profile url=https://avatars.githubusercontent.com/u/89203237?v=4 name="Simon Ellefsen" role="Backend, 10%, Fast,  Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94651380?v=4" name="Lars-Gøran Andersson" role="Leverandørstyrer, Fast, Brønnøysund">}}
 {{< /team/members >}}
 
