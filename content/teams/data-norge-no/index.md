@@ -2,7 +2,7 @@
 title: data.norge.no
 linktitle: data.norge.no
 
-ingress: Data.norge.no gir oversikt over hvilke data virksomheter har, som de kan dele med andre. På data.norge.no finner du beskrivelser av datasett, begreper, API-er, informasjonsmodeller og tjenester og hendelser. I tillegg til portalen hvor du kan se beskrivelsene, drifter teamet en registreringsløsning der de som ikke har egne kataloger kan registrere sine beskrivelser, en høsteløsning for å høste beskrivelser fra virksomhetenes egne kataloger og fra registreringsløsningen og Datalandsbyen, et forum hvor man kan diskutere datadeling og behov for data. 
+ingress: Data.norge.no gir oversikt over hvilke data virksomheter har, og som de kan dele med andre. På data.norge.no finner du beskrivelser av datasett, begreper, API-er, informasjonsmodeller og tjenester og hendelser. I tillegg til portalen hvor du kan se beskrivelsene, drifter teamet en registreringsløsning der de som ikke har egne kataloger kan registrere sine beskrivelser, en høsteløsning for å høste beskrivelser fra virksomhetenes egne kataloger og fra registreringsløsningen og Datalandsbyen, et forum hvor man kan diskutere datadeling og behov for data. 
 
 navigation_link:
   title: Produkteier
@@ -20,9 +20,9 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/110605570?v=4" name="Kjersti Steien" role="Produkteier, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="Team-arkitekt, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="Teamarkitekt, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum master, Fast, Oslo" >}}
-{{< team/github-profile url="" name="Kristiane Kolshus" role="xxxx, Fast, Oslo">}}
+{{< team/github-profile url="" name="Kristiane Kolshus" role=" Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/74510?v=4" name="Eirik Lillebo" role="Frontend, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/430997?v=4" name="Jeff Reiffers" role="Fullstack, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50194012?v=4" name="Nils Ove Tendenes" role="Backend, Konsulent, Oslo">}}
@@ -40,10 +40,10 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Drifte, forvalte og videreutvikle
-  - [Data.norge.no](https://data.norge.no/) – en nasjonal portal som samler beskrivelser av data fra offentlig sektor, for eksempel datasett, API-er, begreper, informasjonsmodeller og tjenester og hendelser.
-  - https://data.norge.no/publishing – en registreringsløsning og høsteløsning for å publisere beskrivelser til Data.norge.no
-  - [datalandsbyen.norge.no](https://datalandsbyen.norge.no/) – nettforumet til data.norge.no
+- Drifter, forvalter og videreutvikler
+  - [Data.norge.no](https://data.norge.no/) – en nasjonal portal som samler beskrivelser av data fra offentlig sektor, som datasett, API-er, begreper, informasjonsmodeller og tjenester og hendelser.
+  - [Felles datakatalog](https://data.norge.no/publishing) – en registreringsløsning og høsteløsning for å publisere beskrivelser til Data.norge.no
+  - [Datalandsbyen](https://datalandsbyen.norge.no/) – nettforumet til data.norge.no
   - [Transportportal](https://transportportal.no) - nasjonalt tilgangspunkt for transportdata. Løsningen driftes i samarbeid med Statens vegvesen, Jernbanedirektoratet og Entur.
-- Bidra til Digdirs felles designsystem
+- Bidrar til Digdirs felles designsystem
 - DevOps-team med totalansvar fra idé til produksjon
