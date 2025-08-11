@@ -2,7 +2,7 @@
 title: Økonomi
 linktitle: Økonomi
 
-ingress: Teamet skal bidra i planleggingen og utførelsen av virksomhetsstyringen i avdelingen. Dette består blant annet i å bistå i virksomhetsplanprosesser, etablering av metodikk for kontroll og generell oppfølging av økonomien i BOD og i Altinn samarbeidet.
+ingress: Teamet skal bidra i planleggingen og utførelsen av virksomhetsstyringen i avdelingen. Dette består blant annet i å bistå i virksomhetsplanprosesser, etablering av metodikk for kontroll og generell oppfølging av økonomien i BOD og i Altinn-samarbeidet.
 
 navigation_link:
   title: Teamleder
@@ -38,19 +38,19 @@ tags:
 **Regnskap og budsjett**
 -	Attestering
 -	Kontroll og oppfølging av regnskap i BOD, herunder omposteringer
--	Oppfølging av budsjett med avvikskontroll
+-	Budsjettoppfølging og avvikskontroll
 
 **Rapportering**
 -	Rapportering på prosjekter og drift
 -	Utarbeidelse av prognoser 
--	Deltager i Digdir sitt økonomikontakt-team
+-	Deltaker i Digdir sitt økonomikontakt-team
 
 **Prosjektstyring**
 -	Støtte produkteiere og ledelse i prognostisering og oppfølging 
--	Følge opp timeregnskap på avdelingens prosjekter 
+-	Oppfølging av timeregnskap for avdelingens prosjekter 
 
 **Fakturering**
--	Fakturering av tjenesteeiere jf. Samarbeidsavtalens bilag 4
+-	Fakturering av tjenesteeiere jfr. Samarbeidsavtalens bilag 4
 -	Avregning av tjenesteeierfinansieringen ved årsslutt
 -	Fakturering av andre etatsfinansierte prosjekter
 -	Internfakturering
