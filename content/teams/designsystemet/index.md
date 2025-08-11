@@ -20,20 +20,20 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1464915?v=4" name="Marianne Røsvik" role="Produkteier, Fast, Stavanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1070981?v=4" name="Michael Marszalek" role="Tech lead, frontend, Fast, Stavanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/33222679?v=4" name="Lasse Febakke Straum" role="Design Lead, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/13560642?v=4" name="Øyvind Thune" role="Design & Frontend, Fast, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/13560642?v=4" name="Øyvind Thune" role="Design og Frontend, Fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/14057205?v=4" name="Tobias Barsnes" role="Frontend, Fast, Leikanger" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/3/views/30" url_text="Github">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/digdir/projects/3" url_text="Github" >}}
-{{< team/product-item title="Repo" subtitle="Hold deg oppdatert her" url="https://github.com/digdir/designsystemet" url_text="Github" >}}
+{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/3/views/30" url_text="GitHub">}}
+{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/digdir/projects/3" url_text="GitHub" >}}
+{{< team/product-item title="Repo" subtitle="Hold deg oppdatert her" url="https://github.com/digdir/designsystemet" url_text="GitHub" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
 - Forenkle og effektivisere arbeidsflyten for designere, utviklere og produktteam.
-- Tilby grunnleggende UI-komponenter og mønstre der tilgjengelig og testing er ivaretatt.
+- Tilby grunnleggende UI-komponenter og mønstre der tilgjengelighet og testing er ivaretatt.
 - Tilby dokumentasjon, retningslinjer og god praksis for UI-komponenter og mønstre
 - Koordinere og tilrettelegge for samarbeid mellom DevOps-team som bruker og bidrar til å utvikle designsystemet
 - Involvere andre offentlige aktører i samarbeidet
