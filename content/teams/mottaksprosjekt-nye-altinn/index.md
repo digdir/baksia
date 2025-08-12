@@ -1,6 +1,6 @@
 ---
 title: Mottaksprosjekt Nye Altinn
-Ingress: Teamet skal holde et overordnet blikk på roller og ansvar for å sikre at organisasjonen er godt forberedt på drift og forvaltning av Altinn 3. Dette innebærer å få oversikt over alle nødvendige aktiviteter, at ansvar er tydelig plassert og forstått, samt at ingen kritiske oppgaver eller kapabiliteter faller mellom stolene.
+Ingress: Teamet skal ha et overordnet blikk på roller og ansvar for å sikre at organisasjonen er godt forberedt på drift og forvaltning av Altinn 3. Dette innebærer å få oversikt over alle nødvendige aktiviteter, sikre at ansvar er tydelig plassert og forstått, og at ingen kritiske oppgaver eller kapabiliteter faller mellom stolene.
 
 navigation_link:
   title: Prosjektleder
@@ -30,5 +30,7 @@ tags:
 
 ## Ansvarsområder
 
-Mottaksprosjektet har mandat til å hente innsikt i organisasjonens forberedelser, og gi anbefalinger. Prosjektet har en koordinerende rolle for å sikre en helhet på tvers av kapabiliteter. Prosjektet har ikke mandat til å implementere verktøy, fatte beslutninger om ressurser eller bestemme metode og rammeverk.
+- Mottaksprosjektet har mandat til å hente innsikt i organisasjonens forberedelser og gi anbefalinger.
+- Prosjektet har en koordinerende rolle for å sikre en helhet på tvers av kapabiliteter.
+- Prosjektet har ikke mandat til å implementere verktøy, fatte beslutninger om ressurser eller bestemme metode og rammeverk.
 
