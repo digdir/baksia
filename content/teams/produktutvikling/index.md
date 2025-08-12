@@ -19,7 +19,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/21181213?v=4" name="Therese Engen" role="Teamleder -  Smidig Virksomhetscoach" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/21181213?v=4" name="Therese Engen" role="Teamleder - Smidig Virksomhetscoach" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/7873274?v=4" name="Roberto Carrera" role="Seksjonsjef DevOps Oslo (BUO)">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/80898170?v=4" name="Reidun Milde" role="Seksjonsleder for Brukeropplevelse (BBO) " >}}
@@ -31,23 +31,23 @@ tags:
 
 
 {{< /team/members >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/digdir/projects/24/views/1" url_text="Github" >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/digdir/projects/24/views/1" url_text="GitHub" >}}
 
 {{< team/responsibilities title="Ansvarsområder/Kapabiliteter:" >}}
 
-* Utvikling og forbedring av produktleveransemodellen [produktleveransemodellen](/produktleveransemodell)
+* Utvikling og forbedring av [produktleveransemodellen](/produktleveransemodell)
 * Optimalisering av arbeidsflyt og rammeverk
 * Drive innovasjon gjennom testing, smidige metoder og kunnskapsdeling
 * PLM Teamet har overordnet ansvar for følgende prosesser:
     - Requirement Management
     - Product Backlog Management
-    - Product Developement Management
+    - Product Development Management
     - Product Design Management
     - Release Management
     - Test Management
     - Defect Management 
     - Change Management
-    - deployment Management
+    - Deployment Management
     - Policy Management
 
 
