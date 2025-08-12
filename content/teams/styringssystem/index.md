@@ -1,6 +1,6 @@
 ---
 title: Koordinering
-ingress: Team Koordinering skal legge til rette for å vise sammenhenger i avdelingen med tanke på hvilke verktøy vi benytter i utførelse og organisering av arbeid i avdelingen. Teamet følger opp at alle team dokumenterer sine prosesser og ansvarsområder helhetlig på Baksia ved hjelp av årshjul og ad hoc rutiner. Se [teamets mandat, ansvarsområder og rollebeskrivelse](https://digdir.sharepoint.com/:p:/r/sites/DigdirDGT/_layouts/15/Doc.aspx?sourcedoc=%7B90C5B872-7F48-454C-B973-F2F3D50A5749%7D&file=Rollebeskrivelse%20Koordinering%20team%20og%20teamleder.pptx&action=edit&mobileredirect=true)
+ingress: Team Koordinering skal legge til rette for å synliggjøre sammenhenger i avdelingen, med tanke på hvilke verktøy som benyttes i utførelsen og organiseringen av arbeid i avdelingen. Teamet følger opp at alle team dokumenterer sine prosesser og ansvarsområder helhetlig på Baksia, ved hjelp av årshjul og ad hoc rutiner. Se [teamets mandat, ansvarsområder og rollebeskrivelse](https://digdir.sharepoint.com/:p:/r/sites/DigdirDGT/_layouts/15/Doc.aspx?sourcedoc=%7B90C5B872-7F48-454C-B973-F2F3D50A5749%7D&file=Rollebeskrivelse%20Koordinering%20team%20og%20teamleder.pptx&action=edit&mobileredirect=true)
 
 navigation_link:
   title: Teamleder
@@ -15,7 +15,7 @@ tags:
 - enabling
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C077SDNDHR9" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C077SDNDHR9" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/72547415?v=4" name="Snorre Torgeir Egedal Aakerø" role="Teamleder" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/97237741?v=4" name="Arild Hansten" role="Risikostyring" role="Scrum master">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role="" >}}
@@ -25,7 +25,7 @@ tags:
 
 {{< /team/members >}}
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Backlog for teamet" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/122" url_text="Github" >}}
+{{< team/product-item title="Backlog for teamet" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/122" url_text="GitHub" >}}
 {{< team/product-item title="Årshjul verktøy" subtitle="Forvaltning av verktøy" url="https://github.com/orgs/Altinn/projects/122/views/21" url_text="Årshjul">}}
 {{< team/product-item title="Behov for hjelp med enkle endringer på Baksia?" subtitle="" url="https://github.com/Altinn/koordinering/issues/new?template=baksia--innmelding-av-enkle-endringer-baksia.md" url_text="Meld endring" >}}
 
@@ -33,9 +33,9 @@ tags:
 
 ### Baksia som oversikt gir
 
--	Én felles kilde til informasjon
-- Kobling videre til relatert og detaljert informasjon
-- Økt transparens og effektivitet
+-	én felles kilde til informasjon
+- kobling videre til relatert og detaljert informasjon
+- økt transparens og effektivitet
 
 {{< team/responsibilities title="Overordnet ansvar innen" >}}
 
