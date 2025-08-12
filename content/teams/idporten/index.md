@@ -23,9 +23,7 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/77618118?v=4" name="Frank Hofslundsengen" role="Teamleder, Leikanger" >}}
   {{< team/github-profile url="" name="Solveig Kvame" role="Service Manager, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/6310801?v=4" name="Eirik Hoem" role="Driftsleder, Leikanger" >}}
-
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/731401?v=4" name="Anne Marte Hjemås" role="Utvikler, Oslo" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/8371957?v=4" name="Randi Øyri" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/114908757?v=4" name="Sigvald Høyheim" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="" name="Rune Melhus" role="Utvikler, Oslo" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/149239?v=4" name="Aase Mestad" role="Utvikler, Oslo" >}}
