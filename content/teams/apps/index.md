@@ -16,7 +16,7 @@ tags:
 - stream-aligned
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Produkteier, backend, Fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master, Fast,  Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131616?v=4" name="Ivar Nesje" role="backend, Fast, Oslo" >}}
@@ -36,9 +36,9 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/Altinn/projects/10/views/1" url_text="Github">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/Altinn/projects/39/views/2" url_text="Github" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/39/views/1" url_text="Github" >}}
+{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/Altinn/projects/10/views/1" url_text="GitHub">}}
+{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/Altinn/projects/39/views/2" url_text="GitHub" >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/39/views/1" url_text="GitHub" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
