@@ -16,10 +16,10 @@ tags:
 - stream-aligned
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C0378DYQ7B9" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C0378DYQ7B9" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/951969?v=4" name="Ole Bay Hansen" role="Produkteier, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Scrum Master 50%, utvikler,  Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/2217340?v=4" name="Terje Holene" role="Team-arkitekt, infrastruktur, backend, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Scrum Master 50%, Utvikler,  Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/2217340?v=4" name="Terje Holene" role="Team-arkitekt, infrastruktur, Backend, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/70642698?v=4" name="Thomas Bakken" role="Backend, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/11887560?v=4" name="Hallgeir Garnes-Gutvik" role="Fullstack-utvikler, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/114151129?v=4" name="Ahmed Ghanam" role="Fullstack-utvikler, Konsulent, Oslo">}}
@@ -29,7 +29,7 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Hva inngår i sprinten/Kanban" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/Altinn/projects/20/views/11" url_text="Github" >}}
+{{< team/product-item title="Hva inngår i sprinten/Kanban" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/Altinn/projects/20/views/11" url_text="GitHub" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
