@@ -1,6 +1,6 @@
 ---
 title: Kunde-team
-Ingress: Teamet skal utvikle, drifte og forvalte løsninger og rutiner som sikrer en effektiv og brukervennlig support til kunder av våre produkter og API-er. Teamet er ansvarlig for onboarding av nye tjenesteeiere og oppfølging av hele kundedialogen. I tillegg skal kundeteamet sikre en helhetlig incidentprosess på tvers av alle team.
+Ingress: Teamet skal utvikle, drifte og forvalte løsninger og rutiner som sikrer en effektiv og brukervennlig kundestøtte for våre produkter og API-er. Teamet er ansvarlig for onboarding av nye tjenesteeiere og oppfølging av hele kundedialogen. I tillegg skal kundeteamet sikre en helhetlig hendelseshåndteringsprosess på tvers av alle team.
 
 
 navigation_link:
