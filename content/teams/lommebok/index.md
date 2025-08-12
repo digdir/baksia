@@ -1,7 +1,7 @@
 ---
 title: Digital lommebok
 linktitle: digital-lommebok
-ingress: Temaet jobber med innføring av EUs digitale identitetslommebok, herunder både etablering av den nasjonale sandkassen for utprøving og varig infrastruktur.
+ingress: Teamet jobber med innføring av EUs digitale identitetslommebok, inkludert etablering av den nasjonale sandkassen for utprøving og varig infrastruktur.
 
 navigation_link:
   title: Produkteier
