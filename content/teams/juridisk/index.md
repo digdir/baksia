@@ -1,6 +1,6 @@
 ---
 title: Juridisk team
-Ingress: Teamet skal bidra til å sikre at eksisterende og fremtidige juridiske rammer og vilkår ivaretas i både utvikling, drift og forvaltning av våre produkter. Teamet består av techjurister som kombinerer sin kompetanse om juridiske rammevilkår med en forståelse av teknologi og forretning, og dermed kan gi effektiv rådgivning og sikre at vi opererer innenfor rammene, i et raskt skiftende teknologisk samfunn. 
+Ingress: Teamet skal bidra til å sikre at eksisterende og fremtidige juridiske rammer og vilkår bli ivaretatt i utvikling, drift og forvaltning av våre produkter. Teamet består av techjurister som kombinerer sin kompetanse om juridiske rammevilkår med en forståelse av teknologi og forretning, og dermed kan gi effektiv rådgivning og sikre at vi opererer innenfor rammene i et raskt skiftende teknologisk samfunn. 
 
 navigation_link:
   title: Teamleder
@@ -39,7 +39,7 @@ Team juridisk har et omfattende ansvar for å sikre juridisk etterlevelse på ma
 - Dokumentasjon og retningslinjer: Bidra til å utarbeide interne retningslinjer og rutiner, samt sikre veiledning til brukere, kunder mv. relatert til våre produkter
 
 **Regelanalyser og regelverksutvikling**
-- Kartlegging og tolkning av gjeldende regelverk som berører utvikling og bruk av våre produkter. Forstå hvordan ulike regler påvirker vårt arbeid og hvordan lov- og forskriftskrav kan gjennomføres i praksis.
+- Kartlegging og tolkning av gjeldende regelverk som berører utvikling og bruk av våre produkter. Forstå hvordan ulike regler påvirker arbeidet vårt og hvordan lov- og forskriftskrav kan gjennomføres i praksis.
 - Risikovurdering og gap-analyser
 - Konkrete anbefalinger for etterlevelse
 - Deltakelse i lov- og forskriftsarbeid, herunder ansvar for å sikre nødvendig rettslig grunnlag for våre fellesløsninger og virksomhet.
@@ -50,7 +50,7 @@ Team juridisk har et omfattende ansvar for å sikre juridisk etterlevelse på ma
 
 **Bruksvilkår**
 - Utarbeidelse av bruksvilkår for kunder, sluttbrukerleverandører og private virksomheter
-- Oppdatering og revisjon når eks. regelverk, behov eller produkt endrer seg
+- Oppdatering og revisjon når for eksempel regelverk, behov eller produkter endrer seg
 - Tilrettelegging for prosesser for potensiell tvisteløsning
 - Intern veiledning og opplæring
 
