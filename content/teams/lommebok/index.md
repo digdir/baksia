@@ -17,15 +17,15 @@ tags:
 - stream-aligned
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com" slack_url_text="Slack-kanal for teamet">}}
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1483360?v=4" name="Jørgen Binningsbø" role="Produkteier,  Leikanger" >}}
-
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/33317342?v=4" name="Thor Kristian Sortevik" role="Driftsleder, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1137512?v=4" name="Aamund Bremer" role="Arkitekt, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/2151277?v=4" name="Thomas Reppesgård" role="Utvikler, Sandefjord" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/8371957?v=4" name="Randi Øyri" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="" name="Magnus Lefdal" role="Utvikler, Oslo" >}}
-  {{< team/github-profile url="" name="Anders" role="Utvikler, Leikanger" >}}
-
+  {{< team/github-profile url="" name="Anders Holst" role="Utvikler, Leikanger" >}}
 
 {{< /team/members >}}
 
