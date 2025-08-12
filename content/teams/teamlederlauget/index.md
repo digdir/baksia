@@ -39,4 +39,4 @@ tags:
 - Kunnskapsdeling: Dele erfaringer, beste praksis og innsikt fra egne team.
 - Forbedringsinitiativer: Identifisere initiativer som kan forbedre arbeidsflyt og verdiskaping.
 - Felles utfordringer: Diskutere felles problemstillinger, for eksempel knyttet til sikkerhet, juridiske krav og økonomiske prosesser.
-- Kultur og samhandling: Fremme en kultur for åpenhet, læring og psykologisk trygghet på tvers av teamene.  
+- Kultur og samhandling: Aktivt fremme en kultur for åpenhet, læring og psykologisk trygghet på tvers av teamene.  
