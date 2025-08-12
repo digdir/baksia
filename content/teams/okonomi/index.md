@@ -2,7 +2,7 @@
 title: Økonomi
 linktitle: Økonomi
 
-ingress: Teamet skal bidra i planleggingen og utførelsen av virksomhetsstyringen i avdelingen. Dette består blant annet i å bistå i virksomhetsplanprosesser, etablering av metodikk for kontroll og generell oppfølging av økonomien i BOD og i Altinn-samarbeidet.
+ingress: Teamet skal bidra til planleggingen og gjennomføring av virksomhetsstyringen i avdelingen. Dette innebærer blant annet i å bistå i virksomhetsplanprosesser, etablering av metodikk for kontroll, og generell oppfølging av økonomien i BOD og Altinn-samarbeidet.
 
 navigation_link:
   title: Teamleder
@@ -27,7 +27,7 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/139" url_text="Github" >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/139" url_text="GitHub" >}}
 {{< team/product-item title="Henvendelser til teamet" subtitle="" url="mailto:bod.okonomikontakter@digdir.no" url_text="Send oss en mail" >}}
 
 {{< /team/products >}}
@@ -37,26 +37,26 @@ tags:
 
 **Regnskap og budsjett**
 -	Attestering
--	Kontroll og oppfølging av regnskap i BOD, herunder omposteringer
+-	Kontroll og oppfølging av regnskap i BOD, inkludert omposteringer
 -	Budsjettoppfølging og avvikskontroll
 
 **Rapportering**
 -	Rapportering på prosjekter og drift
 -	Utarbeidelse av prognoser 
--	Deltaker i Digdir sitt økonomikontakt-team
+-	Deltakelse i Digdirs økonomikontaktteam
 
 **Prosjektstyring**
 -	Støtte produkteiere og ledelse i prognostisering og oppfølging 
 -	Oppfølging av timeregnskap for avdelingens prosjekter 
 
 **Fakturering**
--	Fakturering av tjenesteeiere jfr. Samarbeidsavtalens bilag 4
--	Avregning av tjenesteeierfinansieringen ved årsslutt
+-	Fakturering av tjenesteeiere jf. Samarbeidsavtalens bilag 4
+-	Avregning av tjenesteeierfinansiering ved årsslutt
 -	Fakturering av andre etatsfinansierte prosjekter
 -	Internfakturering
 
 **Rutineutvikling**
 -	Tilpasse og implementere styrings- og rapporteringsstruktur
 -	Etablere metodikk og rutiner for bruk i linjen og kontroll av disse
--	Intern kravsetter før oppstart og oppfølging av ressursbruk
+-	Intern kravstiller før oppstart og oppfølging av ressursbruk
 -	Høringsinstans for saksfremlegg med merkantilt innhold i BOD
