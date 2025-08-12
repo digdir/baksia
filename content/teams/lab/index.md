@@ -18,16 +18,16 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/197900897?v=4" name="Heather Broomfield" role="Teamleder, fast, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Scrum Master, 50%, fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, fast, Hamar" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/113984758?v=4" name="Benjamin Brodie" role="KI-guru, konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/23278708?v=4" name="Nikolai Lunde" role="Utvikler, fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/144219994?v=4" name="Nora Laeskogen" role="Utvikler, konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/79701340?v=4" name="Simen Waitz " role="Utvikler, konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/15182069?v=4" name="Simon Dreyer" role="Designer, fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/71271458?v=4" name="Lars Hansen" role="Utvikler, fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/6339448?v=4" name="Leo Valen" role="Utvikler, fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/197900897?v=4" name="Heather Broomfield" role="Teamleder, Fast, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Scrum Master, 50%, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, Fast, Hamar" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/113984758?v=4" name="Benjamin Brodie" role="KI-guru, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/23278708?v=4" name="Nikolai Lunde" role="Utvikler, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/144219994?v=4" name="Nora Laeskogen" role="Utvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/79701340?v=4" name="Simen Waitz " role="Utvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/15182069?v=4" name="Simon Dreyer" role="Designer, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/71271458?v=4" name="Lars Hansen" role="Utvikler, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/6339448?v=4" name="Leo Valen" role="Utvikler, Fast, Oslo">}}
 
 {{< /team/members >}}
 
