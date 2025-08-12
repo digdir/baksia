@@ -1,6 +1,6 @@
 ---
 title: Markedslaget
-Ingress: Marknadslaget har hovudfokus på tiltak for utbreiing og bruk av fellesløysingane. Andre fagavdelingar i Digdir kan også be om støtte frå marknadslaget.
+Ingress: Markedslaget har hovudfokus på tiltak for utbredelse og bruk av fellesløsningene. Andre fagavdelinger i Digdir kan også be om støtte fra markedslaget.
 
 navigation_link:
   title: Fagleder
@@ -15,9 +15,9 @@ tags:
 - enabling
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slackkanal for teamet">}}
-{{< team/github-profile url="" name="Bodhild Therese Cirotzki" role="Fagleder marked/KAM (FEL)" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/116548729?v=4" name="Roy Horn" role="Tjenesteuvikling/KAM (BOD)" >}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C045EB3JA9X" slack_url_text="Slack-kanal for teamet">}}
+{{< team/github-profile url="" name="Bodhild Therese Cirotzki" role="Fagleder for marked/KAM (FEL)" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/116548729?v=4" name="Roy Horn" role="Tjenesteutvikling/KAM (BOD)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45386992?v=4" name="Viktor Olsen" role="Datadeling (BOD)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/123626154?v=4" name="Andreas M. Fjelldal" role="Portaler og brukeropplevelser/KAM (BOD)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/116086465?v=4" name="Erling Laugen" role="Modernisering Altinn/KAM (BOD)" >}}
@@ -32,8 +32,8 @@ tags:
 
 {{< team/responsibilities title="Dette kan vi hjelpe deg med" >}}
 
-- Bidra med overordna marknadsmateriell og presentasjonar. 
-- Ta inn og bearbeide bodskap som vi kan dele via våre ein-til-mange tiltak. 
-- Råd og fagleg støtte til marknadsretta aktivitetar 
-- Gje oversikt over Digdir sine viktigaste prioriteringar, kundar og kundeansvarlege. 
-- Bidra til å sjå aktivitetar og tiltak i ei heilheit, og initiere dialog og samarbeid på tvers
+- Bidra med overordnet markedsmateriell og presentasjoner. 
+- Ta inn og bearbeide budskap som vi kan dele via våre en-til-mange tiltak. 
+- Råd og faglig støtte til markedsrettet aktiviteter 
+- Gi oversikt over Digdir sine viktigste prioriteringer, kunder og kundeansvarlige. 
+- Bidra til å se aktiviteter og tiltak i en heilhet, og initiere dialog og samarbeid på tvers
