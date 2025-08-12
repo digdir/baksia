@@ -1,6 +1,6 @@
 ---
 title: Lederlaget (BOD)
-Ingress: Lederlaget sørger for å styre virksomheten, etter de rammebetingelsene og strategiene som gjelder for samfunnsoppdraget vårt. Det omfatter også ansvaret for å bidra til at vi finner ut hvilke endringer, omstillinger og justeringer vi må gjøre for at organisasjonen skal fungere best mulig og overleve fremover. I tillegg bidrar lederlaget til å sette disse endringene ut i livet og følger opp at de virker slik det var tenkt.
+Ingress: Lederlaget sørger for å styre virksomheten etter de rammebetingelsene og strategiene som gjelder for vårt samfunnsoppdrag. Det omfatter også ansvaret for å bidra til å identifisere hvilke endringer, omstillinger og justeringer vi må gjøre for at organisasjonen skal fungere best mulig og være bærekraftig over tid. I tillegg bidrar lederlaget til å sette disse endringene ut i livet og følger opp at de fungerer som planlagt.
 
 navigation_link:
   title: Avdelingsdirektør
@@ -36,7 +36,7 @@ Tydeliggjøre mål(OKR) og strategier for vår linje(avdeling) og produktorganis
 
 Bygge en brukerorientert, resultatorientert og datadrevet kultur, som høster innsikt før beslutningstaking og hvor kontinuerlig forbedring er i fokus. 
 
-Bygge en robust, skalerbar og fleksibel produktorganisering som bygger på Team Topologies og DevOps, og som leverer bærekraftig resultater for samfunnet(våre kunder). Herunder utøve støtte i form av god personaloppfølging og kompetanseutvikling for våre medarbeidere.
+Bygge en robust, skalerbar og fleksibel produktorganisering basert på Team Topologies og DevOps, og som leverer bærekraftig resultater for samfunnet (våre kunder). Herunder utøve støtte i form av god personaloppfølging og kompetanseutvikling for våre medarbeidere.
 
 Eskaleringspunkt for Tilretteleggings-team.
 
@@ -50,7 +50,7 @@ Ledermøter tirsdager: Fokus på Leveranser i linja, program og prosjekt.
 
 Ledermøter fredager: Fokus på Produktorganisering(transformasjon av avdelingen).
 
-Ledermøter leverandøravdelingene, BOD og FEL, månedlig: Fokus på felles Produktstrategier, felles OKR, felles Samlinger(DevOpsDays), felles Markedsaktiviteter og konferanser for våre kunder.
+Månedlig ledermøter med leverandøravdelingene BOD og FEL: Fokus på felles produktstrategier, OKR, samlinger (DevOpsDays), markedsaktiviteter og konferanser for våre kunder.
 
 [Gå til Styringsinformasjon](/brukeropplevelse-og-datadeling/styringsinformasjon/)
 
