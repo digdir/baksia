@@ -10,6 +10,8 @@ banner:
 
 weight: 4
 
+layout: styringsinformasjon/list
+
 navigation_link:
   text: |
     Se hvordan vi ligger an i løypa!
