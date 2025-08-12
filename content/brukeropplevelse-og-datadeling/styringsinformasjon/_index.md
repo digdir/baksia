@@ -1,7 +1,7 @@
 ---
 title: Styringsinformasjon
-ingress: 
-God styringsinformasjon sørger for at vi får et grunnlag å treffe beslutninger på at vi tar informerte valg, trekker i samme retning og når målene på en effektiv måte. Målrettet resultatoppfølging forutsetter at vi kjenner tilstanden til avdelingen, og følger opp ved å gjøre tiltak og forbedringer som er nødvendige. Nedenfor status, statistikk og rapporteringer fra avdelingen. Og en oversikt over styringsstrukturen i avdelingen: beslutningsvei/eskalering, ulike laug og fora som vi har.
+ingress: |
+  God styringsinformasjon sørger for at vi får et grunnlag å treffe beslutninger på at vi tar informerte valg, trekker i samme retning og når målene på en effektiv måte. Målrettet resultatoppfølging forutsetter at vi kjenner tilstanden til avdelingen, og følger opp ved å gjøre tiltak og forbedringer som er nødvendige. Nedenfor status, statistikk og rapporteringer fra avdelingen. Og en oversikt over styringsstrukturen i avdelingen: beslutningsvei/eskalering, ulike laug og fora som vi har.
 
 banner:
   image:
@@ -9,8 +9,6 @@ banner:
     alt: Illustrasjon av en person som sitter og leser en bok
 
 weight: 4
-
-layout: styringsinformasjon/list
 
 navigation_link:
   text: |
