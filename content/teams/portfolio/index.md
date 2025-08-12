@@ -32,16 +32,16 @@ tags:
 
 {{< team/products title="Oversikt" >}}
 {{< team/product-item url="https://github.com/digdir/portfolio" url_text="Porteføljen på GitHub" >}}
-{{< team/product-item url="https://github.com/orgs/digdir/projects/1/views/6" url_text="Kanban (krever tilganger)" >}}
+{{< team/product-item url="https://github.com/orgs/digdir/projects/1/views/6" url_text="Kanban (krever tilgang)" >}}
 {{< /team/products >}}
 
 Porteføljekontoret møtes normalt hver uke. I møtene behandles nye - og pågående tiltak.
-Det tas stilling til oppstart av nye tiltak samt sikre innfrielse av krav for overgang til ny fase for igansatte tiltak.
+Det tas stilling til oppstart av nye tiltak, samt sikre at kravene for overgang til ny fase for igangsatte tiltak er oppfylt.
 
 ## Oppgaver
 
 - forberede saksunderlag til prioritering av tiltak
-- melde inn saker til beslutning for milepæler/faseoverganger konsept, plan, implementering og utført til ledergruppen
+- melde inn saker til beslutning for milepæler/faseoverganger (konsept, plan, implementering og utført) til ledergruppen
 - holde oversikt over status på gjennomføring og gevinstuttak på tiltak i porteføljen (OKR) samt melde dette videre til ledergruppen
 - veilede tiltakseiere i utarbeidelse av saksunderlag
 - veilede tiltakseiere i gjennomføring av prosjekter
