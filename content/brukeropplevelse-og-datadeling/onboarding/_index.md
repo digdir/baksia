@@ -1,9 +1,9 @@
 ---
 title: Onboarding 
 ingress: |
-  For å sikre en vellykket start, er det ikke bare viktig med god informasjon til nyansatte, men også tydelige retningslinjer for ledere og faddere/mentorer. En gjennomtenkt onboardingprosess, der alle involverte vet hva som forventes, bidrar til en inkluderende arbeidskultur og legger grunnlaget for mestring og trivsel fra dag én.
+  For å sikre en vellykket start, er det ikke bare viktig med god informasjon til nyansatte, men også tydelige retningslinjer for ledere, faddere og mentorer. En gjennomtenkt onboardingprosess, der alle involverte vet hva som forventes, bidrar til en inkluderende arbeidskultur og legger grunnlaget for mestring og trivsel fra dag én.
 
-  Her finner du lenker til nyttig informasjon for deg som nyansatt, leder, fadder eller mentor hos oss.
+  Her har vi samlet nyttig informasjon for deg som er nyansatt, leder, fadder eller mentor hos oss.
 
 banner:
   image:
