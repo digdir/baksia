@@ -11,7 +11,7 @@ weight: 5
 ## Styring og Støtte
 
 Seksjonen skal bygge kompetansekapasitet innenfor smidig leveranseledelse og kvalitet- og økonomistyring. 
-Scrum-mastere, prosjektledere, controllere og støtteressurser sørger for at vi utvikler gode utvikling og styringsmetoder som oppfyller både regulatoriske og økonomiske rammebetingelser. 
+Scrum-mastere, prosjektledere, controllere og støtteressurser sørger for at vi utvikler gode utviklings- og styringsmetoder som oppfyller både regulatoriske og økonomiske rammebetingelser. 
 
 Seksjonsleder: Hege Marie Nielsen (fungerende)
 
