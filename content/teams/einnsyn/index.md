@@ -17,7 +17,7 @@ tags:
 - stream-aligned
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C012JAHTFJA" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C012JAHTFJA" slack_url_text="Slack-kanal for teamet">}}
 
   {{< team/github-profile url="" name="Siv Kvåle Sanden" role="Produktsjef,  Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/23337466?v=4" name="John Eivind Presterud" role="Produkteier, Leikanger" >}}
