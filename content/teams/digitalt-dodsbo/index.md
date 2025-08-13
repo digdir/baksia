@@ -19,7 +19,7 @@ tags:
 - stream-aligned
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C07PZUQFBS6" slack_url_text="Slackkanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C07PZUQFBS6" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/92986603?v=4" name="Bredo Swanberg" role="Prosjektleder, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/214821601?v=4" name="Janne Øren Antonsen" role="Tjenesteeier, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/91191481?v=4" name="Cecilie Fjellsøy Lammering" role="Designer, Fast, Oslo" >}}
@@ -35,9 +35,9 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="Github">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="" url_text="Github" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="Github" >}}
+{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="GitHub">}}
+{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="" url_text="GiHhub" >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="GitHub" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
