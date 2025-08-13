@@ -40,7 +40,7 @@ tags:
 
 {{< /team/members >}}
 
-Slack for statistikk: https://digdir.slack.com/archives/C02D48TKYFQ
+[Slack for statistikk](https://digdir.slack.com/archives/C02D48TKYFQ)
 
 
 {{< team/responsibilities title="Ansvarsområder" >}}
