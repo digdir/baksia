@@ -3,7 +3,7 @@ title: Verktøy og Policy
 linktitle: Verktøy og Policy
 
 ingress: |
-  Verkøy og Policy management er viktig fordi det hjelper organisasjoner med å etablere klare retningslinjer og regler som sikrer at de opererer effektivt, i samsvar med lover og forskrifter, og beskytter mot risiko. Det gir struktur for beslutningstaking, sikrer konsekvent atferd, og gjør det lettere å håndtere endringer og overholdelse av interne og eksterne krav.
+  Verktøy og Policy management er viktig fordi det hjelper organisasjoner med å etablere klare retningslinjer og regler som sikrer at de opererer effektivt, i samsvar med lover og forskrifter, og beskytter mot risiko. Det gir struktur for beslutningstaking, sikrer konsekvent atferd, og gjør det lettere å håndtere endringer og overholdelse av interne og eksterne krav.
   
   **Systemoversikten** finner du ved å søke på [Intranett](https://digdir.sharepoint.com/?locale=en-gb&inPlaceNav=portals).  
 
