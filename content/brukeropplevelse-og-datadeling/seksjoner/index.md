@@ -1,8 +1,8 @@
 ---
 title: Seksjoner
 ingress: 
-  Medarbeiderne i BOD er fordelt på seksjoner. Seksjoner er et personalhjem for medarbeidere fra felles kompetanseområder. Seksjonene skal bygge kompetansekapasitet og avgir ressurser, ROLLER, til leveranse-områder som til Digdir sine produktgrupper og produktteam, prosjekter og andre tiltak. 
-  Seksjonslederne har ansvar for å bygge opp, organisere og selvstendiggjøre fagmiljøene på best mulig måte. Å bygge kompetansekapasitet innebærer rekruttering, opplæring og utvikling av ansatte, investering i utdanning og utvikling av nye fagfelt, og bygge et system for kunnskapsdeling. Dette for å øke kompetanse og kunnskap, ferdigheter, og læring av hverandre, for å styrke vår samlede kapasitet inn mot vårt fremtidige behov.
+  Medarbeiderne i BOD er fordelt på seksjoner. Seksjoner er et personalhjem for medarbeidere fra felles kompetanseområder. Seksjonene skal bygge kompetansekapasitet og avgir ressurser, roller, til leveranse-områder som til Digdir sine produktgrupper og produktteam, prosjekter og andre tiltak. 
+  Seksjonslederne har ansvar for å bygge opp, organisere og selvstendiggjøre fagmiljøene på best mulig måte. Å bygge kompetansekapasitet innebærer rekruttering, opplæring og utvikling av ansatte, investering i utdanning og utvikling av nye fagfelt, og bygging av et system for kunnskapsdeling. Dette for å øke kompetanse og kunnskap, ferdigheter, og læring av hverandre, for å styrke vår samlede kapasitet inn mot vårt fremtidige behov.
  
 
 layout: seksjoner/single
