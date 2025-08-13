@@ -28,8 +28,10 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1865045?v=4" name="Kim Taavo" role="Utvikler, Oslo" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/90697160?v=4" name="Kenneth Thoresen" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/21103742?v=4" name="Terje Ballestad" role="Utvikler, Oslo" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/205770263?v=4" name="Antonio Acién" role="Android-utvikler, Oslo" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/11430094?v=4" name="Suthananth Arulanantham" role="iOS-utvikler, Oslo" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/1352446?v=4" name="Daniel Neset" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/67735081?v=4" name="Vivian Atteraas" role="QA, Leikanger" >}}
-
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/210362909?v=4" name="Dusan Nikolic" role="Utvikler, Leikanger" >}}
 
 
