@@ -3,7 +3,7 @@ title: Flyt
 ingress: Hvordan produktutvikling i Digdir flyter -fra en ide eller et oppdrag til implementering og lansering av et produkt eller en tjeneste.
 
 navigation_link:
-  subtitle: Flyten i Digdir produktutvikling
+  subtitle: Flyten i Digdirs produktutvikling
 ---
 
 ![Flyt i produktutviklingen](/images/pom-flow-map.svg)
@@ -20,6 +20,6 @@ Når teamet har anledning til å prioritere oppgaven begynner de å beskrive pro
 [Gå til team oversikten](/teams/)
 
 ## Kvalitetssikring av nyutvikling
-Før teamet lanserer løsningen må de sørge for at den ivaretar de underliggende faglige prinsippene for produktutvikling i Digdir. Disse prinsippene eksisterer for å sikre at vi leverer produkter av god kvalitet og uten store feil.  
+Før teamet lanserer løsningen, må de sørge for at den ivaretar de underliggende faglige prinsippene for produktutvikling i Digdir. Disse prinsippene eksisterer for å sikre at vi leverer produkter av god kvalitet og uten store feil.  
 
 [Gå til prinsipper](/produktleveransemodell/prinsipper/)
