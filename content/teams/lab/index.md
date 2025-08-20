@@ -25,7 +25,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23278708?v=4" name="Nikolai Lunde" role="Utvikler, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144219994?v=4" name="Nora Laeskogen" role="Utvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/79701340?v=4" name="Simen Waitz " role="Utvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/15182069?v=4" name="Simon Dreyer" role="Designer, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/227602849?v=4" name="Bjørn Lund-Sørensen" role="Jurist, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71271458?v=4" name="Lars Hansen" role="Utvikler, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6339448?v=4" name="Leo Valen" role="Utvikler, Fast, Oslo">}}
 

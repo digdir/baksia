@@ -1,10 +1,10 @@
 ---
 title: Produktgrupper
 ingress: |
-  Digdir lager fellesløsninger som er til gode for samfunnet. Fellesløsninger er små byggeklosser som kan brukes av kundene etter individuelle behov.   For å sikre at videreutvikling ikke blir fragmentert, er løsningene inndelt i produktgrupper, som beslutter den overordna strategiske retningen i en produktgruppestrategi. 
+  Digdir lager fellesløsninger som er til gode for samfunnet. Fellesløsninger er små byggeklosser som kan brukes av kundene etter individuelle behov.   For å sikre at videreutvikling ikke blir fragmentert, er løsningene inndelt i produktgrupper, som beslutter den overordnede strategiske retningen i en produktgruppe-strategi. 
   
   Produktgruppene inneholder produkter fra begge leverandøravdelingene, og blir fagmessig ledet av en produktgruppeleder.
-  Produktgruppeleder etablerer og følger opp den strategiske retningen for sin produktgruppe og har et overordnet faglig ansvar for at produktgruppen videreutvikles og forvaltes som en helhet, og i tråd med overordnede føringer og kundenes behov. Produktgruppeleder har også ansvar for produktgruppestrategi og å sikre riktig løsningsportefølje for produktområdet.
+  Produktgruppeleder etablerer og følger opp den strategiske retningen for sin produktgruppe og har et overordnet faglig ansvar for at produktgruppen videreutvikles og forvaltes som en helhet og i tråd med overordnede føringer og kundenes behov. Produktgruppeleder har også ansvar for produktgruppe-strategi og å sikre riktig løsningsportefølje for produktområdet.
 
 # SEO
 description:
