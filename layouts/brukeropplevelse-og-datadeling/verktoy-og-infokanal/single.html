@@ -1,7 +1,4 @@
 {{ define "main" }}
-  {{ with .Site.GetPage
-    "/brukeropplevelse-og-datadeling/verktoy-og-infokanal"
-  }}
     <div class="component" style="background-color: #faeec2">
       {{ partial "components/breadcrumbs.html" . }}
       <div class="container">
@@ -21,7 +18,6 @@
         </div>
       </div>
     </div>
-  {{ end }}
   <div class="component mb-5" style="background-color: #FFFFFF">
     <div class="container line-yellow">
       {{ $overview_of_information := (i18n

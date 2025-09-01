@@ -18,7 +18,7 @@ banner:
     src: /illustrations/illustration-03.png
     alt: Illustrasjon av en person som sitter og leser en bok
 
-layout: verkt-og-infokanal/single
+layout: verktoy-og-infokanal/single
 
 # determines if this content should be rendered in the
 # second section of the page as a yellow box
