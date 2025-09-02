@@ -24,7 +24,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars Walderhaug" role="Frontend, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/90609090?v=4" name="Jamal Alabdullah" role="Frontend, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend, Team-arkitekt, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/48119543?v=4" name="William Thorenfeldt" role="Frontend, Scrummaster, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/148075168?v=4" name="Erling Hauan" role="Frontend og backend, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1525466?v=4" name="Jonas Dyrlie" role="Frontend og backend, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/180176181?v=4" name="Konrad Simsø" role="Frontend og backend, Fast, Brønnøysund">}}
