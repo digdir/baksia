@@ -26,6 +26,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/28589510?v=4" name="Henning Normann" role="Ytelse, 50%, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/17127299?v=4" name="Sigrid Bratsberg" role=" Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/4487922?v=4" name="Espen Gulbrandsen" role=" Backend, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/43853616?v=4" name="Martin Vågseter Jakobsen" role="Backend, Fast, Brønnøysund">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
