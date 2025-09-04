@@ -27,8 +27,8 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/150332945?v=4" name="Tina Ahmedpanah " role="Skjemautvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/44813032?v=4" name="Erlend Håkegård " role="Skjemautvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/79701340?v=4" name="Simen Myhre Waitz " role="Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/89572427?v=4" name="Siri Esteri Berg-Johnsen " role="Skjemautvikler, Traninee, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/115708173?v=4" name="Fabian Ugedal " role="Skjemautvikler, Traninee, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/89572427?v=4" name="Siri Esteri Berg-Johnsen " role="Skjemautvikler, Trainee, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/115708173?v=4" name="Fabian Ugedal " role="Skjemautvikler, Trainee, Brønnøysund">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
