@@ -22,7 +22,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/110605570?v=4" name="Kjersti Steien" role="Produkteier, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="Teamarkitekt, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum master, Fast, Oslo" >}}
-{{< team/github-profile url="" name="Kristiane Kolshus" role=" Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/216859398?v=4" name="Kristiane Kolshus" role=Frontend" Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/74510?v=4" name="Eirik Lillebo" role="Frontend, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/430997?v=4" name="Jeff Reiffers" role="Fullstack, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50194012?v=4" name="Nils Ove Tendenes" role="Backend, Konsulent, Oslo">}}
