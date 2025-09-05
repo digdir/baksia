@@ -26,6 +26,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/182608783?v=4" name="Martin Todorov" role="Fullstack, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/78788499?v=4" name="Axel Ytterås" role="Fullstack, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1225679?v=4" name="Tai Tien Huynh" role="Fullstack, konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/113032236?v=4" name="Magnus Hansen Åsheim" role="Fullstack, Fast, Brønnøysund">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
