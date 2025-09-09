@@ -18,7 +18,11 @@ backgroundColor: '#FFFFFF'
 DevOps-modellen er en syklisk prosess der utvikling og drift samarbeider for å levere programvare raskere, mer pålitelig og med høyere kvalitet.
 Målet er å skape en kultur av kontinuerlig forbedring og samarbeid mellom teamene.
 
-8-tallsdiagrammet representerer den kontinuerlige og iterative naturen til DevOps-praksiser. Diagrammet består av følgende faser:
+
+8-tallsdiagrammet representerer den kontinuerlige og iterative naturen til DevOps-praksiser. 
+
+Diagrammet består av følgende faser:
+
 
 1. Planlegging  
    I denne fasen defineres prosjektkrav, funksjoner og mål. Teamet planlegger utviklingen, setter tidslinjer, og bruker verktøy for oppgavehåndtering og prosjektstyring.
