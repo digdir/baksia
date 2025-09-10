@@ -23,7 +23,7 @@ external_url="https://teams.microsoft.com/l/entity/1c4340de-2a85-40e5-8eb0-4f295
 {{< onboarding/ext-nav-card
 title="Status porteføljesaker"
 
-description=""
+description="🔒 Tilgang kun for ansatte (krever innlogging)"
 
 external_url="https://github.com/digdir/portfolio/issues?q=is%3Aopen+sort%3Aupdated-desc"
 
