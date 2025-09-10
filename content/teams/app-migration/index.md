@@ -19,16 +19,16 @@ tags:
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C077SDN5TT5" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/29474941?v=4" name="Elin Walstrand" role="Produkteier, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum master, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/75472603?v=4" name="Andreas Didriksen" role="Skjemautvikler, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/65394379?v=4" name="Tony Grimstad" role="Skjemautvikler, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/144219994?v=4" name="Nora Sofie Thesen Laeskogen" role="Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/56260049?v=4" name="Per Bergsjø Andresen" role="Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/143729834?v=4" name="Filippa Walden" role="Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/150332945?v=4" name="Tina Ahmedpanah " role="Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/44813032?v=4" name="Erlend Håkegård " role="Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/79701340?v=4" name="Simen Myhre Waitz " role="Skjemautvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/89572427?v=4" name="Siri Esteri Berg-Johnsen " role="Skjemautvikler, Trainee, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/115708173?v=4" name="Fabian Ugedal " role="Skjemautvikler, Trainee, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/75472603?v=4" name="Andreas Didriksen" role="Tjenesteutvikler, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/65394379?v=4" name="Tony Grimstad" role="Tjenesteutvikler, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/144219994?v=4" name="Nora Sofie Thesen Laeskogen" role="Tjenesteutvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/56260049?v=4" name="Per Bergsjø Andresen" role="Tjenesteutvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/143729834?v=4" name="Filippa Walden" role="Tjenesteutvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/150332945?v=4" name="Tina Ahmedpanah " role="Tjenesteutvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/44813032?v=4" name="Erlend Håkegård " role="Tjenesteutvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/79701340?v=4" name="Simen Myhre Waitz " role="Tjenesteutvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/89572427?v=4" name="Siri Esteri Berg-Johnsen " role="Tjenesteutvikler, Trainee, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/115708173?v=4" name="Fabian Ugedal " role="Tjenesteutvikler, Trainee, Brønnøysund">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
