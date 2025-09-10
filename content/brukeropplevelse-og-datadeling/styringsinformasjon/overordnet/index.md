@@ -39,11 +39,11 @@ external_url="https://digdir.sharepoint.com/:x:/r/sites/intranettfiler/Delte%20d
 >}}
 
 {{< onboarding/ext-nav-card
-title="Om OKR i BOD"
+title="OKR i BOD"
 
 description=""
 
-external_url="https://baksia.digdir.no/teams/okr/"
+external_url="https://jeff.futureworks.com/dashboard/group"
 
 >}}
 
