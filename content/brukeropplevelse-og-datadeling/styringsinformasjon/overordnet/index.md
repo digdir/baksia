@@ -41,7 +41,7 @@ external_url="https://digdir.sharepoint.com/:x:/r/sites/intranettfiler/Delte%20d
 {{< onboarding/ext-nav-card
 title="OKR i BOD"
 
-description=""
+description="🔒"
 
 external_url="https://jeff.futureworks.com/dashboard/group"
 
