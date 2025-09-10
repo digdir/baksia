@@ -5,9 +5,9 @@ linktitle: Verktøy og Policy
 ingress: |
   Verktøy og Policy management er viktig fordi det hjelper organisasjonen med å etablere klare retningslinjer og regler som sikrer at de opererer effektivt, i samsvar med lover og forskrifter, og beskytter mot risiko. Det gir struktur for beslutningstaking, sikrer konsekvent atferd, og gjør det lettere å håndtere endringer og overholdelse av interne og eksterne krav.
   
-  **Systemoversikten** finner du ved å søke på [Intranett](https://digdir.sharepoint.com/?locale=en-gb&inPlaceNav=portals).  
-
-  Oversikt over Policy vil du finne på Confluence (lenke kommer).
+- **Systemoversikten** finner du ved å søke på [Intranett](https://digdir.sharepoint.com/?locale=en-gb&inPlaceNav=portals). Tilgang/innlogging kreves
+- Oversikt over Policy vil du finne på [Confluence](https://digdir.atlassian.net/wiki/spaces/BF1/pages/3361177644/Policyer).
+- Enkelte av verktøyene under krever tilgang/innlogging
   
 Spesifisert oversikt over policy og retningslinjer som brukes:
   Hvilke policy og retningslinjer har vi og hva brukes de til?
