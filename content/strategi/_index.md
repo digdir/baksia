@@ -18,4 +18,4 @@ banner:
     alt: Illustrasjon av sittende figur med bok i hånden
 ---
 
-[Digdirs strategi](https://www.digdir.no/digdir/digitaliseringsdirektoratets-strategi/2497)
+[Digdirs strategi](https://digdir.sharepoint.com/SitePages/digdirsm%C3%A5lbilde.aspx)
