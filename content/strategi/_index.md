@@ -1,7 +1,7 @@
 ---
 title: Bli kjent med vår strategi!
 ingress: |
-  Offentlig sektor skal bli verdensledende på digitalisering – og Digdir
+  Offentlig sektor skal bli verdensledende på digitalisering. Digdir
   skal være regjeringens fremste verktøy for raskere og mer samordnet digitalisering 
   av samfunnet. Vår innsats – i tett samarbeid med andre – skal føre til at innbyggerne, 
   næringslivet og frivillige organisasjoner opplever én digital offentlig sektor og får 
