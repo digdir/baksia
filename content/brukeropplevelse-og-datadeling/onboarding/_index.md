@@ -20,7 +20,7 @@ navigation_link:
 {{< onboarding/ext-nav-card
   title="For ledere"
 
-  description="Få hjelp til on-boarding av nyansatte"
+  description="Få hjelp til on-boarding av nyansatte\n🔒 Krever tilgang/innlogging"
 
   external_url="https://handbooks.simployer.com/nb-no/folder/100301"
 >}}
@@ -28,7 +28,7 @@ navigation_link:
 {{< onboarding/ext-nav-card
   title="Fadderordningen"
 
-  description="Få hjelp som fadder og faglig mentor"
+  description="Få hjelp som fadder og faglig mentor\n🔒 Krever tilgang/innlogging"
 
   external_url="https://handbooks.simployer.com/nb-no/article/100309"
 >}}
