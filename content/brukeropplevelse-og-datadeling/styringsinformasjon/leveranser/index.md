@@ -12,7 +12,7 @@ banner:
 ---
 
 {{< onboarding/ext-nav-card
-title="Status Modernisering av Altinn"
+title="Modernisering av Altinn"
 
 description="🔒 Tilgang kun for ansatte (krever innlogging)"
 
