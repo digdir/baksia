@@ -10,7 +10,7 @@ ingress: |
 # SEO
 description:
 
-external_url: https://www.digdir.no/digdir/digitaliseringsdirektoratets-strategi/2497
+external_url: https://digdir.sharepoint.com/SitePages/digdirsm%C3%A5lbilde.aspx
 
 banner:
   image:
