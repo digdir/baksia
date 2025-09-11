@@ -1,22 +1,13 @@
 ---
-title: Studio
-Ingress: Team Studio har ansvar for den delen av Altinn 3 som møter tjenesteutviklere og tjenesteeiere. Dette omfatter hele prosessen fra opprettelse av tjenesten til konfigurasjon, utvikling av skjema, testing av produksjonssetting.
-
-navigation_link:
-  title: Produkteier
-  subtitle: Nina Kylstad
-
+title: 'Kjøring'
+ingress: 'Squad for Kjøring'
 banner:
   image:
-    src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som sitter og leser en bok
-
-tags:
-- pg_tjenesteutvikling
-- stream-aligned
+    src:
+tags: []
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C0760NPT2BE" slack_url_text="Slack-kanal for teamet">}}
+{{< team/members title="Medlemmer i squadet" slack_url="https://digdir.slack.com/archives/C0760NPT2BE" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1636323?v=4" name="Nina Kylstad" role="Produkteier, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23359247?v=4" name="Mirko Sekulic" role="Backend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/24462611?v=4" name="Michael Queyrichon" role="Frontend, Konsulent, Oslo">}}
@@ -32,7 +23,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/25076841?v=4" name="Hanne Finnøy" role="Interaksjonsdesigner, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22139553?v=4" name="Viveca Krishnamoorthi" role="Interaksjonsdesigner, Fast, Oslo">}}
 
-
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
@@ -44,11 +34,8 @@ tags:
 {{< team/responsibilities title="Ansvarsområder" >}}
 
 - Altinn Studio Designer – en del av tjenesteutviklingsverktøyet i Altinn Studio.
--	Altinn Studio Repositories (Gitea) – en del av tjenesteutviklingsverktøyet i Altinn Studio.
--	LocalTest – en kopi av Altinn-plattformen som brukes til å teste apper under utvikling lokalt
--	Dokumentasjon
--	Bidra til Digdirs felles designsystem.
--	DevOps-team med totalansvar fra idé til produksjon.
-
-
-
+- Altinn Studio Repositories (Gitea) – en del av tjenesteutviklingsverktøyet i Altinn Studio.
+- LocalTest – en kopi av Altinn-plattformen som brukes til å teste apper under utvikling lokalt
+- Dokumentasjon
+- Bidra til Digdirs felles designsystem.
+- DevOps-team med totalansvar fra idé til produksjon.

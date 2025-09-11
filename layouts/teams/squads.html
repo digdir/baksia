@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+<div class="component" style="background-color: #a5d6fb">
+  {{ partial "components/breadcrumbs.html" . }}
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 my-auto">
+        <h1 class="">{{ .Title }}</h1>
+        {{ $ingress := .Params.ingress | markdownify }}
+        <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+      </div>
+      <div
+        class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+      >
+        <div>
+          <img class="img-fluid" alt="De ulike typene team som er definert i boken Team Topologies" src="/images/team-topologies.svg" style="margin-left: 4em;">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="component">
+  <div class="container">
+    {{ $squads := .Pages }}
+    {{ if $squads }}
+      <h2>Våre squads</h2>
+      <div class="row gy-4">
+        {{ range $squads }}
+          <div class="col-sm-12 col-lg-6">
+            {{ .Render "li"}}
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+    <div class="mt-5">
+      {{ .Content }}
+    </div>
+  </div>
+</div>
+{{ end }}
