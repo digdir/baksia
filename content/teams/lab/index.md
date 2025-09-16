@@ -29,7 +29,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71271458?v=4" name="Lars Hansen" role="Utvikler, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6339448?v=4" name="Leo Valen" role="Utvikler, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/148075168?v=4" name="Erling Hauan" role="Utvikler, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/2690292?s=96&v=4" name="Bjørn-Erik Strand" role="Plattform, 50%, Fast, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/2690292?v=4" name="Bjørn-Erik Strand" role="Plattform, 50%, Fast, Leikanger" >}}
 
 {{< /team/members >}}
 
