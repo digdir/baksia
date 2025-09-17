@@ -21,7 +21,7 @@ tags: []
 
 {{< team/products title="Produkter" >}}
 {{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/Altinn/projects/36/views/22" url_text="GitHub">}}
-{{< team/product-item title="Backlog Squad Data" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/164/views/9" >}}
+{{< team/product-item title="Backlog Squad Data" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/164/views/9" url_text="Github" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
