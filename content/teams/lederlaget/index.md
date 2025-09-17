@@ -25,6 +25,14 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/95215761?v=4" name="Hege Nielsen" role="Seksjonsleder for Brukerstøtte & Tjenesteoppfølging (BBT)">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Seksjonsleder for DevOps Brønnøysund (BUB)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role="Smidig coach">}}
+{{< team/github-profile url=»https://avatars.githubusercontent.com/u/50205992?v=4» name="Hanne Lauritsen" role="Fungerende gruppeleder Agil Leveranseledelse,  Fast,  Oslo" >}}
+{{< team/github-profile url=»https://avatars.githubusercontent.com/u/70642698?v=4 « name="Thomas Bakken" role=" Fungerende gruppeleder Dev Brønnøysund, Fast, Brønnøysund">}}
+{{< team/github-profile url=»https://avatars.githubusercontent.com/u/103100644?v=4»  name="Hanne Saltnes" role=" Fungerende gruppeleder IxA, Fast, Brønnøysund">}}
+{{< team/github-profile url=»https://avatars.githubusercontent.com/u/82439090?v=4 « name="Hanne Brun" role=" Fungerende gruppeleder Produkteier, Fast, Brønnøysund" >}}
+{{< team/github-profile url=»https://avatars.githubusercontent.com/u/56063468?v=4 « name="Anne Risbakk" role="Fungerende gruppeleder TechSEc Brønnøysund, Fast, Brønnøysund" >}}
+{{< team/github-profile url=»https://avatars.githubusercontent.com/u/174705941?v=4 « name="Hein Gabrielsen" role="Fungerende gruppeleder TechSEc Oslo, Fast, Oslo" >}}
+{{< team/github-profile url= «https://avatars.githubusercontent.com/u/130640200?v=4 « name="Cathrine Bastesen" role="Fungerende gruppeleder Altinn Brukerstøtte, Fast, Brønnøysund" >}}
+<img width="627" height="286" alt="image" src="https://github.com/user-attachments/assets/9fd0092c-6a8d-4044-84ff-13fc5b02b323" />
 
 {{< /team/members >}}
 
