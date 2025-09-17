@@ -20,14 +20,15 @@ tags:
 {{< team/members title="Medlemmer i teamet">}}
 
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/21181213?v=4" name="Therese Engen" role="Teamleder - Smidig Virksomhetscoach" >}}
+{{< team/github-profile url=https://avatars.githubusercontent.com/u/86382095?v=4 name="Dan Remi Mørk " role="Seksjonsleder for Støtte og Styring, Sponsor i PLM " >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/7873274?v=4" name="Roberto Carrera" role="Seksjonsjef DevOps Oslo (BUO)">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/80898170?v=4" name="Reidun Milde" role="Seksjonsleder for Brukeropplevelse (BBO) " >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Seksjonsleder DevOps Brønnøysund (BUB)" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/35563205?v=4" name="Frank-Robert Sveinsbø" role="Porteføljestyrer" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Sjefsdesigner" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71013993?v=4" name="Tage Bryn" role="Arkitekt" >}}
+{{< team/github-profile url=https://avatars.githubusercontent.com/u/131167427?v=4 name="Vilde Aga Stixrud" role="Scrum master, Fast, Brønnøysund" >}}
+{{< team/github-profile url=https://avatars.githubusercontent.com/u/139115317?v=4 name="Siri-Anna Zahl Kristiansen" role="Scrum master, Fast, Brønnøysund" >}}
+
+
+
 
 
 {{< /team/members >}}
