@@ -9,7 +9,7 @@ tags: []
 
 {{< team/members title="Medlemmer i squadet" slack_url="https://digdir.slack.com/archives/C0760NPT2BE" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131616?v=4" name="Ivar Nesje" role="Backend, Fast, Oslo" >}}
-{{< team/github-profile url="" name="Olav Sørlie" role="Backend, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/22742305?v=4" name="Olav Sørlie" role="Backend, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/42615991?v=4 " name="Johannes Haukland" role="Backend, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/29770305?v=4" name="Tomas Engebretsen" role="Frontend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1534950?v=4"name="Adam Haeger" role="Frontend, Konsulent, Oslo" >}}
