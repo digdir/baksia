@@ -14,7 +14,7 @@ tags: []
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/29770305?v=4" name="Tomas Engebretsen" role="Frontend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1534950?v=4"name="Adam Haeger" role="Frontend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/180176181?v=4" name="Konrad Simsø" role="Frontend og backend, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/70377508?v=4" " name="Olav Friisberg Larssen" role="Interaksjonsdesigner, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/70377508?v=4" name="Olav Friisberg Larssen" role="Interaksjonsdesigner, Fast, Oslo">}}
 
 
 {{< /team/members >}}
