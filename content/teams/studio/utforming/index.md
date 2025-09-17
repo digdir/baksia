@@ -27,15 +27,13 @@ tags: []
 
 {{< team/products title="Produkter" >}}
 {{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/Altinn/projects/36/views/22" url_text="GitHub">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/Altinn/projects/36/views/3" url_text="GitHub" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/36/views/1" url_text="GitHub" >}}
+{{< team/product-item title="Backlog Squad Utforming" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/164/views/8" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn Studio Designer – en del av tjenesteutviklingsverktøyet i Altinn Studio.
-- Altinn Studio Repositories (Gitea) – en del av tjenesteutviklingsverktøyet i Altinn Studio.
-- LocalTest – en kopi av Altinn-plattformen som brukes til å teste apper under utvikling lokalt
-- Dokumentasjon
-- Bidra til Digdirs felles designsystem.
-- DevOps-team med totalansvar fra idé til produksjon.
+- Layout og kompomenter
+- Utforming med tilhørende backend
+- App frontend med tilhørende backend(rendering)
+- Dynamikk/logikk
+- DevTools
