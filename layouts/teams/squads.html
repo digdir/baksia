@@ -1,5 +1,6 @@
 {{ define "main" }}
 
+{{- with .Site.GetPage .Params.path -}}
 <div class="component" style="background-color: #faeec2">
   {{ partial "components/breadcrumbs.html" . }}
   <div class="container">
@@ -13,12 +14,15 @@
         class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
       >
         <div>
-          <img class="img-fluid" alt="De ulike typene team som er definert i boken Team Topologies" src="/images/team-topologies.svg" style="margin-left: 4em;">
-        </div>
+            {{- partial "components/image.html" (dict "context" . "image"
+              .Params.banner.image)
+            -}}
+          </div>
       </div>
     </div>
   </div>
 </div>
+{{- end -}}
 
 <div class="component">
   <div class="container">

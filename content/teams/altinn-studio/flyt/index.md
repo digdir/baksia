@@ -5,24 +5,16 @@ banner:
   image:
     src:
 tags: []
+weight: 1
 ---
 
-{{< team/members title="Medlemmer i squadet" slack_url="https://digdir.slack.com/archives/C0760NPT2BE" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1636323?v=4" name="Nina Kylstad" role="Produkteier, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/23359247?v=4" name="Mirko Sekulic" role="Backend, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/24462611?v=4" name="Michael Queyrichon" role="Frontend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/29770305?v=4" name="Tomas Engebretsen" role="Frontend, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars Walderhaug" role="Frontend, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/90609090?v=4" name="Jamal Alabdullah" role="Frontend, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend, Team-arkitekt, Konsulent, Oslo">}}
+{{< team/members title="Medlemmer i squad" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/148075168?v=4" name="Erling Hauan" role="Frontend og backend, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1525466?v=4" name="Jonas Dyrlie" role="Frontend og backend, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/180176181?v=4" name="Konrad Simsø" role="Frontend og backend, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/100292724?v=4" name="Anniken Kjos Bråthen" role="Interaksjonsdesigner, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/111488506?v=4" name="Gørild Døhl" role="Innholdsdesigner, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/25076841?v=4" name="Hanne Finnøy" role="Interaksjonsdesigner, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/22139553?v=4" name="Viveca Krishnamoorthi" role="Interaksjonsdesigner, Fast, Oslo">}}
-
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/3596256?v=4" name="Bjørn-Tore Gjerde " role="Backend, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/21328986?v=4" name="Daniel Skovli" role="Backend, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/23121869?v=4" name="Camilla Marie Dalan" role="FrontEnd, Konsulent,Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/68380161?v=4" name="Pål Myran" role="FrontEnd, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/70377508?v=4" name="Olav Friisberg Larssen" role="Interaksjonsdesigner, Fast, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
@@ -33,9 +25,7 @@ tags: []
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Altinn Studio Designer – en del av tjenesteutviklingsverktøyet i Altinn Studio.
-- Altinn Studio Repositories (Gitea) – en del av tjenesteutviklingsverktøyet i Altinn Studio.
-- LocalTest – en kopi av Altinn-plattformen som brukes til å teste apper under utvikling lokalt
-- Dokumentasjon
-- Bidra til Digdirs felles designsystem.
-- DevOps-team med totalansvar fra idé til produksjon.
+- Prosesseditor
+- Prosessmotor
+- PDF
+- Kvittering
