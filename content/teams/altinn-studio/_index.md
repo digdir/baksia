@@ -7,7 +7,6 @@ navigation_link:
   subtitle: Ronny Birkeli og Nina Kylstad
 
 layout: squads
-path: teams/studio
 
 banner:
   image:
@@ -17,6 +16,7 @@ banner:
 tags:
 - pg_tjenesteutvikling
 - stream-aligned
+
 ---
 
 {{< team/members title="Roller på tvers av squads" slack_url="https://digdir.slack.com/archives/C0760NPT2BE" slack_url_text="Slack-kanal for teamet">}}
