@@ -1,8 +1,14 @@
 ---
 title: Altinn Studio
+linktitle: Altinn Studio
 ingress: Studio er vårt interne design- og utviklingsbyrå.
 layout: squads
-tags: []
+tags:
+  - pg_datadeling
+  - stream-aligned
+navigation_link:
+  title: Produkteier
+  subtitle: Nina Kylstad
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C0760NPT2BE" slack_url_text="Slack-kanal for teamet">}}
