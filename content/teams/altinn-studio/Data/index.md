@@ -1,13 +1,14 @@
 ---
-title: 'Squad - Data'
-ingress: 'Data er et tverrfaglig, autonomt team som eier resultater gjennom fokusert arbeid, kontinuerlig læring og åpen progresjon'
+title: 'Data'
+ingress: 'Data-squaden har ansvar for den delen av Altinn Studio som omhandler datamodellering, validering av data, biblioteksfunksjonalitet og API-er.'
 banner:
   image:
     src:
 tags: []
+weight: 4
 ---
 
-{{< team/members title="Medlemmer i squadet" slack_url="https://digdir.slack.com/archives/C09BH8REU21" slack_url_text="Slack-kanal for teamet">}}
+{{< team/members title="Medlemmer i squad">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131616?v=4" name="Ivar Nesje" role="Backend, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22742305?v=4" name="Olav Sørlie" role="Backend, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/42615991?v=4 " name="Johannes Haukland" role="Backend, Fast, Oslo" >}}
@@ -32,4 +33,4 @@ tags: []
 - Storage inkl dialogporten
 - Adapter(future)
 - Api og Interfaces
-- Validering 
+- Validering av data
