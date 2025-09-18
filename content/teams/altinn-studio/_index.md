@@ -23,7 +23,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Produkteier - strategisk, Fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1636323?v=4" name="Nina Kylstad" role="Produkteier - operativt, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master, Fast,  Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend, Team-arkitekt, Konsulent, Oslo">}}{{< team/github-profile url="https://avatars.githubusercontent.com/u/5425986?v=4" name="Martin Othamar" role="Backend, Konsulent ,Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend, Team-arkitekt, Konsulent, Oslo">}}{{< team/github-profile url="https://avatars.githubusercontent.com/u/5425986?v=4" name="Martin Othamar" role="Backend, Team-arkitekt, Konsulent ,Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/100292724?v=4" name="Anniken Kjos Bråthen" role="Design lead, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/25076841?v=4" name="Hanne Finnøy" role="Design lead, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/111488506?v=4" name="Gørild Døhl" role="Innholdsdesigner, Fast, Oslo">}}
