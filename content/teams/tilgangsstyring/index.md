@@ -30,7 +30,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/103100644?v=4" name="Hanne Saltnes" role="Interaksjonsdesigner, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94835837?v=4" name="Randi Mansæterbak" role="Interaksjonsdesigner, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144321622?v=4" name="Mette Grytten" role="Design lead, Fast, Førde">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/22615518?v=4" name="Ernst Jonny Lyngøy" role="Test, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/113685460?v=4" name="Sneha Sirure" role="Test, Fast, Oslo">}}
 {{< /team/members >}}
 
