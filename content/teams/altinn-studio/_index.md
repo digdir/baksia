@@ -32,7 +32,6 @@ tags:
 
 {{< team/products title="Produktet" >}}
 {{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/Altinn/projects/36/views/22" url_text="GitHub">}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/36/views/1" url_text="GitHub" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
