@@ -1,6 +1,6 @@
 ---
 title: 'Utforming'
-ingress: 'Squad for Utforming'
+ingress: 'Utforming-squaden har ansvar for den delen av Altinn Studio som omhandler Layout, komponenter, utforming, dynamikk, logikk, Devtools'
 banner:
   image:
     src:
@@ -26,7 +26,7 @@ weight: 2
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Layout og kompomenter
+- Layout og komponenter
 - Utforming med tilhørende backend
 - App frontend med tilhørende backend(rendering)
 - Dynamikk/logikk
