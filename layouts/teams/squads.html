@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-<div class="component" style="background-color: #a5d6fb">
+{{ $image := resources.GetMatch .Params.banner.image.src }}
+
+<div class="component" style="background-color: #faeec2">
   {{ partial "components/breadcrumbs.html" . }}
   <div class="container">
     <div class="row">
@@ -13,8 +15,9 @@
         class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
       >
         <div>
-          <img class="img-fluid" alt="De ulike typene team som er definert i boken Team Topologies" src="/images/team-topologies.svg" style="margin-left: 4em;">
+            <img class="img-fluid" alt="" srcSet="{{ $image.RelPermalink }}" style="margin-left: 4em;">
         </div>
+          </div>
       </div>
     </div>
   </div>
