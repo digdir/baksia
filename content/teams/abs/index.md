@@ -2,7 +2,7 @@
 title: ABS
 linktitle: ABS
 
-ingress: Vi levere effektiv og god brukerstøtte til sluttbrukere av Altinn.
+ingress: Vi leverer effektiv og god brukerstøtte til sluttbrukere av Altinn.
 
 navigation_link:
   title: Teamleder
