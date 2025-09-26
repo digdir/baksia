@@ -11,9 +11,12 @@ ingress: |
   Vi bruker Team Topologies for å sikre at teamene har klare roller, grenser og samarbeidsformer, slik at vi kan levere trygt, effektivt og i tråd med samfunnets behov. 
 
   Vi jobber med/i fire typer team: 
-  **Verdistrøm-team (Stream-aligned team)** – jobber tett på brukerne og leverer verdi kontinuerlig innenfor et avgrenset område. 
+  **Verdistrøm-team (Stream-aligned team)** – jobber tett på brukerne og leverer verdi kontinuerlig innenfor et avgrenset område.
+  
   **Tilretteleggingsteam (Enabling team)** – støtter andre team med kompetanse og hjelper dem å løse hindringer. 
+  
   **Subsystem team (Complicated subsystem team)** – jobber med teknisk krevende områder som krever spesialkompetanse. 
+  
   **Plattformteam** (Platform team – bygger og vedlikeholder felles plattformer og verktøy som gjør det lettere for andre team å levere. 
 
   **Hvorfor gjør vi dette?**
