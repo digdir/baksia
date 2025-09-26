@@ -1,8 +1,7 @@
 ---
 title: Team
 
-ingress: |
-
+ingress:
 **Team Topologies  – hvordan vi organiserer oss i BOD.**  
 For å utvikle og forvalte våre digitale fellesløsninger les. gjøre produktutvikling på en god måte, trenger vi en tydelig og fleksibel måte å organisere teamene våre på.  
 
