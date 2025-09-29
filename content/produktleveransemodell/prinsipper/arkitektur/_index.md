@@ -1,5 +1,6 @@
 ---
-title: Arkitektur
+title: Arkitekturprinsipper
+linktitle: Arkitektur
 ingress: Arkitekturprinsipper er grunnleggende retningslinjer som hjelper oss å bygge robuste, skalerbare og bærekraftige løsninger.
 
 navigation_link:

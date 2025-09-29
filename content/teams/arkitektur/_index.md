@@ -1,10 +1,13 @@
 ---
-title: Arkitektur
+title: Team Arkitektur
+linktitle: Arkitektur
 ingress: Arkitektur-teamet består av sjefsarkitekt og team-arkitekt fra alle produktteamene, og sammen så tar vi arkitekturbeslutninger som går på tvers.
 
 navigation_link:
   title: Teamleder
   subtitle: Eirik Mikkelsen
+
+layout: subpages
 
 banner:
   image:
@@ -15,7 +18,7 @@ tags:
 - enabling
 ---
 
-{{< team/members title="Medlemmer i team arkitektur">}}
+{{< team/members title="Medlemmer i team arkitektur" slack_url="https://digdir.slack.com/archives/C07A822E9PT" slack_url_text="Slack-kanal for teamet">}}
 
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, Fast, Hamar" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Dialogporten/Arbeidsflate, Fast, Brønnøysund" >}}
@@ -32,11 +35,14 @@ tags:
 
 {{< /team/members >}}
 
-
 ## Ansvarsområder
 
-- Altinn arkitektur og dokumentasjon av den
-- Arkitekturforum, fast ukentlig møteserie
-- [Overordnede beslutninger](https://github.com/orgs/Altinn/projects/131) på tvers av produkter og team
-- [Arkitekturprinsippene](../../produktleveransemodell/prinsipper/arkitektur)
-- [Verktøy, avhengigheter](https://docs.altinn.studio/technology/tools/) og tilhørende føringer/policy
+- Altinn arkitektur
+- Arkitekturforum, fast ukentlig møteserie der hele teamet deltar
+- [Overordnede beslutninger](overordnede-beslutninger) på tvers av produkter og team
+- Vedlikeholde [arkitekturprinsippene](../../produktleveransemodell/prinsipper/arkitektur)
+- [Verktøy, avhengigheter](https://docs.altinn.studio/en/technology/tools/) og tilhørende føringer/policy
+
+## Våre prosesser
+
+{{<child-pages>}}
