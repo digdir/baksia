@@ -2,11 +2,9 @@
 title: Team
 
 ingress: |
-  **Team Topologies**  
-  For å gjøre produktutvikling på en god måte, trenger vi en tydelig og fleksibel måte å organisere teamene våre på. Team Typologies hjelper oss med dette. 
+  **Team Topologies** For å gjøre produktutvikling på en god måte, trenger vi en tydelig og fleksibel måte å organisere teamene våre på. Team Typologies hjelper oss med dette. 
 
-  **Hva går det ut på?** 
-  Vi bruker Team Topologies for å sikre at teamene har klare roller, grenser og samarbeidsformer, slik at vi kan levere trygt, effektivt og i tråd med samfunnets behov. Vi jobber i fire typer team: 
+  **Hva går det ut på?** Vi bruker Team Topologies for å sikre at teamene har klare roller, grenser og samarbeidsformer, slik at vi kan levere trygt, effektivt og i tråd med samfunnets behov. Vi jobber i fire typer team: 
   
   **Verdistrøm-team (Stream-aligned team)** – jobber tett på brukerne og leverer verdi kontinuerlig innenfor et avgrenset område.
   
@@ -16,8 +14,7 @@ ingress: |
   
   **Plattformteam (Platform team)** – bygger og vedlikeholder felles plattformer og verktøy som gjør det lettere for andre team å levere. 
 
-  **Hvorfor gjør vi dette?**
-  For å skape flyt, redusere unødvendig kompleksitet og sikre at teamene får jobbet med det de er best på – samtidig som vi tar vare på robusthet, sikkerhet og samfunnsansvar. 
+  **Hvorfor gjør vi dette?** For å skape flyt, redusere unødvendig kompleksitet og sikre at teamene får jobbet med det de er best på – samtidig som vi tar vare på robusthet, sikkerhet og samfunnsansvar. 
 
 
 
