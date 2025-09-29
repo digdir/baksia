@@ -22,6 +22,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/2217340?v=4" name="Terje Holene" role="Team-arkitekt, Infrastruktur, Backend, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/70642698?v=4" name="Thomas Bakken" role="Backend, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/11887560?v=4" name="Hallgeir Garnes-Gutvik" role="Fullstack-utvikler, Fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/11991371?v=4" name="Suhasini Narasimharaj" role=" Backend, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/114151129?v=4" name="Ahmed Ghanam" role="Fullstack-utvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/28589510?v=4" name="Henning Normann" role="Ytelse, 50%, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/17127299?v=4" name="Sigrid Bratsberg" role=" Backend, Konsulent, Oslo">}}
