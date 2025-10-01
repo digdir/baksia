@@ -27,26 +27,17 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/79701340?v=4" name="Simen Waitz " role="Utvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/227602849?v=4" name="Bjørn Lund-Sørensen" role="Jurist, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71271458?v=4" name="Lars Hansen" role="Utvikler, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/6339448?v=4" name="Leo Valen" role="Utvikler, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/148075168?v=4" name="Erling Hauan" role="Utvikler, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/2690292?v=4" name="Bjørn-Erik Strand" role="Plattform, 50%, Fast, Leikanger" >}}
 
 {{< /team/members >}}
 
-## Konkrete KI-caser som vi jobber med nå
 
-- Kunnskapsassistent basert på dataene i [Kudos](https://kudos.dfo.no/).
-- Utviklerassistent basert på [vår tekniske dokumentasjon](https://docs.altinn.studio/).
-- Assistent basert på [veiledningen fra Digdir for bruk av kunstig intelligens](https://www.digdir.no/kunstig-intelligens/kunstig-intelligens/4132).
-- Assistent basert på [info.altinn.no](https://info.altinn.no/) inkludert starte og drive bedrift.
-- Løsning for å kunne stille spørsmål på tvers av koden i alle tjenester utviklet i Altinn Studio.
-- Automatisere/effektivisere utviklingen av digitale tjenester i Altinn Studio.
+## KI-caser som vi jobber med nå
 
-Se oversikt over caser [her](https://github.com/Altinn/ai/issues?q=is%3Aissue%20state%3Aopen%20label%3Akind%2Fcase).
-
-## Ansvarsområder
-
-- Etablere KI Lab, fremme samarbeid internt, eksternt og nasjonalt. Bygge miljø og kompetanse.
-- Bidra til at Digdir fortsetter å [walk the walk](https://www.kode24.no/artikkel/81951932) 😛
-- Bidra til videreutvikling av [veiledningen for bruk av KI](https://www.digdir.no/kunstig-intelligens/kunstig-intelligens/4132).
-- Åpen kildekode ([digdir-assistants](https://github.com/Altinn/digdir-assistants)) som understøtter alle casene vi jobber med. Både Slack og web som frontend.
+- [Kunnskapsassistenten](https://www.digdir.no/innovasjon/kunnskapsassistenten/7088), basert på dataene i [Kudos](https://kudos.dfo.no/)
+- KI-agenter, MCP og sikker chatbasert tjenesteutvikling i [Altinn Studio](https://docs.altinn.studio/nb/altinn-studio/v8/about/)
+- KI og dokumentasjon. Klarspråk og tone, oversetting, review, automatisering
+- Diverse RAG-baserte assistenter
+- Gjenbrukbare komponenter basert på [designsystemet.no](https://www.designsystemet.no/)
+- AI-champions
