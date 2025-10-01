@@ -5,11 +5,3 @@ ingress: For å sikre at arbeidet og leveransene våre har god kvalitet, jobber 
 navigation_link:
   text: Les om produktutvikling i Digdir
 ---
-
-{{< onboarding/ext-nav-card
-  title="Dokumentasjonskanaler AS-IS (BOD)"
-
-  description="Oversikt over dokumentasjonskanaler i BOD"
-
-  external_url="https://digdir.atlassian.net/wiki/spaces/BF1/pages/3434938393/Dokumentasjonskanaler+AS-IS+BOD"
->}}
