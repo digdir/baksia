@@ -16,6 +16,7 @@ Scrum-mastere, prosjektledere, controllere og støtteressurser sørger for at vi
 Seksjonsleder: Dan Remi Mørk
 
 Gruppeleder Agil leveranseledelse: Hanne Lauritsen
+
 Gruppeleder Styring: Lars-Göran Andersson (fung)
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
