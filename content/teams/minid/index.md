@@ -32,6 +32,7 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1352446?v=4" name="Daniel Neset" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/67735081?v=4" name="Vivian Atteraas" role="QA, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/210362909?v=4" name="Dusan Nikolic" role="Utvikler, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/149239?v=4" name="Aase Mestad" role="Utvikler, Oslo" >}}
 
 
 {{< /team/members >}}
