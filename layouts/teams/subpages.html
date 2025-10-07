@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+{{ $image := resources.GetMatch .Params.banner.image.src }}
+
+<div class="component" style="background-color: #faeec2">
+  {{ partial "components/breadcrumbs.html" . }}
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 my-auto">
+        <h1>{{ .Title }}</h1>
+        {{ $ingress := .Params.ingress | markdownify }}
+        <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+      </div>
+      <div
+        class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end"
+      >
+        <div>
+            <img class="img-fluid" alt="" srcSet="{{ $image.RelPermalink }}" style="margin-left: 4em;">
+        </div>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="component" style="background-color: #FFFFFF">
+  <div class="container">
+    {{ .Content }}
+  </div>
+</div>
+
+{{ end }}

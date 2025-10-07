@@ -23,11 +23,9 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/120113086?v=4" name="Mette Saltnes" role="Produkteier, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Scrum master, 50%, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Theresa Harmanen" role="Design-lead, 50%, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, Backend, 50%, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/54906720?v=4" name="Alexander Midteide" role="Frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3768832?v=4" name="Sean Erik Scully" role="Frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Mateusz Marek Bacherycz" role="Frontend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/15613654?v=4" name="Audun Karlsrud Larsen" role="Tjenestedesigner, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1138656?v=4" name="Inge Fossland" role="UI Designer, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Kim Renè Teige" role="UX Designer, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Leif Kristian Helstad" role="Test & QA ansvarlig, Konsulent, Oslo">}}

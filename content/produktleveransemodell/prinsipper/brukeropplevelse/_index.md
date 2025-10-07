@@ -95,3 +95,31 @@ Følges bruddet fortsatt ikke opp (nivå 2) eller ved brudd som må løses på t
 
 **Nivå 4**  
 Ved kritiske brudd der tidligere forsøk (nivå 1-3) ikke gir resultater legger Head of Design saken frem for avdelingsdirektøren og ber om at videreutvikling stoppes frem til bruddet er rettet opp.
+
+## Digdirs anbefaling om hvordan vi kan kvalitetssikre språk i leveranser
+
+
+**Hva:**
+Sikre klart språk i tjenestene:
+
+**Konsekvent begrepsbruk**
+  -altinn-begreper
+  -hovedbegrepene må være avklart.
+  -felles terminologi for komponenter (eks tekst i knapper)
+
+-Tydelig, vennlig, ubyråkratisk språk
+
+-Like god kvalitet på bokmål, nynorsk og engelsk. Og samisk når det er på plass.
+
+**Hvordan:** 
+Det beste er å ha en i teamet med spisskompetanse på klarspråk fra start, men hvis ikke det er mulig:
+En annen person i teamet har ansvar for klarspråk fra start. Det inkluderer å sørge for at:
+1.Begreper blir definert og sjekket mot begreper i andre team
+2.Sørge for klart språk i skisser fra start
+3.Sørge for at språk og begreper blir brukertestet
+4.Sørge for oversettelse til nynorsk/bokmål og engelsk, vi har avtale med oversetterbyrå.
+
+**Hvis den som er ansvarlig for dette i et team ikke er innholdsdesigner skal han/hun**
+-få generell innføring (internt) i klarspråk og spesielt mikrotekster
+-sette seg inn i metoder for å brukerteste språk, eller gjøre dette sammen med innholdsdesigner
+-kvalitetssikre og sparre underveis med en innholdsdesigner eller en annen med spisskompetanse klarspråk.

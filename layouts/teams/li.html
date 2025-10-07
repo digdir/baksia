@@ -1,7 +1,7 @@
-<div class="navigation-card {{ delimit .Params.tags " " }}">
+<div class="navigation-card {{ with .Params.tags }}{{ delimit . " " }}{{ end }}">
     <a class="navigation-card__content" href="{{ .RelPermalink }}">
         <h3 class="navigation-card__title navigation-card__title--small">
-            {{ .Title }}
+            {{ .LinkTitle }}
         </h3>
         {{ with .Params.navigation_link.title }}
             <h4 class="navigation_link_title">{{ . }}</h4>
