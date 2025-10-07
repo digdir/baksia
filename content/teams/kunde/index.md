@@ -28,7 +28,9 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94651380?v=4" name="Lars-Göran Andersson" role="Leverandørstyrer" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94672791?v=4" name="Anita Meisingset" role="Teknisk brukerstøtte" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/180412833?v=4" name="John-Andreas Lorentzen" role="Teknisk brukerstøtte" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/86382095?v=4" name="Dan Remi Mørk " role="Seksjonsleder for Marked og tjeneste­oppfølging" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/89572427?v=4" name="Siri Esteri Berg-Johnsen " role="Tjenesteutvikler, Trainee">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/115708173?v=4" name="Fabian Ugedal " role="Tjenesteutvikler, Trainee">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/95215761?v=4" name="Hege Nielsen" role="Seksjonsleder for Brukerstøtte & Tjenesteoppfølging (BBT)">}}
 
 {{< /team/members >}}
 
@@ -44,4 +46,4 @@ tags:
 - Incident Management - Hendelseshåndtering
 - Problem Management - Håndtere gjentagende feil
 - Service Level Management - TE-oppfølging og oppnåelse av tjenestenivå (SLA)
-- Avtaleforvaltning - Avtaler under drift og forvaltning (omfang og teamets rolle må avklares)
+
