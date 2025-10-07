@@ -25,7 +25,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/95905006?v=4" name="Mona Ebbesen" role="Incident Manager" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45939254?v=4" name="Tommy Almendingen" role="Infrastruktur" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22615518?v=4" name="Ernst Jonny Lyngøy" role="Utvikler">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/94651380?v=4" name="Lars-Göran Andersson" role="Leverandørstyrer" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94672791?v=4" name="Anita Meisingset" role="Teknisk brukerstøtte" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/180412833?v=4" name="John-Andreas Lorentzen" role="Teknisk brukerstøtte" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89572427?v=4" name="Siri Esteri Berg-Johnsen " role="Tjenesteutvikler, Trainee">}}
