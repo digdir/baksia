@@ -16,13 +16,13 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet">}}
-{{< team/github-profile url="" name="Stian Øye" role="Teamleder" >}}
-{{< team/github-profile url="" name="Brage Navarsete" role="" >}}
-{{< team/github-profile url="" name="Birger Sjømæling Andresen" role="" >}}
-{{< team/github-profile url="" name="Karsten Ellema Bjelde" role="" >}}
-{{< team/github-profile url="" name="Justyna Mucha" role="" >}}
-{{< team/github-profile url="" name="Ragnhild Helen Rørvik" role="" >}}
-{{< team/github-profile url="" name="Eyvind Sjøstrøm" role="" >}}
+{{< team/github-profile url="" name="Stian Øye" role="Teamleder, FEL" >}}
+{{< team/github-profile url="" name="Brage Navarsete" role="FEL" >}}
+{{< team/github-profile url="" name="Birger Sjømæling Andresen" role="FEL" >}}
+{{< team/github-profile url="" name="Karsten Ellema Bjelde" role="FEL" >}}
+{{< team/github-profile url="" name="Justyna Mucha" role="FEL" >}}
+{{< team/github-profile url="" name="Ragnhild Helen Rørvik" role="FEL" >}}
+{{< team/github-profile url="" name="Eyvind Sjøstrøm" role="FEL" >}}
 
 
 {{< /team/members >}}
