@@ -30,8 +30,8 @@ tags:
 {{< team/responsibilities title="Ansvarsområde" >}}
 
 - Kundehenvendelser
-    - Oppfølging av kundar og leverandørar på e-post, telefon og møter
+    - Oppfølging av kunder og leverandører via e-post, telefon og møter
 - Teknisk dokumentasjon på Digdir Docs
-- Forvaltning og vidareuvikling av Microsoft Dynamics CRM
-- Ansvarleg for interndokumentasjon for fellesløysingane på Confluence
+- Forvaltning og videreutvikling av Microsoft Dynamics CRM
+- Ansvarlig for intern dokumentasjon for fellesløsningene i Confluence
 
