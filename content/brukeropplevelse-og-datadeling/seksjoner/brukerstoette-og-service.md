@@ -10,7 +10,7 @@ weight: 7
 
 ## Brukerstøtte og service
 
-Seksjonen skal bygge kompetanse som sørger for at vi leverer en effektiv og god brukerstøtte både mot tjenesteeiere, sluttbrukersystem­leverandører og øvrige brukere av våre tjenester. Seksjonen har også ansvaret for interne tjenester i avdelingen.
+Seksjonen skal være et sentralt bindeledd mellom kundene og våre produkter og tjenester, og sikre at alle virksomheter får en god, helhetlig og profesjonell oppfølging. Gjennom tilgjengelig brukerstøtte, tett dialog og systematisk innsiktsarbeid skal seksjonen bidra til høy kundetilfredshet, effektiv bruk av tjenestene og kontinuerlig forbedring av leveransene.
 
 Seksjonsleder: Hege Nielsen
 
