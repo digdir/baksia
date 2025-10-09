@@ -1,6 +1,6 @@
 ---
 title: Digital lommebok
-linktitle: digital-lommebok
+linktitle: Digital lommebok
 ingress: Teamet jobber med innføring av EUs digitale identitetslommebok, inkludert etablering av den [nasjonale sandkassen](https://docs.digdir.no/docs/lommebok/lommebok_om.html) for utprøving og varig infrastruktur.
 
 navigation_link:
