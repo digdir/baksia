@@ -33,7 +33,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/234550433?v=4" name="Miriam Høyheim Lægreid" role="Produkteier Portaler (Beta.norge.no)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/59232443?v=4" name="Dag Ove Eggum" role="Produkteier uustatus.no" >}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U093CDAKLJW-g6df8138ec67-512" name="Asli Aydemir" role="Produkteier Kunnskapsassistenten" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/214821601?v=4" name="Janne Antonsen" role="Tjenesteeier Digitialt dødsbo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/214821601?v=4" name="Janne Antonsen" role="Tjenesteeier Digitalt dødsbo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1483360?v=4" name="Jørgen Binningsbø" role="Produkteier Digital lommebok og ID-porten" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23337466?v=4" name="John Eivind Presterud" role="Produkteier eInnsyn" >}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U012PQ1B1MK-g60012f8c54a-512" name="Erlend Husabø" role="Produkteier Kundetjenester" >}}
