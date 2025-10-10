@@ -16,13 +16,13 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet">}}
-{{< team/github-profile url="" name="Stian Øye" role="Teamleder, FEL" >}}
-{{< team/github-profile url="" name="Brage Navarsete" role="FEL" >}}
-{{< team/github-profile url="" name="Birger Sjømæling Andresen" role="FEL" >}}
-{{< team/github-profile url="" name="Karsten Ellema Bjelde" role="FEL" >}}
-{{< team/github-profile url="" name="Justyna Mucha" role="FEL" >}}
-{{< team/github-profile url="" name="Ragnhild Helen Rørvik" role="FEL" >}}
-{{< team/github-profile url="" name="Eyvind Sjøstrøm" role="FEL" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U012RBYG1UK-g775e6110f6d-512" name="Stian Øye" role="Teamleder, FEL" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U077EKUJXN0-g8293db8da6a-512" name="Brage Navarsete" role="FEL" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U03MSTM0G6P-gb482427bce2-512" name="Birger Sjømæling Andresen" role="FEL" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U0306HGB7KR-9a143110ff10-512" name="Karsten Ellema Bjelde" role="FEL" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/49980641?v=4" name="Justyna Mucha" role="FEL" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U02VDU111PH-f87de170afb3-512" name="Ragnhild Helen Rørvik" role="FEL" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U03AQRELN02-g2a93d003be6-512" name="Eyvind Sjøstrøm" role="FEL" >}}
 
 
 {{< /team/members >}}
