@@ -16,13 +16,13 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet">}}
-{{< team/github-profile url="" name="Miriam Høyheim Lægreid" role="Teamleder, FEL" >}}
-{{< team/github-profile url="" name="Solveig Kvame" role="FEL" >}}
-{{< team/github-profile url="" name="Erlend Husabø" role="FEL" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/234550433?v=4" name="Miriam Høyheim Lægreid" role="Teamleder, FEL" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U01UM9P9B2M-f171863b6986-512" name="Solveig Kvame" role="FEL" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U012PQ1B1MK-g60012f8c54a-512" name="Erlend Husabø" role="FEL" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/105773373?v=4" name="Elaine Svartis" role="BOD" >}}
 {{< team/github-profile url="" name="Frida Bekkestad Pedersen" role="FEL" >}}
 {{< team/github-profile url="" name="Linda Johansen" role="FEL" >}}
-{{< team/github-profile url="" name="Ragnhild Helen Rørvik" role="FEL" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U02VDU111PH-f87de170afb3-512" name="Ragnhild Helen Rørvik" role="FEL" >}}
 
 
 {{< /team/members >}}
