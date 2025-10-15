@@ -1,6 +1,6 @@
 ---
 title: Roller og ressurser
-ingress: I Brukeropplevelse og Datadeling (BOD) er seksjonene primært et personal-hjem for medarbeidere innenfor felles kompetanseområder. Seksjonene spiller en nøkkelrolle i å avgi ressurser og kompetanse til ulike leveranseområder både innenfor og utenfor BOD. Dette inkluderer bidrag til Digdir sine portefølje kontor, produktgrupper, produktteam, tilretteleggingsteam, platfrom,  samt andre små og store oppdrag eller tiltak.
+ingress: Brukeropplevelse og Datadeling (BOD) er inndelt i seksjoner som fungerer som personalhjem for medarbeidere med lik kompetanse. Seksjonene bygger kompetansekapasietet og avgir ressurser til leveranseområder. Dette inkluderer Digdir portefølje, produktgrupper, verdistrøm-team, tilretteleggings-team og platform-team, samt andre små og store tiltak.
 
 
 navigation_link:
