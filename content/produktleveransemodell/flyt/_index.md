@@ -3,7 +3,7 @@ title: Flyt
 ingress: Hvordan produktutvikling i Digdir flyter - fra en ide eller et oppdrag til implementering og lansering av et produkt eller en tjeneste.
 
 navigation_link:
-  subtitle: Flyten i Digdirs produktutvikling
+  subtitle: Flyt i Digdir produktutvikling
 ---
 
 ![Flyt i produktutviklingen](/images/pom-flow-map.svg)
