@@ -6,7 +6,7 @@ ingress: |
   
   **Verdistrøm-team (Stream-aligned-team)** Teamet jobber tett på brukerne og leverer verdi kontinuerlig, innenfor et avgrenset område.
   
-  **Tilretteleggings-team (Enabling-team)** Teamet støtter andre team med kompetanse, og hjelper dem å løse hindringer. 
+  **Tilretteleggings-team (Enabling-team)** Teamet støtter andre team med kompetanse, og hjelper dem å løse hindringer,og bidra til bedre praksis og autonomi. 
   
   **Subsystem-team (Complicated-subsystem-team)** Teamet jobber med teknisk krevende områder, som krever spesialkompetanse. 
   
