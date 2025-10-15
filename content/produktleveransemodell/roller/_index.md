@@ -4,7 +4,7 @@ ingress: I Brukeropplevelse og Datadeling (BOD) er seksjonene primært et person
 
 
 navigation_link:
-  subtitle: Roller og flyt av ressurser
+  subtitle: Roller og allokering 
   
   banner:
   image:
