@@ -4,7 +4,7 @@ ingress: Brukeropplevelse og Datadeling (BOD) er inndelt i seksjoner som fungere
 
 
 navigation_link:
-  subtitle: Roller og allokering 
+  subtitle: Mer om hvordan BOD strukturerer sin kompetansekapasitet
   
   banner:
   image:
