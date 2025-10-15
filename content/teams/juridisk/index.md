@@ -4,7 +4,7 @@ Ingress: Teamet skal bidra til å sikre at eksisterende og fremtidige juridiske 
 
 navigation_link:
   title: Teamleder
-  subtitle: Benedicte Sørli
+  subtitle: Thomas Leirvik Knoph
 
 banner:
   image:
@@ -17,10 +17,10 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Teamleder, Jurist, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/145535451?v=4" name="Andreas Hermstad" role="Jurist, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/145534651?s=88&v=4" name="Thomas Leirvik Knoph" role="Jurist, Fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/145534651?s=88&v=4" name="Thomas Leirvik Knoph" role="Teamleder, Jurist, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/34267083?v=4" name="Tore Måsøy" role="Scrum Master, Fast, Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/66666175?v=4" name="Benedicte Olsen Sørli" role="Jurist, Fast (permisjon), Brønnøysund">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/145535451?v=4" name="Andreas Hermstad" role="Jurist, Fast, Brønnøysund">}}
 
 {{< /team/members >}}
 
