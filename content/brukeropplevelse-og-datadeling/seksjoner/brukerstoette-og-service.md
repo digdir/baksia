@@ -14,7 +14,7 @@ Seksjonen skal være et sentralt bindeledd mellom kunder og våre produkter/tjen
 
 Seksjonsleder: Hege Nielsen
 
-Gruppeleder brukerstøtte: Cathrine Jensen Bastesen
+Gruppeleder brukerstøtte: Cathrine Jensen Bastesen (fung)
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
 
