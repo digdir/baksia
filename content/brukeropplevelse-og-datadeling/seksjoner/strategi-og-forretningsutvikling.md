@@ -15,7 +15,7 @@ Medarbeiderne i seksjonen bidrar til at vi styrer produktutviklingen på en god 
 
 Seksjonsleder: Tor Arild Sunnevåg
 
-Gruppeleder produktledelse: Hanne Brun
+Gruppeleder produktledelse: Hanne Brun (fung)
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
 
