@@ -23,8 +23,8 @@ Flere har etterlyst bedre prioriteringsrammer fra ledelsen. OKR er ledelsen sitt
 
 OKR står for «Objectives and Key Results».
 
-- **Objectives** handler om **hva** det er man ønsker å oppnå (målet).
-- **Key Results** handler om **hvordan** man skal få det til.
+- **Objectives** handler om **hva** det er man ønsker å oppnå(målet). Det kvalitative!
+- **Key Results** handler om **hvordan** man skal få det til(måling). Det kvantitative!
 
 ## Hvordan det fungerer
 
@@ -55,6 +55,7 @@ OKR er lagsport og representerer teamet sitt felles målbilde for det kommende k
   3. Mål i tråd med bruker- og samfunnsverdi. Fellestjenestene skal hjelpe mange -fang opp dette.
   4. Begrens antall OKR. Typisk 1-3 Objectives, og 2-3 Key Result per Objective. For mange = Dårligere fokus!
 
+
   Rutiner:
 - Forankre i virksomhetsmålene. Start med de strategiske føringene for fellestjenestene og digital transformasjon.
 - Minst ett mål må være knyttet opp til lederlaget sine OKR.
@@ -64,6 +65,7 @@ OKR er lagsport og representerer teamet sitt felles målbilde for det kommende k
 - Pass på at de er kjent og forankret i hele teamet, la det være praktisk og gjennomførbart.
 - Evaluer og juster jevnlig (kvartalsvis typisk). Inkluder OKR i retrospektive. Ikke være redd for å forkaste det som ikke fungerer.
 - Vær fleksibel og smidig i tilnærmingen, gjør det enkelt!
+
 
 Ved å følge denne strukturen sikrer vi at hvert tiltak og mål blir grundig vurdert, planlagt og implementert med en klar forståelse av hva som kreves for å oppnå suksess.
 
