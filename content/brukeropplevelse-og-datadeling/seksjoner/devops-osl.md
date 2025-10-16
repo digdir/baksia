@@ -14,7 +14,7 @@ Seksjonen er en av to seksjoner som er ansvarlig for å bygge og styrke organisa
 
 Seksjonsleder: Roberto Carrera
 
-Gruppeleder TechSec: Hein Gabrielsen
+Gruppeleder TechSec: Hein Gabrielsen (fung)
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
 
