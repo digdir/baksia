@@ -1,7 +1,7 @@
 ---
 title: OKR
 linktitle: OKR
-ingress: OKR er en enkel, men kraftfull metode for å formulere gode mål og sikre at vi jobber målrettet i hele organisasjonen.
+ingress: OKR er en enkel, men kraftfull metode for å formulere gode mål, og sikrer at vi jobber målrettet i hele organisasjonen.
 
 navigation_link:
   subtitle: OKR i Digdir produktutvikling
@@ -14,9 +14,9 @@ banner:
 
 # Hvorfor vi tar i bruk OKR
 
-Flere har i lang tid etterlyst prioriteringsrammer fra ledelsen. OKR er ledelsen sitt svar på prioritering som ivaretar produktteamene sin autonomitet. Ved å ta i bruk OKR får vi en bedre målstyring og transparens, der ledelsens mål brytes opp og kommer tydeligere frem i det daglige arbeidet. Dette gjør at vi kan få fokus på det som er viktig, med ambisjonen om å effektivisere og spare tid.
+Flere har etterlyst bedre prioriteringsrammer fra ledelsen. OKR er ledelsen sitt svar på prioritering, som samtidig ivaretar produktteamene sin autonomitet. Ved å ta i bruk OKR får vi en bedre målstyring og transparens, der ledelsens mål brytes opp og blir tydeligere i det daglige arbeidet. Vi kan ha fokus på det som er viktig, med ambisjon om å effektivisere og spare tid.
 
-## På god norsk OKR
+## På godt norsk OKR
 
 - En enkel metode for å formulere gode mål
 - Et "beste praksis" rammeverk for gjennomføring
@@ -28,7 +28,7 @@ OKR står for «Objectives and Key Results».
 
 ## Hvordan det fungerer
 
-OKR er ikke mål som legges i skuffen etter de har blitt laget. Det er et verktøy som brukes daglig for å sikre at vi holder riktig kurs. Gjennom jevnlig evaluering og justering av OKR sikrer vi at vi alltid jobber med det som er viktigst.
+OKR er ikke mål som legges i skuffen etter etablering. Det er et verktøy som brukes daglig for å sikre at vi holder riktig kurs. Gjennom jevnlig evaluering og justering av OKR sikrer vi at vi alltid jobber med det som er viktigst.
 
 ## OKR - verdien
 
@@ -50,15 +50,20 @@ OKR er lagsport og representerer teamet sitt felles målbilde for det kommende k
 
 ### Viktige prinsipper i vår OKR-prosess:
 
-- Minst ett mål må være knyttet opp til lederlaget sine OKR.
-- Etabler to-tre – helst tre mål per kvartal.
-- Hvert mål brytes opp i to-tre nøkkelresultat.
-- Pass på at OKR er kjent og forankret i hele teamet.
-- Ha jevnlig fokus på OKR og hvordan dette går (helsetilstanden).
-- Bruk erfaringer på å forbedre prosessen.
-- Sett ambisjoner ut fra hva som er praktisk og gjennomførbart.
-- Vær fleksibel og smidig i tilnærming.
-- Pass på å gjøre det enkelt.
+  1. Fokuser på utfall ikke output. Ikke mål: "hvor mye vi leverer", men heller: "hva det fører til".
+  2. Ett Team = hele livssyklusen. DevOpsOKR bør dekke både forbedring og stabil drift.
+  3. Mål i tråd med bruker- og samfunnsverdi. Fellestjenestene skal hjelpe mange -fang opp dette.
+  4. Begrens antall OKR. Typisk 1-3 Objectives, og 2-3 Key Result per Objective pr. kvartal. For mange = Dårligere fokus!
+
+  Rutiner:
+- Forankre i virksomhetsmålene. Start med de strategiske føringene for fellestjenestene og digital transformasjon. Minst ett mål må være knyttet opp til lederlaget sine OKR.
+- Analyser brukerbehov og data. Hva sier innsikten? HVilke utfordringer har brukerne våre? Hva gir verdi?
+- Reflekter over teamets DevOps ansvar. Hvilke deler av livssykusen bør forbedres? (Utvikling, Drift, Sikkerhet mfl.)
+- Ha tverrfaglige diskusjoner for å finne relevante mål -objective should inspire and key result should measure.
+- Pass på at de er kjent og forankret i hele teamet, la det være praktisk og gjennomførbart.
+- Evaluer og juster jevnlig (kvartalsvis typisk). Inkluder OKR i retrospektive. Ikke være redd for å forkaste det som ikke fungerer.
+  
+Vær fleksibel og smidig i tilnærmingen, gjør det enkelt!
 
 Ved å følge denne strukturen sikrer vi at hvert tiltak og mål blir grundig vurdert, planlagt og implementert med en klar forståelse av hva som kreves for å oppnå suksess.
 
