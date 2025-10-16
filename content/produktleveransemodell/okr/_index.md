@@ -53,12 +53,13 @@ OKR er lagsport og representerer teamet sitt felles målbilde for det kommende k
   1. Fokuser på utfall ikke output. Ikke mål: "hvor mye vi leverer", men heller: "hva det fører til".
   2. Ett Team = hele livssyklusen. DevOpsOKR bør dekke både forbedring og stabil drift.
   3. Mål i tråd med bruker- og samfunnsverdi. Fellestjenestene skal hjelpe mange -fang opp dette.
-  4. Begrens antall OKR. Typisk 1-3 Objectives, og 2-3 Key Result per Objective pr. kvartal. For mange = Dårligere fokus!
+  4. Begrens antall OKR. Typisk 1-3 Objectives, og 2-3 Key Result per Objective. For mange = Dårligere fokus!
 
   Rutiner:
-- Forankre i virksomhetsmålene. Start med de strategiske føringene for fellestjenestene og digital transformasjon. Minst ett mål må være knyttet opp til lederlaget sine OKR.
+- Forankre i virksomhetsmålene. Start med de strategiske føringene for fellestjenestene og digital transformasjon.
+- Minst ett mål må være knyttet opp til lederlaget sine OKR.
 - Analyser brukerbehov og data. Hva sier innsikten? HVilke utfordringer har brukerne våre? Hva gir verdi?
-- Reflekter over teamets DevOps ansvar. Hvilke deler av livssykusen bør forbedres? (Utvikling, Drift, Sikkerhet mfl.)
+- Reflekter over teamets DevOps ansvar. Hvilke deler av livssykusen bør forbedres? (Utvikling, Drift, Sikkerhet?)
 - Ha tverrfaglige diskusjoner for å finne relevante mål -objective should inspire and key result should measure.
 - Pass på at de er kjent og forankret i hele teamet, la det være praktisk og gjennomførbart.
 - Evaluer og juster jevnlig (kvartalsvis typisk). Inkluder OKR i retrospektive. Ikke være redd for å forkaste det som ikke fungerer.
