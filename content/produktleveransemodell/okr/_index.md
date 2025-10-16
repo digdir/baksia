@@ -63,8 +63,7 @@ OKR er lagsport og representerer teamet sitt felles målbilde for det kommende k
 - Ha tverrfaglige diskusjoner for å finne relevante mål -objective should inspire and key result should measure.
 - Pass på at de er kjent og forankret i hele teamet, la det være praktisk og gjennomførbart.
 - Evaluer og juster jevnlig (kvartalsvis typisk). Inkluder OKR i retrospektive. Ikke være redd for å forkaste det som ikke fungerer.
-  
-Vær fleksibel og smidig i tilnærmingen, gjør det enkelt!
+- Vær fleksibel og smidig i tilnærmingen, gjør det enkelt!
 
 Ved å følge denne strukturen sikrer vi at hvert tiltak og mål blir grundig vurdert, planlagt og implementert med en klar forståelse av hva som kreves for å oppnå suksess.
 
