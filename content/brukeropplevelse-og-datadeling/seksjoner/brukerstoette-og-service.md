@@ -10,7 +10,7 @@ weight: 7
 
 ## Brukerstøtte og service
 
-Seksjonen skal være et sentralt bindeledd mellom kunder og produkter/tjenester. Seksjonen skal sikre at alle virksomheter får en god, helhetlig og profesjonell oppfølging. Gjennom tilgjengelig brukerstøtte, tett dialog og systematisk innsiktsarbeid skal seksjonen bidra til høy kundetilfredshet, effektiv bruk av tjenestene og kontinuerlig forbedring av leveransene.
+Seksjonen skal være et sentralt bindeledd mellom kunder og våre produkter/tjenester. Seksjonen skal bygge kompetansekapsitet innen kundehåndtering og sikre at alle virksomheter får en god, helhetlig og profesjonell oppfølging. Gjennom tilgjengelig kundestyring, brukerstøtte, tett dialog og systematisk innsiktsarbeid skal seksjonen bidra til høy kundetilfredshet, effektiv bruk av tjenestene og kontinuerlig forbedring av leveransene.
 
 Seksjonsleder: Hege Nielsen
 
