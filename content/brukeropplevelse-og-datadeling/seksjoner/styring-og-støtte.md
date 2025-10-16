@@ -14,9 +14,9 @@ Seksjonen skal bygge kompetansekapasitet innenfor smidig leveranseledelse, jus o
 
 Seksjonsleder: Dan Remi Mørk
 
-Gruppeleder Agil leveranseledelse: Hanne Lauritsen
+Gruppeleder Agil leveranseledelse: Hanne Lauritsen (fung)
 
-Gruppeleder Styring: Lars-Göran Andersson
+Gruppeleder Styring: Lars-Göran Andersson (fung)
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
 
