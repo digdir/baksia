@@ -14,7 +14,7 @@ Seksjonen skal bygge kompetansekapasitet innen brukeropplevelse som sikrer at vi
 
 Seksjonsleder: Sigurd Sæther Sørensen (fung)
 
-Gruppeleder IXD: Hanne Kristin Saltnes
+Gruppeleder IXD: Hanne Kristin Saltnes (fung)
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
 
