@@ -12,7 +12,7 @@ banner:
     alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
-- other
+- enabling
 ---
 
 {{< team/members title="Medlemmer i teamet">}}
