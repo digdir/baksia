@@ -26,7 +26,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/142312811?v=4" name="Jan Vidar Simonsen" role="Sikkerhetsansvarlig, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/166691946?v=4" name="Johan Strømberg" role="Testleder, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3437949?v=4" name="Daniel Johansen" role="Fullstack, leder SW utvikling, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/24936250?v=4" name="Kurt Monge" role="Tech Lead, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/15326741?v=4" name="Adi Dahl" role="Fullstack, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/44391310?v=4" name="Ellen Nøstvik Bakksjø" role="Frontend-ux, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/390839?v=4" name="Lars Olav Kjølstad" role="Fullstack, Konsulent, Oslo" >}}
