@@ -14,7 +14,7 @@ banner:
 
 # Hvorfor vi tar i bruk OKR
 
-Flere har etterlyst bedre prioriteringsrammer fra ledelsen. OKR er ledelsen sitt svar på prioritering, som samtidig ivaretar produktteamene sin autonomitet. Ved å ta i bruk OKR får vi en bedre målstyring og transparens, der ledelsens mål brytes opp og blir tydeligere i det daglige arbeidet. Vi kan ha fokus på det som er viktig, med ambisjon om å effektivisere og spare tid.
+Flere har etterlyst bedre prioriteringsrammer for det arbeidet som skal gjøres. OKR hjelper oss med å få til dette, samtidig som vi ivaretar produktteamene sin autonomitet. Ved å ta i bruk OKR får vi en bedre målstyring og transparens, der ledelsens mål brytes opp og blir tydeligere i det daglige arbeidet. Vi kan ha fokus på det som er viktig, med ambisjon om å effektivisere og spare tid.
 
 ## På godt norsk OKR
 
