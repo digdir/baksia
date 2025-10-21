@@ -51,9 +51,12 @@ OKR er lagsport og representerer teamet sitt felles målbilde for det kommende k
 ### Viktige prinsipper i vår OKR-prosess:
 
   1. Fokuser på utfall ikke output. Ikke mål: "hvor mye vi leverer", men heller: "hva det fører til".
+     
   2. Ett Team = hele livssyklusen. DevOpsOKR bør dekke både forbedring og stabil drift.
-  3. Mål i tråd med bruker- og samfunnsverdi. Fellestjenestene skal hjelpe mange -fang opp dette.
-  4. Begrens antall OKR. Typisk 1-3 Objectives, og 2-3 Key Result per Objective. For mange = Dårligere fokus!
+     
+  4. Mål i tråd med bruker- og samfunnsverdi. Fellestjenestene skal hjelpe mange -fang opp dette.
+     
+  5. Begrens antall OKR. Typisk 1-3 Objectives, og 2-3 Key Result per Objective. For mange = Dårligere fokus!
 
 
   Rutiner:
