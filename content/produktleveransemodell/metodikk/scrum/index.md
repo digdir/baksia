@@ -1,5 +1,5 @@
 ---
-title: Scrum/agile
+title: Scrum/Agile
 ingress: |
   Scrum et rammeverk for å utvikle, levere og opprettholde produkter i et komplekst miljø. 
   Metodikken bryter ned arbeidet i oppgaver som teamet skal fullføre innen bestemte arbeidsperioder, som vi kaller sprinter. 
