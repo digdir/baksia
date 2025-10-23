@@ -11,7 +11,7 @@ weight: 1
 ## Strategi og forretnings­utvikling
 
 Seksjonen har ansvaret for å bygge kompetansekapasitet innenfor produktledelse, virksomhetsarkitektur og forretningsutvikling. 
-Medarbeiderne i seksjonen bidrar til at vi styrer produktutviklingen på en god måte, og at vi hever blikket og ser 3-5 år fremover og kontinuerlig jobber med produktvisjoner og målkartarbeid. Seksjonen har medarbeidere med roller som fagdirektører, forretningsutviklere, produkteiere, produktgruppeledere, behovsdrivere og virksomhetsarkitekter.
+Medarbeiderne i seksjonen bidrar til at vi styrer produktutviklingen på en god måte, og at vi hever blikket og ser 3-5 år fremover og kontinuerlig jobber med produktvisjoner og målkartarbeid samt bidrar med å etablere utviklingsplaner, og arenaer for forbedringsarbeid som hjelper avdelingen å omsette produktstrategien til taktiske/operative føringer og tiltak.
 
 Seksjonsleder: Tor Arild Sunnevåg
 
