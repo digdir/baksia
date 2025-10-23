@@ -2,7 +2,7 @@
 title: Team
 
 ingress: |
-  **Team Topologies** Robust produktutvikling bygger på en tydelig og fleksibel måte å organisere team på. Team Typologies hjelper oss å sikre at teamene har klare roller, grenser og samarbeidsformer -Har fokus på det de er best på. Vi jobber i fire typer team: 
+  **Team Topologies** Robust produktutvikling bygger på en tydelig og fleksibel måte å organisere team på. Team Typologies hjelper oss å sikre at teamene har klare roller, grenser og samarbeidsformer, og fokus på det de er best på. Vi jobber i fire typer team: 
   
   **Verdistrøm-team (Stream-aligned-team)** Teamet jobber tett på brukerne og leverer verdi kontinuerlig, innenfor et avgrenset område.
   
