@@ -10,7 +10,7 @@ weight: 5
 
 ## Styring og Støtte
 
-Seksjonen skal bygge kompetansekapasitet innenfor smidig leveranseledelse, jus og økonomistyring. Scrum-mastere, jurister, prosjektledere, controllere og støtteressurser sørger for at vi utvikler gode utviklings- og styringsmetoder som oppfyller både regulatoriske og økonomiske rammebetingelser. 
+Seksjon for styring og støtte har et helhetlig ansvar for å utvikle gode styringsmetoder, iht. økonomiske og regulatoriske rammebetingelser. Seksjonen har kompetansekapasitet innen økonomi og jus, måling og rapportering inkl. risikostyring. Videre bygger seksjonen kompetanse på agil leveranseledelse og kunnskapsforvaltning. Gjennom felles rammeverk, forbedringsarbeid og støttefunksjoner, sørger vi for effektiv drift, trygg forvaltning og strategisk utvikling av avdelingen.
 
 Seksjonsleder: Dan Remi Mørk
 
