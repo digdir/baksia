@@ -8,7 +8,7 @@ banner:
 weight: 7
 ---
 
-## Brukerstøtte og service
+## Brukerstøtte og Tjenesteoppfølging
 
 Seksjonen skal være et sentralt bindeledd mellom våre kunder og produkter/tjenester. Seksjonen skal bygge kompetansekapsitet innen kundehåndtering og sikre at alle virksomheter får en god, helhetlig og profesjonell oppfølging. Gjennom tjenesteeieroppfølging, brukerstøtte, tett dialog og systematisk innsiktsarbeid skal seksjonen bidra til høy kundetilfredshet, effektiv bruk av tjenestene og kontinuerlig forbedring av leveransene.
 
