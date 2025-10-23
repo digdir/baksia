@@ -10,7 +10,7 @@ weight: 5
 
 ## Styring og Støtte
 
-Seksjon for styring og støtte har et helhetlig ansvar for å utvikle gode styringsmetoder, iht. økonomiske og regulatoriske rammebetingelser. Seksjonen har kompetansekapasitet innen økonomistyring og jus, måling og rapportering inkl. risikostyring. Videre bygger seksjonen kompetanse på agil leveranseledelse og kunnskapsforvaltning. Gjennom felles rammeverk, forbedringsarbeid og støttefunksjoner, sørger vi for effektiv drift, trygg forvaltning og strategisk utvikling av avdelingen.
+Seksjonen har et helhetlig ansvar for å utvikle gode styringsmetoder, iht. økonomiske og regulatoriske rammebetingelser. Seksjonen har kompetansekapasitet innen økonomistyring og jus, måling og rapportering inkl. risikostyring. Videre bygger seksjonen kompetanse på agil leveranseledelse og kunnskapsforvaltning. Gjennom felles rammeverk, forbedringsarbeid og støttefunksjoner, sørger vi for effektiv drift, trygg forvaltning og strategisk utvikling av avdelingen.
 
 Seksjonsleder: Dan Remi Mørk
 
