@@ -41,6 +41,7 @@ tags:
 - Altinn Studio applikasjoner, som er en del av Altinn Studio-produktet
 - App frontend – felles for alle applikasjoner/tjenester
 - App backend – unik for hver applikasjon, men med felles bibliotek
+- PDF - generering av pdf basert på skjemadata
 - LocalTest – en kopi av Altinn-plattformen som brukes til å teste apper under utvikling lokalt
 - Dokumentasjon
 - Bidra til Digdirs felles designsystem
