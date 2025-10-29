@@ -22,7 +22,8 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36764011?v=4" name="Lars Vegard Bachmann" role="KAM/BOD" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/105773373?v=4" name="Elaine Svartis" role="Teknisk brukerstøtte/Samarbeidsportal" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/116086465?v=4" name="Erling Laugen" role="KAM/BOD" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/95905006?v=4" name="Mona Ebbesen" role="Incident Manager" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Incident og Problem Manager, Fast,  Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/95905006?v=4" name="Mona Ebbesen" role="Kundeteam" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45939254?v=4" name="Tommy Almendingen" role="Infrastruktur" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22615518?v=4" name="Ernst Jonny Lyngøy" role="Utvikler">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94672791?v=4" name="Anita Meisingset" role="Teknisk brukerstøtte" >}}
