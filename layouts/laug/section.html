@@ -1,0 +1,76 @@
+{{ define "main" }}
+
+<div class="component" style="background-color: #a5d6fb"> <!-- Lys blå bakgrunnsfarge -->
+  {{ partial "components/breadcrumbs.html" . }}
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 my-auto">
+        <h1 class="">{{ .Title }}</h1>
+        {{ $ingress := .Params.ingress | markdownify }}
+        <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+      </div>
+      <div class="col-lg-4 d-flex justify-content-sm-center justify-content-lg-end">
+        <div>
+          <img class="img-fluid" alt="En annen beskrivelse" src="/images/illustration-03.png"
+            style="margin-left: 4em;">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="component" style="background-color: #F4F5F6">
+    <div class="container">
+      <div class="row gy-4">
+        {{ range .Pages }}
+        <div class="col-sm-12 col-lg-6 col-xxl-4">
+          {{ .Render "li"}}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function changeFilter(option) {
+      window.location.hash = option;
+
+      const cards = document.getElementsByClassName("navigation-card");
+      for (let i = 0; i < cards.length; i++) {
+        cards[i].parentElement.style.display = "block";
+        if (option && !cards[i].classList.contains(option)) {
+          cards[i].parentElement.style.display = "none";
+        }
+      }
+    }
+
+    if (window.location.hash) {
+      const h = window.location.hash.split('#')[1];
+      document.getElementById("team-filter").value = h;
+      changeFilter(h);
+    }
+  </script>
+
+  <style>
+    .enabling a {
+      background-color: #AD97C1 !important;
+    }
+
+    .stream-aligned a {
+      background-color: #F4E9CD !important;
+    }
+
+    .platform a {
+      background-color: #8FCCE8 !important;
+    }
+
+    .complicated-subsystem a {
+      background-color: #F6ACA1 !important;
+    }
+
+    .other a {
+      background-color: #ccffcc !important; 
+    }
+  </style>
+    <!-- other = Lys grønn frage på -->
+
+  {{ end }}
