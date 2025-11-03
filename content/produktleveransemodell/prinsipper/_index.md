@@ -4,7 +4,7 @@ ingress: Våre prinsipper er grunnlaget for alt vi gjør, og de sikrer at vi job
 
 
 navigation_link:
-  subtitle: Prinsipper i Digdir produktutvikling
+  subtitle: Digdir produktutvikling
 
 banner:
   image:
