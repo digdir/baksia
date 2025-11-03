@@ -105,6 +105,26 @@
         </div>
       </div>
       {{ end }}
+      {{ with .Site.GetPage "/laug" }}
+      <div class="col-lg-4">
+        <div class="navigation-card">
+          <a
+            class="navigation-card__content"
+            href="{{ .RelPermalink }}"
+            style="background-color: #d2eafd"
+          >
+            <h3
+              class="navigation-card__title navigation-card__title--small"
+            >
+              {{ .Title }}
+            </h3>
+            <p class="navigation-card__desc navigation-card__desc--small">
+              {{ .Params.navigation_link.text }}
+            </p>
+          </a>
+        </div>
+      </div>
+      {{ end }}
       {{ with .Site.GetPage "/produktgrupper" }}
       <div class="col-lg-4">
         <div class="navigation-card">

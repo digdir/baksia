@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+  <div class="component" style="background-color: #faeec2">
+    {{ partial "components/breadcrumbs.html" . }}
+    <div class="container">
+      <div class="row d-flex justify-content-between">
+        {{ if .Params.banner.image.src }}
+        <div class="col-lg-8 my-auto">
+        {{ else }}
+        <div class="col-lg-12 my-auto">
+        {{ end }}
+          <h1>{{ .Title }}</h1>
+          {{ $ingress := .Params.ingress | markdownify }}
+          <p class="ingress mb-5 mb-lg-0">{{ $ingress }}</p>
+        </div>
+        {{ with .Params.banner.image }}
+          {{ if .src }}
+            <div class="col-lg-4 d-flex justify-content-sm-center">
+              <div class="d-flex align-items-center">
+                {{ partial "components/image.html" (dict "context" . "image" .) }}
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  <div class="component" style="background-color: #FFFFFF">
+    <div class="container">
+      {{ .Content }}
+    </div>
+  </div>
+  
+{{ end }}
