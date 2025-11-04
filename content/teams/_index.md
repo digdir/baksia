@@ -12,7 +12,7 @@ ingress: |
   
   **Plattform-team (Platform-team)** Teamet bygger og vedlikeholder felles plattformer og verktøy, som gjør det lettere for andre team å levere. 
 
- 
+ Her finner du Teamenes Kapabilitetsoversikt. 
 
 
 
