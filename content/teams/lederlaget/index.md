@@ -32,6 +32,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Fungerende gruppeleder TechSEc Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/174705941?v=4" name="Hein Gabrielsen" role="Fungerende gruppeleder TechSEc Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/130640200?v=4" name="Cathrine Bastesen" role="Fungerende gruppeleder Altinn Brukerstøtte" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/94651380?v=4" name="Lars Göran Andersson " role="Fungerende gruppeleder Styring og støtte" >}}
 
 
 {{< /team/members >}}
