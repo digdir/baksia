@@ -31,7 +31,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144218610?v=4" name="Kenneth Helland" role="Redaktør for norge.no, Fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50879748?v=4" name="Pooria Mehregan" role="Utvikler for norge.no, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Kristian Bergem" role="Utreder, Fast, Oslo" >}}
-{{< team/github-profile url="" name="Sverre Lunde Danbolt" Konsulent, Oslo
+{{< team/github-profile url="" name="Sverre Lunde Danbolt" role="Konsulent, Oslo" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
