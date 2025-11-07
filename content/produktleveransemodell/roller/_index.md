@@ -16,6 +16,9 @@ navigation_link:
 
 Seksjonslederne har det overordnede ansvaret for å bygge opp, organisere og utvikle fagmiljøene på en måte som gjør dem mest mulig selvstendige og effektive. Dette betyr at seksjonene fungerer som kraftsentre for kompetanseutvikling, der ansatte kan utvikle sine ferdigheter og ekspertise innen spesifikke fagområder.
 
+## Roller og ansvar i et verdistrømteam
+https://digdir.atlassian.net/wiki/spaces/BF1/pages/3636166657/Roller+i+et+verdistr+mteam
+
 ---
 
 
