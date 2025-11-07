@@ -34,12 +34,9 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Brukerstøtte for sluttbrukere av Altinn
-- Hendelseshåndtering av saker fra sluttbrukere
-- Levere brukerstøtte for Statsforvalteren i Vestfold og Telemark og skjemaet Digital gravferdsmelding
-- Veilede brukere av løsningen Digitalt dødsbo (DD)
-- Oppdatere og kvalitetssikre hjelpesidene på altinn.no
-- Rekruttering til brukertester
-- Oversettelsesarbeid
-- Testing
-- Betjene Digdirs pårørendetelefon
+- ABS sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser som mottas fra brukere (-les sluttbrukere) av våre kunders tjenester, på våre digitale plattformer. I dette inngår det å oppdatere dokumentasjon/informasjon/oversettelsesarbeid for hjelpesidene på Altinn.no. I dag betjenes:
+-	Brukerstøtten for brukere av Altinn-tjenester, Altinn.no
+-	Brukerstøtten for brukere av Digitalt Dødsbo, Altinn.no
+-	Brukerstøtten for brukere av Digital Gravferdsmeling, Statsforvalteren.no
+
+  
