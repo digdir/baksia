@@ -34,7 +34,7 @@ tags:
 
 {{< team/responsibilities title="Kapabiliteter:" >}}
 
-**Customer support** (-for end users)
+**Customer Support** (-for end users)
 ABS sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser som mottas fra brukere (-les sluttbrukere) av våre kunders tjenester, på våre digitale plattformer. I dette inngår det å oppdatere dokumentasjon/informasjon/oversettelsesarbeid for hjelpesidene på Altinn.no. 
 I dag betjenes:
 -	Brukerstøtten for brukere av Altinn-tjenester, Altinn.no
