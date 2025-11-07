@@ -2,7 +2,7 @@
 title: ABS
 linktitle: ABS
 
-ingress: Vi leverer effektiv og god brukerstøtte til sluttbrukere av Altinn.
+ingress: ABS sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser som mottas fra brukere (-les sluttbrukere) av våre kunders tjenester, på våre digitale plattformer.
 
 navigation_link:
   title: Teamleder
@@ -41,7 +41,7 @@ I dag betjenes:
 -	Brukerstøtten for brukere av Digitalt Dødsbo, Altinn.no
 -	Brukerstøtten for brukere av Digital Gravferdsmeling, Statsforvalteren.no
 
-Recuest Management (-for end users) 
+Request Management (-for end users) 
 ABS sikrer at eksterne og interne forespørsler mottas, spores, prioriteres og løses der det skal. Dette kan være forespørsler om nye tjenester, tilganger eller annen informasjon som ønskes håndtert raskt og effektivt.  
 
 Incident Management (-for end users) 
