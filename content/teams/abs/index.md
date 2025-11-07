@@ -34,13 +34,14 @@ tags:
 
 {{< team/responsibilities title="Kapabiliteter:" >}}
 
-- Customer support (for end users)
-ABS sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser som mottas fra brukere (-les sluttbrukere) av våre kunders tjenester, på våre digitale plattformer. I dette inngår det å oppdatere dokumentasjon/informasjon/oversettelsesarbeid for hjelpesidene på Altinn.no. I dag betjenes:
+Customer support (-for end users)
+ABS sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser som mottas fra brukere (-les sluttbrukere) av våre kunders tjenester, på våre digitale plattformer. I dette inngår det å oppdatere dokumentasjon/informasjon/oversettelsesarbeid for hjelpesidene på Altinn.no. 
+I dag betjenes:
 -	Brukerstøtten for brukere av Altinn-tjenester, Altinn.no
 -	Brukerstøtten for brukere av Digitalt Dødsbo, Altinn.no
 -	Brukerstøtten for brukere av Digital Gravferdsmeling, Statsforvalteren.no
 
--	Recuest Management (-for end users) 
+Recuest Management (-for end users) 
 ABS sikrer at eksterne og interne forespørsler mottas, spores, prioriteres og løses der det skal. Dette kan være forespørsler om nye tjenester, tilganger eller annen informasjon som ønskes håndtert raskt og effektivt.  
 
 Incident Management (-for end users) 
