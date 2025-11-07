@@ -2,7 +2,7 @@
 title: ABS
 linktitle: ABS
 
-ingress: ABS sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser som mottas fra brukere (-les sluttbrukere) av våre kunders tjenester, på våre digitale plattformer.
+ingress: Altinn Brukerservice (ABS) sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser som mottas fra brukere (-les sluttbrukere) av våre kunders tjenester, på våre digitale plattformer.
 
 navigation_link:
   title: Teamleder
