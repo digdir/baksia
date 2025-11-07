@@ -2,7 +2,7 @@
 title: Andre team og prosjekter
 
 ingress: |
-  I tillegg til vår teamorganiseringer etter Team Topologies-prinsippene – som produktteam og tilretteleggingsteam – har vi også egne områder for prosjekter, laug og porteføljekontor. Disse bidrar på tvers av organisasjonen med utvikling, koordinering og kompetansedeling: prosjektene driver fram konkrete leveranser, laugene bygger og deler fagkompetanse, og porteføljekontoret sikrer helhet, prioritering og strategisk retning. 
+  I tillegg til Teamorganisering etter Team-Topologies-prinsippene – der Verdistrømteam,Tilretteleggingsteam og Plattformteam inngår – har vi Prosjekter, Laug og et Porteføljekontor. Disse bidrar på tvers av organisasjonen med styring, koordinering og kompetansedeling: -prosjektene driver frem konkrete leveranser, laugene driver frem forbedringsarbeid og deling på tvers av team, og porteføljekontoret sikrer helhetlig prioritering og strategisk retning for hele produktorganisasjonen. 
 
 
 navigation_link:
