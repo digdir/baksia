@@ -1,6 +1,6 @@
 ---
 title: eFormidling/ELMA/KRR
-linktitle: eFormidling
+linktitle: eFormidling/ELMA/KRR
 
 ingress: Teamets hovedoppgave er å utvikle og forvalte eFormidling, ELMA og Kontakt- og reservasjonsregisteret (KRR).
 
