@@ -32,7 +32,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/2217340?v=4" name="Terje Holene" role="Core, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1145298?v=4" name="Vemund Gaukstad" role="Platform, Fast, Korgen" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/147068285?v=4" name="Wilhelm Schive" role="Portal, Konsulent, Oslo" >}}
-
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/277605?v=4" name="Erlend Oksvoll" role="data.altinn.no, Fast, Oslo" >}}
 {{< /team/members >}}
 
 ## Ansvarsområder
