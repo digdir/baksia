@@ -1,7 +1,7 @@
 ---
 title: Team Arkitektur
 linktitle: Arkitektur
-ingress: Arkitektur-teamet består av sjefsarkitekt og team-arkitekt fra alle produktteamene, og sammen så tar vi arkitekturbeslutninger som går på tvers.
+ingress: Arkitektur-teamet består av sjefsarkitekt og team-arkitektene fra produktteamene. Sammen så deler vi erfaringer og tar felles arkitekturbeslutninger.
 
 navigation_link:
   title: Teamleder
@@ -18,7 +18,7 @@ tags:
 - enabling
 ---
 
-{{< team/members title="Medlemmer i team arkitektur" slack_url="https://digdir.slack.com/archives/C07A822E9PT" slack_url_text="Slack-kanal for teamet">}}
+{{< team/members title="Medlemmer" slack_url="https://digdir.slack.com/archives/C07A822E9PT" slack_url_text="Slack-kanal for teamet">}}
 
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, Fast, Hamar" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Dialogporten/Arbeidsflate, Fast, Brønnøysund" >}}
@@ -35,14 +35,16 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/277605?v=4" name="Erlend Oksvoll" role="data.altinn.no, Fast, Oslo" >}}
 {{< /team/members >}}
 
-## Ansvarsområder
 
-- Altinn arkitektur
-- Arkitekturforum, fast ukentlig møteserie der hele teamet deltar
-- [Overordnede beslutninger](overordnede-beslutninger) på tvers av produkter og team
-- Vedlikeholde [arkitekturprinsippene](../../produktleveransemodell/prinsipper/arkitektur)
-- [Verktøy, avhengigheter](https://docs.altinn.studio/en/technology/tools/) og tilhørende føringer/policy
+### Arkitektur­styring (Architecture Management)
+Arkitekturstyring handler om å ha oversikt og kontroll på hvordan produkter, prosesser og teknologi henger sammen, slik at vi er godt rustet til å understøtte nåværende og fremtidige mål, strategier og behov. Det er som å være husarkitekten for hele organisasjonen – man sørger for at alt passer sammen, bygges riktig, og enkelt kan oppgraderes uten at huset (eller systemene) faller sammen.
 
-## Våre prosesser
+Prosessene for arkutekturbeslutninger er beskrevet under.
 
 {{<child-pages>}}
+
+### Arkitekturprinsipper
+Teamet har ansvar for å vedlikeholde og oppdatere [prinsippene for arkitektur](../../produktleveransemodell/prinsipper/arkitektur) som de andre teamene skal følge.
+
+### Arkitekturforum
+Fast ukentlig møteserie hver tirsdag 14:00, der hele teamet deltar. Saker meldes inn på forkant i teamets Slack-kanal.
