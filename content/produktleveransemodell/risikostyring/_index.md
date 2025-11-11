@@ -1,5 +1,6 @@
 ---
 title: Risikostyring
+weight: 50
 ingress: Risikostyring innebærer systematiske prosesser for å identifisere, vurdere og håndtere potensielle risikoer som kan påvirke BOD's evne til å oppnå sine mål. Effektiv risikostyring sikrer at BOD kan opprettholde kontinuitet og levere pålitelig tjenester.
 
 navigation_link:

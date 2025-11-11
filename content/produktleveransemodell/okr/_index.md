@@ -1,5 +1,6 @@
 ---
 title: Målstyring OKR
+weight: 50
 linktitle: OKR
 ingress: OKR er en enkel, men kraftfull metode for å formulere gode mål, og sikrer at vi jobber målrettet i hele organisasjonen.
 

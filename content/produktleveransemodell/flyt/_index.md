@@ -1,5 +1,6 @@
 ---
 title: Flyt
+weight: 50
 ingress: Hvordan produktutvikling i Digdir flyter - fra en ide eller et oppdrag til implementering og lansering av et produkt eller en tjeneste.
 
 navigation_link:

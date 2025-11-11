@@ -1,5 +1,6 @@
 ---
 title: Kompetansekapasitet
+weight: 50
 ingress: Brukeropplevelse og Datadeling (BOD) er fordelt på seksjoner som er personal -og kompetansehjem for medarbeidere med lik kompetanse. Seksjonene bygger kompetansekapasietet og avgir ressurser til leveranseområder. Dette inkluderer Digdir portefølje, produktteam og andre tiltak.
 
 
