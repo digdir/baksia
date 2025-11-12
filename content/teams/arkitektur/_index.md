@@ -35,6 +35,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/277605?v=4" name="Erlend Oksvoll" role="data.altinn.no, Fast, Oslo" >}}
 {{< /team/members >}}
 
+## Kapabiliteter og ansvarsområder
 
 ### Arkitektur­styring (Architecture Management)
 Arkitekturstyring handler om å ha oversikt og kontroll på hvordan produkter, prosesser og teknologi henger sammen, slik at vi er godt rustet til å understøtte nåværende og fremtidige mål, strategier og behov. Det er som å være husarkitekten for hele organisasjonen – man sørger for at alt passer sammen, bygges riktig, og enkelt kan oppgraderes uten at huset (eller systemene) faller sammen.
