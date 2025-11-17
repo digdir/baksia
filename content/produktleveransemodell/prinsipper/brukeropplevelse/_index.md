@@ -107,7 +107,7 @@ Slik sikrer vi klart språk i tjenestene våre, slik at brukerne finner det de l
   - Vi bruker felles terminologi for komponenter/i brukergrensesnittet (for eksempel på knapper).
 
 ### Bruk et vennlig, ubyråkratisk og tydelig språk
-- **Vennlig/personlig:** Brukerne skal ha en opplevelse av menneskelig dialog når de bruker tjenesten. Tjenesten skal med andre ord snakke med brukerne, og bør være varmt og vennlig.
+- **Vennlig/personlig:** Brukerne skal ha en opplevelse av menneskelig dialog når de bruker tjenesten. Tjenesten skal med andre ord snakke med brukerne, og språket bør være varmt og vennlig.
 - **Ubyråkratisk:** At språket må være ubyråkratisk betyr blant annet at vi bør bruke ord og begreper som ligger tett på dagligtalen, og så langt som mulig unngå fagbegreper og juridiske uttrykk (eller sjargong). Det er likevel viktig at det ikke blir så uformelt at det oppfattes som useriøst.
 - **Tydelig:** Å skrive tydelig betyr for eksempel at vi skriver fra brukerens perspektiv. Eksempel på en __utydelig__ kvittering fra oss: «Du vil snart få en melding i innboksen om vedtaket.» Da vi testet denne kvitteringen på brukerne, forsto de ikke hvilken innboks det var i, selv om de hadde logget inn i Altinn og fylt ut skjemaet der. Det var ikke  opplagt for dem at det var innboksen deres i Altinn vi snakket om.
 
