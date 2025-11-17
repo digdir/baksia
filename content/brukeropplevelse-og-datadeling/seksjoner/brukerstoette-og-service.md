@@ -3,7 +3,7 @@ banner:
   image:
     src: /illustrations/illustration-07.png
     alt: Illustrasjon av tre personer som sitter rundt et bord og samarbeider
-    position: left
+    position: right
 
 weight: 7
 ---
