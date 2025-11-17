@@ -53,7 +53,7 @@ Vi svarer gjerne på spørsmål og hjelper deg med å evaluere brukskvalitet i l
 
 ## Hva skjer dersom brukeropplevelsen ikke blir ivaretatt?
 
-Vi prøver så langt det lar seg gjøre å gjøre det gøy og enkelt å jobbe med brukeropplevelse og det siste vi ønsker er å eskalere et brudd i brukskvalitet. 
+Vi prøver så langt det lar seg gjøre å gjøre det gøy og enkelt å jobbe med brukeropplevelse, og det siste vi ønsker er å eskalere et brudd i brukskvalitet. 
 
 I de tilfeller der en eskalering anses som nødvendig følger vi veilederen under. Det første vi gjør når et problem oppstår er å sette en alvorlighetsgrad for brukskvalitsbruddet. Dette gjør vi ved å gjennomføre en “Heuristic Evaluation”.
 
@@ -96,7 +96,7 @@ Følges bruddet fortsatt ikke opp (nivå 2) eller ved brudd som må løses på t
 **Nivå 4**  
 Ved kritiske brudd der tidligere forsøk (nivå 1-3) ikke gir resultater legger Head of Design saken frem for avdelingsdirektøren og ber om at videreutvikling stoppes frem til bruddet er rettet opp.
 
-## Digdirs råd om godt språk i tjenestenevi lager
+## Digdirs råd om godt språk i tjenestene vi lager
 
 **Hva:**
 Slik sikrer vi klart språk i tjenestene våre, slik at brukerne finner det de leter etter, forstår det de finner og kan bruke det til det de kom for å gjøre:
@@ -108,20 +108,20 @@ Slik sikrer vi klart språk i tjenestene våre, slik at brukerne finner det de l
 
 ### Bruk et vennlig, ubyråkratisk og tydelig språk
 - **Vennlig/personlig:** Brukerne skal ha en opplevelse av menneskelig dialog når de bruker tjenesten. Tjenesten skal med andre ord snakke med brukerne, og bør være varmt og vennlig.
-- **Ubyråkratisk** At språket må være ubyråkratisk betyr blant annet at vi bør bruke ord og begreper som ligger tett på dagligtalen, og så langt som mulig unngå fagbegreper og juridiske uttrykk (eller sjargong). Det er likevel viktig at det ikke blir så uformelt at det oppfattes som useriøst.
-- **Tydelig** Å skrive tydelig betyr for eksempel at vi skriver fra brukerens perspektiv. Eksempel på en __utydelig__ kvittering fra oss: «Du vil snart få en melding i innboksen om vedtaket.» Da vi testet denne kvitteringen på brukerne, forsto de ikke hvilken innboks det var. selv om de hadde logget inn i Altinn og fylt ut skjemaet der. Det var ikke  opplagt for dem at det var innboksen deres i Altinn vi snakket om.
+- **Ubyråkratisk:** At språket må være ubyråkratisk betyr blant annet at vi bør bruke ord og begreper som ligger tett på dagligtalen, og så langt som mulig unngå fagbegreper og juridiske uttrykk (eller sjargong). Det er likevel viktig at det ikke blir så uformelt at det oppfattes som useriøst.
+- **Tydelig:** Å skrive tydelig betyr for eksempel at vi skriver fra brukerens perspektiv. Eksempel på en __utydelig__ kvittering fra oss: «Du vil snart få en melding i innboksen om vedtaket.» Da vi testet denne kvitteringen på brukerne, forsto de ikke hvilken innboks det var i, selv om de hadde logget inn i Altinn og fylt ut skjemaet der. Det var ikke  opplagt for dem at det var innboksen deres i Altinn vi snakket om.
 
-Vi skal ha like god kvalitet på alle språk vi leverer (bokmål, nynorsk, britisk engelsk og eventeult samisk) i alle tjenestene våre.
+Vi skal ha like god kvalitet på alle språk vi leverer, i alle tjenestene våre (bokmål, nynorsk, britisk engelsk og eventuelt samisk).
 
 **Hvordan:** 
 Det beste er å ha en i teamet med spisskompetanse på klarspråk fra start, men hvis det ikke er mulig, bør
 en annen person i teamet har ansvar for klarspråk og gode mikrotekster fra start. Denne personen skal sørge for at
-1. begreper blir definert og sjekket mot begreper i andre team
-2. det er klart språk i designeres skisser fra start
-3. språk og begreper blir brukertestet
-4. tekster blir oversatt til nynorsk/bokmål, engelsk og eventuelt samisk. Vi har avtale med et oversetterbyrå.
+- begreper blir definert og sjekket mot begreper i andre team
+- det er klart språk i alle skisser fra start/før de går til utvikling
+- språk og begreper blir brukertestet
+- tekster blir oversatt til nynorsk/bokmål, engelsk og eventuelt samisk – vi har avtale med et oversetterbyrå
 
-**Hvis den som er ansvarlig for dette i et team ikke er innholdsdesigner, skal han/hun**
+**Hvis den som er ansvarlig for språk/innhold i et team ikke er innholdsdesigner, skal han/hun**
 - få generell innføring (internt) i klarspråk og spesielt mikrotekster
 - sette seg inn i metoder for å brukerteste språk, eller gjøre dette sammen med innholdsdesigner
 - kvalitetssikre og sparre underveis med en innholdsdesigner eller en annen med spisskompetanse på klarspråk
