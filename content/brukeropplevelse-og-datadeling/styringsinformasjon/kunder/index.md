@@ -32,8 +32,8 @@ external_url="https://samarbeid.digdir.no/altinn/statistikk-altinn/2388"
 {{< onboarding/ext-nav-card
 title="Servicerapporter"
 
-description="🔒 Krever tilgang/innlogging"
+description="Månedlige servicerapporter"
 
-external_url="https://www.altinndigital.no/internt-dashboard/"
+external_url="https://samarbeid.digdir.no/altinn/statistikk-altinn/2388"
 
 >}}
