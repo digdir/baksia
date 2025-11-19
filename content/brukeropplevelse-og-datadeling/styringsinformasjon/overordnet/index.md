@@ -34,7 +34,7 @@ title="Styringskalender Digdir"
 
 description="🔒 Krever tilgang/innlogging"
 
-external_url="https://digdir.sharepoint.com/:x:/r/sites/intranettfiler/Delte%20dokumenter/Styringskalender%20Digdir%202024.xlsx?d=w636f009c23ad4f97b00c2df37affbc97&csf=1&web=1&e=M8qKnE"
+external_url="https://digdir.sharepoint.com/:x:/r/sites/intranettfiler/_layouts/15/Doc.aspx?sourcedoc=%7B14BEB132-BB72-47AE-9D3F-2D52EAB10D7F%7D&file=Styringskalender%20Digdir%202025.xlsx&action=default&mobileredirect=true"
 
 >}}
 
