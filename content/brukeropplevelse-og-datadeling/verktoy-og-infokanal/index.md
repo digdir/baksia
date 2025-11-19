@@ -7,7 +7,7 @@ ingress: |
   
   **Systemoversikten** finner du ved å søke på [Intranett](https://digdir.sharepoint.com/?locale=en-gb&inPlaceNav=portals).  
 
-  Oversikt over Policy vil du finne på Confluence (lenke kommer).
+  Oversikt over Policy vil du finne på [Confluence](https://digdir.atlassian.net/wiki/spaces/BF1/pages/3361177644/Policyer?atlOrigin=eyJpIjoiZDMxMTIwNjk0MjhmNDIxZGI3ODEzMGM1NGMxMGZjMWEiLCJwIjoiYyJ9).
   
 Spesifisert oversikt over policy og retningslinjer som brukes:
   Hvilke policy og retningslinjer har vi og hva brukes de til?
