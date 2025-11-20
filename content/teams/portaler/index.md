@@ -17,7 +17,7 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C05MRKCKZ6Z" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="" name="Roger Stenbakk Olsen" role="Produkteier for Altinn.no, Fast, Brønnøysund" >}}
+{{< team/github-profile url=https://avatars.githubusercontent.com/u/32771488?v=4" name="Roger Stenbakk Olsen" role="Produkteier for Altinn.no, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/234550433?v=4" name="Miriam Høyheim Lægreid" role="Produkteier for Norge.no, Fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/139115317?v=4" name="Siri-Anna Zahl Kristiansen" role="Scrum master, Fast, Brønnøysund " >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Redaktør for altinn.no, Fast, Oslo" >}}
