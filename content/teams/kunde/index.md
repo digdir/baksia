@@ -19,10 +19,10 @@ tags:
 {{< team/members title="Medlemmer i teamet" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89571254?v=4" name="Torkel Buarøy" role="Teamleder" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/130640144?v=4" name="Ole Gunnar Hoddø" role="Support lead" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/36764011?v=4" name="Lars Vegard Bachmann" role="KAM/BOD" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/36764011?v=4" name="Lars Vegard Bachmann" role="Customer Success Manager (CSM)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/105773373?v=4" name="Elaine Svartis" role="Teknisk brukerstøtte/Samarbeidsportal" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/116086465?v=4" name="Erling Laugen" role="KAM/BOD" >}}
-{{< team/github-profile url=https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="KAM/BOD" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/116086465?v=4" name="Erling Laugen" role="Customer Success Manager (CSM)" >}}
+{{< team/github-profile url=https://avatars.githubusercontent.com/u/131167427?v=4" name="Vilde Aga Stixrud" role="Customer Success Manager (CSM)" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Incident og Problem Manager, Fast,  Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/95905006?v=4" name="Mona Ebbesen" role="Kundeteam" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45939254?v=4" name="Tommy Almendingen" role="Infrastruktur" >}}
