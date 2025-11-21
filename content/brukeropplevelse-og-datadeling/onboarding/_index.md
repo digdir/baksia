@@ -30,6 +30,6 @@ navigation_link:
 
   description="Få hjelp som fadder og faglig mentor"
 
-  external_url="https://handbooks.simployer.com/nb-no/article/100309"
+  external_url="https://handbooks.simployer.com/nb-no/folder/100301"
 >}}
 
