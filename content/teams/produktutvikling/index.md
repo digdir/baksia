@@ -1,7 +1,7 @@
 ---
-title: Produktleveransemodell
+title: PLM
 ingress: >
-  Produktleveransemodell-team (PLM) har ansvar for å utvikle, forbedre rammeverk og arbeidsflyt, "måten vi jobber på". Vi samarbeider med ledelse, arkitektur og design, drift og utviklingsmiljøet. Teamet har fokus på gode beskrivelser, læring, smidige metoder og kunnskapsdeling for å forbedre prosesser og sikre høy effektivitet og bærekraft. Åpenhet og eksperimentering står sentralt i vårt arbeid.
+  PLM Teamet(Produktleveransemodell) utvikler og forbedrer rammeverk og arbeidsflyt for produktorganisasjonen. Teamet skal komme frem til en god "måte å jobbe på" som dokumenteres og er gjeldende fra Baksia/Confluence. Vi samarbeider med ledelse, arkitektur og design, drift og utviklingsmiljøet for å komme frem til en god struktur og innhold som skal støtte oss i arbeidshverdagen. Teamet har fokus på gode beskrivelser, læring, smidige metoder og kunnskapsdeling for å forbedre prosesser og sikre høy effektivitet og bærekraft. Åpenhet og eksperimentering står sentralt i vårt arbeid.
 
 navigation_link:
   title: Teamleder
