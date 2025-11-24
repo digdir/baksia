@@ -1,7 +1,7 @@
 ---
 title: Produktleveransemodell
 ingress: >
-  Produktleveransemodell-team (PLM) har ansvar for å utvikle, vedlikeholde og forbedre rammeverket og arbeidsflyten, også kalt "måten vi jobber på". Teamet analyserer og eksperimenterer kontinuerlig for å forbedre hastighet, kvalitet og ressursbruk. Vi samarbeider tett med spesialister innen design, arkitektur, ledelse og drift i Digdir/BOD. Teamet har et sterkt fokus på kontinuerlig læring, smidige metoder og kunnskapsdeling for å forbedre prosesser og sikre høy effektivitet og bærekraft. Åpenhet og eksperimentering står sentralt i vårt arbeid.
+  Produktleveransemodell-team (PLM) har ansvar for å utvikle, forbedre rammeverk og arbeidsflyt, "måten vi jobber på". Vi samarbeider med ledelse, arkitektur og design, drift og utviklingsmiljøet. Teamet har fokus på gode beskrivelser, læring, smidige metoder og kunnskapsdeling for å forbedre prosesser og sikre høy effektivitet og bærekraft. Åpenhet og eksperimentering står sentralt i vårt arbeid.
 
 navigation_link:
   title: Teamleder
@@ -24,11 +24,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/80898170?v=4" name="Reidun Milde" role="Seksjonsleder for Brukeropplevelse (BBO) " >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71013993?v=4" name="Tage Bryn" role="Arkitekt" >}}
-{{< team/github-profile url=https://avatars.githubusercontent.com/u/131167427?v=4 name="Vilde Aga Stixrud" role="Scrum master, Fast, Brønnøysund" >}}
-{{< team/github-profile url=https://avatars.githubusercontent.com/u/139115317?v=4 name="Siri-Anna Zahl Kristiansen" role="Scrum master, Fast, Brønnøysund" >}}
-
-
-
 
 
 {{< /team/members >}}
@@ -39,7 +34,7 @@ tags:
 * Utvikling og forbedring av [produktleveransemodellen](/produktleveransemodell)
 * Optimalisering av arbeidsflyt og rammeverk
 * Drive innovasjon gjennom testing, smidige metoder og kunnskapsdeling
-* PLM Teamet har overordnet ansvar for følgende prosesser:
+* PLM Teamet har overordnet ansvar for å beskrive følgende prosesser:
     - Requirement Management
     - Product Backlog Management
     - Product Development Management
