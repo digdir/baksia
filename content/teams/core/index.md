@@ -36,6 +36,6 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Vi utvikler, drifter og vedlikeholder produktet Varsling
-- Vi utvikler, drifter og vedlikeholder felleskomponenten Profil på Altinn 3
-- Vi utvikler, drifter og vedlikeholder felleskomponenten Events på Altinn 3
+- Vi utvikler, drifter og vedlikeholder produktet [Varsling](https://docs.altinn.studio/nb/notifications/) 
+- Vi utvikler, drifter og vedlikeholder felleskomponenten [Profil](https://docs.altinn.studio/nb/api/profile/about-profile/) på Altinn 3
+- Vi utvikler, drifter og vedlikeholder felleskomponenten [Events](https://docs.altinn.studio/nb/events/) på Altinn 3
