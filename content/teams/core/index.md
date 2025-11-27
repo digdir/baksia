@@ -1,6 +1,6 @@
 ---
 title: Core
-ingress: Core-teamet har hovedansvaret for å utvikle, drifte og vedlikeholde produktet Varsling, samt de interne felleskomponentene Profil og Hendelser som støtter ulike produkter i Altinn 3.
+ingress: Core-teamet har hovedansvaret for å utvikle, drifte og vedlikeholde produktet Varsling, samt de interne felleskomponentene Profil og Events som støtter ulike produkter i Altinn 3.
 
 navigation_link:
   title: Produkteier
@@ -38,4 +38,4 @@ tags:
 
 - Vi utvikler, drifter og vedlikeholder produktet Varsling
 - Vi utvikler, drifter og vedlikeholder felleskomponenten Profil på Altinn 3
-- Vi utvikler, drifter og vedlikeholder felleskomponenten Hendelser på Altinn 3
+- Vi utvikler, drifter og vedlikeholder felleskomponenten Events på Altinn 3
