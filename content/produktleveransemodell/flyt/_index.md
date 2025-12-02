@@ -7,7 +7,7 @@ navigation_link:
   subtitle: Digdir produktutvikling
 ---
 
-![Flyt i produktutviklingen](blob:https://digdir.atlassian.net/e06071f0-3366-4424-a05d-1d75684cf79e)
+![Flyt i produktutviklingen](/images/pom-flow-map.svg)
 
 ## Jeg har en idé, men hvor starter jeg?
 I avdelingen Brukeropplevelse og Datadeling tas beslutninger av dem som har best kunnskap og er nærmest arbeidet. Dette innebærer at ideens omfang, antallet som må involveres, og en klar tidsbegrensning (timebox) i stor grad avgjør hvor du bør starte prosessen.
