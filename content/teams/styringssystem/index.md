@@ -31,22 +31,12 @@ tags:
 
 {{< /team/products >}}
 
-### Baksia som oversikt gir
-
--	én felles kilde til informasjon
-- kobling videre til relatert og detaljert informasjon
-- økt transparens og effektivitet
-
-{{< team/responsibilities title="Overordnet ansvar innen" >}}
-
--	OKR
--	Forvaltning Baksia
-    -	[Ansvarsmatrise for innhold på Baksia](https://digdir.atlassian.net/wiki/spaces/BTSS/pages/3206905857/Ansvarsmatrise+Baksia?atlOrigin=eyJpIjoiZDYyNDc4MzBhZDYwNGI1OTk4ZjFhYzM1NDU0MDk0MTUiLCJwIjoiYyJ9)
--	Forvaltning Confluence
--	Forvaltning dokumentasjon
--	Forvaltning kunnskap
--	Forvaltning risiko
--	Forvaltning målinger
--	Intern kursing
-    -	[Grunnkurs i GitHub](https://digdir.sharepoint.com/sites/DigdirDGT/_layouts/15/Doc.aspx?sourcedoc={659f6132-a6ec-4bc6-885a-735c6bd02640}&action=edit&wd=target%28Kurskalender.one%7C7cf5e93c-f42b-43b6-9743-c38a08a6f2f1%2FGrunnkurs%20i%20GitHub%20og%20enkel%20innf%C3%B8ring%20i%20smidig%20metodikk%7C63cadfd4-a98d-4ea3-8001-ceb41ac4e2e2%2F%29&wdorigin=703)
--	Introduksjonsprogrammet (onboarding)
+| Ansvarsområde                     | Kort beskrivelse                                                                                                                                                                                                                                                                                                                                                                                                     | Tilsvarende IT4IT-kapabilitet                                                   |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Dokumentasjonsforvaltning         | - Forvalte og oppdatere prosessdokumentasjon, retningslinjer og styrende dokumenter, samtidig som man sikrer etterlevelse og konsistens.  <br> - Baksia fungerer som én felles oversiktlig kilde til informasjon, med koblinger til detaljert og relatert innhold, og bidrar til økt transparens og effektivitet.  <br> - Confluence er den sentrale plattformen for dokumentasjons- og kunnskapsforvaltning, der prosesser, retningslinjer og teamrelatert informasjon struktureres, vedlikeholdes og gjøres lett tilgjengelig for alle team, med tydelig eierskap og versjonshåndtering. | Governance, Policy & Compliance Management; Knowledge & Information Management   |
+| Strategi og måloppfølging (OKR)   | Etablere, følge opp og samordne mål og nøkkelresultater på tvers av team                                                                                                                                                                                                                                                                                                                                            | Strategy & Portfolio Management                                                 |
+| Kunnskapsforvaltning              | Sikre struktur, eierskap og oppdatering av kunnskapsbase i Confluence (artikler, hjelpesider, praksiser).                                                                                                                                                                                                                                                                                                           | Knowledge & Information Management; Configuration & Knowledge Management        |
+| Verktøy- og samhandlingsplattform | Administrere og optimalisere bruk av Confluence og GitHub                                                                                                                                                                                                                                                                                                                                                           | Collaboration & Content Management; Toolchain Integration & DevOps Enablement   |
+| Målinger og analyse               | Samle og analysere nøkkelindikatorer for styring og kontinuerlig forbedring                                                                                                                                                                                                                                                                                                                                         | Performance & Measurement Management                                            |
+| Risiko- og sikkerhetsstyring      | Kartlegge, overvåke og redusere operasjonell og informasjonsrisiko                                                                                                                                                                                                                                                                                                                                                  | Risk & Security Management                                                      |
+| Kompetanseutvikling og onboarding | Tilby opplæring og grunnkurs for nye medarbeidere                                                                                                                                                                                                                                                                                                                                                                   | Workforce & Skills Management; Workforce Onboarding & Knowledge Transfer        |
