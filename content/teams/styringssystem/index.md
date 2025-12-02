@@ -20,7 +20,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/97237741?v=4" name="Arild Hansten" role="Risikostyring" role="Scrum master">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/98081187?v=4" name="Tina Moe" role="" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45390623?v=4" name="Børre Hovstøl" role="" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/63044671?v=4" name="Hilde Måsøy" role="">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/81155005?v=4" name="Wenche Fylken" role="" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/241967499?v=4" name="Ellen-Marie Nerdal" role="Dokumentasjonsforvalter" >}}
 
