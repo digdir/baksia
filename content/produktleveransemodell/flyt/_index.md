@@ -1,7 +1,7 @@
 ---
 title: Flyt
 weight: 50
-ingress: Hvordan produktutvikling i Digdir flyter - fra en ide eller et oppdrag til implementering og lansering av et produkt eller en tjeneste.
+ingress: Visjonen for BOD handler om å bidra til et mer effektivt og samordnet digitalt Norge. Visjonen gir retning for alle team og funksjoner, og brukes som et overordnet kompass i vurderinger og prioriteringer. I praksis innebærer dette at alle produktområder og team skal kunne forklare hvordan deres arbeid støtter opp under visjonen.
 
 navigation_link:
   subtitle: Digdir produktutvikling
@@ -12,6 +12,7 @@ navigation_link:
 ## Jeg har en idé, men hvor starter jeg?
 I avdelingen Brukeropplevelse og Datadeling tas beslutninger av dem som har best kunnskap og er nærmest arbeidet. Dette innebærer at ideens omfang, antallet som må involveres, og en klar tidsbegrensning (timebox) i stor grad avgjør hvor du bør starte prosessen.
 Under ligger flere mulige inngangsporter for å få ideen implementert, med beskrivelse av når de bør tas i bruk og hvordan de fungerer.
+
 
 {{<child-pages>}}
 
