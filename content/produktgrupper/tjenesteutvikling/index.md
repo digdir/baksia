@@ -25,4 +25,4 @@ Finnur Olafsson
 {{< icon class="prod-li-start-icon" >}} [Altinn Studio](https://docs.altinn.studio/nb/altinn-studio/v8/)  
 {{< icon class="prod-li-start-icon" >}} [Varsling](https://docs.altinn.studio/nb/notifications/) 
 
-Se også informasjon om Altinn Studio og Varsling på [Samarbeidsportalen](https://samarbeid.digdir.no/altinn/tjenesteutvikling/2634)
+Se mer informasjon om Altinn Studio og Varsling på [Samarbeidsportalen](https://samarbeid.digdir.no/altinn/tjenesteutvikling/2634)
