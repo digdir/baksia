@@ -20,6 +20,6 @@ produktgruppe: pg_innsyn
 ## Innsyn og oppslag
 
 Produktgruppeansvarlig:  
-Gunn Cecile Timberlid Hundere
+Stein Magne Os
 
 
