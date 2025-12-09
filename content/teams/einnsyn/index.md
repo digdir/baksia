@@ -43,4 +43,4 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- eInnsyn
+- [eInnsyn](https://samarbeid.digdir.no/einnsyn/einnsyn/21)
