@@ -51,6 +51,6 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- eFormidling
-- [Elma - Elektronisk mottaker- og adresseregister](https://anskaffelser.no/sporsmal/elma)
-- KRR - [dedikert Slack-kanal](https://digdir.slack.com/archives/C015J61FEU9)
+- [eFormidling](https://samarbeid.digdir.no/eformidling/eformidling/20)
+- [Elektronisk mottaker- og adresseregister (Elma)](https://samarbeid.digdir.no/elma/elma/24)
+- [Kontakt- og reservasjonsregisteret (KRR)](https://samarbeid.digdir.no/kontaktregisteret/kontakt-og-reservasjonsregisteret/42)
