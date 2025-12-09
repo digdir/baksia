@@ -28,4 +28,4 @@ Stein Magne Os
 {{< icon class="prod-li-start-icon" >}} [Altinn Formidling](https://samarbeid.digdir.no/altinn/altinn-formidling/2612)  
 {{< icon class="prod-li-start-icon" >}} [Digital post til innbygger](https://samarbeid.digdir.no/digital-postkasse/digital-postkasse-til-innbyggere/23)  
 {{< icon class="prod-li-start-icon" >}} [eFormidling](https://samarbeid.digdir.no/eformidling/eformidling/20)  
-{{< icon class="prod-li-start-icon" >}} Dialogporten  
+{{< icon class="prod-li-start-icon" >}} [Dialogporten](https://samarbeid.digdir.no/altinn/dialogporten/2347)  
