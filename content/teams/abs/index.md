@@ -35,50 +35,10 @@ tags:
 {{< /team/members >}}
 
 
-
-<table>
-  <tr>
-    <th>Ansvarsområde</th>
-    <th>Kort beskrivelse</th>
-    <th>Kapabiliteter</th>
-  </tr>
-  <tr>
-    <td>Kundesupport for sluttbrukere</td>
-    <td>
-      ABS sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser fra brukere av våre kunders tjenester på digitale plattformer.<br><br>
-      Dette inkluderer oppdatering av dokumentasjon/informasjon/oversettelser for hjelpesidene på Altinn.no.<br><br>
-      I dag betjenes:
-      <ul>
-        <li>Brukerstøtten for brukere av Altinn-tjenester, Altinn.no</li>
-        <li>Brukerstøtten for brukere av Digitalt Dødsbo, Altinn.no</li>
-        <li>Brukerstøtten for brukere av Digital Gravferdsmelding, Statsforvalteren.no</li>
-      </ul>
-    </td>
-    <td>Knowledge Management, Customer/User Support</td>
-  </tr>
-  <tr>
-    <td>Forespørsler fra sluttbrukere</td>
-    <td>
-      ABS sikrer at eksterne og interne forespørsler mottas, spores, prioriteres og løses der det skal.<br><br>
-      Dette kan være forespørsler om nye tjenester, tilganger eller annen informasjon som ønskes håndtert raskt og effektivt.
-    </td>
-    <td>Request Management</td>
-  </tr>
-  <tr>
-    <td>Hendelser</td>
-    <td>
-      ABS sikrer at eksterne og interne varsler om uønskede avbrudd, feil/mangler og brudd i normal drift mottas, spores, prioriteres og løses der det skal, slik at normal drift gjenopprettes så raskt og effektivt som mulig.
-    </td>
-    <td>Incident Management</td>
-  </tr>
-  <tr>
-    <td>Test for sluttbrukere</td>
-    <td>
-      ABS bidrar i utviklingen av nye produkter og tjenester med innsikt fra eksterne og interne brukererfaringer og behov.<br><br>
-      ABS deltar i forbedringsarbeid som test av nye produkter og tjenester, og sørger for relevant rekruttering (eksterne og interne) til brukertester.<br><br>
-      Dette sikrer bedre treffsikkerhet for nye løsninger.
-    </td>
-    <td>Test Management</td>
-  </tr>
-</table>
+| Ansvarsområde                | Kort beskrivelse                                                                                                                                                                                                                                                                                                                                                     | Kapabiliteter                          |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| Kundesupport for sluttbrukere | ABS sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser fra brukere av våre kunders tjenester på digitale plattformer.<br><br>Dette inkluderer oppdatering av dokumentasjon/informasjon/oversettelser for hjelpesidene på Altinn.no.<br><br>I dag betjenes:<br>• Brukerstøtten for brukere av Altinn-tjenester, Altinn.no<br>• Brukerstøtten for brukere av Digitalt Dødsbo, Altinn.no<br>• Brukerstøtten for brukere av Digital Gravferdsmelding, Statsforvalteren.no | Knowledge Management, Customer/User Support |
+| Forespørsler fra sluttbrukere | ABS sikrer at eksterne og interne forespørsler mottas, spores, prioriteres og løses der det skal.<br><br>Dette kan være forespørsler om nye tjenester, tilganger eller annen informasjon som ønskes håndtert raskt og effektivt.                                                                                                                                | Request Management                     |
+| Hendelser                     | ABS sikrer at eksterne og interne varsler om uønskede avbrudd, feil/mangler og brudd i normal drift mottas, spores, prioriteres og løses der det skal, slik at normal drift gjenopprettes så raskt og effektivt som mulig.                                                                                                                                        | Incident Management                    |
+| Test for sluttbrukere         | ABS bidrar i utviklingen av nye produkter og tjenester med innsikt fra eksterne og interne brukererfaringer og behov.<br><br>ABS deltar i forbedringsarbeid som test av nye produkter og tjenester, og sørger for relevant rekruttering (eksterne og interne) til brukertester.<br><br>Dette sikrer bedre treffsikkerhet for nye løsninger.                        | Test Management                        |
 
