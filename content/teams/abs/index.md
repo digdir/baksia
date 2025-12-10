@@ -28,6 +28,8 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131243980?v=4" name="Elin Torgvær" role="Kundeveileder" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/180465845?v=4" name="Herman Sefring" role="Kundeveileder" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/130640130?v=4" name="Marianne Saltnes" role="Kundeveileder" >}}
+{{< team/github-profile url="" name="Sofie Mortensen Austerslått" role="Kundeveileder" >}}
+
 
 
 {{< /team/members >}}
