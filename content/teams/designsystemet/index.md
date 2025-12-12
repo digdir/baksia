@@ -22,6 +22,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/33222679?v=4" name="Lasse Febakke Straum" role="Design Lead, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13560642?v=4" name="Øyvind Thune" role="Design og Frontend, Fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/14057205?v=4" name="Tobias Barsnes" role="Frontend, Fast, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/849222?v=4" name="Frank Dahle" role="uu-spesialist, Fast, Brønnøysund" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
