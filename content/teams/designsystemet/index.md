@@ -25,7 +25,9 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/14057205?v=4" name="Tobias Barsnes" role="Frontend, Fast, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/849222?v=4" name="Frank Dahle" role="UU-spesialist, Fast, Brønnøysund" >}}
 
-### Andre etater som er en del av teamet
+### 
+
+Andre etater som er en del av teamet
  {{< team/github-profile name="Stian Morsund" role="Tech lead designsystem, KS Digital" >}}
   {{< team/github-profile name="Roy Halvor Frimanslund" role="Brukskvalitet-lead, Brønnøysundregistrene" >}}
   {{< team/github-profile name="Eirik Backer" role="Tech lead, Mattilsynet" >}}
