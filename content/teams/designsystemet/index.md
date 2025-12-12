@@ -25,6 +25,13 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/849222?v=4" name="Frank Dahle" role="uu-spesialist, Fast, Brønnøysund" >}}
 {{< /team/members >}}
 
+{{< team/memeber title="Andre etater som er en del av teamet" >}}
+{{< team/github-profile url="" name="Stian Morsund" role="Tech lead designsystemet, KS Digital" >}}
+{{< team/github-profile url="" name="Roy Halvor Frimanslund" role="Brukskvalitet-lead, Brønnøysundregistrene" >}}
+{{< team/github-profile url="" name="Eirik Backer" role="Tech lead, Mattilsynet" >}}
+{{< team/github-profile url="" name="Unn Sofie Kinn Ekroll" role="Konsulent, Utdanningsdirektoratet" >}}
+{{< /team/members >}}
+
 {{< team/products title="Produkter" >}}
 {{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/3/views/30" url_text="GitHub">}}
 {{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/digdir/projects/3" url_text="GitHub" >}}
