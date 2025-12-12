@@ -31,6 +31,12 @@ tags:
 {{< team/product-item title="Repo" subtitle="Hold deg oppdatert her" url="https://github.com/digdir/designsystemet" url_text="GitHub" >}}
 {{< /team/products >}}
 
+{{< team/responsibilities title="Samstyringsmodell" >}}
+Det er etablert en samstyringsmodell med tre nivåer:
+1. **Utvikling og drift**: Kjerneteamet består av designere og utviklere fra Digdir, Brønnøysundregistrene, Mattilsynet, Utdanningsdirektoratet og KS Digital.
+2. **Mønstersamarbeid**: Digdir, Nav, Skatteetaten, Oslo kommune, Politiet og Entur utvikler felles interaksjonsmønstre.
+3 **Community**: Et bredt åpent nettverk av virksomheter bidrar gjennom åpne prosesser med tydelig versjonsstyring og kvalitetssikring
+
 {{< team/responsibilities title="Ansvarsområder" >}}
 
 - Forenkle og effektivisere arbeidsflyten for designere, utviklere og produktteam.
