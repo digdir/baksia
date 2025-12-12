@@ -16,14 +16,23 @@ tags:
 - stream-aligned
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://join.slack.com/t/designsystemet/shared_invite/zt-2438eotl3-a4266Vd2IeqMWO8TBw5PrQ" slack_url_text="Bli med i Slack for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1464915?v=4" name="Marianne Røsvik" role="Produkteier, Fast, Stavanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1070981?v=4" name="Michael Marszalek" role="Tech lead, frontend, Fast, Stavanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/33222679?v=4" name="Lasse Febakke Straum" role="Design Lead, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/13560642?v=4" name="Øyvind Thune" role="Design og Frontend, Fast, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/14057205?v=4" name="Tobias Barsnes" role="Frontend, Fast, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/849222?v=4" name="Frank Dahle" role="uu-spesialist, Fast, Brønnøysund" >}}
+
+{{< team/members title="Medlemmer i teamet" slack_url="https://join.slack.com/t/designsystemet/shared_invite/zt-2438eotl3-a4266Vd2IeqMWO8TBw5PrQ" slack_url_text="Bli med i Slack for teamet" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/1464915?v=4" name="Marianne Røsvik" role="Produkteier, Fast, Stavanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/1070981?v=4" name="Michael Marszalek" role="Tech lead, frontend, Fast, Stavanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/33222679?v=4" name="Lasse Febakke Straum" role="Design Lead, Fast, Oslo" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/13560642?v=4" name="Øyvind Thune" role="Design og Frontend, Fast, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/14057205?v=4" name="Tobias Barsnes" role="Frontend, Fast, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/849222?v=4" name="Frank Dahle" role="UU-spesialist, Fast, Brønnøysund" >}}
 {{< /team/members >}}
+
+{{< team/members title="Andre etater som er en del av teamet" >}}
+  {{< team/github-profile name="Stian Morsund" role="Tech lead designsystem, KS Digital" >}}
+  {{< team/github-profile name="Roy Halvor Frimanslund" role="Brukskvalitet-lead, Brønnøysundregistrene" >}}
+  {{< team/github-profile name="Eirik Backer" role="Tech lead, Mattilsynet" >}}
+  {{< team/github-profile name="Une Sofie Kinn Ekroll" role="Konsulent, Mattilsynet" >}}
+{{< /team/members >}}
+
 
 {{< team/products title="Produkter" >}}
 {{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="https://github.com/orgs/digdir/projects/3/views/30" url_text="GitHub">}}
@@ -31,12 +40,6 @@ tags:
 {{< team/product-item title="Repo" subtitle="Hold deg oppdatert her" url="https://github.com/digdir/designsystemet" url_text="GitHub" >}}
 {{< /team/products >}}
 
-{{< team/members title="Andre etater som er en del av teamet" >}}
-{{< team/github-profile url="" name="Stian Morsund" role="Tech lead designsystem, KS Digital" >}}
-{{< team/github-profile url="" name="roy Halvor Frimanslund" role="Brukskvalitet-lead, Brønnøysundregistrene" >}}
-{{< team/github-profile url="" name="Eirik Backer" role="Tech lead, Mattilsynet" >}}
-{{< team/github-profile url="" name="Une Sofie Kinn Ekroll" role="Konsulent, Mattilsynet" >}}
-{{< /team/members >}}
 
 {{< team/responsibilities title="Samstyringsmodell" >}}
 Det er etablert en samstyringsmodell med tre nivåer:
