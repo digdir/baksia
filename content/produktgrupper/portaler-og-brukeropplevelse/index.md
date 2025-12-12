@@ -41,8 +41,7 @@ produktene og fokus på synergier mellom tiltakene.
 
 
 ### Produktgruppeledelse
-- Hanne Fredheim (Fungerende produktgruppeleder)
+- Hanne Horsæth Fredheim (produktgruppeleder)
 - Lis Lonning
 - Sigurd Sæther Sørensen
-- Hilde Kristin Storvig
-- Produkteiere, Tech Lead og Design Lead i produktene er også en del av produktgruppeledelsen. 
+- Ola Svahn
