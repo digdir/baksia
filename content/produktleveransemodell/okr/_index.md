@@ -60,19 +60,4 @@ OKR er lagsport og representerer teamet sitt felles målbilde for det kommende k
   5. Begrens antall OKR. Typisk 1-3 Objectives, og 2-3 Key Result per Objective. For mange = Dårligere fokus!
 
 
-  Rutiner:
-- Forankre i virksomhetsmålene. Start med de strategiske føringene for fellestjenestene og digital transformasjon.
-- Minst ett mål må være knyttet opp til lederlaget sine OKR.
-- Analyser brukerbehov og data. Hva sier innsikten? HVilke utfordringer har brukerne våre? Hva gir verdi?
-- Reflekter over teamets DevOps ansvar. Hvilke deler av livssykusen bør forbedres? (Utvikling, Drift, Sikkerhet?)
-- Ha tverrfaglige diskusjoner for å finne relevante mål -objective should inspire and key result should measure.
-- Pass på at de er kjent og forankret i hele teamet, la det være praktisk og gjennomførbart.
-- Evaluer og juster jevnlig (kvartalsvis typisk). Inkluder OKR i retrospektive. Ikke være redd for å forkaste det som ikke fungerer.
-- Vær fleksibel og smidig i tilnærmingen, gjør det enkelt!
-
-
-Ved å følge denne strukturen sikrer vi at hvert tiltak og mål blir grundig vurdert, planlagt og implementert med en klar forståelse av hva som kreves for å oppnå suksess.
-
----
-
-Ved å ta i bruk OKR i Digdir skaper vi en kultur for kontinuerlig forbedring og målrettet arbeid som bidrar til at vi når våre strategiske mål.
+Ved å følge disse prinsippene sikrer vi at hvert tiltak og mål blir vurdert, planlagt og implementert. Vi skaper en kultur for kontinuerlig forbedring. Målrettet arbeid bidrar til at vi når strategiske mål.
