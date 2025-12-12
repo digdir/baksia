@@ -1,7 +1,7 @@
 ---
 title: Designsystemet
 Ingress: Designsystemet er en verktøykasse med grunnleggende UI-komponenter, retningslinjer og mønstre som skal bidra til effektiv produktutvikling og helhetlige brukeropplevelser. Komponenter fra designsystemet er i bruk i Altinn Studio og i flere av Digdirs løsninger. Andre offentlige virksomheter har også tatt designsystemet i bruk i over 100 løsninger og flere virksomheter bidrar til å videreutvikle det. Det er etablert en samstyringsmodell med tre samarbeidsnivåer.
----
+
 
 1. **Utvikling og drift:** Kjerneteamet består av designere og utviklere fra Digdir, Brønnøysundregistrene, Mattilsynet, Utdanningsdirektoratet og KS Digital.
 2. **Mønstersamarbeid:** Digdir, Nav, Skatteetaten, Oslo kommune, Politiet og Entur utvikler felles interaksjonsmønstre.
@@ -9,7 +9,7 @@ Ingress: Designsystemet er en verktøykasse med grunnleggende UI-komponenter, re
 
 Designsystemet er anerkjent som [Digital Public Good](https://www.digitalpublicgoods.net/r/designsystemet)
  
-
+---
 navigation_link:
   title: Produkteier
   subtitle: Marianne Røsvik
