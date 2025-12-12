@@ -1,6 +1,6 @@
 ---
 title: Designsystemet
-Ingress: Designsystemet er en verktøykasse med grunnleggende UI-komponenter, retningslinjer og mønstre som skal bidra til effektiv produktutvikling og helhetlige brukeropplevelser. Komponenter fra designsystemet er i bruk i Altinn Studio og i flere av Digdirs løsninger. Andre offentlige virksomheter har også tatt i bruk og bidrar til å videreutvikle designsystemet. 
+Ingress: Designsystemet er en verktøykasse med grunnleggende UI-komponenter, retningslinjer og mønstre som skal bidra til effektiv produktutvikling og helhetlige brukeropplevelser. Komponenter fra designsystemet er i bruk i Altinn Studio og i flere av Digdirs løsninger. Andre offentlige virksomheter har også tatt i bruk og bidrar til å videreutvikle designsystemet. Designsystemet er anerkjent som [Digital Public Good](https://www.digitalpublicgoods.net/r/designsystemet). 
 
 navigation_link:
   title: Produkteier
