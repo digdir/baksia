@@ -27,7 +27,8 @@ tags:
   {{< team/github-profile url="" name="" role="" >}}
   {{< team/github-profile url="" name="" role="" >}}
 
-**Andre etater som er en del av teamet**
+Andre etater som er en del av teamet
+###
  {{< team/github-profile name="Stian Morsund" role="Tech lead designsystem, KS Digital" >}}
   {{< team/github-profile name="Roy Halvor Frimanslund" role="Brukskvalitet-lead, Brønnøysundregistrene" >}}
   {{< team/github-profile name="Eirik Backer" role="Tech lead, Mattilsynet" >}}
