@@ -35,7 +35,7 @@ tags:
 Det er etablert en samstyringsmodell med tre nivåer:
 1. **Utvikling og drift**: Kjerneteamet består av designere og utviklere fra Digdir, Brønnøysundregistrene, Mattilsynet, Utdanningsdirektoratet og KS Digital.
 2. **Mønstersamarbeid**: Digdir, Nav, Skatteetaten, Oslo kommune, Politiet og Entur utvikler felles interaksjonsmønstre.
-3 **Community**: Et bredt åpent nettverk av virksomheter bidrar gjennom åpne prosesser med tydelig versjonsstyring og kvalitetssikring
+3. **Community**: Et bredt åpent nettverk av virksomheter bidrar gjennom åpne prosesser med tydelig versjonsstyring og kvalitetssikring
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
