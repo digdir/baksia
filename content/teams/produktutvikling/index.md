@@ -5,7 +5,7 @@ ingress: >
 
 navigation_link:
   title: Teamleder
-  subtitle: Therese Engen
+  subtitle: 
 
 banner:
   image:
@@ -19,10 +19,9 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/21181213?v=4" name="Therese Engen" role="Teamleder - Smidig Virksomhetscoach" >}}
-{{< team/github-profile url=https://avatars.githubusercontent.com/u/86382095?v=4 name="Dan Remi Mørk " role="Seksjonsleder for Støtte og Styring, Sponsor i PLM " >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/80898170?v=4" name="Reidun Milde" role="Seksjonsleder for Brukeropplevelse (BBO) " >}}
+{{< team/github-profile url=https://avatars.githubusercontent.com/u/86382095?v=4 name="Dan Remi Mørk " role="Sponsor i PLM " >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/80898170?v=4" name="Reidun Milde" role="" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71013993?v=4" name="Tage Bryn" role="Arkitekt" >}}
 
 
