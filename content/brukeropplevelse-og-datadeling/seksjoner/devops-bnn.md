@@ -10,7 +10,7 @@ weight: 4
 
 ## DevOps Brønnøysund
 
-Seksjonen er en av to seksjoner som er ansvarlig for å bygge og styrke organisasjonens strategiske kapasitet innen programvareutvikling. Vi samler kompetanse innen moderne programvareutvikling, arkitektur, sikkerhet og plattform engineering som fremmer en kultur for kontinuerlig forbedring. Seksjonens medarbeidere legge til rette for deling av erfaring og kunnskap via åpen kildekode, og søker kontinuerlig etter måter å forbedre og effektivisere både driften, teknologien vi bruker. 
+Seksjonen er en av to seksjoner som er ansvarlig for å bygge og styrke organisasjonens strategiske kapasitet innen programvareutvikling. Vi samler kompetanse innen moderne programvareutvikling, arkitektur, sikkerhet og plattform engineering som fremmer en kultur for kontinuerlig forbedring. Seksjonens medarbeidere legger til rette for deling av erfaring og kunnskap via åpen kildekode, og søker kontinuerlig etter måter å forbedre og effektivisere både driften og teknologien vi bruker. 
 
 Seksjonsleder: Hanne Brun (fung)
 
