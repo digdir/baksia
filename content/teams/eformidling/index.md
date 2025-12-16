@@ -14,7 +14,7 @@ banner:
     alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
-- pg_meldingsutveksling
+- pg_innsyn
 - stream-aligned
 ---
 

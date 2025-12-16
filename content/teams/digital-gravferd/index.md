@@ -12,7 +12,7 @@ banner:
     alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
-- pg_tjenesteutvikling
+- #pg_tjenesteutvikling
 - stream-aligned
 ---
 
