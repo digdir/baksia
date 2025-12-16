@@ -2,7 +2,7 @@
 title: ABS
 linktitle: ABS
 
-ingress: Altinn Brukerstøtte (ABS) sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser som mottas fra brukere (-les sluttbrukere) av våre kunders tjenester, på våre digitale plattformer.
+ingress: ABS-teamet sikrer profesjonell og effektiv brukerstøtte for digitale tjenester. Vi håndterer henvendelser fra sluttbrukere, følger opp forespørsler og hendelser, og bidrar til utvikling og testing av nye løsninger. Vårt arbeid sørger for god brukeropplevelse, stabil drift og kontinuerlig forbedring av tjenester som Altinn og tilknyttede løsninger.
 
 navigation_link:
   title: Teamleder
