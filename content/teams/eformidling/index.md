@@ -15,6 +15,7 @@ banner:
 
 tags:
 - pg_innsyn
+- pg_meldingsutveksling
 - stream-aligned
 ---
 
