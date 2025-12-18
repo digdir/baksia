@@ -22,4 +22,7 @@ produktgruppe: pg_innsyn
 Produktgruppeansvarlig:  
 Stein Magne Os
 
+{{< icon class="prod-li-start-icon" >}} [eInnsyn](https://samarbeid.digdir.no/einnsyn/einnsyn/21)  
+{{< icon class="prod-li-start-icon" >}} [Kontakt- og reservasjonsregisteret (KRR)](https://samarbeid.digdir.no/kontaktregisteret/kontakt-og-reservasjonsregisteret/42)  
+{{< icon class="prod-li-start-icon" >}} [ELMA](https://samarbeid.digdir.no/elma/elma/24) 
 
