@@ -25,7 +25,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/54906720?v=4" name="Alexander Midteide" role="Frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3768832?v=4" name="Sean Erik Scully" role="Frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Mateusz Marek Bacherycz" role="Frontend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1138656?v=4" name="Inge Fossland" role="UI Designer, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Inge Fossland" role="UI Designer, Konsulent, Oslo">}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U077MJ5RMHT-86cd6785a215-512" name="Kim Renè Teige" role="UX Designer, Konsulent, Oslo">}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U07RTN3JBT4-95fd35376fce-512" name="Leif Kristian Helstad" role="Test & QA ansvarlig, Konsulent, Oslo">}}
 {{< /team/members >}}
