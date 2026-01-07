@@ -25,8 +25,8 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5313373?v=4" name="Ole-Jørgen Skogstad" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1777366?v=4" name="Are Almaas" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/154342485?v=4" name="Knut Haug" role="Backend, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/11448941?v=4" name="Amund Myrbostad" role="Backend, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Leif Kristian Helstad" role="Test- og QA-ansvarlig, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Amund Myrbostad" role="Backend, Fast, Brønnøysund">}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U07RTN3JBT4-95fd35376fce-512" name="Leif Kristian Helstad" role="Test- og QA-ansvarlig, Konsulent, Oslo">}}
 
 {{< /team/members >}}
 
