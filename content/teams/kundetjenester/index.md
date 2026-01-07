@@ -30,7 +30,7 @@ tags:
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/144001718?v=4" name="Håvard Dybvik" role="Utvikler, Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/72542508?s=96&v=4" name="Jan Fretheim" role="Teamleder/Utvikler, Oslo" >}}
+  {{< team/github-profile url="" name="Jan Fretheim" role="Teamleder/Utvikler, Oslo" >}}
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/89081489?s=96&v=4" name="Erik Dahl" role="Utvikler, Oslo" >}}
 
