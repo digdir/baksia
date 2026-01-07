@@ -12,7 +12,7 @@ weight: 1
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/148075168?v=4" name="Erling Hauan" role="Frontend og backend, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3596256?v=4" name="Bjørn-Tore Gjerde " role="Backend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/21328986?v=4" name="Daniel Skovli" role="Backend, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/51908451?v=4" name="Tobias Krogstad Netskar" role="Backend, Fast, Oslo" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U09GTD7NVRU-08479fde06ed-512" name="Tobias Krogstad Netskar" role="Backend, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23121869?v=4" name="Camilla Marie Dalan" role="FrontEnd, Konsulent,Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/68380161?v=4" name="Pål Myran" role="FrontEnd, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/70377508?v=4" name="Olav Friisberg Larssen" role="Interaksjonsdesigner, Fast, Oslo">}}
