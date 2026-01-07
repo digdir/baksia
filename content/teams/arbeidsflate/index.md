@@ -21,13 +21,13 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C079XRZ4PQU" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/120113086?v=4" name="Mette Saltnes" role="Produkteier, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Theresa Harmanen" role="Design-lead, 50%, Fast, Oslo" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U076N8W9916-601ab6d5a4a0-512" name="Theresa Harmanen" role="Design-lead, 50%, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/54906720?v=4" name="Alexander Midteide" role="Frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3768832?v=4" name="Sean Erik Scully" role="Frontend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Mateusz Marek Bacherycz" role="Frontend, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Mateusz Marek Bacherycz" role="Frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1138656?v=4" name="Inge Fossland" role="UI Designer, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Kim Renè Teige" role="UX Designer, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/93577696?v=4" name="Leif Kristian Helstad" role="Test & QA ansvarlig, Konsulent, Oslo">}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U077MJ5RMHT-86cd6785a215-512" name="Kim Renè Teige" role="UX Designer, Konsulent, Oslo">}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U07RTN3JBT4-95fd35376fce-512" name="Leif Kristian Helstad" role="Test & QA ansvarlig, Konsulent, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
