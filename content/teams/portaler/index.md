@@ -18,7 +18,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C05MRKCKZ6Z" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url=https://avatars.githubusercontent.com/u/32771488?v=4" name="Roger Stenbakk Olsen" role="Produkteier for Altinn.no, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/234550433?v=4" name="Miriam Høyheim Lægreid" role="Produkteier for Norge.no, Fast, Leikanger" >}}
+{{< team/github-profile url="" name="Miriam Høyheim Lægreid" role="Produkteier for Norge.no, Fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/139115317?v=4" name="Siri-Anna Zahl Kristiansen" role="Scrum master, Fast, Brønnøysund " >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/64840623?v=4" name="Jørgen Ferkingstad" role="Redaktør for altinn.no, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/105434005?v=4" name="Geir Horn" role="Kvalitetssikrer redaksjon, Fast, Brønnøysund" >}}
@@ -28,7 +28,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/227562831?v=4" name="Eira Marie Sunniva Bjerkeng Scherjon" role="UX-designer, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/110961868?v=4" name="Dorte Drange" role="Design lead og innholdsdesigner, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/147068285?v=4" name="Wilhelm Walberg Schive" role="Backend og tech-lead, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/157741111?v=4" name="Quan Vu" role="Fullstack, Konsulent, Oslo" >}}
+{{< team/github-profile url="" name="Quan Vu" role="Fullstack, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/147140002?v=4" name="Monica Wold Olsen" role="Frontend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144218610?v=4" name="Kenneth Helland" role="Redaktør for norge.no, Fast, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50879748?v=4" name="Pooria Mehregan" role="Utvikler for norge.no, Fast, Oslo" >}}
