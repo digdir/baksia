@@ -27,7 +27,7 @@ tags:
   {{< team/github-profile url="" name="Gisle Nes" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U012R2N8K0A-54a325665c04-512" name="Gunnar Sandnes" role="Utvikler, Oslo" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/46677409?v=4" name="Daniel Fylling" role="Driftsleder, Leikanger" >}}
+  {{< team/github-profile url="" name="Daniel Fylling" role="Driftsleder, Leikanger" >}}
   {{< team/github-profile url="" name="Ole Jomar Moen" role="Service Manager, Leikanger" >}}
   {{< team/github-profile url="" name="Bodil Dale" role="Brukerstøtte, Leikanger" >}}
   {{< team/github-profile url="" name="Stian Øye" role="Teknisk forvalter, Leikanger" >}}
