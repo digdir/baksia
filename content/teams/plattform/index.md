@@ -22,7 +22,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/79941408?v=4" name="Emil Arnesen" role="Plattformutvikler, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/4632491?v=4" name="Jonas Arneberg Saltvik" role="Plattformutvikler, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/46821259?v=4" name="Eskedar Kefialew Workeneh" role="Plattformutvikler, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/56262765?v=4" name="Ola Slålien Thoen" role="Sikkerhet, Leikanger" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U046Y5SPL75-72b974d1c9cb-512" name="Ola Slålien Thoen" role="Sikkerhet, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/114581743?v=4" name="Håkon Wiland" role="Sikkerhet, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49980641?v=4" name="Justyna Mucha" role="Driftsleder, Leikanger" >}}
 
