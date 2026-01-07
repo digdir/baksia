@@ -21,14 +21,14 @@ tags:
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1483360?v=4" name="Jørgen Binningsbø" role="Produkteier,  Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/33317342?v=4" name="Thor Kristian Sortevik" role="Driftsleder, Leikanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/72668683?v=4" name="Brage Asperanden Navarsete" role="Forvalter, Leikanger" >}}
+  {{< team/github-profile url="" name="Brage Asperanden Navarsete" role="Forvalter, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1137512?v=4" name="Aamund Bremer" role="Arkitekt, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/2151277?v=4" name="Thomas Reppesgård" role="Utvikler, Sandefjord" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/8371957?v=4" name="Randi Øyri" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1527806?v=4" name="Magnus Lefdal" role="Utvikler, Oslo" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/36549217?v=4" name="Anders Holst" role="Utvikler, Leikanger" >}}
-  {{< team/github-profile url="" name="Solveig Langbakk" role="Utvikler, Leikanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/77618118?v=4" name="Frank Hofslundsengen" role="Teamleiar, Leikanger" >}}
+  {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U079M3Q3N2U-767af6730550-512" name="Solveig Langbakk" role="Utvikler, Leikanger" >}}
+  {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U012D02B4GM-47cbbd7afe2a-512" name="Frank Hofslundsengen" role="Teamleiar, Leikanger" >}}
 
 {{< /team/members >}}
 
