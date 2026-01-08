@@ -31,6 +31,8 @@ tags:
 
 {{< /team/products >}}
 
+<kbd>testing label</kbd>
+
 | Ansvarsområde                     | Kort beskrivelse                                                                                                                                                                                                                                                                                                                                                                                                     | Kapabiliteter                                                   |
 |-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Dokumentasjonsforvaltning         | Forvalte og oppdatere prosessdokumentasjon, retningslinjer og styrende dokumenter, samtidig som man sikrer etterlevelse og konsistens. Baksia fungerer som én felles oversiktlig kilde til informasjon, med koblinger til detaljert og relatert innhold, og bidrar til økt transparens og effektivitet. Confluence er den sentrale plattformen for dokumentasjons- og kunnskapsforvaltning, der prosesser, retningslinjer og teamrelatert informasjon struktureres, vedlikeholdes og gjøres lett tilgjengelig for alle team, med tydelig eierskap og versjonshåndtering. | Governance, Policy & Compliance Management; Knowledge & Information Management   |
