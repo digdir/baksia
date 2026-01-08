@@ -32,8 +32,9 @@ tags:
 {{< /team/products >}}
 
 
-<kbd>Test 1</kbd>  <kbd>Test 2</kbd>
-``
+!Kapabilitet: Ingest
+![Kapabilitet: Transform](https://img.shields.io/badge/Kapabilitet-Transform-34C759?style=flat-square&labelColort-Visualize-8E8E93?style=flat-square&label=flat
+
 
 
 | Ansvarsområde                     | Kort beskrivelse                                                                                                                                                                                                                                                                                                                                                                                                     | Kapabiliteter                                                   |
