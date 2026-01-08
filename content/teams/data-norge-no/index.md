@@ -19,7 +19,7 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U03KCB62LRL-gf0effb9323f-512" name="Eli Helen Korsan" role="Produkteier, Fast, Oslo" >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U03KCB62LRL-gf0effb9323f-512" name="Eli Helen Korsan" role="Produkteier, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="Teamarkitekt, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Scrum master, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/216859398?v=4" name="Kristiane Kolshus" role="Frontend, Fast, Oslo">}}
