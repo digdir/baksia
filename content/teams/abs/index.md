@@ -33,69 +33,10 @@ tags:
 {{< /team/members >}}
 
 
-<table role="table" aria-label="Ansvarsområder og kapabiliteter" style="width:100%; border-collapse: collapse; font-size: 1em;">
-  <caption class="visually-hidden">Oversikt over ansvarsområder, beskrivelse og kapabiliteter</caption>
-  <thead>
-    <tr>
-      <th scope="col" style="text-align:left; padding:0.5em; border-bottom:2px solid #000;">Ansvarsområde</th>
-      <th scope="col" style="text-align:left; padding:0.5em; border-bottom:2px solid #000;">Kort beskrivelse</th>
-      <th scope="col" style="text-align:left; padding:0.5em; border-bottom:2px solid #000;">Kapabiliteter</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:0.5em; border-bottom:1px solid #ccc;">Kundesupport for sluttbrukere</td>
-      <td style="padding:0.5em; border-bottom:1px solid #ccc;">
-        ABS sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser fra brukere av våre kunders tjenester på digitale plattformer.<br><br>
-        Dette inkluderer oppdatering av dokumentasjon/informasjon/oversettelser for hjelpesidene på Altinn.no.<br><br>
-        I dag betjenes:<br>
-        • Brukerstøtten for brukere av Altinn-tjenester, Altinn.no<br>
-        • Brukerstøtten for brukere av Digitalt Dødsbo, Altinn.no<br>
-        • Brukerstøtten for brukere av Digital Gravferdsmelding, Statsforvalteren.no
-      </td>
-      <td style="padding:0.5em; border-bottom:1px solid #ccc;">
-        <ul style="margin:0; padding-left:1.2em;">
-          <li>Knowledge Management</li>
-          <li>Customer/User Support</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:0.5em; border-bottom:1px solid #ccc;">Forespørsler fra sluttbrukere</td>
-      <td style="padding:0.5em; border-bottom:1px solid #ccc;">
-        ABS sikrer at eksterne og interne forespørsler mottas, spores, prioriteres og løses der det skal.<br><br>
-        Dette kan være forespørsler om nye tjenester, tilganger eller annen informasjon som ønskes håndtert raskt og effektivt.
-      </td>
-      <td style="padding:0.5em; border-bottom:1px solid #ccc;">
-        <ul style="margin:0; padding-left:1.2em;">
-          <li>Request Management</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:0.5em; border-bottom:1px solid #ccc;">Hendelser</td>
-      <td style="padding:0.5em; border-bottom:1px solid #ccc;">
-        ABS sikrer at eksterne og interne varsler om uønskede avbrudd, feil/mangler og brudd i normal drift mottas, spores, prioriteres og løses der det skal, slik at normal drift gjenopprettes så raskt og effektivt som mulig.
-      </td>
-      <td style="padding:0.5em; border-bottom:1px solid #ccc;">
-        <ul style="margin:0; padding-left:1.2em;">
-          <li>Incident Management</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:0.5em; border-bottom:1px solid #ccc;">Test for sluttbrukere</td>
-      <td style="padding:0.5em; border-bottom:1px solid #ccc;">
-        ABS bidrar i utviklingen av nye produkter og tjenester med innsikt fra eksterne og interne brukererfaringer og behov.<br><br>
-        ABS deltar i forbedringsarbeid som test av nye produkter og tjenester, og sørger for relevant rekruttering (eksterne og interne) til brukertester.<br><br>
-        Dette sikrer bedre treffsikkerhet for nye løsninger.
-      </td>
-      <td style="padding:0.5em; border-bottom:1px solid #ccc;">
-        <ul style="margin:0; padding-left:1.2em;">
-          <li>Test Management</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Ansvarsområde                | Kort beskrivelse                                                                                                                                                                                                                                                                                                                                                     | Kapabiliteter                          |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| Kundesupport for sluttbrukere | ABS sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser fra brukere av våre kunders tjenester på digitale plattformer.<br><br>Dette inkluderer oppdatering av dokumentasjon/informasjon/oversettelser for hjelpesidene på Altinn.no.<br><br>I dag betjenes:<br> • Brukerstøtten for brukere av Altinn-tjenester, Altinn.no<br> • Brukerstøtten for brukere av Digitalt Dødsbo, Altinn.no<br> • Brukerstøtten for brukere av Digital Gravferdsmelding, Statsforvalteren.no | Knowledge Management, Customer/User Support |
+| Forespørsler fra sluttbrukere | ABS sikrer at eksterne og interne forespørsler mottas, spores, prioriteres og løses der det skal.<br><br>Dette kan være forespørsler om nye tjenester, tilganger eller annen informasjon som ønskes håndtert raskt og effektivt.                                                                                                                                | Request Management                     |
+| Hendelser                     | ABS sikrer at eksterne og interne varsler om uønskede avbrudd, feil/mangler og brudd i normal drift mottas, spores, prioriteres og løses der det skal, slik at normal drift gjenopprettes så raskt og effektivt som mulig.                                                                                                                                        | Incident Management                    |
+| Test for sluttbrukere         | ABS bidrar i utviklingen av nye produkter og tjenester med innsikt fra eksterne og interne brukererfaringer og behov.<br><br>ABS deltar i forbedringsarbeid som test av nye produkter og tjenester, og sørger for relevant rekruttering (eksterne og interne) til brukertester.<br><br>Dette sikrer bedre treffsikkerhet for nye løsninger.                        | Test Management                        |
 
