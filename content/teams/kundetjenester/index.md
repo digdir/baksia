@@ -28,7 +28,7 @@ tags:
 
   {{< team/github-profile url="" name="Helene Halsos" role="UX, design, Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/144001718?v=4" name="Håvard Dybvik" role="Utvikler, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/210368494?s=96&v=4" name="Isabelle Dahle" role="Utvikler, Leikanger" >}}
 
   {{< team/github-profile url="" name="Jan Fretheim" role="Teamleder/Utvikler, Oslo" >}}
 
