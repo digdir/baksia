@@ -34,6 +34,8 @@ tags:
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/89081489?s=96&v=4" name="Erik Dahl" role="Utvikler, Oslo" >}}
 
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/1655093?s=96&v=4" name="Arnulf Holm" role="Utvikler, Oslo" >}}
+
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/40900660?v=4" name="Kristoffer Svedal" role="Utvikler, Leikanger" >}}
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/80334007?v=4" name="Karsten Selmer Friis" role="Utvikler, Leikanger" >}}
