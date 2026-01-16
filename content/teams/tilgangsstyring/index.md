@@ -25,7 +25,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/59682632?v=4" name="Ivar Tryti" role="Backend, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/17529876?v=4" name="Andreas Isnes Nilsen" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1001056?v=4" name="Marius Thuen" role="Backend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/56019927?v=4" name="Remi Løvoll" role="Backend, Konsulent, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/56019927?v=4" name="Remi Løvoll" role="Backend, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36008713?v=4" name="Håvard Andersen" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/103100644?v=4" name="Hanne Saltnes" role="Interaksjonsdesigner, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/94835837?v=4" name="Randi Mansæterbak" role="Interaksjonsdesigner, Fast, Brønnøysund">}}
