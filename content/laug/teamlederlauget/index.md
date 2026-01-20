@@ -20,7 +20,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/72547415?v=4" name="Snorre Torgeir Egedal Aakerø" role="Teamleder Koordinering" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89571254?v=4" name="Torkel Buarøy" role="Teamleder Kunde-team" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Teamleder Arkitektur" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/145534651?s=88&v=4" name="Thomas Leirvik Knoph" role="Teamleder Juridisk>}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/145534651?s=88&v=4" name="Thomas Leirvik Knoph" role="Teamleder Juridisk" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/132452427?v=4" name="Maria Helmersen Sommervik" role="Teamleder Økonomi" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/21181213?v=4" name="Therese Engen" role="Teamleder Produktleveransemodell" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/62640845?v=4" name="Espen Herskedal" role="Teamleder Altinn Platform">}}
