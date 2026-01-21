@@ -19,7 +19,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C0378DYQ7B9" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/62640845?v=4" name="Espen Herskedal" role="Platformsjef, Fast, Hamar">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Scrum master, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/56063468?v=4" name="Anne Risbakk" role="Agile Coach, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U056TGK8RQR-a753ca46792f-512" name="Bengt Fredh" role="Tech-Lead,  Fast, Oslo" >}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U06FR8Y4YRG-65f85e2a1b7b-512" name="Sebastian Duran" role="Plattformutvikler, AI Champion, Fast, Oslo" >}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U029FLZVANT-aca870f96b24-512" name="Vemund Gaukstad" role="Team-arkitekt, Plattformutvikler, Fast, Korgen" >}}
@@ -27,6 +27,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/89203237?v=4" name="Simon Ellefsen" role="Plattformutvikler, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6243408?v=4" name="Khan Naby" role="Plattformutvikler, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/45536168?v=4" name="Renato Monteiro" role="Plattformutvikler, Security Champion, Fast, Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/1777366?v=4"name="Are Almaas" role="Plattformutvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/12184124?v=4" name="Børge Thommesen" role="FinOps-Arkitekt, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/164244096?v=4" name="Eivind B Risa" role="Cost Management, Konsulent, Oslo">}}
 
