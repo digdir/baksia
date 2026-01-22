@@ -33,33 +33,31 @@ tags:
     
 {{< team/responsibilities title="Våre ansvarsområder" >}}
 
+
 {{< team/responsibility-card title="Dokumentasjonsforvaltning" capabilities="Kapabiliteter: Governance, Policy & Compliance Management; Knowledge & Information Management" >}}
-ABS forvalter og oppdaterer prosessdokumentasjon, retningslinjer og styrende dokumenter, og sikrer etterlevelse og konsistens. Baksia fungerer som én felles og oversiktlig kilde til informasjon med koblinger til relatert innhold.
+Forvalte og oppdatere prosessdokumentasjon, retningslinjer og styrende dokumenter, samtidig som man sikrer etterlevelse og konsistens. Baksia fungerer som én felles oversiktlig kilde til informasjon, med koblinger til detaljert og relatert innhold, og bidrar til økt transparens og effektivitet. Confluence er den sentrale plattformen for dokumentasjons- og kunnskapsforvaltning, der prosesser, retningslinjer og teamrelatert informasjon struktureres, vedlikeholdes og gjøres lett tilgjengelig for alle team, med tydelig eierskap og versjonshåndtering.
 {{< /team/responsibility-card >}}
 
 {{< team/responsibility-card title="Strategi og måloppfølging (OKR)" capabilities="Kapabilitet: Strategy & Portfolio Management" >}}
-ABS etablerer, følger opp og samordner mål og nøkkelresultater (OKR) på tvers av team for å sikre styring, retning og prioritering i virksomheten.
+Etablere, følge opp og samordne mål og nøkkelresultater på tvers av team.
 {{< /team/responsibility-card >}}
 
 {{< team/responsibility-card title="Kunnskapsforvaltning" capabilities="Kapabiliteter: Knowledge & Information Management; Configuration & Knowledge Management" >}}
-ABS sikrer struktur, eierskap og kontinuerlig oppdatering av kunnskapsbasen i Confluence, inkludert artikler, hjelpesider og praksisbeskrivelser.
+Sikre struktur, eierskap og oppdatering av kunnskapsbase i Confluence (artikler, hjelpesider, praksiser).
 {{< /team/responsibility-card >}}
 
 {{< team/responsibility-card title="Verktøy- og samhandlingsplattform" capabilities="Kapabiliteter: Collaboration & Content Management; Toolchain Integration & DevOps Enablement" >}}
-ABS administrerer og optimaliserer bruk av Confluence og GitHub for hele organisasjonen, og sikrer gode samhandlings- og arbeidsprosesser på tvers av team.
+Administrere og optimalisere bruk av Confluence og GitHub.
 {{< /team/responsibility-card >}}
 
 {{< team/responsibility-card title="Målinger og analyse" capabilities="Kapabilitet: Performance & Measurement Management" >}}
-ABS samler inn og analyserer nøkkelindikatorer som grunnlag for styring, innsikt og kontinuerlig forbedring.
+Samle og analysere nøkkelindikatorer for styring og kontinuerlig forbedring.
 {{< /team/responsibility-card >}}
 
 {{< team/responsibility-card title="Risiko- og sikkerhetsstyring" capabilities="Kapabilitet: Risk & Security Management" >}}
-ABS kartlegger, overvåker og reduserer operasjonell og informasjonsrelatert risiko gjennom systematisk og helhetlig risikostyring.
+Kartlegge, overvåke og redusere operasjonell og informasjonsrisiko.
 {{< /team/responsibility-card >}}
 
-{{< team/responsibility-card title="Kompetanseutvikling og onboarding" >}}
-ABS tilbyr opplæring, kurs og støtte for nye medarbeidere, og bidrar til å bygge kompetanse og sikre god innføring i arbeidsprosesser og verktøy.
-
-**Kapabiliteter:** Workforce & Skills Management; Workforce Onboarding & Knowledge Transfer
+{{< team/responsibility-card title="Kompetanseutvikling og onboarding" capabilities="Kapabiliteter: Workforce & Skills Management; Workforce Onboarding & Knowledge Transfer" >}}
+Tilby opplæring og grunnkurs for nye medarbeidere.
 {{< /team/responsibility-card >}}
-
