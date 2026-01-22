@@ -57,6 +57,9 @@ ABS samler inn og analyserer nøkkelindikatorer som grunnlag for styring, innsik
 ABS kartlegger, overvåker og reduserer operasjonell og informasjonsrelatert risiko gjennom systematisk og helhetlig risikostyring.
 {{< /team/responsibility-card >}}
 
-{{< team/responsibility-card title="Kompetanseutvikling og onboarding" capabilities="Kapabiliteter: Workforce & Skills Management; Workforce Onboarding & Knowledge Transfer" >}}
+{{< team/responsibility-card title="Kompetanseutvikling og onboarding" >}}
 ABS tilbyr opplæring, kurs og støtte for nye medarbeidere, og bidrar til å bygge kompetanse og sikre god innføring i arbeidsprosesser og verktøy.
+
+**Kapabiliteter:** Workforce & Skills Management; Workforce Onboarding & Knowledge Transfer
 {{< /team/responsibility-card >}}
+
