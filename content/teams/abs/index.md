@@ -33,28 +33,25 @@ tags:
 {{< /team/members >}}
 
 
-{{< team/responsibilities title="Ansvarsområder og kapabiliteter" >}}
+{{< team/responsibilities title="Våre ansvarsområder" >}}
 
-**Kundesupport for sluttbrukere**
+{{< team/responsibility-card title="Kundesupport for sluttbrukere" capabilities="Kapabilitet: Knowledge Management, Customer/User Support" >}}
+ABS sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser fra brukere av våre kunders tjenester på digitale plattformer. Dette inkluderer oppdatering av dokumentasjon/informasjon/oversettelser for hjelpesidene på Altinn.no.
 
-ABS sikrer profesjonell, effektiv og ensartet kundesupport for henvendelser fra brukere av våre kunders tjenester på digitale plattformer. Dette inkluderer oppdatering av dokumentasjon/informasjon/oversettelser for hjelpesidene på Altinn.no. I dag betjenes: • Brukerstøtten for brukere av Altinn-tjenester, Altinn.no • Brukerstøtten for brukere av Digitalt Dødsbo, Altinn.no • Brukerstøtten for brukere av Digital Gravferdsmelding, Statsforvalteren.no
+I dag betjenes:
+- Brukerstøtten for brukere av Altinn-tjenester, Altinn.no
+- Brukerstøtten for brukere av Digitalt Dødsbo, Altinn.no
+- Brukerstøtten for brukere av Digital Gravferdsmelding, Statsforvalteren.no
+{{< /team/responsibility-card >}}
 
-*Kapabilitet: Knowledge Management, Customer/User Support*
-
-**Forespørsler fra sluttbrukere**
-
+{{< team/responsibility-card title="Forespørsler fra sluttbrukere" capabilities="Kapabilitet: Request Management" >}}
 ABS sikrer at eksterne og interne forespørsler mottas, spores, prioriteres og løses der det skal. Dette kan være forespørsler om nye tjenester, tilganger eller annen informasjon som ønskes håndtert raskt og effektivt.
+{{< /team/responsibility-card >}}
 
-*Kapabilitet: Request Management*
-
-**Hendelser**
-
+{{< team/responsibility-card title="Hendelser" capabilities="Kapabilitet: Incident Management" >}}
 ABS sikrer at eksterne og interne varsler om uønskede avbrudd, feil/mangler og brudd i normal drift mottas, spores, prioriteres og løses der det skal, slik at normal drift gjenopprettes så raskt og effektivt som mulig.
+{{< /team/responsibility-card >}}
 
-*Kapabilitet: Incident Management*
-
-**Test for sluttbrukere**
-
+{{< team/responsibility-card title="Test for sluttbrukere" capabilities="Kapabilitet: Test Management" >}}
 ABS bidrar i utviklingen av nye produkter og tjenester med innsikt fra eksterne og interne brukererfaringer og behov. ABS deltar i forbedringsarbeid som test av nye produkter og tjenester, og sørger for relevant rekruttering (eksterne og interne) til brukertester. Dette sikrer bedre treffsikkerhet for nye løsninger.
-
-*Kapabilitet: Test Management*
+{{< /team/responsibility-card >}}
