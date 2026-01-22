@@ -27,7 +27,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/198543782?v=4" name="Mathea Elise Lunde" role="Kundeveileder" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/131243980?v=4" name="Elin Torgvær" role="Kundeveileder" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/180465845?v=4" name="Herman Sefring" role="Kundeveileder" >}}
-{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U07QDLRHKDX-1aa6e221760d-512" name="Marianne Saltnes" role="Kundeveileder" >}}
+{{< team/github-profile url="" name="Marianne Saltnes" role="Kundeveileder" >}}
 {{< team/github-profile url="" name="Sofie Mortensen Austerslått" role="Kundeveileder" >}}
 
 {{< /team/members >}}
