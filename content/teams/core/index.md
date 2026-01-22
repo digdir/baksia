@@ -18,7 +18,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C0378DYQ7B9" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U076NU5QHTM-9e3c77456174-512" name="Ole Bay Hansen" role="Produkteier, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Scrum Master 50%, Utvikler,  Oslo">}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Agile Coach 50%, Utvikler,  Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/2217340?v=4" name="Terje Holene" role="Team-arkitekt, Infrastruktur, Backend, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/70642698?v=4" name="Thomas Bakken" role="Backend, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/11887560?v=4" name="Hallgeir Garnes-Gutvik" role="Fullstack-utvikler, Fast, Brønnøysund">}}
