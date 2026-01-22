@@ -19,7 +19,7 @@ tags:
 {{< team/members title="Medlemmer i teamet">}}
 
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/113984758?v=4" name="Benjamin Brodie" role="Teamleder, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Scrum Master, 50%, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/39302088?v=4" name="Nathalie Froissart" role="Agile Coach, 50%, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, Fast, Hamar" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23278708?v=4" name="Nikolai Lunde" role="Utvikler, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144219994?v=4" name="Nora Laeskogen" role="Utvikler, Konsulent, Oslo">}}
