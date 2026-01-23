@@ -19,7 +19,7 @@ tags:
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/CE5E06MC7" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/36295493?v=4" name="Ragnhild Tafjord" role="Produkteier, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/40996230?v=4" name="Jon-Kjetil Øye" role="Team-arkitekt, Backend, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/139115317?v=4" name="Siri-Anna Zahl Kristiansen" role="Agil Coach, Fast, Brønnøysund" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/139115317?v=4" name="Siri-Anna Zahl Kristiansen" role="Agile Coach, Fast, Brønnøysund" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22012997?v=4" name="Alexandra Vedeler" role="Frontend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/2978840?v=4" name="Sondre Wittek" role="Frontend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/59682632?v=4" name="Ivar Tryti" role="Backend, Fast, Oslo">}}
