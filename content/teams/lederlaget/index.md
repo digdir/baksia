@@ -80,6 +80,6 @@ Utvikle og vedlikeholde rammer for økonomi og compliance i avdelingen.
 {{< team/responsibility-card title="Rapportering internt og til DFD" capabilities="Kapabiliteter: Performance & Measurement Management; Reporting & Analytics" >}}
 Utarbeide rapporter for styring og oppfølging av leveranser og økonomi.
 {{< /team/responsibility-card >}}
-``
+
 
 
