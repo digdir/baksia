@@ -31,12 +31,33 @@ tags:
 
 {{< /team/products >}}
     
-| Ansvarsområde                     | Kort beskrivelse                                                                                                                                                                                                                                                                                                                                                                                                     | Kapabiliteter                                                   |
-|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Dokumentasjonsforvaltning         | Forvalte og oppdatere prosessdokumentasjon, retningslinjer og styrende dokumenter, samtidig som man sikrer etterlevelse og konsistens. Baksia fungerer som én felles oversiktlig kilde til informasjon, med koblinger til detaljert og relatert innhold, og bidrar til økt transparens og effektivitet. Confluence er den sentrale plattformen for dokumentasjons- og kunnskapsforvaltning, der prosesser, retningslinjer og teamrelatert informasjon struktureres, vedlikeholdes og gjøres lett tilgjengelig for alle team, med tydelig eierskap og versjonshåndtering. | Governance, Policy & Compliance Management; Knowledge & Information Management   |
-| Strategi og måloppfølging (OKR)   | Etablere, følge opp og samordne mål og nøkkelresultater på tvers av team                                                                                                                                                                                                                                                                                                                                            | Strategy & Portfolio Management                                                 |
-| Kunnskapsforvaltning              | Sikre struktur, eierskap og oppdatering av kunnskapsbase i Confluence (artikler, hjelpesider, praksiser).                                                                                                                                                                                                                                                                                                           | Knowledge & Information Management; Configuration & Knowledge Management        |
-| Verktøy- og samhandlingsplattform | Administrere og optimalisere bruk av Confluence og GitHub                                                                                                                                                                                                                                                                                                                                                           | Collaboration & Content Management; Toolchain Integration & DevOps Enablement   |
-| Målinger og analyse               | Samle og analysere nøkkelindikatorer for styring og kontinuerlig forbedring                                                                                                                                                                                                                                                                                                                                         | Performance & Measurement Management                                            |
-| Risiko- og sikkerhetsstyring      | Kartlegge, overvåke og redusere operasjonell og informasjonsrisiko                                                                                                                                                                                                                                                                                                                                                  | Risk & Security Management                                                      |
-| Kompetanseutvikling og onboarding | Tilby opplæring og grunnkurs for nye medarbeidere                                                                                                                                                                                                                                                                                                                                                                   | Workforce & Skills Management; Workforce Onboarding & Knowledge Transfer        |
+{{< team/responsibilities title="Våre ansvarsområder" >}}
+
+
+{{< team/responsibility-card title="Dokumentasjonsforvaltning" capabilities="Kapabiliteter: Governance, Policy & Compliance Management; Knowledge & Information Management" >}}
+Forvalte og oppdatere prosessdokumentasjon, retningslinjer og styrende dokumenter, samtidig som man sikrer etterlevelse og konsistens. Baksia fungerer som én felles oversiktlig kilde til informasjon, med koblinger til detaljert og relatert innhold, og bidrar til økt transparens og effektivitet. Confluence er den sentrale plattformen for dokumentasjons- og kunnskapsforvaltning, der prosesser, retningslinjer og teamrelatert informasjon struktureres, vedlikeholdes og gjøres lett tilgjengelig for alle team, med tydelig eierskap og versjonshåndtering.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Strategi og måloppfølging (OKR)" capabilities="Kapabilitet: Strategy & Portfolio Management" >}}
+Etablere, følge opp og samordne mål og nøkkelresultater på tvers av team.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Kunnskapsforvaltning" capabilities="Kapabiliteter: Knowledge & Information Management; Configuration & Knowledge Management" >}}
+Sikre struktur, eierskap og oppdatering av kunnskapsbase i Confluence (artikler, hjelpesider, praksiser).
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Verktøy- og samhandlingsplattform" capabilities="Kapabiliteter: Collaboration & Content Management; Toolchain Integration & DevOps Enablement" >}}
+Administrere og optimalisere bruk av Confluence og GitHub.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Målinger og analyse" capabilities="Kapabilitet: Performance & Measurement Management" >}}
+Samle og analysere nøkkelindikatorer for styring og kontinuerlig forbedring.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Risiko- og sikkerhetsstyring" capabilities="Kapabilitet: Risk & Security Management" >}}
+Kartlegge, overvåke og redusere operasjonell og informasjonsrisiko.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Kompetanseutvikling og onboarding" capabilities="Kapabiliteter: Workforce & Skills Management; Workforce Onboarding & Knowledge Transfer" >}}
+Tilby opplæring og grunnkurs for nye medarbeidere.
+{{< /team/responsibility-card >}}

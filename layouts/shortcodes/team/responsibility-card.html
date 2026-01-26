@@ -1,0 +1,19 @@
+{{ $title := .Get "title" }}
+{{ $capabilities := .Get "capabilities" }}
+{{ $description := .Inner | markdownify }}
+
+<div class="responsibility-card">
+  <div class="responsibility-card__header">
+    <h3 class="responsibility-card__title">{{ $title }}</h3>
+  </div>
+
+  <div class="responsibility-card__content">
+    {{ $description }}
+  </div>
+
+  {{ if $capabilities }}
+  <div class="responsibility-card__capabilities">
+    {{ $capabilities }}
+  </div>
+  {{ end }}
+</div>

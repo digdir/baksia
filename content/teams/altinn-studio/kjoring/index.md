@@ -14,7 +14,6 @@ weight: 3
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5425986?v=4" name="Martin Othamar" role="Backend, Konsulent ,Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/22139553?v=4" name="Viveca Krishnamoorthi" role="Interaksjonsdesigner, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/4520175?v=4" name="Bjørn-Ingar Bergum" role="UX Designer, Konsulent, Oslo">}}
 
 {{< /team/members >}}
 

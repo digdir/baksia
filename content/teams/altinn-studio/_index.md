@@ -22,7 +22,7 @@ tags:
 {{< team/members title="Roller på tvers av squads" slack_url="https://digdir.slack.com/archives/C0760NPT2BE" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5430430?v=4" name="Ronny Birkeli" role="Produkteier - strategisk, Fast, Leikanger" >}}
 {{< team/github-profile url="" name="Nina Kylstad" role="Produkteier - operativt, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master, Fast,  Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Agil Coach, Fast,  Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend, Team-arkitekt, Konsulent, Oslo">}}{{< team/github-profile url="https://avatars.githubusercontent.com/u/5425986?v=4" name="Martin Othamar" role="Backend, Team-arkitekt, Konsulent ,Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/100292724?v=4" name="Anniken Kjos Bråthen" role="Design lead, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/111488506?v=4" name="Gørild Døhl" role="Innholdsdesigner, Fast, Oslo">}}

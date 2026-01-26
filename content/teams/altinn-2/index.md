@@ -23,7 +23,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/28589510?v=4" name="Henning Normann" role="Infrastruktur, Ytelse, 50%, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Georg Bjørkliås" role="Infrastruktur, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U077U3WN8RJ-fda368369db2-512" name="Rune Marhaug" role="Infrastruktur, Fast, Oslo">}}
-{{< team/github-profile url=https://avatars.githubusercontent.com/u/56019927?v=4 name="Remi Løvoll" role="Backend, 15%, Konsulent, Oslo">}}
+{{< team/github-profile url=https://avatars.githubusercontent.com/u/56019927?v=4 name="Remi Løvoll" role="Backend, 15%, Fast, Oslo">}}
 {{< team/github-profile url="" name="Tom-Sverre Hageland" role="Backend, 100%, Konsulent, Oslo" >}}
 {{< team/github-profile url=https://avatars.githubusercontent.com/u/99019701?v=4 name="Ragnar Fatland" role="Backend, 100%, Konsulent,  Oslo">}}
 {{< team/github-profile url=https://avatars.githubusercontent.com/u/89203237?v=4 name="Simon Ellefsen" role="Backend, 10%, Fast,  Oslo">}}
