@@ -1,22 +1,19 @@
-{{- $title := .Get "title" -}}
-{{- $capabilities := .Get "capabilities" -}}
-{{- $description := .Inner | markdownify -}}
+{{ $title := .Get "title" }}
+{{ $capabilities := .Get "capabilities" }}
+{{ $description := .Inner | markdownify }}
 
 <div class="responsibility-card">
   <div class="responsibility-card__header">
-    <h3 class="responsibility-card__title">{{- $title -}}</h3>
+    <h3 class="responsibility-card__title">{{ $title }}</h3>
   </div>
 
   <div class="responsibility-card__content">
-    {{- $description -}}
+    {{ $description }}
   </div>
 
-  {{- if $capabilities -}}
+  {{ if $capabilities }}
   <div class="responsibility-card__capabilities">
-    <span>Kapabiliteter: </span>
-    https://digdir.atlassian.net/wiki/spaces/BAL/pages/3654189086/Fordeling+av+kapabiliteter+og+ansvar+HUKI+mellom+teamtyper
-      {{- $capabilities -}}
-    </a>
+    {{ $capabilities }}
   </div>
-  {{- end -}}
+  {{ end }}
 </div>
