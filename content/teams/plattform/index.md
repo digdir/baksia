@@ -28,7 +28,8 @@ tags:
 
 {{< /team/members >}}
 
-| **Ansvarsområder**              | **Beskrivelse**          | **Kapabiliteter**                                                                 |
-|-----------------------------|-------------------|---------------------------------------------------------------------------------|
-| **Red Hat OpenShift-plattformen**         | Utvikle, drifte og vedlikeholde Kubernetes/OpenShift-plattformen med tilhørende støttetjenester, i samarbeid med driftspartner.              | |
+{{< team/responsibilities title="Våre ansvarsområder" >}}
 
+{{< team/responsibility-card title="Red Hat OpenShift-plattformen" capabilities="Kapabiliteter: Infrastructure Management; Cloud Service Management; Toolchain Integration & DevOps Enablement" >}}
+Utvikle, drifte og vedlikeholde Kubernetes/OpenShift-plattformen med tilhørende støttetjenester, i samarbeid med driftspartner.
+{{< /team/responsibility-card >}}
