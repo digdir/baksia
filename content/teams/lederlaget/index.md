@@ -36,22 +36,6 @@ tags:
 
 {{< /team/members >}}
 
-{{< team/responsibilities title="Ansvarsområder for teamet" >}}
-
-Kommunisere samfunnsoppdraget og implementere virksomhetsplanen for dette.
-
-Tydeliggjøre mål(OKR) og strategier for vår linje(avdeling) og produktorganisasjon.
-
-Bygge en brukerorientert, resultatorientert og datadrevet kultur, som høster innsikt før beslutningstaking og hvor kontinuerlig forbedring er i fokus. 
-
-Bygge en robust, skalerbar og fleksibel produktorganisering basert på Team Topologies og DevOps, og som leverer bærekraftig resultater for samfunnet (våre kunder). Herunder utøve støtte i form av god personaloppfølging og kompetanseutvikling for våre medarbeidere.
-
-Eskaleringspunkt for Tilretteleggings-team.
-
-Etablere og utvikle økonomiske og regulatoriske rammebetingelser for avdelingen.
-
-Rapportering internt i Digdir og til DFD.
-
 {{< team/responsibilities title="Møteplass for teamet" >}}
 
 Ledermøter tirsdager: Fokus på Leveranser i linja, program og prosjekt.
@@ -61,4 +45,41 @@ Ledermøter fredager: Fokus på Produktorganisering(transformasjon av avdelingen
 Månedlig ledermøter med leverandøravdelingene BOD og FEL: Fokus på felles produktstrategier, OKR, samlinger (DevOpsDays), markedsaktiviteter og konferanser for våre kunder.
 
 [Gå til Styringsinformasjon](/brukeropplevelse-og-datadeling/styringsinformasjon/)
+
+
+{{< team/responsibilities title="Overordnet ansvar for" >}}
+
+{{< team/responsibility-card title="Kommunisere samfunnsoppdraget og implementere virksomhetsplanen" capabilities="Kapabiliteter: Strategy & Portfolio Management; Governance, Policy & Compliance Management" >}}
+Sikre at organisasjonen jobber i tråd med samfunnsoppdraget og strategiske mål, og at virksomhetsplanen er implementert.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Tydeliggjøre mål (OKR) og strategier" capabilities="Kapabiliteter: Strategy & Portfolio Management" >}}
+Definere og kommunisere mål og strategier for linje og produktorganisasjon, og følge opp progresjon.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Bygge en brukerorientert, datadrevet kultur" capabilities="Kapabiliteter: Performance & Measurement Management; Customer Experience Management" >}}
+Fremme kultur for innsikt, kontinuerlig forbedring og resultatorientert arbeid.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Bygge robust produktorganisering (Team Topologies og DevOps)" capabilities="Kapabiliteter: DevOps Enablement; Organization & Workforce Management" >}}
+Etablere en skalerbar og fleksibel organisering som støtter DevOps og smidige prinsipper.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Personaloppfølging og kompetanseutvikling" capabilities="Kapabiliteter: Workforce & Skills Management; Workforce Onboarding & Knowledge Transfer" >}}
+Sikre god oppfølging av medarbeidere og utvikling av kompetanse for å møte fremtidige behov.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Eskaleringspunkt for Tilretteleggingsteam" capabilities="Kapabiliteter: Incident & Problem Management" >}}
+Håndtere eskalerte saker og støtte teamene i kritiske situasjoner.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Etablere økonomiske og regulatoriske rammebetingelser" capabilities="Kapabiliteter: Financial Management; Governance, Policy & Compliance Management" >}}
+Utvikle og vedlikeholde rammer for økonomi og compliance i avdelingen.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Rapportering internt og til DFD" capabilities="Kapabiliteter: Performance & Measurement Management; Reporting & Analytics" >}}
+Utarbeide rapporter for styring og oppfølging av leveranser og økonomi.
+{{< /team/responsibility-card >}}
+``
+
 
