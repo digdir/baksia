@@ -27,6 +27,8 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
+Team juridisk har et omfattende ansvar for å sikre juridisk etterlevelse på mange områder. Gjennom juridisk rådgivning og oppfølging bidrar teamet til å sikre at produktene er forsvarlige, sikre og i samsvar med offentlighetens interesser. Teamet skal håndtere både spesifikke rettslige problemstillinger knyttet til fellesløsningene (produktene) og generell etterlevelse av regelverk. I tillegg gir teamet juridisk rådgivning til ledelsen og øvrige om daglige spørsmål som berører drift, forvaltning og utvikling, slik at virksomheten kan ta gode beslutninger basert på juridiske vurderinger.
+
 {{< team/responsibility-card title="Personvern og etterlevelse" capabilities="Kapabiliteter: Risk & Security Management; Governance, Policy & Compliance Management" >}}
 Sikre at produkter og tjenester følger GDPR og nasjonale personvernregler, inkludert rettslig grunnlag og sikkerhetstiltak.
 {{< /team/responsibility-card >}}
