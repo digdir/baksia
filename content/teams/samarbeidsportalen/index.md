@@ -27,8 +27,11 @@ tags:
 
 {{< /team/members >}}
 
-{{< team/responsibilities title="Ansvarsområde" >}}
 
-- [Samarbeidsportalen](https://samarbeid.digdir.no/)
-- Status.Digdir
-- [Statistikksidene for fellesløsningene](https://samarbeid.digdir.no/statistikk/statistikk/15)
+{{< team/responsibilities title="Ansvarsområder" >}}
+
+{{< team/responsibility-card title="Samarbeidsportalen" capabilities="Kapabiliteter: Collaboration & Content Management; Customer Experience Management" >}}
+Forvalte og oppdatere [Samarbeidsportalen](https://samarbeid.digdir.no/) som hovedinformasjonskanal mot virksomheter som tar i bruk fellesløsningene, med fokus på brukervennlighet og tilgjengelighet.
+- Se [statistikksidene for fellesløsningene](https://samarbeid.digdir.no/statistikk/statistikk/15)
+- Se [Status.Digdir](https://status.digdir.no/) - status på våre fellesløsninger
+{{< /team/responsibility-card >}}
