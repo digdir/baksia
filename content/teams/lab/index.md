@@ -31,11 +31,24 @@ tags:
 {{< /team/members >}}
 
 
-## KI-caser som vi jobber med nå
+{{< team/responsibilities title="KI-caser som vi jobber med nå" >}}
 
-- Agenter for tjenesteutvikling i [Altinn Studio](https://docs.altinn.studio/nb/altinn-studio/v8/about/)
-- [Kunnskapsassistenten](https://www.digdir.no/innovasjon/kunnskapsassistenten/7088), basert på dataene i [Kudos](https://kudos.dfo.no/)
-- KI og dokumentasjon. Klarspråk og tone, oversetting, review, automatisering
-- Diverse RAG-baserte assistenter
-- Gjenbrukbare komponenter basert på [designsystemet.no](https://www.designsystemet.no/)
-- AI-champions
+{{< team/responsibility-card title="Utforske bruk av generativ KI i produkter og tjenester" capabilities="Kapabiliteter: Innovation Management; Product Development Management" >}}
+Undersøke og eksperimentere med hvordan generativ AI kan forbedre produkter, tjenester og fellesløsninger.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Utvikling av KI-caser ([Altinn Studio](https://docs.altinn.studio/nb/altinn-studio/v8/about/), [Kunnskapsassistenten](https://www.digdir.no/innovasjon/kunnskapsassistenten/7088), RAG-assistenter)" capabilities="Kapabiliteter: Requirement Management; Product Design & Development Management" >}}
+Implementere og teste konkrete KI-løsninger som agenter, assistenter og automatisering basert på organisasjonens data.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Klarspråk, tone og automatisering" capabilities="Kapabiliteter: Customer Experience Management; Collaboration & Content Management" >}}
+Bruke KI til å forbedre språk, oversettelser og automatisere prosesser for bedre brukeropplevelse.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Gjenbrukbare komponenter basert på [Designsystemet](http://designsystemet.no)" capabilities="Kapabiliteter: Architecture Management; Toolchain Integration & DevOps Enablement" >}}
+Utvikle komponenter som kan brukes på tvers av løsninger for å sikre konsistens og effektivitet.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="AI-champions" capabilities="Kapabiliteter: Workforce & Skills Management; Knowledge & Information Management" >}}
+Bygge kompetanse og kultur for KI-bruk i organisasjonen gjennom opplæring og ambassadørroller.
+{{< /team/responsibility-card >}}
