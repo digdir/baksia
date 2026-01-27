@@ -25,47 +25,38 @@ tags:
 
 {{< /team/members >}}
 
-
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-Team juridisk har et omfattende ansvar for å sikre juridisk etterlevelse på mange områder. Gjennom juridisk rådgivning og oppfølging bidrar teamet til å sikre at produktene er forsvarlige, sikre og i samsvar med offentlighetens interesser. Teamet skal håndtere både spesifikke rettslige problemstillinger knyttet til fellesløsningene (produktene) og generell etterlevelse av regelverk. I tillegg gir teamet juridisk rådgivning til ledelsen og øvrige om daglige spørsmål som berører drift, forvaltning og utvikling, slik at virksomheten kan ta gode beslutninger basert på juridiske vurderinger.
+{{< team/responsibility-card title="Personvern og etterlevelse" capabilities="Kapabiliteter: Risk & Security Management; Governance, Policy & Compliance Management" >}}
+Sikre at produkter og tjenester følger GDPR og nasjonale personvernregler, inkludert rettslig grunnlag og sikkerhetstiltak.
+{{< /team/responsibility-card >}}
 
-**Noen aktuelle ansvarsområder:**
+{{< team/responsibility-card title="Personvernvurderinger og DPIA" capabilities="Kapabiliteter: Risk & Security Management" >}}
+Gjennomføre konsekvensutredninger og risikovurderinger for personvern, samt innføre tiltak for å minimere risiko.
+{{< /team/responsibility-card >}}
 
-**Personvern og etterlevelse** 
-- Datahåndtering: Sikre at produktene er i tråd med personvernforordningen (GDPR) og nasjonale personvernregler, inkludert å sikre at rettslig grunnlag og nødvendige sikkerhetstiltak er på plass for all behandling av personopplysninger.
-- Personvernvurderinger og DPIA: Gjennomføring av personvernvurderinger og konsekvensutredninger for personvern for å vurdere risikoen for enkeltpersoners rettigheter og friheter, samt sørge for at nødvendige tiltak er innført for å minimere risikoer. Løpende analyser og personvernvurderinger ved endringer i hvordan data behandles eller måten produktet fungerer på
-- Databehandleravtaler: Utarbeidelse og kontroll av databehandleravtaler med eksterne leverandører, andre virksomheter mv.
-- Personvernerklæringer: Utvikle og vedlikeholde personvernerklæringer
-- Dokumentasjon og retningslinjer: Bidra til å utarbeide interne retningslinjer og rutiner, samt sikre veiledning til brukere, kunder mv. relatert til våre produkter
+{{< team/responsibility-card title="Databehandleravtaler og personvernerklæringer" capabilities="Kapabiliteter: Supplier & Contract Management; Governance, Policy & Compliance Management" >}}
+Utarbeide og vedlikeholde avtaler og erklæringer som regulerer behandling av personopplysninger.
+{{< /team/responsibility-card >}}
 
-**Regelanalyser og regelverksutvikling**
-- Kartlegging og tolkning av gjeldende regelverk som berører utvikling og bruk av våre produkter. Forstå hvordan ulike regler påvirker arbeidet vårt og hvordan lov- og forskriftskrav kan gjennomføres i praksis.
-- Risikovurdering og gap-analyser
-- Konkrete anbefalinger for etterlevelse
-- Deltakelse i lov- og forskriftsarbeid, herunder ansvar for å sikre nødvendig rettslig grunnlag for våre fellesløsninger og virksomhet.
-- Høringsuttalelser til nye lov- og forskriftsforslag
-- Veiledning og opplæring
-- Etablering av kontrollmekanismer
-- Tilpasninger i produkt, avtaler eller kontrakter 
+{{< team/responsibility-card title="Dokumentasjon og retningslinjer" capabilities="Kapabiliteter: Knowledge & Information Management; Governance, Policy & Compliance Management" >}}
+Utvikle interne rutiner og retningslinjer for juridisk etterlevelse og veiledning til brukere og kunder.
+{{< /team/responsibility-card >}}
 
-**Bruksvilkår**
-- Utarbeidelse av bruksvilkår for kunder, sluttbrukerleverandører og private virksomheter
-- Oppdatering og revisjon når for eksempel regelverk, behov eller produkter endrer seg
-- Tilrettelegging for prosesser for potensiell tvisteløsning
-- Intern veiledning og opplæring
+{{< team/responsibility-card title="Regelanalyser og regelverksutvikling" capabilities="Kapabiliteter: Governance, Policy & Compliance Management" >}}
+Kartlegge og tolke gjeldende regelverk, delta i lovarbeid og utarbeide høringsuttalelser.
+{{< /team/responsibility-card >}}
 
-**Informasjonssikkerhet og beredskap**
-- Bidrar til etterlevelse av regelverkskrav i våre produkter,  spesielt for å sikre at personopplysninger og annen sensitiv informasjon håndteres trygt
-- Støtte og juridisk bistand ved hendelser og sikkerhetsbrudd
+{{< team/responsibility-card title="Bruksvilkår" capabilities="Kapabiliteter: Supplier & Contract Management" >}}
+Utarbeide og oppdatere bruksvilkår for kunder og leverandører, inkludert tilpasninger ved endringer i regelverk eller produkter.
+{{< /team/responsibility-card >}}
 
-**Anskaffelser**
-- Planlegging og strategisk rådgivning
-- Bidrar i utforming av konkurransegrunnlag og gjennomføring av konkurranse
-- Risikohåndtering
-- Kontraktsutforming
-- Veiledning, opplæring og oppfølging
+{{< team/responsibility-card title="Informasjonssikkerhet og beredskap" capabilities="Kapabiliteter: Risk & Security Management; Incident & Problem Management" >}}
+Sikre at produkter oppfyller regelverkskrav for håndtering av personopplysninger og sensitiv informasjon, samt støtte ved sikkerhetsbrudd.
+{{< /team/responsibility-card >}}
 
-
+{{< team/responsibility-card title="Anskaffelser og kontraktsutforming" capabilities="Kapabiliteter: Supplier & Contract Management; Governance, Policy & Compliance Management" >}}
+Gi juridisk støtte i anskaffelsesprosesser, utforming av konkurransegrunnlag og kontrakter.
+{{< /team/responsibility-card >}}
 
 
