@@ -33,30 +33,24 @@ tags:
 {{< /team/products >}}
 
 
-## Ansvarsområder
+{{< team/responsibilities title="Ansvarsområder" >}}
 
-**Regnskap og budsjett**
--	Attestering
--	Kontroll og oppfølging av regnskap i BOD, inkludert omposteringer
--	Budsjettoppfølging og avvikskontroll
+{{< team/responsibility-card title="Regnskap og budsjett" capabilities="Kapabiliteter: Financial Management; Governance, Policy & Compliance Management" >}}
+Kontroll og oppfølging av regnskap i BOD, inkludert omposteringer, attestering og budsjettstyring.
+{{< /team/responsibility-card >}}
 
-**Rapportering**
--	Rapportering på prosjekter og drift
--	Utarbeidelse av prognoser 
--	Deltakelse i Digdirs økonomikontaktteam
+{{< team/responsibility-card title="Rapportering" capabilities="Kapabiliteter: Performance & Measurement Management; Reporting & Analytics" >}}
+Utarbeide rapporter for prosjekter og drift, inkludert prognoser og avviksanalyser.
+{{< /team/responsibility-card >}}
 
-**Prosjektstyring**
--	Støtte produkteiere og ledelse i prognostisering og oppfølging 
--	Oppfølging av timeregnskap for avdelingens prosjekter 
+{{< team/responsibility-card title="Prosjektstyring" capabilities="Kapabiliteter: Project & Portfolio Management; Financial Management" >}}
+Støtte produkteiere og ledelse med prognoser, timeregnskap og økonomisk oppfølging av prosjekter.
+{{< /team/responsibility-card >}}
 
-**Fakturering**
--	Fakturering av tjenesteeiere jf. Samarbeidsavtalens bilag 4
--	Avregning av tjenesteeierfinansiering ved årsslutt
--	Fakturering av andre etatsfinansierte prosjekter
--	Internfakturering
+{{< team/responsibility-card title="Fakturering" capabilities="Kapabiliteter: Financial Management; Supplier & Contract Management" >}}
+Fakturering av tjenesteeiere, avregning ved årsslutt og internfakturering av prosjekter.
+{{< /team/responsibility-card >}}
 
-**Rutineutvikling**
--	Tilpasse og implementere styrings- og rapporteringsstruktur
--	Etablere metodikk og rutiner for bruk i linjen og kontroll av disse
--	Intern kravstiller før oppstart og oppfølging av ressursbruk
--	Høringsinstans for saksfremlegg med merkantilt innhold i BOD
+{{< team/responsibility-card title="Rutineutvikling" capabilities="Kapabiliteter: Governance, Policy & Compliance Management; Process Management" >}}
+Etablere og implementere styrings- og rapporteringsstruktur, samt metodikk for kontroll og ressursbruk.
+{{< /team/responsibility-card >}}
