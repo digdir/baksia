@@ -1,6 +1,6 @@
 ---
 title: KITT
-ingress: Gi en beskrivelse av teamet oppgaver basert på mandat
+ingress: Gi en beskrivelse av teamet oppgaver basert på mandat.
 
 navigation_link:
   title: Teamleder
