@@ -31,15 +31,25 @@ tags:
     
 {{< team/responsibilities title="Våre ansvarsområder" >}}
 
-{{< team/responsibility-card title="KI-tilrettelegging (AI Enablement)" capabilities="Kapabiliteter: AI Enablement; Capability Building; AI Lifecycle Support" >}}
+{{< team/responsibility-card
+  title="KI-tilrettelegging"
+  capabilities="Kapabiliteter: KI-tilrettelegging; Kompetansebygging; Støtte gjennom KI-livsløpet"
+>}}
 Tilrettelegge for trygg, effektiv og verdiskapende KI-bruk i BOD ved å gjøre KI-adopsjon enkel og tilgjengelig for alle roller. KITT bygger KI-kompetanse, utvikler praktiske rammeverk (bl.a. prompt- og RAG-prinsipper, evalueringssjekklister og veiledning for agent vs. assistent), gir støtte til team i deres KI-arbeid og etablerer og støtter et nettverk av KI-champions. Målet er å senke terskelen for ansvarlig bruk av KI i teamenes arbeidshverdag.
 {{< /team/responsibility-card >}}
 
-{{< team/responsibility-card title="KI-styring (AI Governance)" capabilities="Kapabiliteter: AI Governance; Risk, Security & Compliance Management; AI FinOps" >}}
-Sikre at bruk av KI i BOD er etisk, trygg og i tråd med Digdirs policyer, retningslinjer og regelverk – uten å bremse teamenes fremdrift. KITT oversetter føringer til praktisk bruk, støtter risikoklassifisering og vurderinger, bygger sikkerhet og personvern inn i designfasen, bidrar til KI FinOps-forståelse og dokumenterer samt deler risikovurderinger og beste praksis. KITT opprettholder situasjonsbevissthet om KI-bruk i BOD.
+{{< team/responsibility-card
+  title="KI-styring"
+  capabilities="Kapabiliteter: KI-styring; Risiko-, sikkerhets- og etterlevelsesstyring; KI-kostnadsstyring"
+>}}
+Sikre at bruk av KI i BOD er etisk, trygg og i tråd med Digdirs policyer, retningslinjer og regelverk – uten å bremse teamenes fremdrift. KITT oversetter føringer til praktisk bruk, støtter risikoklassifisering og vurderinger, bygger sikkerhet og personvern inn i designfasen, bidrar til forståelse av kostnader og forbruk knyttet til KI, og dokumenterer samt deler risikovurderinger og beste praksis. KITT opprettholder situasjonsbevissthet om KI-bruk i BOD.
 {{< /team/responsibility-card >}}
 
-{{< team/responsibility-card title="KI-innovasjon (AI Innovation)" capabilities="Kapabiliteter: Experimentation Frameworks; Cross-team Collaboration; Innovation Enablement" >}}
+{{< team/responsibility-card
+  title="KI-innovasjon"
+  capabilities="Kapabiliteter: Trygg eksperimentering; Samarbeid på tvers av team; Innovasjonsstøtte"
+>}}
 Legge til rette for eksperimentering, læring og samarbeid på tvers av BOD. KITT etablerer rammeverk for trygg eksperimentering med tydelige kriterier, støtter deling av ideer og erfaringer, og bidrar til samarbeid internt og med andre etater. Målet er å utforske nye bruksområder for KI og støtte forbedring av arbeidsprosesser, uten å eie eller drive produktleveranser.
 {{< /team/responsibility-card >}}
+
 
