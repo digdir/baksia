@@ -27,11 +27,25 @@ tags:
 
 {{< /team/members >}}
 
-{{< team/responsibilities title="Ansvarsområde" >}}
 
-- Kundehenvendelser
-    - Oppfølging av kunder og leverandører via e-post, telefon og møter
-- Teknisk dokumentasjon på Digdir Docs
-- Forvaltning og videreutvikling av Microsoft Dynamics CRM
-- Ansvarlig for intern dokumentasjon for fellesløsningene i Confluence
+{{< team/responsibilities title="Våre ansvarsområder" >}}
 
+{{< team/responsibility-card title="Kundehenvendelser" capabilities="Kapabiliteter: Request & Fulfillment Management; Service Desk & Operation Desk" >}}
+Håndtere og følge opp henvendelser fra kunder og leverandører via e-post, telefon og møter, for å sikre god og effektiv kundebehandling.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Oppfølging av kunder og leverandører" capabilities="Kapabiliteter: Customer Experience Management; Supplier & Contract Management" >}}
+Være hovedkontaktpunkt for kunder og leverandører som bruker fellesløsningene, og sikre god kommunikasjon og relasjonsforvaltning.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Teknisk dokumentasjon på Digdir Docs" capabilities="Kapabilitet: Knowledge & Information Management" >}}
+Utarbeide og vedlikeholde teknisk dokumentasjon for fellesløsningene, slik at kunder, leverandører og interne team har tilgang til oppdatert teknisk dokumentasjon.
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Forvaltning og videreutvikling av Microsoft Dynamics CRM" capabilities="Kapabilitet: Application Lifecycle Management; Toolchain Integration & DevOps Enablement" >}}
+Administrere og optimalisere CRM-løsningen for å sikre effektiv kundebehandling, og god kundeopplevelse
+{{< /team/responsibility-card >}}
+
+{{< team/responsibility-card title="Intern dokumentasjon i Confluence" capabilities="Kapabiliteter: Knowledge & Information Management" >}}
+Sikre strukturert og oppdatert intern dokumentasjon for fellesløsningene, tilgjengelig relevante team.
+{{< /team/responsibility-card >}}
