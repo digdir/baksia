@@ -1,10 +1,11 @@
 ---
-title: KITT
-ingress: KITT-teamet skal..... - teamet er under etablering og ingress kommer.
+title: KI Tilretteleggingsteam
+ingress: KI-tilretteleggingsteamet (KITT) har som oppgave å gjøre det trygt, enkelt og verdiskapende for team i BOD å ta i bruk kunstig intelligens.  
+  Vi støtter team gjennom hele produktets livsløp – fra idé og utforsking til bruk, drift og avvikling – i tråd med Digdirs policy og retningslinjer for generativ KI.
 
 navigation_link:
   title: Teamleder
-  subtitle: 
+  subtitle: Roberto Carrera
 
 banner:
   image:
