@@ -20,15 +20,14 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C07PZUQFBS6" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/92986603?v=4" name="Bredo Swanberg" role="Prosjektleder, Fast, Oslo" >}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U08V0JAB542-8f055c7d46bc-512" name="Janne Øren Antonsen" role="Tjenesteeier, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/91191481?v=4" name="Cecilie Fjellsøy Lammering" role="Designer, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/3437949?v=4" name="Daniel Johansen" role="Fullstack, leder SW utvikling, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/15326741?v=4" name="Adi Dahl" role="Fullstack, Fast, Oslo" >}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U0988J48MCM-7f956f7ab639-512" name="Ellen Nøstvik Bakksjø" role="Frontend-ux, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/390839?v=4" name="Lars Olav Kjølstad" role="Fullstack, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/100407878?v=4" name="Thomas Østdahl" role="Fullstack, Konsulent, Oslo" >}}
-
+{{< team/github-profile url="" name="Kaja Solberg" role="Fullstack, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Espen Lønnkvist " role="Fullstack, Fast, Oslo" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
