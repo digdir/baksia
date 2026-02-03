@@ -20,10 +20,12 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/7873274?v=4" name="Roberto Carrera" role="Team leder og Fagansvarlig for KI" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/15326741?v=4" name="Adi Dahal" role="Teknisk leder for KI" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="KI-innovasjonsleder" >}}
-
-
+{{< team/members title="Virtuelt team">}}
 
 {{< /team/members >}}
+{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U076NU5QHTM-9e3c77456174-512" name="Ole Bay Hansen" role="Fag:Produkutvikling, Fast, Oslo" >}}
+
+
 {{< team/products title="Produkter" >}}
 {{< team/product-item title="Backlog for teamet" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/177/views/2" url_text="GitHub" >}}
 
