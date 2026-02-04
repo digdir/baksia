@@ -24,8 +24,8 @@ tags:
 
 {{< team/members title="Virtuelt team">}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U076NU5QHTM-9e3c77456174-512" name="Ole Bay Hansen" role="Fag:Produkutvikling, Fast, Oslo" >}}
-{{< /team/members >}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U06FR8Y4YRG-65f85e2a1b7b-512" name="Sebastian Duran" role="Fag:Plattformengineering, Fast, Oslo" >}}
+{{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
 {{< team/product-item title="Backlog for teamet" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/177/views/2" url_text="GitHub" >}}
