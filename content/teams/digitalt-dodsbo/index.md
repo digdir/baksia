@@ -26,8 +26,8 @@ tags:
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U0988J48MCM-7f956f7ab639-512" name="Ellen Nøstvik Bakksjø" role="Frontend-ux, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/390839?v=4" name="Lars Olav Kjølstad" role="Fullstack, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/100407878?v=4" name="Thomas Østdahl" role="Fullstack, Konsulent, Oslo" >}}
-{{< team/github-profile url="" name="Kaja Solberg" role="Fullstack, Fast, Oslo" >}}
-{{< team/github-profile url="" name="Espen Lønnkvist " role="Fullstack, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/22234792?v=4" name="Kaja Solberg" role="Fullstack, Fast, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/220122?v=4" name="Espen Lønnkvist " role="Fullstack, Fast, Oslo" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
