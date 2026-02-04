@@ -18,7 +18,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C0ABSL7TX7D" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/7873274?v=4" name="Roberto Carrera" role="Team leder og Fagansvarlig for KI" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/15326741?v=4" name="Adi Dahal" role="Teknisk leder for KI" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/15326741?v=4" name="Adi Dahl" role="Teknisk leder for KI" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="KI-innovasjonsleder" >}}
 {{< /team/members >}}
 
