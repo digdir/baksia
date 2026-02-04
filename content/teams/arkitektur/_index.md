@@ -31,7 +31,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Tilgangsinfo, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/2217340?v=4" name="Terje Holene" role="Core, Fast, Oslo" >}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U029FLZVANT-aca870f96b24-512" name="Vemund Gaukstad" role="Platform, Fast, Korgen" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/147068285?v=4" name="Wilhelm Schive" role="Portal, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/249298823?v=4" name="Alv Lia" role="Portal, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/277605?v=4" name="Erlend Oksvoll" role="data.altinn.no, Fast, Oslo" >}}
 {{< /team/members >}}
 
