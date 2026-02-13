@@ -26,7 +26,7 @@ tags:
     
 {{< team/responsibilities title="Våre ansvarsområder" >}}
 
-##Teamet skal##
+**Teamet skal**
 - Ha oversikt over tverrgående koordinering
 - Forvalte felles faglig beslutningslogg
 - Følge opp og vedlikeholde Digdir roadmap på overordnet nivå
@@ -36,6 +36,6 @@ tags:
 - Rådgi porteføljekontor, produktgruppeledere og seksjonsledere
 - Sørge for etterlevelse- og bidra til videreutvikling av produktleveransemodellen i Digdir
 - 
-##Teamet skal ikke##
+**Teamet skal ikke**
 - Sette strategisk retning. Dette settes av porteføljekontoret og produktgruppene
 - Drive koordinering mellom team som selv kan håndtere det
