@@ -35,7 +35,7 @@ tags:
 - Ha kjennskap til- og legge til rette for strategisk utvikling av produktene
 - Rådgi porteføljekontor, produktgruppeledere og seksjonsledere
 - Sørge for etterlevelse- og bidra til videreutvikling av produktleveransemodellen i Digdir
-- 
+
 **Teamet skal ikke**
 - Sette strategisk retning. Dette settes av porteføljekontoret og produktgruppene
 - Drive koordinering mellom team som selv kan håndtere det
