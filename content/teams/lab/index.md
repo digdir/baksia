@@ -23,7 +23,6 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, Fast, Hamar" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23278708?v=4" name="Nikolai Lunde" role="Utvikler, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/144219994?v=4" name="Nora Laeskogen" role="Utvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/227602849?v=4" name="Bjørn Lund-Sørensen" role="Jurist, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/71271458?v=4" name="Lars Hansen" role="Utvikler, Fast, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/148075168?v=4" name="Erling Hauan" role="Utvikler, Fast, Brønnøysund">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/2690292?v=4" name="Bjørn-Erik Strand" role="Plattform, 50%, Fast, Leikanger" >}}
