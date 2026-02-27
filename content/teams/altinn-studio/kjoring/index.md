@@ -11,9 +11,7 @@ weight: 3
 {{< team/members title="Medlemmer i squadet" slack_url="https://digdir.slack.com/archives/C0760NPT2BE" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/23359247?v=4" name="Mirko Sekulic" role="Backend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/24462611?v=4" name="Michael Queyrichon" role="Frontend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47412359?v=4" name="Bjørnar Østtveit" role="Frontend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/5425986?v=4" name="Martin Othamar" role="Backend, Konsulent ,Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/22139553?v=4" name="Viveca Krishnamoorthi" role="Interaksjonsdesigner, Fast, Oslo">}}
 
 {{< /team/members >}}
 
