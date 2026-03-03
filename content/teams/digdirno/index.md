@@ -22,7 +22,7 @@ tags:
 {{< team/github-profile url="" name="Sture Dingsøyr" role="Tech Lead, Leikanger" >}}
 {{< team/github-profile url="" name="Jens Mo" role="Utvikler, Leikanger" >}}
 {{< team/github-profile url="" name="Vilde Førre" role="Grafisk Designer, Leikanger" >}}
-{{< team/github-profile url="" name="Marte Leland" role="Redaktør, Oslo" >}}
+{{< team/github-profile url="" name="Marte Torsdatter Leland" role="Redaktør, Oslo" >}}
 
 {{< /team/members >}}
 
