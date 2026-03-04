@@ -39,7 +39,7 @@ Forvalte og oppdatere prosessdokumentasjon, retningslinjer og styrende dokumente
 {{< /team/responsibility-card >}}
 
 {{< team/responsibility-card title="Strategi og måloppfølging (OKR)" capabilities="Kapabilitet: Strategy & Portfolio Management" >}}
-Etablere, følge opp og samordne mål og nøkkelresultater på tvers av team.
+Etablere, følge opp og samordne mål og nøkkelresultater på tvers av team
 {{< /team/responsibility-card >}}
 
 {{< team/responsibility-card title="Kunnskapsforvaltning" capabilities="Kapabiliteter: Knowledge & Information Management; Configuration & Knowledge Management" >}}
