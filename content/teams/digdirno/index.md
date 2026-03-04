@@ -21,7 +21,7 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/13560642?v=4" name="Øyvind Thune" role="Design Lead, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/446545?v=4" name="Sture Dingsøyr" role="Tech Lead, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/97087448?v=4" name="Jens Mo" role="Utvikler, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/199069068?v=4" name="Vilde Førre" role="Grafisk Designer, Leikanger" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/199069068?v=4" name="Vilde Ylvisåker Førre" role="Grafisk Designer, Leikanger" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/217899321?v=4" name="Marte Torsdatter Leland" role="Redaktør, Oslo" >}}
 
 {{< /team/members >}}
