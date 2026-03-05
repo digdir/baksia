@@ -1,9 +1,9 @@
 ---
 title: Digital Gravferdsmelding
-Ingress: Teamet jobber for Statsforvalteren i Vestfold og Telemark og har som mål å digitalisere og forenkle skjemaer og prosesser i livshendelsen Dødsfall og arv. Hovedoppgaven fremover er skjemaene for gravferd og dødsbo.
+Ingress: Teamet jobber for Statsforvalteren i Vestfold og Telemark og har som mål å digitalisere og forenkle skjemaer og prosesser i livshendelsen Dødsfall og arv. Hovedoppgaven fremover er skjemaeet og prosessen rundt Digital Gravferdsmelding.
 
 navigation_link:
-  title: Teamleder
+  title: Koordinator
   subtitle: Dirk Lammering
 
 banner:
