@@ -14,6 +14,8 @@ Seksjonen er en av to seksjoner som er ansvarlig for å bygge og styrke organisa
 
 Seksjonsleder: Hein Gabrielsen
 
+Gruppeleder gruppe 1: Hanne Lauritsen
+Gruppeleder gruppe 2: ikke avklart
 Gruppeleder TechSec: Hein Gabrielsen (fung)
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
