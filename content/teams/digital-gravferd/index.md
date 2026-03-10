@@ -18,12 +18,12 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C04PR2LBRDG" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="Koordinator Digdir, Fast, Oslo" >}}
-{{< team/github-profile url="https://www.digdir.no/sites/sogn/files/styles/xxs_3_4/public/2023-09/Ola%20Asp.jpg?itok=0LPvp5uu" name="Ola Asp" role="Prosjektleder fra Statsforvalteren i Vestfold og Telemark" >}}
-{{< team/github-profile url="" name="Ingvild Høst" role="Administrator fra Statsforvalteren i Vestfold og Telemark" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/146046388?v=4" name="Ola Asp" role="Prosjektleder fra Statsforvalteren i Vestfold og Telemark" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/253012139?v=4" name="Ingvild Høst" role="Administrator fra Statsforvalteren i Vestfold og Telemark" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/1867146?v=4" name="Aleks Gisvold" role="Agil Coach, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/938091?v=4" name="Morten Foshaug" role="Tech lead, Backend, Konsulent, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/4062582?v=4" name="Christer Rustand" role="Backend, Konsulent, Oslo" >}}
-{{< team/github-profile url="" name="Kathrine Tangård" role="Designer, Konsulent, Oslo" >}}
+{{< team/github-profile url="https://avatars.githubusercontent.com/u/263923362?v=4" name="Kathrine Tangård" role="Designer, Konsulent, Oslo" >}}
 
 {{< /team/members >}}
 
