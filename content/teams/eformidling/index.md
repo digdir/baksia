@@ -25,9 +25,9 @@ tags:
 
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/29775060?v=4" name="Sture Domaas Førre" role="Produkteier/KRR, Leikanger" >}}
 
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/12180816?v=4" name="Johannes Molland" role="Teamleder/Utvikler, Leikanger" >}}
+  {{< team/github-profile url="https://avatars.githubusercontent.com/u/12180816?v=4" name="Johannes Molland" role="Teamleder/Utvikler (i permisjon til medio august 2026), Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/5196432?s=96&v=4" name="Lars Bårdgard Åstveit" role="Utvikler/security-champion, Leikanger" >}}
-  {{< team/github-profile url="" name="Håvard England" role="Utvikler, Leikanger" >}}
+  {{< team/github-profile url="" name="Håvard England" role="Utvikler/fungerende teamleder frem til medio august 2026, Leikanger" >}}
   {{< team/github-profile url="" name="Joachim Hagheim" role="Utvikler / Quality-champion, Leikanger" >}}
   {{< team/github-profile url="" name="Randi Eggum" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/1426570?v=4" name="Thore Johnsen" role="Utvikler, Oslo" >}}
