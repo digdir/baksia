@@ -25,10 +25,8 @@ tags:
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/216859398?v=4" name="Kristiane Kolshus" role="Frontend, Fast, Oslo">}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U07AN0C47T5-69ea743376f7-512" name="Eirik Lillebo" role="Frontend, Fast, Oslo">}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U0A6RTFDQ5U-e361017f19a6-512" name="Hassan Alam" role="Backend, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/430997?v=4" name="Jeff Reiffers" role="Fullstack, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/50194012?v=4" name="Nils Ove Tendenes" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/8625716?v=4" name="Hans Olav Sund" role="DevOps-ingeniør, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32481947?v=4" name="Erling Johansen" role="Fullstack, Konsulent, Oslo">}}
 {{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U0A6S2XEYLE-573c056e326c-512" name="Øyvind Julsrud" role="Frondend/Fullstack, Konsulent, Oslo">}}
 
 
