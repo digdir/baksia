@@ -16,7 +16,7 @@ tags:
 - stream-aligned
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C04PR2LBRDG" slack_url_text="Slack-kanal for teamet">}}
+{{< team/members title="Medlemmer i teamet"slack_url="https://digdir.slack.com/archives/C079AJR3KDH" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="Koordinator Digdir, Fast, Oslo" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/146046388?v=4" name="Ola Asp" role="Prosjektleder fra Statsforvalteren i Vestfold og Telemark" >}}
 {{< team/github-profile url="https://avatars.githubusercontent.com/u/253012139?v=4" name="Ingvild Høst" role="Administrator fra Statsforvalteren i Vestfold og Telemark" >}}
@@ -28,9 +28,7 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="GitHub">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="" url_text="GitHub" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="GitHub" >}}
+{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="https://github.com/orgs/Altinn/projects/170/views/4" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
