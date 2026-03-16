@@ -26,7 +26,7 @@ tags:
   {{< team/github-profile url="" name="Anne Marte Hjemås" role="Utvikler, Oslo" >}}
   {{< team/github-profile url="" name="Sigvald Høyheim" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="" name="Rune Melhus" role="Utvikler, Oslo" >}}
-  {{< team/github-profile url="h" name="Aase Mestad" role="Utvikler, Oslo" >}}
+  {{< team/github-profile url="" name="Aase Mestad" role="Utvikler, Oslo" >}}
 
   {{< team/github-profile url="" name="Linesh Raghawan" role="Testutvikler, Leikanger" >}}
 
