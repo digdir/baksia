@@ -19,10 +19,10 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/50205992?v=4" name="Hanne Lauritsen" role="Scrum master" >}}
-{{< team/github-profile url=https://avatars.githubusercontent.com/u/86382095?v=4 name="Dan Remi Mørk " role="Sponsor i PLM " >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/80898170?v=4" name="Reidun Milde" role="" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/71013993?v=4" name="Tage Bryn" role="Arkitekt" >}}
+{{< team/github-profile url="" name="Hanne Lauritsen" role="Scrum master" >}}
+{{< team/github-profile url="" name="Dan Remi Mørk " role="Sponsor i PLM " >}}
+{{< team/github-profile url="" name="Reidun Milde" role="" >}}
+{{< team/github-profile url="" name="Tage Bryn" role="Arkitekt" >}}
 
 
 {{< /team/members >}}
