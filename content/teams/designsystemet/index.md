@@ -18,13 +18,13 @@ tags:
 
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://join.slack.com/t/designsystemet/shared_invite/zt-2438eotl3-a4266Vd2IeqMWO8TBw5PrQ" slack_url_text="Bli med i Slack for teamet" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/1464915?v=4" name="Marianne Røsvik" role="Produkteier, Fast, Stavanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/1070981?v=4" name="Michael Marszalek" role="Tech lead, frontend, Fast, Stavanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/33222679?v=4" name="Lasse Febakke Straum" role="Design Lead, Fast, Oslo" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/13560642?v=4" name="Øyvind Thune" role="Design og Frontend, Fast, Leikanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/14057205?v=4" name="Tobias Barsnes" role="Frontend, Fast, Leikanger" >}}
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/849222?v=4" name="Frank Dahle" role="UU-spesialist, Fast, Brønnøysund" >}}  
-  {{< team/github-profile url="https://avatars.githubusercontent.com/u/4499531?v=4" name="Oddbjørn Øvernes" role="Frontend, Konsulent, Bergen" >}}  
+  {{< team/github-profile url="" name="Marianne Røsvik" role="Produkteier, Fast, Stavanger" >}}
+  {{< team/github-profile url="" name="Michael Marszalek" role="Tech lead, frontend, Fast, Stavanger" >}}
+  {{< team/github-profile url="" name="Lasse Febakke Straum" role="Design Lead, Fast, Oslo" >}}
+  {{< team/github-profile url="" name="Øyvind Thune" role="Design og Frontend, Fast, Leikanger" >}}
+  {{< team/github-profile url="" name="Tobias Barsnes" role="Frontend, Fast, Leikanger" >}}
+  {{< team/github-profile url="" name="Frank Dahle" role="UU-spesialist, Fast, Brønnøysund" >}}  
+  {{< team/github-profile url="" name="Oddbjørn Øvernes" role="Frontend, Konsulent, Bergen" >}}  
   {{< team/github-profile url="" name="" role="" >}}
 
 Andre etater som er en del av teamet

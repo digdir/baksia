@@ -16,7 +16,7 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/123467801?v=4" name="Camilla Wold" role="Prosjektleder" >}}
+{{< team/github-profile url="" name="Camilla Wold" role="Prosjektleder" >}}
 {{< team/github-profile url="" name="Petter Vinje" role="Prosjektdeltaker" >}}
 
 

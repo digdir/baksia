@@ -20,19 +20,19 @@ tags:
 
 {{< team/members title="Medlemmer" slack_url="https://digdir.slack.com/archives/C07A822E9PT" slack_url_text="Slack-kanal for teamet">}}
 
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, Fast, Hamar" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Dialogporten/Arbeidsflate, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Altinn Studio, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/28589510?v=4" name="Henning Normann" role="Migrering av data, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/40996230?v=4" name="Jon-Kjetil Øye" role="Tilgangsstyring, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/43232700?v=4" name="Kurt Stian Fagerbakk" role="data.norge.no, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5425986?v=4" name="Martin Othamar" role="Apps, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/36594318?v=4" name="Roar Mjelde" role="Melding og Formidling, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/13309071?v=4" name="Rune T. Larsen" role="Tilgangsinfo, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/2217340?v=4" name="Terje Holene" role="Core, Fast, Oslo" >}}
-{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U029FLZVANT-aca870f96b24-512" name="Vemund Gaukstad" role="Platform, Fast, Korgen" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/249298823?v=4" name="Alv Lia" role="Portal, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/277605?v=4" name="Erlend Oksvoll" role="data.altinn.no, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Eirik Mikkelsen" role="Sjefsarkitekt, Fast, Hamar" >}}
+{{< team/github-profile url="" name="Bjørn Langfors" role="Dialogporten/Arbeidsflate, Fast, Brønnøysund" >}}
+{{< team/github-profile url="" name="David Øvrelid" role="Altinn Studio, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Henning Normann" role="Migrering av data, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Jon-Kjetil Øye" role="Tilgangsstyring, Konsulent, Oslo" >}}
+{{< team/github-profile url="" name="Kurt Stian Fagerbakk" role="data.norge.no, Fast, Brønnøysund" >}}
+{{< team/github-profile url="" name="Martin Othamar" role="Apps, Konsulent, Oslo" >}}
+{{< team/github-profile url="" name="Roar Mjelde" role="Melding og Formidling, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Rune T. Larsen" role="Tilgangsinfo, Konsulent, Oslo" >}}
+{{< team/github-profile url="" name="Terje Holene" role="Core, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Vemund Gaukstad" role="Platform, Fast, Korgen" >}}
+{{< team/github-profile url="" name="Alv Lia" role="Portal, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Erlend Oksvoll" role="data.altinn.no, Fast, Oslo" >}}
 {{< /team/members >}}
 
 ## Kapabiliteter og ansvarsområder

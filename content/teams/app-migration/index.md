@@ -17,16 +17,16 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C077SDN5TT5" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/29474941?v=4" name="Elin Walstrand" role="Produkteier, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/49443711?v=4" name="Aina Engen" role="Agile coach, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/75472603?v=4" name="Andreas Didriksen" role="Tjenesteutvikler, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/65394379?v=4" name="Tony Grimstad" role="Tjenesteutvikler, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/56260049?v=4" name="Per Bergsjø Andresen" role="Tjenesteutvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/143729834?v=4" name="Filippa Walden" role="Tjenesteutvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/150332945?v=4" name="Tina Ahmedpanah " role="Tjenesteutvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/44813032?v=4" name="Erlend Håkegård " role="Tjenesteutvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/89572427?v=4" name="Siri Esteri Berg-Johnsen " role="Tjenesteutvikler, Trainee, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/115708173?v=4" name="Fabian Ugedal " role="Tjenesteutvikler, Trainee, Brønnøysund">}}
+{{< team/github-profile url="" name="Elin Walstrand" role="Produkteier, Fast, Brønnøysund" >}}
+{{< team/github-profile url="" name="Aina Engen" role="Agile coach, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Andreas Didriksen" role="Tjenesteutvikler, Fast, Brønnøysund" >}}
+{{< team/github-profile url="" name="Tony Grimstad" role="Tjenesteutvikler, Fast, Brønnøysund" >}}
+{{< team/github-profile url="" name="Per Bergsjø Andresen" role="Tjenesteutvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Filippa Walden" role="Tjenesteutvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Tina Ahmedpanah " role="Tjenesteutvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Erlend Håkegård " role="Tjenesteutvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Siri Esteri Berg-Johnsen " role="Tjenesteutvikler, Trainee, Brønnøysund">}}
+{{< team/github-profile url="" name="Fabian Ugedal " role="Tjenesteutvikler, Trainee, Brønnøysund">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}

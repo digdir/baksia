@@ -20,10 +20,10 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C079ZFUTY5N" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/277605?v=4" name="Erlend Oksvoll" role="Produkteier, backend, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/82439090?v=4" name="Hanne Brun" role="Scrum master, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/177205336?v=4"  name="Sondre Jahrsengene" role="Backend, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/36265446?v=4"  name="Pernille Hofgaard" role="Backend, Fast, Oslo">}}
+{{< team/github-profile url="" name="Erlend Oksvoll" role="Produkteier, backend, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Hanne Brun" role="Scrum master, Fast, Brønnøysund" >}}
+{{< team/github-profile url=""  name="Sondre Jahrsengene" role="Backend, Fast, Oslo">}}
+{{< team/github-profile url=""  name="Pernille Hofgaard" role="Backend, Fast, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
