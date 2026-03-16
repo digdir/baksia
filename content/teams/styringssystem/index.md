@@ -3,7 +3,7 @@ title: Koordinering
 ingress: Team Koordinering skal legge til rette for å synliggjøre sammenhenger i avdelingen, med tanke på hvilke verktøy som benyttes i utførelsen og organiseringen av arbeid i avdelingen. Teamet følger opp at alle team dokumenterer sine prosesser og ansvarsområder helhetlig på Baksia, ved hjelp av årshjul og ad hoc rutiner. Se [teamets mandat, ansvarsområder og rollebeskrivelse](https://digdir.sharepoint.com/:p:/r/sites/DigdirDGT/_layouts/15/Doc.aspx?sourcedoc=%7B90C5B872-7F48-454C-B973-F2F3D50A5749%7D&file=Rollebeskrivelse%20Koordinering%20team%20og%20teamleder.pptx&action=edit&mobileredirect=true)
 
 navigation_link:
-  title: Teamleder - test2
+  title: Teamleder
   subtitle: Snorre Torgeir Egedal Aakerø
 
 banner:
@@ -18,9 +18,9 @@ tags:
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C077SDNDHR9" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="" name="Snorre Torgeir Egedal Aakerø" role="Teamleder" >}}
 {{< team/github-profile url="" name="Arild Hansten" role="Risikostyring" role="Scrum master">}}
-{{< team/github-profile url="" name="Tina Moe" role="" >}}
-{{< team/github-profile url="" name="Børre Hovstøl" role="" >}}
-{{< team/github-profile url="" name="Wenche Fylken" role="" >}}
+{{< team/github-profile url="" name="Tina Moe" role="Team-medlem" >}}
+{{< team/github-profile url="" name="Børre Hovstøl" role="Team-medlem" >}}
+{{< team/github-profile url="" name="Wenche Fylken" role="Team-medlem" >}}
 {{< team/github-profile url="" name="Ellen-Marie Nerdal" role="Dokumentasjonsforvalter" >}}
 
 {{< /team/members >}}
