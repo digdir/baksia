@@ -21,7 +21,7 @@ tags:
 {{< team/github-profile url="" name="Ole Gunnar Hoddø" role="Support lead" >}}
 {{< team/github-profile url="" name="Lars Vegard Bachmann" role="Customer Success Manager (CSM)" >}}
 {{< team/github-profile url="" name="Erling Laugen" role="Customer Success Manager (CSM)" >}}
-{{< team/github-profile url=" name="Vilde Aga Stixrud" role="Customer Success Manager (CSM)" >}}
+{{< team/github-profile url="" name="Vilde Aga Stixrud" role="Customer Success Manager (CSM)" >}}
 {{< team/github-profile url="" name="Hanne Lauritsen" role="Incident og Problem Manager, Fast,  Oslo" >}}
 {{< team/github-profile url="" name="Tommy Almendingen" role="Infrastruktur" >}}
 {{< team/github-profile url="" name="Ernst Jonny Lyngøy" role="Utvikler">}}
