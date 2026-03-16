@@ -20,8 +20,6 @@ Hvem som helst kan komme med innspill og ønsker til teamene. Dette gjør du ved
 
 Hvis du er usikker på hvilket team du bør ta kontakt med så kan du spør i **[#general](https://altinn.slack.com/archives/CCQEQKGJD)** kanalen på Slack eller noen du møter i gangen.
 
-[Gå til team oversikten](/teams/)
-
 
 ## Følg fremgangen
 
