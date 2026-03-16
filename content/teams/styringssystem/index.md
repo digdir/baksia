@@ -17,7 +17,7 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C077SDNDHR9" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="" name="Snorre Torgeir Egedal Aakerø" role="Teamleder" >}}
-{{< team/github-profile url="h" name="Arild Hansten" role="Risikostyring" role="Scrum master">}}
+{{< team/github-profile url="" name="Arild Hansten" role="Risikostyring" role="Scrum master">}}
 {{< team/github-profile url="" name="Tina Moe" role="Team-medlem" >}}
 {{< team/github-profile url="" name="Børre Hovstøl" role="Team-medlem" >}}
 {{< team/github-profile url="" name="Wenche Fylken" role="Team-medlem" >}}
