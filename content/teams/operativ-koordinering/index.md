@@ -16,10 +16,10 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C0A7K55JXUJ" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Midl. Teamleder og Sjefsdesigner, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Dybvik Langfors" role="Midl. Løsningsansvarlig, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt, Fast, Hamar" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/25979569?v=4" name="Knut Halvor Larsen" role="Virksomhetsarkitekt, Konsulent" >}}
+{{< team/github-profile url="" name="Sigurd Sæther Sørensen" role="Midl. Teamleder og Sjefsdesigner, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Bjørn Dybvik Langfors" role="Midl. Løsningsansvarlig, Fast, Brønnøysund" >}}
+{{< team/github-profile url="" name="Eirik Mikkelsen" role="Sjefsarkitekt, Fast, Hamar" >}}
+{{< team/github-profile url="" name="Knut Halvor Larsen" role="Virksomhetsarkitekt, Konsulent" >}}
 {{< team/github-profile url="" name="Erik Klevar" role="Fasilitator , Konsulent" >}}
 
 {{< /team/members >}}

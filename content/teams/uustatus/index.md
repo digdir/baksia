@@ -18,11 +18,11 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="" slack_url_text="">}}
 
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/59232443?v=4" name="Dag Ove Eggum" role="Produkteier, Leikanger" >}}
-{{< team/github-profile url="https://www.uutilsynet.no/sites/tilsyn/files/styles/xxxs_1_1/public/2023-01/Malin%20%C3%98%20ute%20%282%29.jpg?itok=Eb2NtnhW" name="Malin Øvrebø" role="Design lead, Leikanger" >}}   
+{{< team/github-profile url="" name="Dag Ove Eggum" role="Produkteier, Leikanger" >}}
+{{< team/github-profile url="" name="Malin Øvrebø" role="Design lead, Leikanger" >}}   
 {{< team/github-profile url="" name="Knut Moen" role="Tech lead, Leikanger" >}}
 
-{{< team/github-profile url="https://www.uutilsynet.no/sites/tilsyn/files/styles/xxxs_1_1/public/2023-10/CPO%20fb%2C%20lav.jpg?itok=uFlpYK85" name="Cathrine von Porat" role="Qualitative User Insights, Leikanger" >}}
+{{< team/github-profile url="" name="Cathrine von Porat" role="Qualitative User Insights, Leikanger" >}}
 {{< team/github-profile name="Sara Mundal Aase" role="Quantitative User Insights, Leikanger" >}}
 
 {{< /team/members >}}

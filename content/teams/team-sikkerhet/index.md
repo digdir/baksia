@@ -17,7 +17,7 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/174705941?v=4" name="Hein Gabrielsen" role="Teamleder" >}}
+{{< team/github-profile url="" name="Hein Gabrielsen" role="Teamleder" >}}
 {{< /team/members >}}
 
 ## Produkter
