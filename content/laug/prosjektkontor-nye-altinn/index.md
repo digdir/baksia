@@ -20,17 +20,17 @@ tags:
 {{< team/github-profile url="" name="Kristoffer V. Pedersen" role="Prosjektleder og -koordinator" >}}
 {{< team/github-profile url="" name="Eirik Mikkelsen" role="Sjefsarkitekt" >}}
 {{< team/github-profile url="" name="Naila Raza" role="Test" >}}
-{{< team/github-profile url="" name="Magnus Jensen Fuglerud" role="Ytelsestest, Testkoordinator, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Dagfinn Olsen" role="Ytelsestest, Konsulent, Oslo" >}}
-{{< team/github-profile url="" name="Trude H. Arnes" role="Kommunikasjon/marked" >}}
-{{< team/github-profile url="" name="Lars Vegard Bachmann" role="Kommunikasjon/marked" >}}
-{{< team/github-profile url="" name="Erling Laugen" role="Kommunikasjon/marked" >}}
-{{< team/github-profile url="" name="Caroline Lunde" role="Kommunikasjon/marked" >}}
+{{< team/github-profile url="" name="Trude H. Arnes" role="Kommunikasjon (i foreldrepermisjon)" >}}
+{{< team/github-profile url="" name="Lars Vegard Bachmann" role="Kommunikasjon/innføring" >}}
+{{< team/github-profile url="" name="Erling Laugen" role="Kommunikasjon/innføring" >}}
+{{< team/github-profile url="" name="Maria V. Myhre" role="Kommunikasjon/innføring" >}}
 {{< team/github-profile url="" name="Arild E. Hansten" role="Risikostyring" >}}
-{{< team/github-profile url="" name="Benedicte Olsen Sørli" role="Jurist" >}}
+{{< team/github-profile url="" name="Benedicte Olsen Sørli" role="Jurist (i foreldrepermisjon)" >}}
 {{< team/github-profile url="" name="Snorre Aakerø" role="Planverk og rutiner" >}}
 {{< team/github-profile url="" name="Are Bendiksen" role="Controller" >}}
 {{< team/github-profile url="" name="Hanne Lauritsen" role="Prosjektstøtte" >}}
+{{< team/github-profile url="" name="Erik Klevar" role="Prosjektstøtte/innføring" >}}
 {{< /team/members >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
