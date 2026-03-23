@@ -27,6 +27,7 @@ tags:
   {{< team/github-profile url="" name="Oddbjørn Øvernes" role="Frontend, Konsulent, Bergen" >}}  
   {{< team/github-profile url="" name="" role="" >}}
 
+<br/>
 Andre etater som er en del av teamet
   {{< team/github-profile url="" name="" role="" >}}
   {{< team/github-profile url="" name="" role="" >}}
