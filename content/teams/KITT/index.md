@@ -17,15 +17,15 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C0ABSL7TX7D" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/7873274?v=4" name="Roberto Carrera" role="Team leder og Fagansvarlig for KI" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/15326741?v=4" name="Adi Dahl" role="Teknisk leder for KI" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/92978788?v=4" name="Dirk Lammering" role="KI-innovasjonsleder" >}}
+{{< team/github-profile url="" name="Roberto Carrera" role="Team leder og Fagansvarlig for KI" >}}
+{{< team/github-profile url="" name="Adi Dahl" role="Teknisk leder for KI" >}}
+{{< team/github-profile url="" name="Dirk Lammering" role="KI-innovasjonsleder" >}}
 {{< /team/members >}}
 
 {{< team/members title="Virtuelt team">}}
-{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U076NU5QHTM-9e3c77456174-512" name="Ole Bay Hansen" role="Fag:Produkutvikling, Fast, Oslo" >}}
-{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U06FR8Y4YRG-65f85e2a1b7b-512" name="Sebastian Duran" role="Fag:Plattformengineering, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/227562831?v=4" name="Eira Marie Sunniva Bjerkeng Scherjon" role="Fag:UX/design, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Ole Bay Hansen" role="Fag:Produkutvikling, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Sebastian Duran" role="Fag:Plattformengineering, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Eira Marie Sunniva Bjerkeng Scherjon" role="Fag:UX/design, Fast, Oslo" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
