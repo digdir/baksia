@@ -20,7 +20,6 @@ tags:
 {{< team/github-profile url="" name="Nathalie Froissart" role="OKR Ambassadør, Fast,  Oslo" >}}
 {{< team/github-profile url="" name="Arild Hansten " role="OKR Ambassadør, Fast, Brønnøysund">}}
 {{< team/github-profile url="" name="Siri-Anna Zahl Kristiansen" role="OKR Ambassadør, fast, Brønnøysund" >}}
-{{< team/github-profile url="" name="Vilde Aga Stixrud" role="OKR Ambassadør, Fast, Brønnøysund" >}}
 {{< team/github-profile url="" name="Tony Grimstad" role="OKR Ambassadør, Fast, Brønnøysund" >}}
 {{< team/github-profile url="" name="Lars Göran Andersson " role="OKR Ambassadør, Fast, Brønnøysund">}}
 {{< /team/members >}}
