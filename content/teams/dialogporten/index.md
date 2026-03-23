@@ -19,15 +19,15 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C079XRZ4PQU" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/3617256?v=4" name="Livar Bergheim" role="Produkteier, Fast, Leikanger">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/723303?v=4" name="Bjørn Langfors" role="Team-arkitekt, backend, 50%, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5285192?v=4" name="Magnus Sandgren " role="Backend, Konsulent, Hamar">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5313373?v=4" name="Ole-Jørgen Skogstad" role="Backend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/154342485?v=4" name="Knut Haug" role="Backend, Fast, Oslo">}}
+{{< team/github-profile url="" name="Livar Bergheim" role="Produkteier, Fast, Leikanger">}}
+{{< team/github-profile url="" name="Bjørn Langfors" role="Team-arkitekt, backend, 50%, Fast, Brønnøysund" >}}
+{{< team/github-profile url="" name="Magnus Sandgren " role="Backend, Konsulent, Hamar">}}
+{{< team/github-profile url="" name="Ole-Jørgen Skogstad" role="Backend, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Knut Haug" role="Backend, Fast, Oslo">}}
 {{< team/github-profile url="" name="Amund Myrbostad" role="Backend, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/13656769?v=4" name="Kaj André Venjum" role="Backend, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/5707874?v=4" name="Mats Jørgensen" role="Backend, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U07RTN3JBT4-95fd35376fce-512" name="Leif Kristian Helstad" role="Test- og QA-ansvarlig, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Kaj André Venjum" role="Backend, Fast, Brønnøysund">}}
+{{< team/github-profile url="" name="Mats Jørgensen" role="Backend, Fast, Brønnøysund">}}
+{{< team/github-profile url="" name="Leif Kristian Helstad" role="Test- og QA-ansvarlig, Konsulent, Oslo">}}
 
 {{< /team/members >}}
 

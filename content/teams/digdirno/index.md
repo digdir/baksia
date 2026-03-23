@@ -17,12 +17,12 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="" slack_url_text="">}}
 
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/256302525?v=4" name="Wanda Smalsundmo" role="Produkteier, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/13560642?v=4" name="Øyvind Thune" role="Design Lead, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/446545?v=4" name="Sture Dingsøyr" role="Tech Lead, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/97087448?v=4" name="Jens Mo" role="Utvikler, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/199069068?v=4" name="Vilde Ylvisåker Førre" role="Grafisk Designer, Leikanger" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/217899321?v=4" name="Marte Torsdatter Leland" role="Redaktør, Oslo" >}}
+{{< team/github-profile url="" name="Wanda Smalsundmo" role="Produkteier, Brønnøysund" >}}
+{{< team/github-profile url="" name="Øyvind Thune" role="Design Lead, Leikanger" >}}
+{{< team/github-profile url="" name="Sture Dingsøyr" role="Tech Lead, Leikanger" >}}
+{{< team/github-profile url="" name="Jens Mo" role="Utvikler, Leikanger" >}}
+{{< team/github-profile url="" name="Vilde Ylvisåker Førre" role="Grafisk Designer, Leikanger" >}}
+{{< team/github-profile url="" name="Marte Torsdatter Leland" role="Redaktør, Oslo" >}}
 
 {{< /team/members >}}
 

@@ -21,12 +21,12 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/35563205?v=4" name="Frank-Robert Sveinsbø" role="Porteføljestyrer" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/6088624?v=4" name="Eirik Mikkelsen" role="Sjefsarkitekt" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/47210425?v=4" name="Tor Arild Sunnevåg" role="Produktgruppeleder datadeling" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/85931131?v=4" name="Hanne Hofsæth Fredheim" role="Produktgruppeleder portaler og brukeropplevelse" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/97158464?v=4" name="Finnur Sigurvinsson Olafsson" role="Produktgruppeleder tjenesteutvikling" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32162632?v=4" name="Sigurd Sæther Sørensen" role="Sjefsdesigner" >}}
+{{< team/github-profile url="" name="Frank-Robert Sveinsbø" role="Porteføljestyrer" >}}
+{{< team/github-profile url="" name="Eirik Mikkelsen" role="Sjefsarkitekt" >}}
+{{< team/github-profile url="" name="Tor Arild Sunnevåg" role="Produktgruppeleder datadeling" >}}
+{{< team/github-profile url="" name="Hanne Hofsæth Fredheim" role="Produktgruppeleder portaler og brukeropplevelse" >}}
+{{< team/github-profile url="" name="Finnur Sigurvinsson Olafsson" role="Produktgruppeleder tjenesteutvikling" >}}
+{{< team/github-profile url="" name="Sigurd Sæther Sørensen" role="Sjefsdesigner" >}}
 
 {{< /team/members >}}
 

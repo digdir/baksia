@@ -9,17 +9,17 @@ weight: 2
 ---
 
 {{< team/members title="Medlemmer i squadet" slack_url="https://digdir.slack.com/archives/C0760NPT2BE" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/74791975?v=4" name="Lars Walderhaug" role="Frontend, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/90609090?v=4" name="Jamal Alabdullah" role="Frontend, Fast, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/46874830?v=4" name="David Øvrelid" role="Frontend, Team-arkitekt, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/131464883?v=4" name="Philip Johannes Bruvoll" role="Frontend, Team-arkitekt, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/700139?v=4" name="Ole Martin Handeland" role="Frontend, Konsulent, Stavanger">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/32294735?v=4" name="Magnus Revheim Martinsen" role="Frontend, Fast, Oslo">}}
-{{< team/github-profile url="https://ca.slack-edge.com/TNSQ6Q0KG-U076GKFBZ7V-9ad998f0ff19-512" name="Jonas Dyrlie" role="Frontend og backend, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/143729834?v=4" name="Filippa Walden" role="Tjenesteutvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/100292724?v=4" name="Anniken Kjos Bråthen" role="Utvikler, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/70377508?v=4" name="Olav Friisberg Larssen" role="Interaksjonsdesigner, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/111488506?v=4" name="Gørild Døhl" role="Innholdsdesigner, Fast, Oslo">}}
+{{< team/github-profile url="" name="Lars Walderhaug" role="Frontend, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Jamal Alabdullah" role="Frontend, Fast, Oslo" >}}
+{{< team/github-profile url="" name="David Øvrelid" role="Frontend, Team-arkitekt, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Philip Johannes Bruvoll" role="Frontend, Team-arkitekt, Fast, Oslo">}}
+{{< team/github-profile url="" name="Ole Martin Handeland" role="Frontend, Konsulent, Stavanger">}}
+{{< team/github-profile url="" name="Magnus Revheim Martinsen" role="Frontend, Fast, Oslo">}}
+{{< team/github-profile url="" name="Jonas Dyrlie" role="Frontend og backend, Fast, Oslo">}}
+{{< team/github-profile url="" name="Filippa Walden" role="Tjenesteutvikler, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Anniken Kjos Bråthen" role="Utvikler, Fast, Oslo">}}
+{{< team/github-profile url="" name="Olav Friisberg Larssen" role="Interaksjonsdesigner, Fast, Oslo">}}
+{{< team/github-profile url="" name="Gørild Døhl" role="Innholdsdesigner, Fast, Oslo">}}
 
 
 {{< /team/members >}}
