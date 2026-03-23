@@ -19,10 +19,13 @@ tags:
 {{< team/github-profile url="" name="Miriam Høyheim Lægreid" role="Teamleder, FEL" >}}
 {{< team/github-profile url="" name="Solveig Kvame" role="FEL" >}}
 {{< team/github-profile url="" name="Erlend Husabø" role="FEL" >}}
-{{< team/github-profile url="" name="Elaine Svartis" role="BOD" >}}
+{{< team/github-profile url="" name="Vilde Aga Stixrud" role="BOD" >}}
 {{< team/github-profile url="" name="Frida Bekkestad Pedersen" role="FEL" >}}
 {{< team/github-profile url="" name="Linda Johansen" role="FEL" >}}
 {{< team/github-profile url="" name="Ragnhild Helen Rørvik" role="FEL" >}}
+{{< team/github-profile url="" name="Erling Laugen" role="BOD" >}}
+{{< team/github-profile url="" name="Lars Vegard Bachmann" role="BOD" >}}
+
 
 
 {{< /team/members >}}

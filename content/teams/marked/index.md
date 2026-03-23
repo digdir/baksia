@@ -3,7 +3,7 @@ title: Markedslaget
 Ingress: Markedslaget har hovedfokus på tiltak for utbredelse og bruk av fellesløsningene. Andre fagavdelinger i Digdir kan også be om støtte fra markedslaget.
 
 navigation_link:
-  title: Fagleder
+  title: Teamleder
   subtitle: Bodhild Therese Cirotzki
 
 banner:
