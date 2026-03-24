@@ -21,13 +21,13 @@ tags:
 {{< team/github-profile url="" name="Bård Basberg" role="Digital lommebok (FEL)" >}}
 {{< team/github-profile url="" name="Espen Slotvik" role="Datadeling, Portaler og brukeropplevelse (BOD)" >}}
 {{< team/github-profile url="" name="Frank Fardal" role="Tillitstjenester - Fullmaktsløsningen (FEL)" >}}
-{{< team/github-profile url="" name="Hilde Kristin Storvig" role="Leverandørmarked (BOD)" >}}
+{{< team/github-profile url="" name="Hilde Kristin Storvig" role="Leverandørmarked (FEL)" >}}
 {{< team/github-profile url="" name="Lars Vegard Bachmann" role="Moderniseringsprosjektet for Altinn (BOD)" >}}
 {{< team/github-profile url="" name="Linda Johansen" role="Brukerrådet og en-til-mange kommunikasjon (FEL)" >}}
 {{< team/github-profile url="" name="Mathias Flo" role="(FEL)" >}}
 {{< team/github-profile url="" name="Olav Skarsbø" role="Tillitstjenester/KAM helsesektoren (FEL/STL)" >}}
 {{< team/github-profile url="" name="Roy Horn" role="Tjenesteutvikling (BOD)" >}}
-{{< team/github-profile url="" name="Tone Alice Tveit Wankel" role="Tillitstjenester. Fullamkt (FEL)" >}}
+{{< team/github-profile url="" name="Tone Alice Tveit Wankel" role="Tillitstjenester. Fullmakt (FEL)" >}}
 {{< team/github-profile url="" name="Erling Laugen" role="Tjenesteutvikling moderniseringsprosjektet (BOD)" >}}
 
 
