@@ -13,7 +13,7 @@ banner:
 ---
 
 Risikostyring
-- Team Koordinering har overordnet ansvaret for kapabiliteten risikostyring i BOD.
+- Team Koordinering har det overordnet ansvaret for kapabiliteten risikostyring i BOD.
 - Arbeidet i team Koordinering består blant annet i å kontrollere at tiltakene i Risikoregisteret blir fulgt opp av teamene (se Risikostyring i BOD under BOD Felles i Confluence).
 - Ledelsen i BOD har utarbeidet en ROS virksomhetsstyring for 2026, den revideres en gang i tertialet (se Risikostyring i BOD under BOD Felles i Confluence).
 - I [Retningslinje for risikostyring](https://digdir.sharepoint.com/:b:/r/sites/RisikoBOD/Delte%20dokumenter/General/-UO--Retningslinje-for-risikostyring-v1.1.pdf?csf=1&web=1&e=1M9nX8) er det nærmere beskrevet hvordan avdelingen skal forholde seg til arbeidet med risiko.
