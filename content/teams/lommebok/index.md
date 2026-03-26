@@ -22,11 +22,11 @@ tags:
   {{< team/github-profile url="" name="Jørgen Binningsbø" role="Produkteier,  Leikanger" >}}
   {{< team/github-profile url="" name="Thor Kristian Sortevik" role="Driftsleder, Leikanger" >}}
   {{< team/github-profile url="" name="Brage Asperanden Navarsete" role="Forvalter, Leikanger" >}}
+  
   {{< team/github-profile url="" name="Aamund Bremer" role="Arkitekt, Leikanger" >}}
   {{< team/github-profile url="" name="Thomas Reppesgård" role="Utvikler, Sandefjord" >}}
   {{< team/github-profile url="" name="Randi Øyri" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="" name="Erik Teien Jarem" role="Utvikler, Leikanger" >}}
-  {{< team/github-profile url="" name="Anders Holst" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="" name="Solveig Langbakk" role="Utvikler, Leikanger" >}}
 
 {{< /team/members >}}
