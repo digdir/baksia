@@ -1,7 +1,7 @@
 ---
 title: Melding & Formidling
 linktitle: Melding & Formidling
-ingress: Team Melding & Formidling har ansvar for produktene *Melding* og *Formidling* både i Altinn 2 og Altinn 3.
+ingress: Team Melding & Formidling har ansvar for produktene *Melding* og *Formidling* i Altinn 3.
 
 navigation_link:
   title: Produkteier
@@ -24,7 +24,6 @@ tags:
 {{< team/github-profile url="" name="Martin Todorov" role="Fullstack, Fast, Oslo">}}
 {{< team/github-profile url="" name="Axel Ytterås" role="Fullstack, Fast, Brønnøysund">}}
 {{< team/github-profile url="" name="Magnus Hansen Åsheim" role="Fullstack, Fast, Brønnøysund">}}
-{{< team/github-profile url="" name="Marianne Saltnes" role="Behovsstiller, Fast, Brønnøysund" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
@@ -35,8 +34,6 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Drift av produktene i Altinn 2. Dette inkluderer feilrettinger og videreutvikling av både backend, frontend og dokumentasjon
-- Nyutvikling av produktene i Altinn 3 (backend, dokumentasjon)
-- Samarbeid med (kravhåndtering og informasjon) nåværende og fremtidige brukere
-- Drift av produktene i Altinn 3 når de er klare
+- Drift, forvaltning og videreutvikling av produktene i Altinn 3
+- Samarbeid med nåværende og fremtidige brukere (kravhåndtering og informasjon)
 - Selvgående DevOps-team med stort fokus på kvalitet i alle ledd
