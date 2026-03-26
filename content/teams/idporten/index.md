@@ -23,10 +23,12 @@ tags:
   {{< team/github-profile url="" name="Frank Hofslundsengen" role="Teamleder, Leikanger" >}}
   {{< team/github-profile url="" name="Solveig Kvame" role="Service Manager, Leikanger" >}}
   {{< team/github-profile url="" name="Eirik Hoem" role="Driftsleder, Leikanger" >}}
+  {{< team/github-profile url="" name="Steinar Noem" role="Løysingsarkitekt, Trondheim" >}}
+
   {{< team/github-profile url="" name="Anne Marte Hjemås" role="Utvikler, Oslo" >}}
   {{< team/github-profile url="" name="Sigvald Høyheim" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="" name="Rune Melhus" role="Utvikler, Oslo" >}}
-  {{< team/github-profile url="" name="Aase Mestad" role="Utvikler, Oslo" >}}
+  {{< team/github-profile url="" name="Nils-Jarle Haugen" role="Utvikler, Leikanger" >}}
 
   {{< team/github-profile url="" name="Linesh Raghawan" role="Testutvikler, Leikanger" >}}
 
