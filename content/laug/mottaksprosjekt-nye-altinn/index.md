@@ -4,7 +4,7 @@ Ingress: Teamet skal ha et overordnet blikk på roller og ansvar for å sikre at
 
 navigation_link:
   title: Prosjektleder
-  subtitle: Camilla Wold
+  subtitle: Dan Remi Mørk
 
 banner:
   image:
@@ -16,7 +16,7 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet">}}
-{{< team/github-profile url="" name="Camilla Wold" role="Prosjektleder" >}}
+{{< team/github-profile url="" name="Dan Remi Mørk" role="Prosjektleder" >}}
 {{< team/github-profile url="" name="Petter Vinje" role="Prosjektdeltaker" >}}
 
 
