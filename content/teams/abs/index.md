@@ -24,10 +24,8 @@ tags:
 {{< team/github-profile url="" name="Silvana F Torgersen" role="Kundeveileder" >}}
 {{< team/github-profile url="" name="Monica Arnesen" role="Kundeveileder" >}}
 {{< team/github-profile url="" name="Kristine Elisabeth Johansen" role="Kundeveileder" >}}
-{{< team/github-profile url="" name="Mathea Elise Lunde" role="Kundeveileder" >}}
 {{< team/github-profile url="" name="Elin Torgvær" role="Kundeveileder" >}}
 {{< team/github-profile url="" name="Herman Sefring" role="Kundeveileder" >}}
-{{< team/github-profile url="" name="Marianne Saltnes" role="Kundeveileder" >}}
 {{< team/github-profile url="" name="Sofie Mortensen Austerslått" role="Kundeveileder" >}}
 
 {{< /team/members >}}
