@@ -46,7 +46,3 @@ Bruke KI til å forbedre språk, oversettelser og automatisere prosesser for bed
 {{< team/responsibility-card title="Gjenbrukbare komponenter basert på [Designsystemet](http://designsystemet.no)" capabilities="Kapabiliteter: Architecture Management; Toolchain Integration & DevOps Enablement" >}}
 Utvikle komponenter som kan brukes på tvers av løsninger for å sikre konsistens og effektivitet.
 {{< /team/responsibility-card >}}
-
-{{< team/responsibility-card title="AI-champions" capabilities="Kapabiliteter: Workforce & Skills Management; Knowledge & Information Management" >}}
-Bygge kompetanse og kultur for KI-bruk i organisasjonen gjennom opplæring og ambassadørroller.
-{{< /team/responsibility-card >}}
