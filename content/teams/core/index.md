@@ -22,12 +22,12 @@ tags:
 {{< team/github-profile url="" name="Terje Holene" role="Team-arkitekt, Infrastruktur, Backend, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Thomas Bakken" role="Backend, Fast, Brønnøysund">}}
 {{< team/github-profile url="" name="Hallgeir Garnes-Gutvik" role="Fullstack-utvikler, Fast, Brønnøysund">}}
-{{< team/github-profile url="" name="Suhasini Narasimharaj" role=" Backend, Fast, Oslo">}}
+{{< team/github-profile url="" name="Martin Vågseter Jakobsen" role="Fullstack-utvikler, Fast, Brønnøysund">}}
+{{< team/github-profile url="" name="Siri Esteri Berg-Johnsen" role="Utvikler, Trainee, Fast, Brønnøysund">}}
+{{< team/github-profile url="" name="Fabian Ugedal" role="Utvikler, Trainee, Fast, Brønnøysund">}}
 {{< team/github-profile url="" name="Ahmed Ghanam" role="Fullstack-utvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="" name="Henning Normann" role="Ytelse, 50%, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Sigrid Bratsberg" role=" Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Espen Gulbrandsen" role=" Backend, Konsulent, Oslo">}}
-{{< team/github-profile url="" name="Martin Vågseter Jakobsen" role="Fullstack-utvikler, Fast, Brønnøysund">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
