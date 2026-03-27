@@ -17,20 +17,20 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/CE5E06MC7" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/36295493?v=4" name="Ragnhild Tafjord" role="Produkteier, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/40996230?v=4" name="Jon-Kjetil Øye" role="Team-arkitekt, Backend, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/139115317?v=4" name="Siri-Anna Zahl Kristiansen" role="Agile Coach, Fast, Brønnøysund" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/22012997?v=4" name="Alexandra Vedeler" role="Frontend, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/2978840?v=4" name="Sondre Wittek" role="Frontend, Konsulent, Oslo" >}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/59682632?v=4" name="Ivar Tryti" role="Backend, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/17529876?v=4" name="Andreas Isnes Nilsen" role="Backend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/1001056?v=4" name="Marius Thuen" role="Backend, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/56019927?v=4" name="Remi Løvoll" role="Backend,Security Champion, Fast, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/36008713?v=4" name="Håvard Andersen" role="Backend, Security Champion, Konsulent, Oslo">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/103100644?v=4" name="Hanne Saltnes" role="Interaksjonsdesigner, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/94835837?v=4" name="Randi Mansæterbak" role="Interaksjonsdesigner, Fast, Brønnøysund">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/144321622?v=4" name="Mette Grytten" role="Design lead, Fast, Førde">}}
-{{< team/github-profile url="https://avatars.githubusercontent.com/u/113685460?v=4" name="Sneha Sirure" role="Test, Fast, Oslo">}}
+{{< team/github-profile url="" name="Ragnhild Tafjord" role="Produkteier, Fast, Brønnøysund" >}}
+{{< team/github-profile url="" name="Jon-Kjetil Øye" role="Team-arkitekt, Backend, Konsulent, Oslo" >}}
+{{< team/github-profile url="" name="Siri-Anna Zahl Kristiansen" role="Agile Coach, Fast, Brønnøysund" >}}
+{{< team/github-profile url="" name="Alexandra Vedeler" role="Frontend, Konsulent, Oslo" >}}
+{{< team/github-profile url="" name="Sondre Wittek" role="Frontend, Konsulent, Oslo" >}}
+{{< team/github-profile url="" name="Ivar Tryti" role="Backend, Fast, Oslo">}}
+{{< team/github-profile url="" name="Andreas Isnes Nilsen" role="Backend, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Marius Thuen" role="Backend, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Remi Løvoll" role="Backend,Security Champion, Fast, Oslo">}}
+{{< team/github-profile url="" name="Håvard Andersen" role="Backend, Security Champion, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Hanne Saltnes" role="Interaksjonsdesigner, Fast, Brønnøysund">}}
+{{< team/github-profile url="" name="Randi Mansæterbak" role="Interaksjonsdesigner, Fast, Brønnøysund">}}
+{{< team/github-profile url="" name="Mette Grytten" role="Design lead, Fast, Førde">}}
+{{< team/github-profile url="" name="Sneha Sirure" role="Test, Fast, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
