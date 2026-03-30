@@ -20,6 +20,8 @@ tags:
 {{< team/github-profile url="" name="Dirk Lammering" role="Koordinator Digdir, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Ola Asp" role="Prosjektleder fra Statsforvalteren i Vestfold og Telemark" >}}
 {{< team/github-profile url="" name="Ingvild Høst" role="Administrator fra Statsforvalteren i Vestfold og Telemark" >}}
+{{< team/github-profile url="" name="Bergljot Sunde" role="Driftskoordinator fra Statsforvalteren i Vestfold og Telemark" >}}
+{{< team/github-profile url="" name="Anne Karete Hvidsten" role="Forretningsutvikler fra Statsforvalteren i Vestfold og Telemark" >}}
 {{< team/github-profile url="" name="Aleks Gisvold" role="Agil Coach, Konsulent, Oslo" >}}
 {{< team/github-profile url="" name="Morten Foshaug" role="Tech lead, Backend, Konsulent, Oslo" >}}
 {{< team/github-profile url="" name="Christer Rustand" role="Backend, Konsulent, Oslo" >}}
