@@ -2,7 +2,7 @@
 title: Digitalt dødsbo
 linktitle: Digitalt dødsbo
 
-ingress: Prosjektet Oppgjør etter dødsfall kalt OED er et DSOP-samarbeidsprosjekt (Digital Samhandling Offentlig Privat) mellom Digitaliseringsdirektoratet, Brønnøysundregistrene, domstolene i Norge, finansnæringen (alle banker og forsikringsselskaper i Norge), Skatteetaten, Statens kartverk, Statens vegvesen og Landbruksdirektoratet. OED-prosjektet er det viktigste prosjektet i livshendelsen Dødsfall og arv – kalt DOA som er en av syv prioriterte livshendelser i digitaliseringsstrategien. OED realiserer et digitalt dødsbo (DD) som vil være arvingenes samlede informasjonskilde over avdødes formue og gjeld som automatisk samles inn i det digitale dødsboet. Arvingene kan derfor gjøre et mer informert valg om skifteform og unngå å påta seg et utilsiktet gjeldsansvar.
+ingress: Digitalt dødsbo gir arvinger veiledning og oversikt over registrerte opplysninger om den dødes verdier og gjeld/forpliktelser. Arvingene kan enkelt få oversikt over status på boet og bruke opplysningene til å ta et informert valg om skifteform. Digitalt dødsbo er en sammenhengende tjeneste som henter inn opplysninger fra både offentlige og private virksomheter. Første versjon er et samarbeid mellom Digitaliseringsdirektoratet, domstolene i Norge, Brønnøysundregistrene, finansnæringen (alle banker og forsikringsselskaper i Norge), Skatteetaten, Statens kartverk, Statens vegvesen og Landbruksdirektoratet.
 
 navigation_link:
 
@@ -22,7 +22,7 @@ tags:
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C07PZUQFBS6" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="" name="Janne Øren Antonsen" role="Tjenesteeier, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Cecilie Fjellsøy Lammering" role="Designer, Fast, Oslo" >}}
-{{< team/github-profile url="" name="Daniel Johansen" role="Fullstack, leder SW utvikling, Konsulent, Oslo" >}}
+{{< team/github-profile url="" name="Anne Førde Gaare" role="Jurist, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Ellen Nøstvik Bakksjø" role="Frontend-ux, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Lars Olav Kjølstad" role="Fullstack, Konsulent, Oslo" >}}
 {{< team/github-profile url="" name="Thomas Østdahl" role="Fullstack, Konsulent, Oslo" >}}
@@ -31,9 +31,7 @@ tags:
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Roadmap for produktet" subtitle="Roadmap" url="" url_text="GitHub">}}
-{{< team/product-item title="Hva inngår i sprinten" subtitle="Backlog for hva som pågår" url="" url_text="GiHhub" >}}
-{{< team/product-item title="Backlog" subtitle="Hold deg oppdatert her" url="" url_text="GitHub" >}}
+{{< team/product-item title="Roadmap og backlog for produktet" subtitle="Roadmap/Backlog" url="https://github.com/orgs/Altinn/projects/175" url_text="GitHub">}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
