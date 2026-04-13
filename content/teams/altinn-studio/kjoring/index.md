@@ -12,6 +12,7 @@ weight: 3
 {{< team/github-profile url="" name="Mirko Sekulic" role="Backend, Konsulent, Oslo" >}}
 {{< team/github-profile url="" name="Michael Queyrichon" role="Frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Martin Othamar" role="Backend, Konsulent ,Oslo" >}}
+{{< team/github-profile url="" name="Jonas Dyrlie" role="Frontend og backend, Fast, Oslo">}}
 
 {{< /team/members >}}
 
