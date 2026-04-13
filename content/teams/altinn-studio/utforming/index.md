@@ -15,7 +15,6 @@ weight: 2
 {{< team/github-profile url="" name="Philip Johannes Bruvoll" role="Frontend, Team-arkitekt, Fast, Oslo">}}
 {{< team/github-profile url="" name="Ole Martin Handeland" role="Frontend, Konsulent, Stavanger">}}
 {{< team/github-profile url="" name="Magnus Revheim Martinsen" role="Frontend, Fast, Oslo">}}
-{{< team/github-profile url="" name="Jonas Dyrlie" role="Frontend og backend, Fast, Oslo">}}
 {{< team/github-profile url="" name="Filippa Walden" role="Tjenesteutvikler, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Anniken Kjos Bråthen" role="Utvikler, Fast, Oslo">}}
 {{< team/github-profile url="" name="Olav Friisberg Larssen" role="Interaksjonsdesigner, Fast, Oslo">}}
