@@ -1,6 +1,6 @@
 {{- if (and .Title .Text)  -}}
   <figure>
-    <a href="{{ .Destination | safeURL }}">
+    <a class="ds-link" href="{{ .Destination | safeURL }}">
         <img class="img-fluid" src="{{ .Destination | safeURL }}"
         {{- with .Text }} alt="{{ . }}"{{ end -}}
         {{- with .Title }} title="{{ . }}"{{ end -}}
