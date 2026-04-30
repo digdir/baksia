@@ -28,6 +28,8 @@
     "prettier-plugin-go-template": "^0.0.15"
   },
   "dependencies": {
+    "@digdir/designsystemet-css": "^1.13.1",
+    "@digdir/designsystemet-web": "^1.13.1",
     "bootstrap": "^5.3.3"
   }
 }
