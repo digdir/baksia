@@ -1,0 +1,137 @@
+{{ define "main" }}
+  {{ $ingress := .Params.ingress | markdownify }}
+  {{ with resources.Get "sass/designsystemet-page.scss" }}
+    {{ $style := . | css.Sass (dict "targetPath" "designsystemet-page.css" "outputStyle" "compressed") | resources.Minify }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+  {{ end }}
+
+  <div class="component ds-team-page ds-team-page--hero">
+    {{ partial "components/breadcrumbs.html" . }}
+    <div class="container">
+      <section class="ds-team-page__hero-grid">
+        <div class="ds-team-page__hero-copy">
+          <span class="ds-tag ds-team-page__tag" data-variant="outline">Designsystemet.no</span>
+          <h1 class="ds-heading" data-size="2xl">{{ .Title }}</h1>
+          <div class="ds-team-page__lead">{{ $ingress }}</div>
+
+          <div class="ds-team-page__hero-actions">
+            {{ with .Params.links.website_url }}
+              <a class="ds-button" href="{{ . }}">{{ $.Params.links.website_url_text }}</a>
+            {{ end }}
+            {{ with .Params.links.slack_url }}
+              <a class="ds-button" data-variant="secondary" href="{{ . }}">{{ $.Params.links.slack_url_text }}</a>
+            {{ end }}
+          </div>
+        </div>
+
+        {{ with .Params.banner.image }}
+          {{ if .src }}
+            <div class="ds-team-page__hero-figure ds-card" data-variant="tinted">
+              <div class="ds-card__block">
+                {{ partial "components/image.html" (dict "context" . "image" .) }}
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+      </section>
+    </div>
+  </div>
+
+  <div class="component ds-team-page__content-shell">
+    <div class="container ds-team-page__content">
+      <section class="ds-team-page__section">
+        <div class="ds-team-page__section-header">
+          <h2 class="ds-heading" data-size="xl">Medlemmer i teamet</h2>
+          <p class="ds-paragraph" data-size="md">Kjerneteamet bygger, forvalter og videreutvikler Designsystemet i tett samarbeid med brukermiljøene.</p>
+        </div>
+
+        <div class="ds-team-page__member-grid">
+          {{ range .Params.members.core }}
+            <article class="ds-card" data-variant="tinted">
+              <div class="ds-card__block ds-team-page__member-card">
+                <span class="ds-avatar" data-size="lg" data-initials="{{ .initials }}"></span>
+                <div>
+                  <h3 class="ds-heading" data-size="sm">{{ .name }}</h3>
+                  <p class="ds-paragraph" data-size="sm">{{ .role }}</p>
+                  <p class="ds-paragraph ds-team-page__muted" data-size="xs">{{ .location }}</p>
+                </div>
+              </div>
+            </article>
+          {{ end }}
+        </div>
+      </section>
+
+      <section class="ds-team-page__section">
+        <div class="ds-team-page__section-header">
+          <h2 class="ds-heading" data-size="xl">Andre etater som er en del av teamet</h2>
+          <p class="ds-paragraph" data-size="md">Designsystemet utvikles som et fellesgode. Samarbeidet med andre virksomheter er en del av produktstrategien, ikke et tillegg.</p>
+        </div>
+
+        <div class="ds-team-page__member-grid ds-team-page__member-grid--compact">
+          {{ range .Params.members.collaborators }}
+            <article class="ds-card">
+              <div class="ds-card__block ds-team-page__member-card">
+                <span class="ds-avatar" data-size="md" data-initials="{{ .initials }}"></span>
+                <div>
+                  <h3 class="ds-heading" data-size="xs">{{ .name }}</h3>
+                  <p class="ds-paragraph" data-size="sm">{{ .role }}</p>
+                  <p class="ds-paragraph ds-team-page__muted" data-size="xs">{{ .location }}</p>
+                </div>
+              </div>
+            </article>
+          {{ end }}
+        </div>
+      </section>
+
+      <section class="ds-team-page__section">
+        <div class="ds-team-page__section-header">
+          <h2 class="ds-heading" data-size="xl">Produkter</h2>
+          <p class="ds-paragraph" data-size="md">Følg med på veikart, pågående arbeid og kildekode for Designsystemet.</p>
+        </div>
+
+        <div class="ds-team-page__product-grid">
+          {{ range .Params.products }}
+            {{ $itemId := anchorize .title }}
+            <article class="ds-card" data-clickdelegatefor="{{ $itemId }}">
+              <div class="ds-card__block">
+                <p class="ds-paragraph ds-team-page__eyebrow" data-size="xs">{{ .subtitle }}</p>
+                <h3 class="ds-heading" data-size="sm"><a id="{{ $itemId }}" class="ds-link" href="{{ .url }}">{{ .title }}</a></h3>
+                <a class="ds-button ds-team-page__product-link" data-variant="secondary" href="{{ .url }}">{{ .url_text }}</a>
+              </div>
+            </article>
+          {{ end }}
+        </div>
+      </section>
+
+      <section class="ds-team-page__section ds-team-page__two-column">
+        <article class="ds-card">
+          <div class="ds-card__block">
+            <h2 class="ds-heading" data-size="xl">Samstyringsmodell</h2>
+            <p class="ds-paragraph ds-team-page__intro" data-size="md">Det er etablert en samstyringsmodell med tre nivåer.</p>
+            <ol class="ds-team-page__stack-list">
+              {{ range .Params.governance }}
+                <li class="ds-card" data-variant="tinted">
+                  <div class="ds-card__block">
+                    <h3 class="ds-heading" data-size="sm">{{ .title }}</h3>
+                    <p class="ds-paragraph" data-size="sm">{{ .description }}</p>
+                  </div>
+                </li>
+              {{ end }}
+            </ol>
+          </div>
+        </article>
+
+        <article class="ds-card" data-variant="tinted">
+          <div class="ds-card__block">
+            <h2 class="ds-heading" data-size="xl">Ansvarsområder</h2>
+            <ul class="ds-list">
+              {{ range .Params.responsibilities }}
+                <li class="ds-paragraph" data-size="md">{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+        </article>
+      </section>
+    </div>
+  </div>
+{{ end }}
