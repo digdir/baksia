@@ -70,7 +70,7 @@ Confluence et verktøy for å samle, organisere og samarbeide om innhold, og det
 - Team i BOD som tar i bruk Confluence skal sørge for at det kun benyttes til <ins>**intern**</ins> dokumentasjon, som ikke er egnet eller klart for ekstern publisering.
 - Informasjonen som legges inn i Confluence er i utgangspunktet åpen for alle i Digdir som har en Confluence bruker og alle med bruker fra BOD har (lese)tilgang til alle BOD områder i Confluence.
 
-[Her finner du oppdatert rutine for Confluence](https://digdir.sharepoint.com/:f:/r/sites/DigdirDGT/Delte%20dokumenter/General/Rutiner,%20prosedyrer%20BOD?csf=1&web=1&e=eN3Utt)
+[Her finner du oppdatert rutine for opprettels av områder og sider, samnt bevaring og avhending i Confluence](https://digdir.atlassian.net/wiki/spaces/BF1/pages/4063199283/Bevaring+og+avhending?atlOrigin=eyJpIjoiYmYwNmNhODJlZGZhNDRmMGE5ZDI3ODdkNTAyM2MxZjAiLCJwIjoiYyJ9)
 
 {{< /verkt-infokanal/accordion >}}
 
@@ -187,11 +187,6 @@ Swarmia er et verktøy som integrerer med GitHub pull requests og deploys, for �
 - Webkonferanse
 - Chat (med kolleger og team)
 - Intranett
-
-{{< /verkt-infokanal/accordion >}}
-
-{{< verkt-infokanal/accordion title="Topdesk" >}}
-Verktøy som bla ServiceDesk og Altinn brukerstøtte bruker ifbm behandling av supportsaker.
 
 {{< /verkt-infokanal/accordion >}}
 
