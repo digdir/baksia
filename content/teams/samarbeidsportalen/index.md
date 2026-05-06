@@ -3,7 +3,7 @@ title: Samarbeidsportalen
 ingress: Samarbeidsportalen er informasjonskanalen fra Digitaliseringsdirektoratet ut mot virksomheter som skal ta eller har tatt fellesløsningene i bruk. Teamet forvalter Samarbeidsportalen og andre tilhørende kundeflater og har ansvar for at flatene til enhver tid er oppdatert og inneholder brukervennlig informasjon om fellesløsningene..
 
 navigation_link:
-  title: Teamleder
+  title: Produkteier
   subtitle: Miriam Høyheim Lægreid
 
 banner:
@@ -16,9 +16,9 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet">}}
-{{< team/github-profile url="" name="Miriam Høyheim Lægreid" role="Teamleder, FEL" >}}
+{{< team/github-profile url="" name="Miriam Høyheim Lægreid" role="Produkteier og redaktør, FEL" >}}
 {{< team/github-profile url="" name="Solveig Kvame" role="FEL" >}}
-{{< team/github-profile url="" name="Erlend Husabø" role="FEL" >}}
+{{< team/github-profile url="" name="Erlend Husabø" role="FEL (permisjon til 1. sept)" >}}
 {{< team/github-profile url="" name="Vilde Aga Stixrud" role="BOD" >}}
 {{< team/github-profile url="" name="Frida Bekkestad Pedersen" role="FEL" >}}
 {{< team/github-profile url="" name="Linda Johansen" role="FEL" >}}
