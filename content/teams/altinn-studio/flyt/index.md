@@ -13,7 +13,7 @@ weight: 1
 {{< team/github-profile url="" name="Bjørn-Tore Gjerde " role="Backend, Konsulent, Oslo" >}}
 {{< team/github-profile url="" name="Daniel Skovli" role="Backend, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Tobias Krogstad Netskar" role="Backend, Fast, Oslo" >}}
-{{< team/github-profile url="" name="Camilla Marie Dalan" role="FrontEnd, Konsulent,Oslo" >}}
+
 
 {{< /team/members >}}
 
