@@ -21,7 +21,6 @@ tags:
 {{< team/github-profile url="" name="Maria Helmersen Sommervik" role="Teamleder, Controller" >}}
 {{< team/github-profile url="" name="Are Bendiksen" role="Controller" >}}
 {{< team/github-profile url="" name="Ståle Rundberg" role="Controller" >}}
-{{< team/github-profile url="" name="Hilde Rønnaug Berntsen" role="Controller" >}}
 {{< team/github-profile url="" name="Ivar Husevåg" role="Controller" >}}
 {{< team/github-profile url="" name="Daniel Bloch" role="Controller" >}}
 {{< /team/members >}}
