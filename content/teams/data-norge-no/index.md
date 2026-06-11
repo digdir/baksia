@@ -27,7 +27,6 @@ tags:
 {{< team/github-profile url="" name="Hassan Alam" role="Backend, Fast, Oslo">}}
 {{< team/github-profile url="" name="Nils Ove Tendenes" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Hans Olav Sund" role="DevOps-ingeniør, Konsulent, Oslo">}}
-{{< team/github-profile url="" name="Øyvind Julsrud" role="Frondend/Fullstack, Konsulent, Oslo">}}
 
 
 {{< /team/members >}}
