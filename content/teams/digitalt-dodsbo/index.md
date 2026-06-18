@@ -23,6 +23,7 @@ tags:
 {{< team/github-profile url="" name="Janne Øren Antonsen" role="Tjenesteeier, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Cecilie Fjellsøy Lammering" role="Designer, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Anne Førde Gaare" role="Jurist, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Sissel Irene Monsø Sveum" role="Agile team coach, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Ellen Nøstvik Bakksjø" role="Frontend-ux, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Lars Olav Kjølstad" role="Fullstack, Konsulent, Oslo" >}}
 {{< team/github-profile url="" name="Thomas Østdahl" role="Fullstack, Konsulent, Oslo" >}}
