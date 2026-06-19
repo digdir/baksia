@@ -23,7 +23,7 @@ isFirstSection: true
 produktgruppe: pg_portaler
 ---
 
-##Hvordan jobber vi?
+##Hvordan jobber vi?##
 
 De beste løsningene skapes gjennom tett samarbeid mellom fagpersoner og brukere. Produktgruppen utvikler og forvalter derfor digitale fellesgoder i tett samarbeid med fagmiljøer, produktmiljøer, produktråd og andre eksterne samarbeidspartnere.
 
@@ -42,23 +42,24 @@ Vi jobber produktorientert i henhold til «Team Topologies» og med autonome tea
 
 Teamene jobber iterativt og prioriterer utvikling løpende i samarbeid med relevante interessenter, og ledes av produkteier i tett samarbeid med design- og tech-lead og redaktør.
 
-##Produktgruppeledelsen
+##Produktgruppeledelsen##
 
 Produktgruppeledelsen har ansvar for helheten i produktgruppen og består av en produktgruppeleder, fagressurser og nøkkelroller med ansvar for strategi, produkter, mennesker og gjennomføring. 
 Vi jobber som et lederteam fremfor en tradisjonell hierarkisk lederstruktur. Det gjør at vi kan kombinere ulike fagperspektiver, ta bedre beslutninger og sikre sammenheng mellom strategi, brukerbehov, teknologi, design, innhold og drift.
 Målet er å skape tydelig retning, gode prioriteringer og best mulig forutsetninger for teamene. Vi legger vekt på åpenhet, samarbeid og deling av ansvar, og tror at de beste løsningene utvikles når kompetanse og beslutninger bringes nærmest mulig dem som kjenner behovene og utfordringene best.
 
-##Hvor finner du informasjon om produktgruppen?
+##Hvor finner du informasjon om produktgruppen?##
 
 - [GitHub Repo](https://github.com/digdir/pg-portaler-og-brukeropplevelse)
 - [GitHub projects](https://github.com/orgs/digdir/projects/31)
 - [Teams](https://tinyurl.com/mspucn9y)
 - [Samarbeidsportalen](https://tinyurl.com/mr3ypt23)
 
-##Samarbeidspartnere
+##Samarbeidspartnere##
 
 *Interne*
-Produktgruppen har medarbeidere  fra følgende avdelinger:
+
+Produktgruppen har medarbeidere fra følgende avdelinger:
 
 - BOD (Brukeropplevelse og datadeling)
 - FEL (Fellesløsninger)
@@ -66,7 +67,9 @@ Produktgruppen har medarbeidere  fra følgende avdelinger:
 - KOM (Kommunikasjon)
 
 *Eksterne*
+
 Produktråd
+
 Produktgruppen støtter seg til et produktråd. Produktrådet bidrar med innsikt, behov, prioriteringer og forankring på tvers av offentlig sektor. Produktrådet har representanter  fra 11 offentlige virksomheter:
 
 - Nav (2 medlemmer)
@@ -81,7 +84,7 @@ Produktgruppen støtter seg til et produktråd. Produktrådet bidrar med innsikt
 - UDI
 - SSB
 
-##Designsystemet
+##Designsystemet##
 
 Designsystemet utvikles i samarbeid med et bredt fellesskap på tvers av offentlig sektor. Kjerneteamet består av:
 
@@ -93,7 +96,7 @@ Designsystemet utvikles i samarbeid med et bredt fellesskap på tvers av offentl
 
 I tillegg deltar et åpent community med ca.  1 400 medlemmer fra offentlig og privat sektor.
 
-##Mønstersamarbeidet
+##Mønstersamarbeidet##
 
 Mønstersamarbeidet i Designsystemet er et tverretatlig  samarbeid der virksomheter i offentlig sektor utvikler og kvalitetssikrer felles løsningsmønstre for brukerreiser, arbeidsprosesser og digitale tjenester. Samarbeidet skal bidra til mer gjenkjennelige, sammen-hengende og brukervennlige tjenester på tvers av offentlig sektor. Deltakerene er fra blant annet:
 
@@ -107,7 +110,7 @@ Mønstersamarbeidet i Designsystemet er et tverretatlig  samarbeid der virksom
 - Mattilsynet
 - Digdir
 
-##KI Norge
+##KI Norge##
 
 KI Norge er sammensatt av Digdir, Datatilsynet og Nkom og er en separat del i Digdir. For ki.norge.no samarbeider produktgruppen tett med KI Norge om:
 
