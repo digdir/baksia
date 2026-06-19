@@ -1,7 +1,10 @@
 ---
 title: Portaler og bruker­opplevelse
-Ingress: Produktgruppen har som formål å forenkle brukerens kommunikasjon med det offentlige. Det inkluderer blant annet enklere etterlevelse av lover og regelverk samt bærekraftig digitalisering. 
+Ingress: |
+  Produktgruppen Portaler og brukeropplevelse har et særskilt ansvar for helhetlig brukeropplevelse da vi utvikler og forvalter innboks med dialogtjenester mellom brukere og det offentlige, og noen av de viktigste digitale inngangene til det offentlige som treffer innbygger og næringsliv. I tillegg utvikler og forvalter vi Designsystemet som er åpent tilgjengelig for alle. Designsystemet utvikles i tett samarbeid med virksomheter på tvers av offentlig sektor.
 
+  Produktgruppen jobber med hvordan informasjon, tjenester og dialog kan oppleves mer sammenhengende og utvikler løsninger som gjør det enklere for innbygger, næringsliv og virksomheter å finne, forstå og løse i kommunikasjon med det offentlige.
+  
 navigation_link:
   text: |
     Helhetlig brukeropplevelse for alle
