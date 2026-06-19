@@ -57,7 +57,7 @@ Målet er å skape tydelig retning, gode prioriteringer og best mulig forutsetni
 
 ## Samarbeidspartnere
 
-*Interne*
+***Interne***
 
 Produktgruppen har medarbeidere fra følgende avdelinger:
 
@@ -66,9 +66,9 @@ Produktgruppen har medarbeidere fra følgende avdelinger:
 - STL (Strategi, ledelse og transformasjon)
 - KOM (Kommunikasjon)
 
-*Eksterne*
+***Eksterne***
 
-Produktråd
+**Produktråd**
 
 Produktgruppen støtter seg til et produktråd. Produktrådet bidrar med innsikt, behov, prioriteringer og forankring på tvers av offentlig sektor. Produktrådet har representanter  fra 11 offentlige virksomheter:
 
