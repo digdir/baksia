@@ -24,6 +24,7 @@ produktgruppe: pg_portaler
 ---
 
 ##Hvordan jobber vi?
+
 De beste løsningene skapes gjennom tett samarbeid mellom fagpersoner og brukere. Produktgruppen utvikler og forvalter derfor digitale fellesgoder i tett samarbeid med fagmiljøer, produktmiljøer, produktråd og andre eksterne samarbeidspartnere.
 
 Produktgruppen fokuserer på den digitale brukeropplevelsen, spesielt for alle som sliter med å bruke det digitale av forskjellige årsaker. Vi tar hensyn til at det digitale er en del av en større helhet. Produktgruppens visjon er «Helhetlig brukeropplevelse for alle» med målene om at alle skal kunne «finne, forstå og løse» i kommunikasjonen med det offentlige.
@@ -42,17 +43,20 @@ Vi jobber produktorientert i henhold til «Team Topologies» og med autonome tea
 Teamene jobber iterativt og prioriterer utvikling løpende i samarbeid med relevante interessenter, og ledes av produkteier i tett samarbeid med design- og tech-lead og redaktør.
 
 ##Produktgruppeledelsen
+
 Produktgruppeledelsen har ansvar for helheten i produktgruppen og består av en produktgruppeleder, fagressurser og nøkkelroller med ansvar for strategi, produkter, mennesker og gjennomføring. 
 Vi jobber som et lederteam fremfor en tradisjonell hierarkisk lederstruktur. Det gjør at vi kan kombinere ulike fagperspektiver, ta bedre beslutninger og sikre sammenheng mellom strategi, brukerbehov, teknologi, design, innhold og drift.
 Målet er å skape tydelig retning, gode prioriteringer og best mulig forutsetninger for teamene. Vi legger vekt på åpenhet, samarbeid og deling av ansvar, og tror at de beste løsningene utvikles når kompetanse og beslutninger bringes nærmest mulig dem som kjenner behovene og utfordringene best.
 
 ##Hvor finner du informasjon om produktgruppen?
+
 - [GitHub Repo](https://github.com/digdir/pg-portaler-og-brukeropplevelse)
 - [GitHub projects](https://github.com/orgs/digdir/projects/31)
 - [Teams](https://tinyurl.com/mspucn9y)
 - [Samarbeidsportalen](https://tinyurl.com/mr3ypt23)
 
 ##Samarbeidspartnere
+
 *Interne*
 Produktgruppen har medarbeidere  fra følgende avdelinger:
 
@@ -78,6 +82,7 @@ Produktgruppen støtter seg til et produktråd. Produktrådet bidrar med innsikt
 - SSB
 
 ##Designsystemet
+
 Designsystemet utvikles i samarbeid med et bredt fellesskap på tvers av offentlig sektor. Kjerneteamet består av:
 
 - Mattilsynet
@@ -89,6 +94,7 @@ Designsystemet utvikles i samarbeid med et bredt fellesskap på tvers av offentl
 I tillegg deltar et åpent community med ca.  1 400 medlemmer fra offentlig og privat sektor.
 
 ##Mønstersamarbeidet
+
 Mønstersamarbeidet i Designsystemet er et tverretatlig  samarbeid der virksomheter i offentlig sektor utvikler og kvalitetssikrer felles løsningsmønstre for brukerreiser, arbeidsprosesser og digitale tjenester. Samarbeidet skal bidra til mer gjenkjennelige, sammen-hengende og brukervennlige tjenester på tvers av offentlig sektor. Deltakerene er fra blant annet:
 
 - NAV
@@ -102,6 +108,7 @@ Mønstersamarbeidet i Designsystemet er et tverretatlig  samarbeid der virksom
 - Digdir
 
 ##KI Norge
+
 KI Norge er sammensatt av Digdir, Datatilsynet og Nkom og er en separat del i Digdir. For ki.norge.no samarbeider produktgruppen tett med KI Norge om:
 
 - faglig innhold
