@@ -1,16 +1,20 @@
-<div class="container breadcrumb">
-  <ul id="breadcrumbs">
-    <li><a href="/">Baksia</a></li>
+<ds-breadcrumbs class="ds-breadcrumbs container">
+  <ol id="breadcrumbs">
+    <li><a href="/" class="ds-link">Baksia</a></li>
     {{- range .Ancestors.Reverse }}
       {{ if not .IsHome }}
-      <li><a href="{{ .RelPermalink }}">{{ humanize (index (split .RelPermalink "/") (sub (len (split .RelPermalink "/")) 2)) }}</a></li>
+      <li><a href="{{ .RelPermalink }}" class="ds-link">{{ humanize (index (split .RelPermalink "/") (sub (len (split .RelPermalink "/")) 2)) }}</a></li>
       {{- end }}
     {{- end }}
 
-    {{ if .Params.linktitle }}
-      <li>{{ .Params.linktitle }}</li>
-    {{ else }}
-      <li>{{ humanize (index (split .RelPermalink "/") (sub (len (split .RelPermalink "/")) 2)) }}</li>
-    {{ end }}
-  </ul>
-</div>
+    <li>
+      <a href="{{ .RelPermalink }}" class="ds-link" aria-current="page" style="text-decoration: none;">
+        {{ if .Params.linktitle }}
+          {{ .Params.linktitle }}
+        {{ else }}
+          {{ humanize (index (split .RelPermalink "/" ) (sub (len (split .RelPermalink "/")) 2)) }}
+        {{ end }}
+      </a>
+    </li>
+  </ol>
+</ds-breadcrumbs>
