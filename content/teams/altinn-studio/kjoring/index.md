@@ -10,7 +10,6 @@ weight: 3
 
 {{< team/members title="Medlemmer i squadet" slack_url="https://digdir.slack.com/archives/C0760NPT2BE" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="" name="Mirko Sekulic" role="Backend, Konsulent, Oslo" >}}
-{{< team/github-profile url="" name="Michael Queyrichon" role="Frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Martin Othamar" role="Backend, Konsulent ,Oslo" >}}
 {{< team/github-profile url="" name="Jonas Dyrlie" role="Frontend og backend, Fast, Oslo">}}
 
