@@ -11,9 +11,6 @@ weight: 4
 {{< team/members title="Medlemmer i squad">}}
 {{< team/github-profile url="" name="Ivar Nesje" role="Backend, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Olav Sørlie" role="Backend, Fast, Oslo" >}}
-{{< team/github-profile url="" name="Johannes Haukland" role="Backend, Konsulent, Oslo" >}}
-{{< team/github-profile url="" name="Tomas Engebretsen" role="Frontend, Konsulent, Oslo" >}}
-{{< team/github-profile url="" name="Adam Haeger" role="Frontend, Konsulent, Oslo" >}}
 {{< team/github-profile url="" name="Konrad Simsø" role="Frontend og backend, Fast, Brønnøysund">}}
 
 
