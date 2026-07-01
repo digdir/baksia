@@ -21,6 +21,7 @@ tags:
   {{< team/github-profile url="" name="Marianne Røsvik" role="Produkteier, Fast, Stavanger" >}}
   {{< team/github-profile url="" name="Michael Marszalek" role="Tech lead, frontend, Fast, Stavanger" >}}
   {{< team/github-profile url="" name="Lasse Febakke Straum" role="Design Lead, Fast, Oslo" >}}
+   {{< team/github-profile name="Eirik Backer" role="Frontend, Fast, Oslo" >}}
   {{< team/github-profile url="" name="Øyvind Thune" role="Design og Frontend, Fast, Leikanger" >}}
   {{< team/github-profile url="" name="Tobias Barsnes" role="Frontend, Fast, Leikanger" >}}
   {{< team/github-profile url="" name="Frank Dahle" role="UU-spesialist, Fast, Brønnøysund" >}}  
@@ -34,7 +35,6 @@ Andre etater som er en del av teamet
   {{< team/github-profile url="" name="" role="" >}}
   {{< team/github-profile name="Stian Morsund" role="Tech lead designsystem, KS Digital" >}}
   {{< team/github-profile name="Roy Halvor Frimanslund" role="Brukskvalitet-lead, Brønnøysundregistrene" >}}
-  {{< team/github-profile name="Eirik Backer" role="Tech lead, Mattilsynet" >}}
   {{< team/github-profile name="Une Sofie Kinn Ekroll" role="Konsulent, Utdanningsdirektoratet" >}}
 {{< /team/members >}}
 
