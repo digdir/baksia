@@ -25,7 +25,6 @@ tags:
   {{< team/github-profile url="" name="Øyvind Thune" role="Design og Frontend, Fast, Leikanger" >}}
   {{< team/github-profile url="" name="Tobias Barsnes" role="Frontend, Fast, Leikanger" >}}
   {{< team/github-profile url="" name="Frank Dahle" role="UU-spesialist, Fast, Brønnøysund" >}}  
-  {{< team/github-profile url="" name="Oddbjørn Øvernes" role="Frontend, Konsulent, Bergen" >}}  
   {{< team/github-profile url="" name="" role="" >}}
 
 <br/>
