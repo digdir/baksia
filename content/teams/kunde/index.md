@@ -31,6 +31,7 @@ tags:
 {{< team/github-profile url="" name="Mathea Elise Lunde" role="Teknisk brukerstøtte" >}}
 {{< team/github-profile url="" name="Siri Esteri Berg-Johnsen " role="Tjenesteutvikler, Trainee">}}
 {{< team/github-profile url="" name="Fabian Ugedal " role="Tjenesteutvikler, Trainee">}}
+{{< team/github-profile url="" name="Børre Sundberg" role="Bistand kundeteam, Konsulent, Oslo" >}}
 {{< team/github-profile url="" name="Dan Remi Mørk " role="Sponsor" >}}
 
 {{< /team/members >}}
