@@ -19,7 +19,6 @@ tags:
 {{< team/github-profile url="" name="Hanne Brun" role="Gruppeleder og eier av lauget" >}}
 {{< team/github-profile url="" name="Ronny Birkeli" role="Produkteier Altinn studio - strategisk" >}}
 {{< team/github-profile url="" name="Nina Kylstad" role="Produkteier Altinn studio - operativt" >}}
-{{< team/github-profile url="" name="Elin Walstrand" role="Produkteier App Migration" >}}
 {{< team/github-profile url="" name="Ragnhild Tafjord" role="Produkteier Tilgangsstyring" >}}
 {{< team/github-profile url="" name="Espen Kørra" role="Produkteier Tilgangsinfo" >}}
 {{< team/github-profile url="" name="Marianne Røsvik" role="Produkteier Designsystemet" >}}
@@ -27,7 +26,7 @@ tags:
 {{< team/github-profile url="" name="Livar Bergheim" role="Produkteier Dialogporten" >}}
 {{< team/github-profile url="" name="Viktor Olsen" role="Produkteier Melding og Formidling" >}}
 {{< team/github-profile url="" name="Erlend Oksvoll" role="Produkteier Data.altinn.no" >}}
-{{< team/github-profile url="" name="Kjersti Steien" role="Produkteier data.norge.no" >}}
+{{< team/github-profile url="" name="Eli Helen Korsan" role="Produkteier data.norge.no" >}}
 {{< team/github-profile url="" name="Ole Aleksander Hansen" role="Produkteier Core" >}}
 {{< team/github-profile url="" name="Roger Stenbakk Olsen" role="Produkteier Portaler (Informasjonsportalen)" >}}
 {{< team/github-profile url="" name="Miriam Høyheim Lægreid" role="Produkteier Portaler (Beta.norge.no)" >}}
