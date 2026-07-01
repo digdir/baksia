@@ -21,13 +21,9 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C079XRZ4PQU" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="" name="Mette Saltnes" role="Produkteier, Fast, Brønnøysund" >}}
-{{< team/github-profile url="" name="Theresa Harmanen" role="Design-lead, 50%, Fast, Oslo" >}}
-{{< team/github-profile url="" name="Alexander Midteide" role="Frontend, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Theresa Harmanen" role="Design-lead, 50%, Produkteier, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Sean Erik Scully" role="Frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Mateusz Marek Bacherycz" role="Frontend, Konsulent, Oslo">}}
-{{< team/github-profile url="" name="Inge Fossland" role="UI Designer, Konsulent, Oslo">}}
-{{< team/github-profile url="" name="Kim Renè Teige" role="UX Designer, Konsulent, Oslo">}}
-{{< team/github-profile url="" name="Leif Kristian Helstad" role="Test & QA ansvarlig, Konsulent, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
