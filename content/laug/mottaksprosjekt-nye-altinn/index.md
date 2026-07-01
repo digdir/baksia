@@ -17,8 +17,6 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 {{< team/github-profile url="" name="Dan Remi Mørk" role="Prosjektleder" >}}
-{{< team/github-profile url="" name="Petter Vinje" role="Prosjektdeltaker" >}}
-
 
 
 {{< /team/members >}}
