@@ -20,7 +20,6 @@ tags:
 {{< team/github-profile url="" name="Bjørn Dybvik Langfors" role="Midl. Løsningsansvarlig, Fast, Brønnøysund" >}}
 {{< team/github-profile url="" name="Eirik Mikkelsen" role="Sjefsarkitekt, Fast, Hamar" >}}
 {{< team/github-profile url="" name="Knut Halvor Larsen" role="Virksomhetsarkitekt, Konsulent" >}}
-{{< team/github-profile url="" name="Erik Klevar" role="Fasilitator , Konsulent" >}}
 
 {{< /team/members >}}
     
