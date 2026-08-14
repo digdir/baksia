@@ -24,7 +24,7 @@ tags:
 {{< team/github-profile url="" name="Marianne Røsvik" role="Produkteier Designsystemet" >}}
 {{< team/github-profile url="" name="Mette Saltnes" role="Produkteier Arbeidsflate" >}}
 {{< team/github-profile url="" name="Livar Bergheim" role="Produkteier Dialogporten" >}}
-{{< team/github-profile url="" name="Viktor Olsen" role="Produkteier Melding og Formidling" >}}
+{{< team/github-profile url="" name="Tore Måsøy" role="Produkteier Melding og Formidling" >}}
 {{< team/github-profile url="" name="Erlend Oksvoll" role="Produkteier Data.altinn.no" >}}
 {{< team/github-profile url="" name="Eli Helen Korsan" role="Produkteier data.norge.no" >}}
 {{< team/github-profile url="" name="Ole Aleksander Hansen" role="Produkteier Core" >}}
