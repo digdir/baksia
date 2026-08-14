@@ -18,8 +18,7 @@ tags:
 ---
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C079AJR5TEX" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="" name="Viktor Olsen" role="Produkteier, Fast, Brønnøysund">}}
-{{< team/github-profile url="" name="Tore Måsøy" role="Agile Coach, Fast, Brønnøysund" >}}
+{{< team/github-profile url="" name="Tore Måsøy" role="Produkteier / Agile Coach, Fast, Brønnøysund" >}}
 {{< team/github-profile url="" name="Roar Mjelde" role="Tech Lead, Fullstack, konsulent, Oslo">}}
 {{< team/github-profile url="" name="Martin Todorov" role="Fullstack, Fast, Oslo">}}
 {{< team/github-profile url="" name="Axel Ytterås" role="Fullstack, Fast, Brønnøysund">}}
