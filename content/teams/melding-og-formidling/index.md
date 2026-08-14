@@ -5,7 +5,7 @@ ingress: Team Melding & Formidling har ansvar for produktene *Melding* og *Formi
 
 navigation_link:
   title: Produkteier
-  subtitle: Viktor Olsen
+  subtitle: Tore Måsøy
 
 banner:
   image:
