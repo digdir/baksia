@@ -23,7 +23,6 @@ tags:
 {{< team/github-profile url="" name="Jørgen Ferkingstad" role="Redaktør for altinn.no, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Geir Horn" role="Kvalitetssikrer redaksjon, Fast, Brønnøysund" >}}
 {{< team/github-profile url="" name="Alise Kjelling" role="Design lead og UX-designer, Fast, Oslo" >}}
-{{< team/github-profile url="" name="Eira Marie Sunniva Bjerkeng Scherjon" role="UX-designer, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Dorte Drange" role="Design lead og innholdsdesigner, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Kenneth Helland" role="Redaktør for norge.no, Fast, Leikanger" >}}
 {{< team/github-profile url="" name="Pooria Mehregan" role="Utvikler, Fast, Oslo" >}}
