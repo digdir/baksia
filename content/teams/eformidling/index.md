@@ -31,7 +31,6 @@ tags:
   {{< team/github-profile url="" name="Joachim Hagheim" role="Utvikler / Quality-champion, Leikanger" >}}
   {{< team/github-profile url="" name="Randi Eggum" role="Utvikler, Leikanger" >}}
   {{< team/github-profile url="" name="Thore Johnsen" role="Utvikler, Oslo" >}}
-  {{< team/github-profile url="" name="Alexander Petrov" role="Utvikler, Oslo" >}}
   {{< team/github-profile url="" name="Frode Bjerkholt" role="Utvikler, Oslo" >}}
   {{< team/github-profile url="" name="Daniel Fylling" role="Driftsleiar/eFormidling/ELMA, Leikanger" >}}
   {{< team/github-profile url="" name="Sindre Fardal" role="Driftsleder/KRR, Leikanger" >}}
@@ -40,6 +39,7 @@ tags:
   {{< team/github-profile url="" name="Justyna Mucha" role="Teknisk forvalter, Leikanger" >}}
   {{< team/github-profile url="" name="Karsten Bjelde" role="Teknisk forvalter, Leikanger" >}}
   {{< team/github-profile url="" name="Morten Andre Hansen" role="Teknisk forvalter, Leikanger" >}}
+  {{< team/github-profile url="" name="Birger Sjømæling Andresen" role="Teknisk forvalter, Leikanger" >}}
 
 
 {{< /team/members >}}
