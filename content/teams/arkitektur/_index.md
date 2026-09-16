@@ -26,7 +26,7 @@ tags:
 {{< team/github-profile url="" name="Henning Normann" role="Migrering av data, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Jon-Kjetil Øye" role="Tilgangsstyring, Konsulent, Oslo" >}}
 {{< team/github-profile url="" name="Kurt Stian Fagerbakk" role="data.norge.no, Fast, Brønnøysund" >}}
-{{< team/github-profile url="" name="Martin Othamar" role="Apps, Konsulent, Oslo" >}}
+{{< team/github-profile url="" name="Martin Othamar" role="Apps, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Roar Mjelde" role="Melding og Formidling, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Rune T. Larsen" role="Tilgangsinfo, Konsulent, Oslo" >}}
 {{< team/github-profile url="" name="Terje Holene" role="Core, Fast, Oslo" >}}
@@ -40,7 +40,7 @@ tags:
 ### Arkitektur­styring (Architecture Management)
 Arkitekturstyring handler om å ha oversikt og kontroll på hvordan produkter, prosesser og teknologi henger sammen, slik at vi er godt rustet til å understøtte nåværende og fremtidige mål, strategier og behov. Det er som å være husarkitekten for hele organisasjonen – man sørger for at alt passer sammen, bygges riktig, og enkelt kan oppgraderes uten at huset (eller systemene) faller sammen.
 
-Prosessene for arkutekturbeslutninger er beskrevet under.
+Prosessene for arkitekturbeslutninger er beskrevet under.
 
 {{<child-pages>}}
 
