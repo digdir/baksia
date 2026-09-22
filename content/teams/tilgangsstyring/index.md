@@ -33,7 +33,7 @@ tags:
 {{< team/github-profile url="" name="Sneha Sirure" role="Test, Fast, Oslo">}}
 {{< team/github-profile url="" name="Wojciech Strankowski" role="Fullstack, Fast, Oslo">}}
 {{< team/github-profile url="" name="Sondre Bråten" role="Fullstack, Fast, Oslo">}}
-{{< team/github-profile url="" name="Magnus Revheim Martinsen" role="Fullstack, Fast, Oslo">}}
+{{< team/github-profile url="" name="Magnus Revheim Martinsen" role="Frontend, Fast, Oslo">}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
