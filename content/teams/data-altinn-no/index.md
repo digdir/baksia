@@ -34,4 +34,4 @@ tags:
 {{< team/responsibilities title="Ansvarsområder" >}}
 
 - Drifte, forvalte og videreutvikle data.altinn.no
-- Utvikle et minimumsprodukt (minimum viable product, MVP) for Digitalt dødsbo (første kvartal 2024)
+- Jobbe med forenkling og datadeling til og fra offentlig sektor
