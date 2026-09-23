@@ -20,7 +20,6 @@ tags:
 {{< team/github-profile url="" name="Leif Olav S. Bjordal" role="Teamleder, Leikanger" >}}
 {{< team/github-profile url="" name="Bjørn-Erik Strand" role="Plattformutvikler, Leikanger" >}}
 {{< team/github-profile url="" name="Emil Arnesen" role="Plattformutvikler, Oslo" >}}
-{{< team/github-profile url="" name="Jonas Arneberg Saltvik" role="Plattformutvikler, Oslo" >}}
 {{< team/github-profile url="" name="Eskedar Kefialew Workeneh" role="Plattformutvikler, Oslo" >}}
 {{< team/github-profile url="" name="Brage Sande" role="Plattformutvikler, Oslo" >}}
 {{< team/github-profile url="" name="Ola Slålien Thoen" role="Sikkerhet, Leikanger" >}}
