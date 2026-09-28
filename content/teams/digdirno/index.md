@@ -39,4 +39,4 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Digdir.no samt flere andre Digdir-portaler som Samarbeidsportalen og uutilsynet.no
+Digdir.no, samt utvikling, forvaltning, drift og design for andre portaler. Dette inkluderer samarbeidsportalen og UU-tilsynet, samt andre portaler som benytter det samme Drupal-baserte grensesnittet.
