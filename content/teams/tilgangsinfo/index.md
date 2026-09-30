@@ -28,6 +28,7 @@ tags:
 {{< team/github-profile url="" name="Aleksander Heintz" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Sophie Arntsen" role="Interaksjonsdesigner, Fast, Oslo">}}
 {{< team/github-profile url="" name="Vegard Nyeng" role="Test, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Roger  Kjærnsrød" role="Dataanalyse, Konsulent, Oslo">}}
 
 
 
