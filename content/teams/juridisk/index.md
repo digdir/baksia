@@ -4,7 +4,7 @@ Ingress: Teamet skal bidra til å sikre at eksisterende og fremtidige juridiske 
 
 navigation_link:
   title: Teamleder
-  subtitle: Thomas Leirvik Knoph
+  subtitle: Oddhild Aasberg
 
 banner:
   image:
@@ -17,11 +17,10 @@ tags:
 
 {{< team/members title="Medlemmer i teamet">}}
 
-{{< team/github-profile url="" name="Thomas Leirvik Knoph" role="Teamleder, Jurist, Fast, Brønnøysund">}}
+{{< team/github-profile url="" name="Oddhild Aasberg" role="Teamleder, Jurist, Fast, Brønnøysund">}}
 {{< team/github-profile url="" name="Tore Måsøy" role="Agile Coach, Fast, Brønnøysund">}}
 {{< team/github-profile url="" name="Andreas Hermstad" role="Jurist, Fast, Brønnøysund">}}
-{{< team/github-profile url="" name="Oddhild Aasberg" role="Jurist, Fast, Brønnøysund">}}
-{{< team/github-profile url="" name="Benedicte Olsen Sørli" role="Jurist, Fast (permisjon), Brønnøysund">}}
+{{< team/github-profile url="" name="Thomas Leirvik Knoph" role="Jurist, Fast, Brønnøysund">}}
 
 {{< /team/members >}}
 
