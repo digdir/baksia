@@ -22,12 +22,10 @@ tags:
 {{< team/github-profile url="" name="Livar Bergheim" role="Produkteier, Fast, Leikanger">}}
 {{< team/github-profile url="" name="Bjørn Langfors" role="Team-arkitekt, backend, 50%, Fast, Brønnøysund" >}}
 {{< team/github-profile url="" name="Magnus Sandgren " role="Backend, Fast, Hamar">}}
-{{< team/github-profile url="" name="Ole-Jørgen Skogstad" role="Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Knut Haug" role="Backend, Fast, Oslo">}}
 {{< team/github-profile url="" name="Amund Myrbostad" role="Backend, Fast, Brønnøysund">}}
 {{< team/github-profile url="" name="Kaj André Venjum" role="Backend, Fast, Brønnøysund">}}
 {{< team/github-profile url="" name="Mats Jørgensen" role="Backend, Fast, Brønnøysund">}}
-{{< team/github-profile url="" name="Leif Kristian Helstad" role="Test- og QA-ansvarlig, Konsulent, Oslo">}}
 
 {{< /team/members >}}
 
