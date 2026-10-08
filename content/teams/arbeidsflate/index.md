@@ -23,7 +23,8 @@ tags:
 {{< team/github-profile url="" name="Mette Saltnes" role="Produkteier, Fast, Brønnøysund" >}}
 {{< team/github-profile url="" name="Theresa Harmanen" role="Design-lead, 50%, Produkteier, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Sean Erik Scully" role="Frontend, Konsulent, Oslo">}}
-{{< team/github-profile url="" name="Mateusz Marek Bacherycz" role="Frontend, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Lars Walderhaug" role="Frontend, Fast, Oslo" >}}
+
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
