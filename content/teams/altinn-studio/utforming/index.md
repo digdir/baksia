@@ -9,12 +9,11 @@ weight: 2
 ---
 
 {{< team/members title="Medlemmer i squadet" slack_url="https://digdir.slack.com/archives/C0760NPT2BE" slack_url_text="Slack-kanal for teamet">}}
-{{< team/github-profile url="" name="Lars Walderhaug" role="Frontend, Fast, Oslo" >}}
+
 {{< team/github-profile url="" name="Jamal Alabdullah" role="Frontend, Fast, Oslo" >}}
 {{< team/github-profile url="" name="David Øvrelid" role="Frontend, Team-arkitekt, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Philip Johannes Bruvoll" role="Frontend, Team-arkitekt, Fast, Oslo">}}
 {{< team/github-profile url="" name="Ole Martin Handeland" role="Frontend, Konsulent, Stavanger">}}
-{{< team/github-profile url="" name="Magnus Revheim Martinsen" role="Frontend, Fast, Oslo">}}
 {{< team/github-profile url="" name="Andreas Didriksen" role="Tjenesteutvikler, Fast, Brønnøysund" >}}
 {{< team/github-profile url="" name="Tony Grimstad" role="Tjenesteutvikler, Fast, Brønnøysund" >}}
 {{< team/github-profile url="" name="Anniken Kjos Bråthen" role="Utvikler, Fast, Oslo">}}
