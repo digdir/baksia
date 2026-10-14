@@ -14,8 +14,6 @@ Seksjonenhar et helhetlig ansvar for å utvikle gode styringsmetoder, iht. økon
 
 Seksjonsleder: Dan Remi Mørk
 
-Gruppeleder Agil leveranseledelse: Hanne Lauritsen (fung)
-
 Gruppeleder Styring: Lars-Göran Andersson (fung)
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Avdeling-Brukeropplevelse-og-datadeling.aspx)
