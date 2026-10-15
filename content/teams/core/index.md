@@ -16,7 +16,7 @@ tags:
 - stream-aligned
 ---
 
-{{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C0378DYQ7B9" slack_url_text="Slack-kanal for teamet">}}
+{{< team/members title="Medlemmer i teamet" slack_url="https://digdir-samarbeid.slack.com/archives/C068VDDDR6W" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="" name="Ole Bay Hansen" role="Produkteier, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Nathalie Froissart" role="Agile Coach 50%, Utvikler,  Oslo">}}
 {{< team/github-profile url="" name="Terje Holene" role="Team-arkitekt, Infrastruktur, Backend, Fast, Oslo" >}}
@@ -26,12 +26,13 @@ tags:
 {{< team/github-profile url="" name="Siri Esteri Berg-Johnsen" role="Utvikler, Trainee, Fast, Brønnøysund">}}
 {{< team/github-profile url="" name="Fabian Ugedal" role="Utvikler, Trainee, Fast, Brønnøysund">}}
 {{< team/github-profile url="" name="Ahmed Ghanam" role="Fullstack-utvikler, Konsulent, Oslo">}}
-{{< team/github-profile url="" name="Sigrid Bratsberg" role=" Backend, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Espen Gulbrandsen" role=" Backend, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Henning Normann" role=" Backend, Konsulent, Oslo">}}
+
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
-{{< team/product-item title="Hva inngår i sprinten/Kanban" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/Altinn/projects/20/views/11" url_text="GitHub" >}}
+{{< team/product-item title="Hva inngår i sprinten/Kanban" subtitle="Backlog for hva som pågår" url="https://github.com/orgs/digdir/projects/8/views/30?filterQuery=label%3A%22product%2Fvarsling%22++-label%3A%22admin%2Fignorer%22+-state%3Aclosed" >}}
 {{< /team/products >}}
 
 {{< team/responsibilities title="Ansvarsområder" >}}
