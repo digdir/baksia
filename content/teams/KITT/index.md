@@ -25,7 +25,6 @@ tags:
 {{< team/members title="Virtuelt team">}}
 {{< team/github-profile url="" name="Ole Bay Hansen" role="Fag:Produkutvikling, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Sebastian Duran" role="Fag:Plattformengineering, Fast, Oslo" >}}
-{{< team/github-profile url="" name="Eira Marie Sunniva Bjerkeng Scherjon" role="Fag:UX/design, Fast, Oslo" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
