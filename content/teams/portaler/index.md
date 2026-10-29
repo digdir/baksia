@@ -19,13 +19,12 @@ tags:
 {{< team/members title="Medlemmer i teamet" slack_url="https://altinndevops.slack.com/archives/C05MRKCKZ6Z" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="" name="Roger Stenbakk Olsen" role="Produkteier for Altinn.no, Fast, Brønnøysund" >}}
 {{< team/github-profile url="" name="Miriam Høyheim Lægreid" role="Produkteier for Norge.no, Fast, Leikanger" >}}
-{{< team/github-profile url="" name="Siri-Anna Zahl Kristiansen" role="Agile Coach, Fast, Brønnøysund " >}}
+{{< team/github-profile url="" name="Sissel Irene Monsø Sveum" role="Agile Coach, Fast, Oslo " >}}
 {{< team/github-profile url="" name="Jørgen Ferkingstad" role="Redaktør for altinn.no, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Geir Horn" role="Kvalitetssikrer redaksjon, Fast, Brønnøysund" >}}
 {{< team/github-profile url="" name="Alise Kjelling" role="Design lead og UX-designer, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Dorte Drange" role="Design lead og innholdsdesigner, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Kenneth Helland" role="Redaktør for norge.no, Fast, Leikanger" >}}
-{{< team/github-profile url="" name="Pooria Mehregan" role="Utvikler, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Alv Gullbrand Lia" role="Team arkitekt og Tech lead, Fast, Oslo" >}}
 {{< /team/members >}}
 
