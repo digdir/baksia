@@ -33,6 +33,7 @@ tags:
 {{< team/github-profile url="" name="Vemund Gaukstad" role="Platform, Fast, Korgen" >}}
 {{< team/github-profile url="" name="Alv Lia" role="Portal, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Erlend Oksvoll" role="data.altinn.no, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Espen Lønnkvist" role="Digitalt dødsbo, Fast, Oslo" >}}
 {{< /team/members >}}
 
 ## Kapabiliteter og ansvarsområder
