@@ -24,8 +24,10 @@ tags:
 {{< team/github-profile url="" name="Geir Horn" role="Kvalitetssikrer redaksjon, Fast, Brønnøysund" >}}
 {{< team/github-profile url="" name="Alise Kjelling" role="Design lead og UX-designer, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Dorte Drange" role="Design lead og innholdsdesigner, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Olav Friisberg Larssen" role="UX Designer, Fast, Oslo" >}}
 {{< team/github-profile url="" name="Kenneth Helland" role="Redaktør for norge.no, Fast, Leikanger" >}}
 {{< team/github-profile url="" name="Alv Gullbrand Lia" role="Team arkitekt og Tech lead, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Richard Rørmark" role="Utvikler, Konsulent, Oslo" >}}
 {{< /team/members >}}
 
 {{< team/products title="Produkter" >}}
