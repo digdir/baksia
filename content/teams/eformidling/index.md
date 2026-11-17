@@ -36,7 +36,6 @@ tags:
   {{< team/github-profile url="" name="Sindre Fardal" role="Driftsleder/KRR, Leikanger" >}}
   {{< team/github-profile url="" name="Ole Jomar Moen" role="Service Manager/eFormidling/ELMA, Leikanger" >}}
   {{< team/github-profile url="" name="Solveig Kvame" role="Service Manager/KRR, Leikanger" >}}
-  {{< team/github-profile url="" name="Justyna Mucha" role="Teknisk forvalter, Leikanger" >}}
   {{< team/github-profile url="" name="Karsten Bjelde" role="Teknisk forvalter, Leikanger" >}}
   {{< team/github-profile url="" name="Morten Andre Hansen" role="Teknisk forvalter, Leikanger" >}}
   {{< team/github-profile url="" name="Birger Sjømæling Andresen" role="Teknisk forvalter, Leikanger" >}}
