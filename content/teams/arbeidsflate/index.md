@@ -1,6 +1,6 @@
 ---
 title: Arbeidsflate
-ingress: "Arbeidsflate skal erstatte brukergrensesnittet for innboksen i Altinn 2. Dette produktet bruker Digdirs felles designsystem som grunnlag og blir bygget slik at det blir lett å integrere direkte i andre portaler, for eksempel tjenesteeiernes egne portaler. Vi henter data fra de tekniske grensesnittene via API-er til Dialogporten."
+ingress: "Arbeidsflate er en løsning som samler meldinger, saker og utfylte skjemaer fra offentlige virksomheter i brukerens innboks. Brukeren trenger ikke vite hvilken etat eller hvilket system en sak hører til – alt finnes i Altinn. Alle norske virksomheter og alle innbyggere i Norge har sin egen innboks i Altinn, og Arbeidsflate har ansvar for en digital brukeropplevelse der alle finner og forstår innholdet sitt."
 
 
 navigation_link:
@@ -21,8 +21,8 @@ tags:
 
 {{< team/members title="Medlemmer i teamet" slack_url="https://digdir.slack.com/archives/C079XRZ4PQU" slack_url_text="Slack-kanal for teamet">}}
 {{< team/github-profile url="" name="Mette Saltnes" role="Produkteier, Fast, Brønnøysund" >}}
-{{< team/github-profile url="" name="Theresa Harmanen" role="Design-lead, 50%, Produkteier, Fast, Oslo" >}}
-{{< team/github-profile url="" name="Sean Erik Scully" role="Frontend, Konsulent, Oslo">}}
+{{< team/github-profile url="" name="Theresa Harmanen" role="Design-lead og design, Fast, Oslo" >}}
+{{< team/github-profile url="" name="Sean Erik Scully" role="Tech lead og frontend, Konsulent, Oslo">}}
 {{< team/github-profile url="" name="Lars Walderhaug" role="Frontend, Fast, Oslo" >}}
 
 {{< /team/members >}}
@@ -34,11 +34,14 @@ tags:
 
 {{< team/responsibilities title="Ansvarsområder" >}}
 
-- Arkitektur og løsningsbeskrivelse
-- Konseptbevis (Proof of Concept, PoC)
-- Ekstern testing
-- Etablere forvaltning
-- Dokumentasjon
-- Bidra til Digdirs felles designsystem
+- Brukeropplevelse for innboks og profilinnstillinger
+- En løsning som alle, uansett funksjonsutfordringer, kan bruke
+- Arkitektur
+- Løsningsbeskrivelse og konsept
+- Testing og verifisering av konsepter og løsning
+- Utvikling og forvaltning
+- Bidra til felles designsystem
 - DevOps-team med totalansvar fra idé til produksjon
+- Planer for utvikling og utbredelse
+- Ekstern oppfølging
 
